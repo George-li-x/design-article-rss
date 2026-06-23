@@ -2,11 +2,20 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/architecture/concrete-beech-flexible-learning-spaces-school-social-hub-slovenia-hotic-educational-complex-geoplan/",
+      "title": "混凝土和山毛榉在斯洛文尼亚的学校和社交中心塑造了灵活的学习空间",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-06-23T17:14:32.701276+00:00",
+      "source_date": "2026-06-23T16:30:13+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://medium.com/@mounika.konidala/what-i-wish-i-knew-in-my-first-90-days-as-a-ux-designer-069663f8e549?source=rss------product_design-5",
       "title": "我希望在作为 UX 设计师的头 90 天里我知道什么",
       "source": "Medium · Product Design",
       "language": "en",
-      "published_at": "2026-06-23T17:04:53.309125+00:00",
+      "published_at": "2026-06-23T17:14:32.807590+00:00",
       "source_date": "2026-06-23T16:30:07+00:00",
       "full_text": false
     },
@@ -15,18 +24,162 @@
       "title": "面向求职者的最佳在线 UI UX 认证计划",
       "source": "Medium · Product Design",
       "language": "en",
-      "published_at": "2026-06-23T17:04:54.121462+00:00",
+      "published_at": "2026-06-23T17:14:32.929337+00:00",
       "source_date": "2026-06-23T15:09:09+00:00",
       "full_text": false
+    },
+    {
+      "url": "https://www.nngroup.com/articles/diary-study-incentives/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "日记研究的激励结构",
+      "source": "Nielsen Norman Group",
+      "language": "en",
+      "published_at": "2026-06-23T17:15:03.667138+00:00",
+      "source_date": "2026-06-19T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
+      "title": "不确定性设计：人工智能如何增强概率思维",
+      "source": "Smashing Magazine",
+      "language": "en",
+      "published_at": "2026-06-23T17:16:06.097496+00:00",
+      "source_date": "2026-06-16T15:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.nngroup.com/articles/research-recommendations-roadmap/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "如何获取路线图上的研究建议",
+      "source": "Nielsen Norman Group",
+      "language": "en",
+      "published_at": "2026-06-23T17:16:33.079947+00:00",
+      "source_date": "2026-05-29T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.nngroup.com/articles/designers-product-teams/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "设计师在产品团队中真正遇到的困难是什么",
+      "source": "Nielsen Norman Group",
+      "language": "en",
+      "published_at": "2026-06-23T17:16:46.296908+00:00",
+      "source_date": "2026-05-15T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.nngroup.com/news/item/job-opening-ux-design-assistant-remote-europe-1/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "职位空缺：UX 设计助理（远程、全球；欧洲）",
+      "source": "Nielsen Norman Group",
+      "language": "en",
+      "published_at": "2026-06-23T17:17:00.028847+00:00",
+      "source_date": "2026-05-01T14:08:17+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.nngroup.com/news/item/job-opening-ux-design-assistant-remote-US-1/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "职位空缺：用户体验设计助理（远程，全球；美国）",
+      "source": "Nielsen Norman Group",
+      "language": "en",
+      "published_at": "2026-06-23T17:17:02.980416+00:00",
+      "source_date": "2026-05-01T14:04:59+00:00",
+      "full_text": true
     },
     {
       "url": "https://medium.com/@Rythmuxdesigner/the-end-of-screens-how-ambient-ai-is-redefining-user-experience-aca96c0fdb1b?source=rss------user_experience-5",
       "title": "屏幕的终结？环境人工智能如何重新定义用户体验",
       "source": "Medium · User Experience",
       "language": "en",
-      "published_at": "2026-06-23T17:04:54.975773+00:00",
+      "published_at": "2026-06-23T17:17:03.093336+00:00",
       "source_date": "2026-06-23T15:06:00+00:00",
       "full_text": false
+    },
+    {
+      "url": "https://www.nngroup.com/articles/ai-era-critique/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "AI时代设计的核心技能：批判",
+      "source": "Nielsen Norman Group",
+      "language": "en",
+      "published_at": "2026-06-23T17:17:19.062694+00:00",
+      "source_date": "2026-06-12T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.nngroup.com/articles/design-disposables/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "一次性设计案例",
+      "source": "Nielsen Norman Group",
+      "language": "en",
+      "published_at": "2026-06-23T17:17:29.904140+00:00",
+      "source_date": "2026-05-22T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6418789.html",
+      "title": "2026 年中大模型权力榜：别再问谁最强，先看谁适合你",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-23T17:17:29.904186+00:00",
+      "source_date": "2026-06-23T06:50:53+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6418714.html",
+      "title": "AI 不是工具，是你需要学会管理的新同事",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-23T17:17:29.904214+00:00",
+      "source_date": "2026-06-23T06:23:14+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/cn/1039170/gua-ying-xing-zai-li-yong-dong-jian-zhu-neng-yong-you-duo-shao-ci-xin-sheng",
+      "title": "适应性再利用：一栋建筑能拥有多少次“新生”？",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-06-23T17:17:29.904242+00:00",
+      "source_date": "2026-06-22T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/cn/1042147/hun-he-gong-yi-ya-zhou-wu-zuo-yi-zi-ran-cai-liao-zhong-su-de-bu-xing-qiao",
+      "title": "混合工艺：亚洲五座以自然材料重塑的步行桥",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-06-23T17:17:29.904265+00:00",
+      "source_date": "2026-06-21T11:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/cn/1042475/jing-an-tou-zi-zhong-xin-nikken-sekkei",
+      "title": "静安投资中心 / Nikken Sekkei",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-06-23T17:17:29.904286+00:00",
+      "source_date": "2026-06-20T11:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6418865.html",
+      "title": "我是怎么使用 CodeX 把“仓库盘点脑图”，一步步做成可导入飞书的流程图的？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-23T17:17:29.904312+00:00",
+      "source_date": "2026-06-23T08:55:26+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/cn/1042471/kang-si-tan-ci-de-dian-xin-ta-lou-sauerbruch-hutton",
+      "title": "康斯坦茨的电信塔楼 / Sauerbruch Hutton",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-06-23T17:17:29.904342+00:00",
+      "source_date": "2026-06-23T15:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/cn/1042502/chen-si-zhong-de-xi-ju-xing-gao-di-ru-he-zai-sheng-jia-tang-su-zao-guang-yu-se",
+      "title": "沉思中的戏剧性：高迪如何在圣家堂塑造光与色",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-06-23T17:17:29.904367+00:00",
+      "source_date": "2026-06-23T09:00:00+00:00",
+      "full_text": true
     },
     {
       "url": "https://www.archdaily.cn/cn/1042633/hang-zhou-star-xi-xi-cai-shi-park-in-market-jiu-zhang-ying-zao-shi-wu-suo",
