@@ -92,10 +92,13 @@ def parse_feed(source: dict) -> list[dict]:
     for node in entries[:40]:
         title = text_content(child_text(node, ("title",)))
         link = entry_link(node)
-        summary = text_content(child_text(node, ("description", "summary", "encoded", "content")))
+        # Medium and several WordPress publications put the real article body in
+        # content:encoded. Preserve that rich HTML as a first-class fallback.
+        feed_html = child_text(node, ("encoded", "content"))
+        summary = text_content(feed_html or child_text(node, ("summary", "description")))
         date = parse_date(child_text(node, ("pubDate", "published", "updated", "date")))
         if title and link:
-            articles.append({"title": title, "link": link.split("#")[0], "summary": summary[:2000], "date": date, "source": source})
+            articles.append({"title": title, "link": link.split("#")[0], "summary": summary[:2000], "feed_html": feed_html, "date": date, "source": source})
     return articles
 
 
@@ -157,6 +160,16 @@ def meta_value(page: str, property_name: str) -> str:
 def fetch_full_article(article: dict) -> dict:
     """Fetch semantic article HTML and every article image, falling back to feed text."""
     fallback = article["summary"] or article["title"]
+    feed_body = sanitize_feed_html(article.get("feed_html", ""))
+    # Medium's official feed normally includes the full article while the web
+    # page often presents a consent/login or anti-bot wall to automated fetches.
+    if article["source"]["name"].startswith("Medium") and len(text_content(feed_body)) >= 500:
+        article.update({
+            "body_html": feed_body,
+            "image": first_image(feed_body),
+            "full_text": True,
+        })
+        return article
     try:
         page = get(article["link"]).decode("utf-8", errors="replace")
         image = meta_value(page, "og:image")
@@ -168,13 +181,28 @@ def fetch_full_article(article: dict) -> dict:
         body_html = extraction_to_html(extracted or "", article["link"])
         body_text = text_content(body_html)
         if len(body_text) < 300:
-            body_html = f"<p>{html.escape(fallback)}</p>"
-            body_text = fallback
+            body_html = feed_body if len(text_content(feed_body)) >= 300 else f"<p>{html.escape(fallback)}</p>"
+            body_text = text_content(body_html)
         article.update({"body_html": body_html, "image": image, "full_text": len(body_text) >= 300})
     except Exception as error:
         print(f"Full-text fetch unavailable for {article['link']}: {error}")
         article.update({"body_html": f"<p>{html.escape(fallback)}</p>", "image": "", "full_text": False})
     return article
+
+
+def sanitize_feed_html(value: str) -> str:
+    """Keep article semantics from a publisher feed while removing active content."""
+    if not value:
+        return ""
+    value = re.sub(r"<(script|style|iframe|object|embed)\b[^>]*>.*?</\1\s*>", "", value, flags=re.I | re.S)
+    value = re.sub(r"\s+on[a-z]+\s*=\s*(['\"]).*?\1", "", value, flags=re.I | re.S)
+    value = re.sub(r"\s+(href|src)\s*=\s*(['\"])(?:javascript|data):.*?\2", "", value, flags=re.I | re.S)
+    return value.strip()
+
+
+def first_image(fragment: str) -> str:
+    match = re.search(r"<img\b[^>]*\bsrc\s*=\s*(['\"])(.*?)\1", fragment, flags=re.I | re.S)
+    return html.unescape(match.group(2)).strip() if match else ""
 
 
 def local_name(element: ET.Element) -> str:
