@@ -9,6 +9,9 @@
   {"name": "ArchDaily", "url": "https://www.archdaily.com/rss", "authority": 91, "language": "en", "topics": ["interior", "architecture", "furniture"]},
   {"name": "AIGA Eye on Design", "url": "https://eyeondesign.aiga.org/feed/", "authority": 88, "language": "en", "topics": ["graphic", "product", "design", "culture"]},
   {"name": "The Verge Design", "url": "https://www.theverge.com/rss/index.xml", "authority": 82, "language": "en", "topics": ["product", "ui", "technology", "design"]},
+  {"name": "Medium · Product Design", "url": "https://medium.com/feed/tag/product-design", "authority": 88, "language": "en", "topics": ["product", "ux", "ui", "design"]},
+  {"name": "Medium · User Experience", "url": "https://medium.com/feed/tag/user-experience", "authority": 88, "language": "en", "topics": ["ux", "ui", "research", "product"]},
+  {"name": "Medium · Design", "url": "https://medium.com/feed/tag/design", "authority": 85, "language": "en", "topics": ["product", "ux", "ui", "design"]},
   {"name": "ArchDaily 中文", "url": "https://www.archdaily.cn/cn/feed", "authority": 90, "language": "zh", "topics": ["interior", "architecture", "furniture"]},
   {"name": "人人都是产品经理", "url": "https://www.woshipm.com/feed", "authority": 89, "language": "zh", "topics": ["product", "ux", "ui", "research"]},
   {"name": "少数派", "url": "https://sspai.com/feed", "authority": 84, "language": "zh", "topics": ["product", "ui", "technology", "design"]}

@@ -28,7 +28,8 @@ SEEN_PATH = ROOT / "data" / "seen.json"
 ARCHIVE_PATH = ROOT / "data" / "published.json"
 OUTPUT = ROOT / "docs" / "design-rss.xml"
 USER_AGENT = "DesignDigestRSS/2.0 (+https://github.com/George-li-x/design-article-rss)"
-CHINESE_PER_DAY = 4
+ARTICLES_PER_DAY = 20
+CHINESE_PER_DAY = 8
 ARCHIVE_RETENTION_DAYS = 180
 MAX_TRANSLATION_CHARS = 3200
 KEYWORDS = {
@@ -154,40 +155,94 @@ def meta_value(page: str, property_name: str) -> str:
 
 
 def fetch_full_article(article: dict) -> dict:
-    """Fetch primary article text plus the canonical social image, falling back to feed text."""
+    """Fetch semantic article HTML and every article image, falling back to feed text."""
     fallback = article["summary"] or article["title"]
     try:
         page = get(article["link"]).decode("utf-8", errors="replace")
         image = meta_value(page, "og:image")
-        extracted = trafilatura.extract(page, include_comments=False, include_tables=True, favor_precision=True) if trafilatura else None
-        body = text_content(extracted or "")
-        if len(body) < 300:
-            body = fallback
-        article.update({"body": body[:30000], "image": image, "full_text": len(body) >= 300})
+        extracted = trafilatura.extract(
+            page, output_format="xml", include_comments=False, include_tables=True,
+            include_images=True, include_links=False, include_formatting=True,
+            favor_precision=True,
+        ) if trafilatura else None
+        body_html = extraction_to_html(extracted or "", article["link"])
+        body_text = text_content(body_html)
+        if len(body_text) < 300:
+            body_html = f"<p>{html.escape(fallback)}</p>"
+            body_text = fallback
+        article.update({"body_html": body_html, "image": image, "full_text": len(body_text) >= 300})
     except Exception as error:
         print(f"Full-text fetch unavailable for {article['link']}: {error}")
-        article.update({"body": fallback, "image": "", "full_text": False})
+        article.update({"body_html": f"<p>{html.escape(fallback)}</p>", "image": "", "full_text": False})
     return article
+
+
+def local_name(element: ET.Element) -> str:
+    return element.tag.rsplit("}", 1)[-1].lower()
+
+
+def extraction_to_html(extraction: str, base_url: str) -> str:
+    """Convert Trafilatura XML to safe reader-friendly HTML without flattening its structure."""
+    if not extraction:
+        return ""
+    try:
+        root = ET.fromstring(extraction)
+    except ET.ParseError:
+        return ""
+    main = next((node for node in root.iter() if local_name(node) == "main"), root)
+    tags = {"p": "p", "head": "h2", "quote": "blockquote", "list": "ul", "item": "li", "table": "table", "row": "tr", "cell": "td", "code": "pre", "hi": "strong", "lb": "br"}
+
+    def render(node: ET.Element) -> str:
+        name = local_name(node)
+        if name in {"graphic", "image", "img"}:
+            src = node.get("src") or node.get("url") or node.get("href")
+            if not src:
+                return ""
+            src = urllib.parse.urljoin(base_url, src)
+            alt = node.get("alt") or node.get("title") or ""
+            caption = f"<figcaption>{html.escape(alt)}</figcaption>" if alt else ""
+            return f'<figure><img src="{html.escape(src, quote=True)}" alt="{html.escape(alt, quote=True)}" />{caption}</figure>'
+        tag = tags.get(name, "div" if name in {"main", "body"} else "p")
+        contents = html.escape(node.text or "")
+        for child in node:
+            contents += render(child) + html.escape(child.tail or "")
+        if tag == "br":
+            return "<br />"
+        return f"<{tag}>{contents}</{tag}>" if contents.strip() or tag in {"ul", "table"} else ""
+
+    rendered = "".join(render(child) + html.escape(child.tail or "") for child in main)
+    return rendered or render(main)
+
+
+def translate_html(fragment: str) -> str:
+    """Translate only textual block nodes while retaining paragraphs, lists, quotes and images."""
+    try:
+        root = ET.fromstring(f"<root>{fragment}</root>")
+    except ET.ParseError:
+        return translate(text_content(fragment))
+    translate_tags = {"p", "h2", "li", "blockquote", "figcaption", "pre", "td"}
+    for node in root.iter():
+        if local_name(node) in translate_tags and len(node) == 0 and (node.text or "").strip():
+            node.text = translate(node.text.strip())
+    return "".join(ET.tostring(child, encoding="unicode", method="html") for child in root)
 
 
 def select_articles(candidates: list[dict]) -> list[dict]:
     candidates.sort(key=score, reverse=True)
     chinese = [item for item in candidates if item["source"].get("language") == "zh" or is_chinese(item["title"])]
     international = [item for item in candidates if item not in chinese]
-    selected = chinese[:CHINESE_PER_DAY] + international[:10 - CHINESE_PER_DAY]
-    if len(selected) < 10:
-        selected += [item for item in candidates if item not in selected][:10 - len(selected)]
-    return sorted(selected, key=score, reverse=True)[:10]
+    selected = chinese[:CHINESE_PER_DAY] + international[:ARTICLES_PER_DAY - CHINESE_PER_DAY]
+    if len(selected) < ARTICLES_PER_DAY:
+        selected += [item for item in candidates if item not in selected][:ARTICLES_PER_DAY - len(selected)]
+    return sorted(selected, key=score, reverse=True)[:ARTICLES_PER_DAY]
 
 
-def description_html(article: dict, chinese_title: str, chinese_body: str) -> str:
-    paragraphs = [text_content(part) for part in re.split(r"\n{2,}", chinese_body) if text_content(part)]
+def description_html(article: dict, chinese_title: str, chinese_body_html: str) -> str:
     image = f'<figure><img src="{html.escape(article["image"], quote=True)}" alt="{html.escape(chinese_title, quote=True)}" /></figure>' if article["image"] else ""
-    body = "".join(f"<p>{html.escape(paragraph)}</p>" for paragraph in paragraphs)
     status = "已抓取正文并翻译" if article["full_text"] else "正文抓取受限，以下为来源摘要"
     return (
         f"<p><strong>来源：</strong>{html.escape(article['source']['name'])}　<strong>处理：</strong>{status}</p>"
-        f"{image}<h3>中文全文</h3>{body}"
+        f"{image}<h3>中文全文</h3>{chinese_body_html}"
         f"<p><a href=\"{html.escape(article['link'], quote=True)}\">阅读原文 →</a></p>"
     )
 
@@ -195,8 +250,8 @@ def description_html(article: dict, chinese_title: str, chinese_body: str) -> st
 def build_item(channel: ET.Element, article: dict) -> dict:
     item = ET.SubElement(channel, "item")
     chinese_title = translate(article["title"])
-    chinese_body = translate(article["body"])
-    content = description_html(article, chinese_title, chinese_body)
+    chinese_body_html = article["body_html"] if article["source"].get("language") == "zh" else translate_html(article["body_html"])
+    content = description_html(article, chinese_title, chinese_body_html)
     ET.SubElement(item, "title").text = chinese_title
     ET.SubElement(item, "link").text = article["link"]
     ET.SubElement(item, "guid", isPermaLink="true").text = article["link"]
@@ -250,7 +305,7 @@ def main() -> None:
     channel = ET.SubElement(rss, "channel")
     ET.SubElement(channel, "title").text = "全球设计文章精选（中文全文版）"
     ET.SubElement(channel, "link").text = "https://george-li-x.github.io/design-article-rss/"
-    ET.SubElement(channel, "description").text = "每日 10 篇设计文章：4 篇中文社区文章、6 篇国际文章的中文全文版，含首图和原文链接。"
+    ET.SubElement(channel, "description").text = "每日 20 篇设计文章：8 篇中文社区文章、12 篇国际文章的中文全文版，保留正文排版、文内图片和原文链接。"
     ET.SubElement(channel, "language").text = "zh-CN"
     ET.SubElement(channel, "lastBuildDate").text = email.utils.format_datetime(datetime.now(timezone.utc))
     manifest = [build_item(channel, article) for article in selected]
