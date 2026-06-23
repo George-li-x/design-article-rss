@@ -1,6 +1,12 @@
 name: Generate design RSS
 
 on:
+  push:
+    branches: [master]
+    paths:
+      - ".github/workflows/generate-rss.yml"
+      - "config/**"
+      - "scripts/**"
   schedule:
     # 08:10 China Standard Time (UTC+8)
     - cron: "10 0 * * *"
