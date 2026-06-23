@@ -314,6 +314,14 @@ def select_articles(candidates: list[dict]) -> list[dict]:
     return sorted(selected, key=score, reverse=True)[:ARTICLES_PER_DAY]
 
 
+def has_usable_body(article: dict) -> bool:
+    """Avoid publishing Medium previews when neither official feed offers full text."""
+    if not article["source"]["name"].startswith("Medium"):
+        return True
+    body = medium_author_article_body(article["link"])
+    return len(text_content(body)) >= 500
+
+
 def description_html(article: dict, chinese_title: str, chinese_body_html: str) -> str:
     image = f'<figure><img src="{html.escape(article["image"], quote=True)}" alt="{html.escape(chinese_title, quote=True)}" /></figure>' if article["image"] else ""
     status = "已抓取正文并翻译" if article["full_text"] else "正文抓取受限，以下为来源摘要"
@@ -372,6 +380,13 @@ def main() -> None:
         except Exception as error:
             print(f"Skipping {source['name']}: {error}")
     selected = select_articles(candidates)
+    # A few Medium authors disable full RSS bodies. Exclude their previews and
+    # use the next qualified candidate instead of presenting a fake full text.
+    rejected = {article["link"] for article in selected if not has_usable_body(article)}
+    if rejected:
+        selected = [article for article in selected if article["link"] not in rejected]
+        selected += [article for article in candidates if article["link"] not in rejected and article not in selected and has_usable_body(article)][:ARTICLES_PER_DAY - len(selected)]
+        selected = sorted(selected, key=score, reverse=True)[:ARTICLES_PER_DAY]
     if not selected:
         raise RuntimeError("No new articles found; RSS left unchanged.")
     selected = [fetch_full_article(article) for article in selected]
