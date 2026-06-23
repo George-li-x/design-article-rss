@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://medium.com/@mounika.konidala/what-i-wish-i-knew-in-my-first-90-days-as-a-ux-designer-069663f8e549?source=rss------product_design-5",
+      "title": "我希望在作为 UX 设计师的头 90 天里我知道什么",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-06-23T17:25:19.797787+00:00",
+      "source_date": "2026-06-23T16:30:07+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@uiuxgrowthlab/best-online-ui-ux-certification-program-for-job-seekers-07b8c481372e?source=rss------product_design-5",
+      "title": "面向求职者的最佳在线 UI UX 认证计划",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-06-23T17:25:24.937454+00:00",
+      "source_date": "2026-06-23T15:09:09+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@Rythmuxdesigner/the-end-of-screens-how-ambient-ai-is-redefining-user-experience-aca96c0fdb1b?source=rss------user_experience-5",
+      "title": "屏幕的终结？环境人工智能如何重新定义用户体验",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-06-23T17:25:26.902392+00:00",
+      "source_date": "2026-06-23T15:06:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
+      "title": "用户体验研究中认知包容的好处",
+      "source": "Smashing Magazine",
+      "language": "en",
+      "published_at": "2026-06-23T17:25:36.419723+00:00",
+      "source_date": "2026-06-10T10:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/",
+      "title": "用户体验投资回报率的十大数据支持真相",
+      "source": "Smashing Magazine",
+      "language": "en",
+      "published_at": "2026-06-23T17:25:44.198311+00:00",
+      "source_date": "2026-05-15T10:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://smashingmagazine.com/2026/03/site-search-paradox-why-big-box-always-wins/",
+      "title": "站点搜索悖论：为什么大盒子总是获胜",
+      "source": "Smashing Magazine",
+      "language": "en",
+      "published_at": "2026-06-23T17:25:50.830454+00:00",
+      "source_date": "2026-03-26T10:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/",
+      "title": "说奶酪！认识阿姆斯特丹 SmashingConf 🇳🇱",
+      "source": "Smashing Magazine",
+      "language": "en",
+      "published_at": "2026-06-23T17:25:56.430172+00:00",
+      "source_date": "2026-02-26T11:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://smashingmagazine.com/2026/02/designer-guide-eco-friendly-interfaces/",
+      "title": "环保界面设计师指南",
+      "source": "Smashing Magazine",
+      "language": "en",
+      "published_at": "2026-06-23T17:26:03.912091+00:00",
+      "source_date": "2026-02-23T10:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://smashingmagazine.com/2026/02/designing-agentic-ai-practical-ux-patterns/",
+      "title": "代理人工智能设计：用于控制、同意和问责的实用用户体验模式",
+      "source": "Smashing Magazine",
+      "language": "en",
+      "published_at": "2026-06-23T17:26:16.182260+00:00",
+      "source_date": "2026-02-11T13:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@raphaelhdesign/durante-anos-meu-trabalho-terminava-cedo-demais-9c39a2ec293a?source=rss------product_design-5",
+      "title": "多年来，我的工作结束得太早",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-06-23T17:26:24.932935+00:00",
+      "source_date": "2026-06-23T16:15:21+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/",
+      "title": "本地优先 Web 开发的架构",
+      "source": "Smashing Magazine",
+      "language": "en",
+      "published_at": "2026-06-23T17:26:44.887755+00:00",
+      "source_date": "2026-05-06T10:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.theverge.com/gadgets/952503/best-prime-day-deals-verge-favorites-2026",
+      "title": "以下是 Verge 员工最喜欢的 Prime Day 最佳优惠",
+      "source": "The Verge Design",
+      "language": "en",
+      "published_at": "2026-06-23T17:26:55.023584+00:00",
+      "source_date": "2026-06-23T16:25:24+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/cn/1042429/la-vallee-verte-mvrdv",
+      "title": "绿谷 / MVRDV",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-06-23T17:26:56.348869+00:00",
+      "source_date": "2026-06-22T15:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/cn/1042438/you-heatherwick-studio-yu-spparclian-he-she-ji-de-lun-dun-ao-lin-pi-ya-gai-zao-qi-xian-yi-jun-gong",
+      "title": "Heatherwick Studio+SPPARC “伦敦奥林匹亚改造一期”现已竣工",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-06-23T17:26:56.348922+00:00",
+      "source_date": "2026-06-22T11:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6418431.html",
+      "title": "遇到“情绪巨婴”，别争辩别忍让，把烂摊子变“高光局”",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-23T17:26:56.348955+00:00",
+      "source_date": "2026-06-23T09:34:11+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/cn/1042513/yun-xi-gu-star-zhou-luo-shui-mu-yan-kong-jian-she-ji",
+      "title": "芸溪谷·周洛 / 水木言空间设计",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-06-23T17:26:56.348987+00:00",
+      "source_date": "2026-06-18T15:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/cn/1042637/song-shan-hu-zhan-yan-zhong-xin-zha",
+      "title": "松山湖展演中心 / ZHA",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-06-23T17:26:56.349016+00:00",
+      "source_date": "2026-06-23T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/cn/1041341/ge-luo-si-fei-er-de-xi-de-lang-gong-gong-you-yong-chi-illiz-architektur",
+      "title": "格罗斯费尔德西德朗公共游泳池 / Illiz Architektur",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-06-23T17:26:56.349047+00:00",
+      "source_date": "2026-06-19T11:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6418781.html",
+      "title": "为了女儿的英语启蒙，我用 Vibe Coding 把 B 站动画变成了专属绘本",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-23T17:26:56.349078+00:00",
+      "source_date": "2026-06-23T06:46:46+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/cn/1042474/tie-li-shi-shan-tian-xian-ta-gai-zao-herzog-and-de-meuron",
+      "title": "铁力士山天线塔改造 / Herzog & de Meuron",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-06-23T17:26:56.349103+00:00",
+      "source_date": "2026-06-22T13:00:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/architecture/concrete-beech-flexible-learning-spaces-school-social-hub-slovenia-hotic-educational-complex-geoplan/",
       "title": "混凝土和山毛榉在斯洛文尼亚的学校和社交中心塑造了灵活的学习空间",
       "source": "designboom",
@@ -9,24 +189,6 @@
       "published_at": "2026-06-23T17:14:32.701276+00:00",
       "source_date": "2026-06-23T16:30:13+00:00",
       "full_text": true
-    },
-    {
-      "url": "https://medium.com/@mounika.konidala/what-i-wish-i-knew-in-my-first-90-days-as-a-ux-designer-069663f8e549?source=rss------product_design-5",
-      "title": "我希望在作为 UX 设计师的头 90 天里我知道什么",
-      "source": "Medium · Product Design",
-      "language": "en",
-      "published_at": "2026-06-23T17:14:32.807590+00:00",
-      "source_date": "2026-06-23T16:30:07+00:00",
-      "full_text": false
-    },
-    {
-      "url": "https://medium.com/@uiuxgrowthlab/best-online-ui-ux-certification-program-for-job-seekers-07b8c481372e?source=rss------product_design-5",
-      "title": "面向求职者的最佳在线 UI UX 认证计划",
-      "source": "Medium · Product Design",
-      "language": "en",
-      "published_at": "2026-06-23T17:14:32.929337+00:00",
-      "source_date": "2026-06-23T15:09:09+00:00",
-      "full_text": false
     },
     {
       "url": "https://www.nngroup.com/articles/diary-study-incentives/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
@@ -81,15 +243,6 @@
       "published_at": "2026-06-23T17:17:02.980416+00:00",
       "source_date": "2026-05-01T14:04:59+00:00",
       "full_text": true
-    },
-    {
-      "url": "https://medium.com/@Rythmuxdesigner/the-end-of-screens-how-ambient-ai-is-redefining-user-experience-aca96c0fdb1b?source=rss------user_experience-5",
-      "title": "屏幕的终结？环境人工智能如何重新定义用户体验",
-      "source": "Medium · User Experience",
-      "language": "en",
-      "published_at": "2026-06-23T17:17:03.093336+00:00",
-      "source_date": "2026-06-23T15:06:00+00:00",
-      "full_text": false
     },
     {
       "url": "https://www.nngroup.com/articles/ai-era-critique/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
@@ -243,15 +396,6 @@
       "published_at": "2026-06-23T17:04:55.460837+00:00",
       "source_date": "2026-06-23T08:35:45+00:00",
       "full_text": true
-    },
-    {
-      "url": "https://medium.com/@raphaelhdesign/durante-anos-meu-trabalho-terminava-cedo-demais-9c39a2ec293a?source=rss------product_design-5",
-      "title": "多年来，我的工作结束得太早",
-      "source": "Medium · Product Design",
-      "language": "en",
-      "published_at": "2026-06-23T17:04:58.614016+00:00",
-      "source_date": "2026-06-23T16:15:21+00:00",
-      "full_text": false
     },
     {
       "url": "https://medium.com/@andrea.arcoraci/the-soft-skills-designers-say-will-define-the-role-in-an-ai-driven-future-9f290aae8770?source=rss------user_experience-5",
