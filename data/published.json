@@ -1,4 +1,95 @@
 {
   "retention_days": 180,
-  "articles": []
+  "articles": [
+    {
+      "url": "https://www.woshipm.com/ai/6418898.html",
+      "title": "三年之内，这个岗位会彻底消失！不是因为AI，而是skill",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-23T16:44:32.865922+00:00",
+      "source_date": "2026-06-23T07:48:08+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/zhichang/6418444.html",
+      "title": "产品经理最难的不是画方案，而是处理这四类冲突",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-23T16:44:32.866671+00:00",
+      "source_date": "2026-06-23T03:48:51+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/the-original-magic-8-ball-vs-generative-ai-a-surprisingly-interesting-comparison-d94f982eaba0?source=rss----138adf9c44c---4",
+      "title": "Magic 8-Ball 与 Gen AI：令人惊讶的有趣比较",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-06-23T16:44:33.853360+00:00",
+      "source_date": "2026-06-22T06:59:22+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.woshipm.com/share/6418726.html",
+      "title": "传统 B2B SaaS 正在被抛弃：为什么“元数据+AI”才是企业级软件的终极解法？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-23T16:44:33.853746+00:00",
+      "source_date": "2026-06-23T06:41:43+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6418081.html",
+      "title": "VAST：29岁游戏玩家，怎么把 AI 3D 做成 10 亿美元公司",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-23T16:44:33.854543+00:00",
+      "source_date": "2026-06-23T06:33:08+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://smashingmagazine.com/2026/03/accessible-ux-research-release/",
+      "title": "现已发货：米歇尔·威廉姆斯 (Michele Williams) 的一本精彩新书《无障碍用户体验研究》(Accessible UX Research)",
+      "source": "Smashing Magazine",
+      "language": "en",
+      "published_at": "2026-06-23T16:44:36.145850+00:00",
+      "source_date": "2026-03-03T15:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/pink-timber-room-munich-bike-racks-urban-lab-zuhaus-clemence-hoyer/",
+      "title": "粉红色的木屋矗立在慕尼黑自行车架上，作为城市实验室“zuhaus”",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-06-23T16:44:36.832425+00:00",
+      "source_date": "2026-06-22T15:21:31+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.archdaily.com/1026349/meadows-primary-school-project-12-architecture",
+      "title": "梅多斯小学 / Project 12 Architecture",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-06-23T16:44:37.685375+00:00",
+      "source_date": "2026-06-22T10:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1042325/go-east-what-tiranas-bread-and-heart-festival-reveals-about-architecture-and-landscape",
+      "title": "向东走：地拉那面包与心节揭示了建筑和景观",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-06-23T16:44:38.573506+00:00",
+      "source_date": "2026-06-22T07:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1042640/kurashiki-central-hospital-miwa-nursery-school-nikken-sekkei",
+      "title": "仓敷中央医院三和保育园 / Nikken Sekkei",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-06-23T16:44:39.704596+00:00",
+      "source_date": "2026-06-22T19:00:00+00:00",
+      "full_text": true
+    }
+  ]
 }
