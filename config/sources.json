@@ -1,0 +1,12 @@
+[
+  {"name": "Dezeen", "url": "https://www.dezeen.com/feed/", "authority": 98, "topics": ["interior", "furniture", "architecture", "design"]},
+  {"name": "designboom", "url": "https://www.designboom.com/feed/", "authority": 94, "topics": ["product", "furniture", "interior", "architecture"]},
+  {"name": "Fast Company Design", "url": "https://www.fastcompany.com/section/design/rss", "authority": 93, "topics": ["product", "ux", "ui", "design"]},
+  {"name": "Nielsen Norman Group", "url": "https://www.nngroup.com/feed/rss/", "authority": 97, "topics": ["ux", "ui", "research", "product"]},
+  {"name": "Smashing Magazine", "url": "https://www.smashingmagazine.com/feed/", "authority": 92, "topics": ["ui", "ux", "web", "product"]},
+  {"name": "UX Collective", "url": "https://uxdesign.cc/feed", "authority": 86, "topics": ["ux", "ui", "product", "research"]},
+  {"name": "Core77", "url": "https://www.core77.com/posts/rss", "authority": 90, "topics": ["industrial", "product", "furniture", "design"]},
+  {"name": "ArchDaily", "url": "https://www.archdaily.com/rss", "authority": 91, "topics": ["interior", "architecture", "furniture"]},
+  {"name": "AIGA Eye on Design", "url": "https://eyeondesign.aiga.org/feed/", "authority": 88, "topics": ["graphic", "product", "design", "culture"]},
+  {"name": "The Verge Design", "url": "https://www.theverge.com/rss/index.xml", "authority": 82, "topics": ["product", "ui", "technology", "design"]}
+]
