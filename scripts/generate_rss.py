@@ -32,6 +32,7 @@ ARTICLES_PER_DAY = 20
 CHINESE_PER_DAY = 8
 ARCHIVE_RETENTION_DAYS = 180
 MAX_TRANSLATION_CHARS = 3200
+MEDIUM_AUTHOR_FEEDS: dict[str, dict[str, str]] = {}
 KEYWORDS = {
     "product": 9, "design": 7, "designer": 6, "ux": 10, "ui": 10,
     "user experience": 10, "interface": 8, "usability": 9, "research": 7,
@@ -163,6 +164,10 @@ def fetch_full_article(article: dict) -> dict:
     feed_body = sanitize_feed_html(article.get("feed_html", ""))
     # Medium's official feed normally includes the full article while the web
     # page often presents a consent/login or anti-bot wall to automated fetches.
+    if article["source"]["name"].startswith("Medium"):
+        author_body = medium_author_article_body(article["link"])
+        if len(text_content(author_body)) > len(text_content(feed_body)):
+            feed_body = author_body
     if article["source"]["name"].startswith("Medium") and len(text_content(feed_body)) >= 500:
         article.update({
             "body_html": feed_body,
@@ -188,6 +193,38 @@ def fetch_full_article(article: dict) -> dict:
         print(f"Full-text fetch unavailable for {article['link']}: {error}")
         article.update({"body_html": f"<p>{html.escape(fallback)}</p>", "image": "", "full_text": False})
     return article
+
+
+def canonical_url(url: str) -> str:
+    parsed = urllib.parse.urlsplit(url)
+    return urllib.parse.urlunsplit((parsed.scheme, parsed.netloc, parsed.path.rstrip("/"), "", ""))
+
+
+def medium_author_article_body(article_url: str) -> str:
+    """Look up a Medium article in its author's full official RSS feed.
+
+    Medium tag feeds intentionally expose short previews, while author feeds
+    still carry `content:encoded` with the complete post.
+    """
+    parsed = urllib.parse.urlsplit(article_url)
+    path_parts = [part for part in parsed.path.split("/") if part]
+    if not parsed.netloc.endswith("medium.com") or not path_parts or not path_parts[0].startswith("@"):
+        return ""
+    author = path_parts[0]
+    if author not in MEDIUM_AUTHOR_FEEDS:
+        try:
+            root = ET.fromstring(get(f"https://medium.com/feed/{author}"))
+            posts = {}
+            for node in (entry for entry in root.iter() if entry.tag.rsplit("}", 1)[-1] in {"item", "entry"}):
+                link = entry_link(node)
+                content = child_text(node, ("encoded", "content"))
+                if link and content:
+                    posts[canonical_url(link)] = sanitize_feed_html(content)
+            MEDIUM_AUTHOR_FEEDS[author] = posts
+        except Exception as error:
+            print(f"Medium author feed unavailable for {author}: {error}")
+            MEDIUM_AUTHOR_FEEDS[author] = {}
+    return MEDIUM_AUTHOR_FEEDS[author].get(canonical_url(article_url), "")
 
 
 def sanitize_feed_html(value: str) -> str:
