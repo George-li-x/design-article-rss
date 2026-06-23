@@ -280,16 +280,28 @@ def extraction_to_html(extraction: str, base_url: str) -> str:
 
 
 def translate_html(fragment: str) -> str:
-    """Translate only textual block nodes while retaining paragraphs, lists, quotes and images."""
+    """Translate batches of HTML blocks; Google preserves tags and image attributes."""
     try:
         root = ET.fromstring(f"<root>{fragment}</root>")
     except ET.ParseError:
         return translate(text_content(fragment))
-    translate_tags = {"p", "h2", "li", "blockquote", "figcaption", "pre", "td"}
-    for node in root.iter():
-        if local_name(node) in translate_tags and len(node) == 0 and (node.text or "").strip():
-            node.text = translate(node.text.strip())
-    return "".join(ET.tostring(child, encoding="unicode", method="html") for child in root)
+    blocks = [ET.tostring(child, encoding="unicode", method="html") for child in root]
+    batches, current = [], ""
+    for block in blocks:
+        # Images do not need translation and should not consume API quota.
+        if not text_content(block):
+            if current:
+                batches.append(current)
+                current = ""
+            batches.append(block)
+            continue
+        if current and len(current) + len(block) > MAX_TRANSLATION_CHARS:
+            batches.append(current)
+            current = ""
+        current += block
+    if current:
+        batches.append(current)
+    return "".join(translate(batch) if text_content(batch) else batch for batch in batches)
 
 
 def select_articles(candidates: list[dict]) -> list[dict]:
