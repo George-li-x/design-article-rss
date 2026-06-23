@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://medium.com/@mounika.konidala/what-i-wish-i-knew-in-my-first-90-days-as-a-ux-designer-069663f8e549?source=rss------product_design-5",
+      "title": "我希望在作为 UX 设计师的头 90 天里我知道什么",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-06-23T17:04:53.309125+00:00",
+      "source_date": "2026-06-23T16:30:07+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://medium.com/@uiuxgrowthlab/best-online-ui-ux-certification-program-for-job-seekers-07b8c481372e?source=rss------product_design-5",
+      "title": "面向求职者的最佳在线 UI UX 认证计划",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-06-23T17:04:54.121462+00:00",
+      "source_date": "2026-06-23T15:09:09+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://medium.com/@Rythmuxdesigner/the-end-of-screens-how-ambient-ai-is-redefining-user-experience-aca96c0fdb1b?source=rss------user_experience-5",
+      "title": "屏幕的终结？环境人工智能如何重新定义用户体验",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-06-23T17:04:54.975773+00:00",
+      "source_date": "2026-06-23T15:06:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.archdaily.cn/cn/1042633/hang-zhou-star-xi-xi-cai-shi-park-in-market-jiu-zhang-ying-zao-shi-wu-suo",
+      "title": "杭州·西溪菜市 PARK IN MARKET/ 九樟营造事务所",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-06-23T17:04:54.975831+00:00",
+      "source_date": "2026-06-23T11:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6418873.html",
+      "title": "Codex + 飞书 CLI 一句话生成架构图、流程图、原型图，手搓画图可能真要过时了",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-23T17:04:54.975867+00:00",
+      "source_date": "2026-06-23T07:11:11+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6418785.html",
+      "title": "支付宝造城，京东修路，微信把门：AI支付的三国杀",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-23T17:04:54.975897+00:00",
+      "source_date": "2026-06-23T06:46:33+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designsystemscollective.com/how-i-use-claude-as-a-ux-architect-f8a404822093?source=rss------product_design-5",
+      "title": "我如何使用 Claude 作为用户体验架构师",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-06-23T17:04:55.460732+00:00",
+      "source_date": "2026-06-23T16:41:10+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6418882.html",
+      "title": "万物之中，希望至美：张小龙教你从人性角度看，什么样的 AI 产品能做成",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-23T17:04:55.460786+00:00",
+      "source_date": "2026-06-23T07:15:50+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6418819.html",
+      "title": "家装设计师服务产品化：摆脱低价内卷，让设计变成可定价的核心资产",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-23T17:04:55.460814+00:00",
+      "source_date": "2026-06-23T06:50:44+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6418868.html",
+      "title": "我让 AI 读了 52 篇论文，这是我学到的关于 Loop 的三件事",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-23T17:04:55.460837+00:00",
+      "source_date": "2026-06-23T08:35:45+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@raphaelhdesign/durante-anos-meu-trabalho-terminava-cedo-demais-9c39a2ec293a?source=rss------product_design-5",
+      "title": "多年来，我的工作结束得太早",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-06-23T17:04:58.614016+00:00",
+      "source_date": "2026-06-23T16:15:21+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://medium.com/@andrea.arcoraci/the-soft-skills-designers-say-will-define-the-role-in-an-ai-driven-future-9f290aae8770?source=rss------user_experience-5",
+      "title": "设计师表示，软技能将定义人工智能驱动的未来中的角色。",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-06-23T17:04:59.496273+00:00",
+      "source_date": "2026-06-23T16:02:39+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://medium.com/@taylorallis52/ai-speed-without-product-judgment-is-product-spam-a1cebdff6317?source=rss------product_design-5",
+      "title": "没有产品判断的人工智能速度就是产品垃圾邮件",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-06-23T17:05:00.559675+00:00",
+      "source_date": "2026-06-23T15:48:16+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.archdaily.com/1042642/swiss-pavilion-examines-water-as-resource-subject-and-legal-entity-at-the-2027-venice-architecture-biennale",
+      "title": "2027 年威尼斯建筑双年展瑞士馆将水视为资源、主体和法律实体",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-06-23T17:05:05.790535+00:00",
+      "source_date": "2026-06-22T06:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/",
+      "title": "如何让您的设计系统为人工智能做好准备",
+      "source": "Smashing Magazine",
+      "language": "en",
+      "published_at": "2026-06-23T17:05:14.316127+00:00",
+      "source_date": "2026-06-03T13:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/",
+      "title": "用户体验设计师的噩梦：当“生产就绪”成为设计可交付成果时",
+      "source": "Smashing Magazine",
+      "language": "en",
+      "published_at": "2026-06-23T17:05:23.639250+00:00",
+      "source_date": "2026-04-22T10:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://smashingmagazine.com/2026/04/practical-guide-design-principles/",
+      "title": "设计原则实用指南",
+      "source": "Smashing Magazine",
+      "language": "en",
+      "published_at": "2026-06-23T17:05:39.319586+00:00",
+      "source_date": "2026-04-01T10:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://smashingmagazine.com/2026/03/human-strategy-ai-accelerated-workflow/",
+      "title": "人工智能加速工作流程中的人类策略",
+      "source": "Smashing Magazine",
+      "language": "en",
+      "published_at": "2026-06-23T17:06:11.918771+00:00",
+      "source_date": "2026-03-06T08:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/cn/1042544/herzog-and-de-meuron-jiang-gai-zao-di-la-na-gong-chan-zhu-yi-shi-qi-de-da-hui-gong",
+      "title": "Herzog & de Meuron 将改造地拉那共产主义时期的大会宫",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-06-23T17:06:11.918810+00:00",
+      "source_date": "2026-06-23T13:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6418921.html",
+      "title": "用AI问问题，结果跟你没关系？试试BTICOE模型（附案例）",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-23T17:06:11.918836+00:00",
+      "source_date": "2026-06-23T08:43:43+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.woshipm.com/ai/6418898.html",
       "title": "三年之内，这个岗位会彻底消失！不是因为AI，而是skill",
       "source": "人人都是产品经理",
