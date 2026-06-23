@@ -1,12 +1,14 @@
 # 全球设计文章精选 RSS
 
-每天自动从产品设计、UI、UX、家具、室内与建筑设计领域的权威出版物中筛选 10 篇文章，生成中文 RSS。
+每天自动从产品设计、UI、UX、家具、室内与建筑设计领域的权威出版物中筛选 10 篇文章，生成含图文正文的中文 RSS。
 
 ## 工作方式
 
 - 以来源权威度、文章时效性、主题匹配度和编辑精选信号综合评分。
-- 非中文内容会生成中文标题和中文摘要，条目会保留原文链接。
+- 先抓取正文与首图；非中文内容会生成中文标题与正文，条目保留原文链接。
+- 每日固定目标为 4 篇中文社区文章、6 篇国际文章；中文候选不足时才以其他合格文章补足。
 - `data/seen.json` 记录已发布 URL，避免重复推荐。
+- `data/published.json` 只保留 180 天的发布清单；原始 HTML 不入库，完整 RSS 作为 GitHub Pages 的当前部署产物，不会在仓库 Git 历史中长期堆积。
 - GitHub Actions 每天执行；可在 Actions 页面手动运行 `Generate design RSS`。
 - 生成结果为 `docs/design-rss.xml`，由 GitHub Pages 托管。
 
@@ -19,4 +21,4 @@
 
 ## 说明
 
-翻译使用 Google Translate 的公开网页接口，不需要密钥；若单篇翻译暂时不可用，仍会保留原始标题与摘要。来源列表与评分规则位于 `config/sources.json` 和 `scripts/generate_rss.py`，可按品味增减。
+翻译使用 Google Translate 的公开网页接口，不需要密钥；若正文抓取或翻译暂时不可用，条目会明确标注并降级为来源摘要。来源列表与评分规则位于 `config/sources.json` 和 `scripts/generate_rss.py`，可按品味增减。

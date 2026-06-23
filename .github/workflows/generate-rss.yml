@@ -14,6 +14,12 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "design-rss-pages"
+  cancel-in-progress: false
 
 jobs:
   generate:
@@ -23,12 +29,29 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Install article extractor
+        run: pip install "trafilatura>=2.0,<3.0"
       - name: Generate today's feed
         run: python scripts/generate_rss.py
-      - name: Commit updated feed
+      - name: Save compact state only
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/design-rss.xml data/seen.json
+          git add data/seen.json data/published.json
           git diff --cached --quiet || git commit -m "chore: update daily design RSS"
           git push
+      - name: Upload current feed to GitHub Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+  deploy:
+    needs: generate
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy current feed
+        id: deployment
+        uses: actions/deploy-pages@v4
