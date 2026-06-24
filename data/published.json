@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.woshipm.com/share/6418896.html",
+      "title": "关于广告专业与AI产品职业的一些粗浅看法",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-24T04:22:52.348264+00:00",
+      "source_date": "2026-06-24T04:03:54+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6419364.html",
+      "title": "为什么产品做大后，反而弄丢了核心用户？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-24T04:22:52.348294+00:00",
+      "source_date": "2026-06-24T04:03:44+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6419229.html",
+      "title": "GPT-image2深度复盘：3000+次调用总结的生图经验！",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-24T04:22:52.348316+00:00",
+      "source_date": "2026-06-24T02:59:29+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/pmd/6419202.html",
+      "title": "内部产品经理：做好了没人夸，做坏了全是锅",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-24T04:22:52.348335+00:00",
+      "source_date": "2026-06-24T02:45:58+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/cn/1041601/zhong-fan-xin-yi-zhu-yun-dong-dang-dai-jiu-dian-kong-jian-zhong-de-gong-yi-wu-zhi-xing-yu-xi-jie",
+      "title": "重返新艺术运动：当代酒店空间中的工艺、物质性与细节",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-06-24T04:22:52.348355+00:00",
+      "source_date": "2026-06-24T11:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6419291.html",
+      "title": "2026上半年 全球 YouTube AI短剧和漫剧市场深度洞察",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-24T04:22:52.348375+00:00",
+      "source_date": "2026-06-24T03:25:31+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@divinestocks/how-to-truly-understand-ux-design-learning-ux-through-real-life-observation-9801884c6fc4?source=rss------design-5",
+      "title": "如何真正理解用户体验设计：通过现实生活观察学习用户体验",
+      "source": "Medium · Design",
+      "language": "en",
+      "published_at": "2026-06-24T04:22:56.570395+00:00",
+      "source_date": "2026-06-24T04:01:03+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@thebankingexpertt/design-registration-in-india-protect-your-creative-designs-legally-8107449c0db9?source=rss------design-5",
+      "title": "印度的设计注册：合法保护您的创意设计",
+      "source": "Medium · Design",
+      "language": "en",
+      "published_at": "2026-06-24T04:22:58.533521+00:00",
+      "source_date": "2026-06-24T04:07:19+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/floating-rings-light-space-spy-kinetic-spatial-installation-cycles-n2/",
+      "title": "SpY 的动态空间装置中的浮动光环重绘空间",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-06-24T04:22:59.467655+00:00",
+      "source_date": "2026-06-24T03:30:43+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@brianpetersrg/the-journey-of-learning-to-adapt-b585109ae773?source=rss------product_design-5",
+      "title": "学习适应之旅",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-06-24T04:23:02.718180+00:00",
+      "source_date": "2026-06-24T02:46:34+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6419384.html",
+      "title": "一人即军队：AI时代的组织成长，真正考验的是老板能不能让高密度人才长出来",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-24T04:23:02.718217+00:00",
+      "source_date": "2026-06-24T03:25:10+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@wazavee/there-are-plenty-of-timers-why-build-another-one-59b26b826fe5?source=rss------product_design-5",
+      "title": "有很多计时器。为什么要建造另一个？",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-06-24T04:23:03.945977+00:00",
+      "source_date": "2026-06-24T02:48:51+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@brianpetersrg/the-journey-of-learning-to-adapt-b585109ae773?source=rss------design-5",
+      "title": "学习适应之旅",
+      "source": "Medium · Design",
+      "language": "en",
+      "published_at": "2026-06-24T04:23:04.406841+00:00",
+      "source_date": "2026-06-24T02:46:34+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1042650/pit-garden-in-passive-house-d-environmental-design-system-laboratory",
+      "title": "被动房坑式花园 / D环境设计系统实验室",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-06-24T04:23:05.860089+00:00",
+      "source_date": "2026-06-23T19:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://smashingmagazine.com/2026/02/designing-streak-system-ux-psychology/",
+      "title": "设计 Streak 系统：Streak 的用户体验和心理学",
+      "source": "Smashing Magazine",
+      "language": "en",
+      "published_at": "2026-06-24T04:23:14.888808+00:00",
+      "source_date": "2026-02-18T15:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
+      "title": "好莱坞向 OpenAI 屈服",
+      "source": "The Verge Design",
+      "language": "en",
+      "published_at": "2026-06-24T04:23:16.594666+00:00",
+      "source_date": "2026-06-23T22:03:18+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.theverge.com/gadgets/955139/xteink-x3-x4-e-ink-reader-amazon-prime-day-deal-sale",
+      "title": "Xteink 的小型电子阅读器在 Prime Day 享受 20% 的折扣",
+      "source": "The Verge Design",
+      "language": "en",
+      "published_at": "2026-06-24T04:23:19.123730+00:00",
+      "source_date": "2026-06-23T20:11:24+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@contact_31296/what-if-user-fatigue-is-not-a-bad-day-but-a-behavioral-drift-7457dda61e1c?source=rss------user_experience-5",
+      "title": "如果用户疲劳不是糟糕的一天，而是行为偏差怎么办？",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-06-24T04:23:23.187437+00:00",
+      "source_date": "2026-06-23T16:47:20+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
+      "title": "算法主题引擎：使用“contrast-color()”构建自校正颜色系统",
+      "source": "Smashing Magazine",
+      "language": "en",
+      "published_at": "2026-06-24T04:23:33.665947+00:00",
+      "source_date": "2026-05-28T13:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1042641/aquatic-gallery-ini-design-studio",
+      "title": "水生画廊 / INI Design Studio",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-06-24T04:23:36.555453+00:00",
+      "source_date": "2026-06-23T02:00:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://uxdesign.cc/how-designops-roles-are-changing-with-new-priorities-c8db3a5bc1c3?source=rss----138adf9c44c---4",
       "title": "DesignOps 角色如何随着新的优先事项而变化",
       "source": "UX Collective",
