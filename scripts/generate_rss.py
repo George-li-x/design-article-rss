@@ -9,6 +9,7 @@ from __future__ import annotations
 import email.utils
 import html
 import json
+import os
 import re
 import urllib.parse
 import urllib.request
@@ -33,6 +34,8 @@ CHINESE_PER_DAY = 8
 ARCHIVE_RETENTION_DAYS = 180
 MAX_TRANSLATION_CHARS = 3200
 MEDIUM_AUTHOR_FEEDS: dict[str, dict[str, str]] = {}
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
+OPENAI_TRANSLATION_MODEL = os.getenv("OPENAI_TRANSLATION_MODEL", "gpt-4.1-mini")
 KEYWORDS = {
     "product": 9, "design": 7, "designer": 6, "ux": 10, "ui": 10,
     "user experience": 10, "interface": 8, "usability": 9, "research": 7,
@@ -135,9 +138,13 @@ def split_for_translation(value: str) -> list[str]:
 
 
 def translate(value: str) -> str:
-    """Translate text to Chinese through Google's no-key endpoint; keep original on failure."""
+    """Translate with OpenAI first; retain the no-key endpoint as an outage fallback."""
     if not value or is_chinese(value):
         return value
+    if OPENAI_API_KEY:
+        translated = translate_with_openai(value)
+        if translated:
+            return translated
     translated = []
     for chunk in split_for_translation(value):
         try:
@@ -148,6 +155,43 @@ def translate(value: str) -> str:
             print(f"Translation unavailable: {error}")
             translated.append(chunk)
     return "\n\n".join(translated)
+
+
+def translate_with_openai(value: str) -> str:
+    """High-quality, layout-preserving Chinese translation through Chat Completions."""
+    prompt = (
+        "Translate the following design article content into natural, professional Simplified Chinese. "
+        "Preserve every HTML tag, attribute, URL, image, list and heading exactly; translate only visible text. "
+        "Do not summarize, omit, add commentary, or wrap the answer in Markdown fences. "
+        "Use established Chinese UX, UI, product-design and architecture terminology.\n\n"
+        f"CONTENT:\n{value}"
+    )
+    payload = json.dumps({
+        "model": OPENAI_TRANSLATION_MODEL,
+        "messages": [
+            {"role": "system", "content": "You are an exacting professional translator for design publications."},
+            {"role": "user", "content": prompt},
+        ],
+        "temperature": 0.1,
+    }).encode("utf-8")
+    try:
+        request = urllib.request.Request(
+            "https://api.openai.com/v1/chat/completions",
+            data=payload,
+            headers={
+                "Authorization": f"Bearer {OPENAI_API_KEY}",
+                "Content-Type": "application/json",
+                "User-Agent": USER_AGENT,
+            },
+            method="POST",
+        )
+        with urllib.request.urlopen(request, timeout=45) as response:
+            result = json.loads(response.read().decode("utf-8"))
+        translated = result["choices"][0]["message"]["content"].strip()
+        return translated.replace("```html", "").replace("```", "").strip()
+    except Exception as error:
+        print(f"OpenAI translation unavailable; using fallback: {type(error).__name__}")
+        return ""
 
 
 def meta_value(page: str, property_name: str) -> str:

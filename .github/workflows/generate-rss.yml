@@ -33,6 +33,9 @@ jobs:
         run: pip install "trafilatura>=2.0,<3.0"
       - name: Generate today's feed
         run: python scripts/generate_rss.py
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_TRANSLATION_MODEL: gpt-4.1-mini
       - name: Save compact state only
         run: |
           git config user.name "github-actions[bot]"

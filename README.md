@@ -21,4 +21,4 @@
 
 ## 说明
 
-翻译使用 Google Translate 的公开网页接口，不需要密钥；若正文抓取或翻译暂时不可用，条目会明确标注并降级为来源摘要。来源列表与评分规则位于 `config/sources.json` 和 `scripts/generate_rss.py`，可按品味增减。
+翻译优先使用 OpenAI API（密钥只存于 GitHub Actions Secret `OPENAI_API_KEY`），以获得更自然的中文设计术语与更稳定的 HTML 版式保留；API 不可用时才回退到 Google Translate 的公开网页接口。若正文抓取或翻译暂时不可用，条目会明确标注并降级为来源摘要。来源列表与评分规则位于 `config/sources.json` 和 `scripts/generate_rss.py`，可按品味增减。
