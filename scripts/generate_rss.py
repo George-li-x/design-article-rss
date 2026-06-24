@@ -234,6 +234,13 @@ def sanitize_feed_html(value: str) -> str:
     value = re.sub(r"<(script|style|iframe|object|embed)\b[^>]*>.*?</\1\s*>", "", value, flags=re.I | re.S)
     value = re.sub(r"\s+on[a-z]+\s*=\s*(['\"]).*?\1", "", value, flags=re.I | re.S)
     value = re.sub(r"\s+(href|src)\s*=\s*(['\"])(?:javascript|data):.*?\2", "", value, flags=re.I | re.S)
+    # Publisher RSS is HTML, while the formatting/translation pipeline uses an
+    # XML parser. Make common HTML-only void tags XML-safe first.
+    def close_void_tag(match: re.Match) -> str:
+        tag = match.group(0)
+        return tag if tag.rstrip().endswith("/>") else tag.rstrip()[:-1] + " />"
+    value = re.sub(r"<(?:img|br|hr|source|track|wbr)\b[^>]*>", close_void_tag, value, flags=re.I)
+    value = re.sub(r"&(?!#\d+;|#x[0-9a-fA-F]+;|[a-zA-Z][a-zA-Z0-9]+;)", "&amp;", value)
     return value.strip()
 
 
@@ -284,7 +291,7 @@ def translate_html(fragment: str) -> str:
     try:
         root = ET.fromstring(f"<root>{fragment}</root>")
     except ET.ParseError:
-        return translate(text_content(fragment))
+        return paragraphs_from_text(translate(text_content(fragment)))
     blocks = [ET.tostring(child, encoding="unicode", method="html") for child in root]
     batches, current = [], ""
     for block in blocks:
@@ -302,6 +309,14 @@ def translate_html(fragment: str) -> str:
     if current:
         batches.append(current)
     return "".join(translate(batch) if text_content(batch) else batch for batch in batches)
+
+
+def paragraphs_from_text(value: str) -> str:
+    """Last-resort semantic layout when a publisher supplies malformed HTML."""
+    blocks = [line.strip() for line in re.split(r"\n{2,}", value) if line.strip()]
+    if len(blocks) <= 1:
+        blocks = [line.strip() for line in value.splitlines() if line.strip()]
+    return "".join(f"<p>{html.escape(block)}</p>" for block in blocks) or f"<p>{html.escape(value)}</p>"
 
 
 def select_articles(candidates: list[dict]) -> list[dict]:
