@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/architecture/brick-chambers-anthill-house-india-kaushal-tatiya/",
+      "title": "砖房和洞穴通道塑造了印度的这座“蚁丘”房屋",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-06-24T02:40:45.372362+00:00",
+      "source_date": "2026-06-24T01:15:27+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ucd/6418936.html",
+      "title": "HAI 交互设计法及「探索」场景解析",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-24T02:40:45.372415+00:00",
+      "source_date": "2026-06-24T01:56:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6419084.html",
+      "title": "巨头打响Context之战，重构AI护城河",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-24T02:40:45.372444+00:00",
+      "source_date": "2026-06-24T02:07:04+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6419151.html",
+      "title": "App的终局：当AI重塑我们接入数字世界的方式",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-24T02:40:45.372472+00:00",
+      "source_date": "2026-06-24T02:37:31+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.theverge.com/gadgets/953936/roborock-saros-20-amazon-deal-sale",
+      "title": "Prime Day 立减 240 美元 Roborock 的 Saros 20，这是我们最喜欢的 robovacs 之一",
+      "source": "The Verge Design",
+      "language": "en",
+      "published_at": "2026-06-24T02:40:48.271386+00:00",
+      "source_date": "2026-06-23T20:35:36+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@stephansimorka/the-future-of-ui-is-not-one-thing-its-three-8f8999168e0b?source=rss------product_design-5",
+      "title": "UI 的未来不是一回事。是三号。",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-06-24T02:40:53.689873+00:00",
+      "source_date": "2026-06-24T00:20:04+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6418935.html",
+      "title": "“如果智能成本归零了呢”——李飞飞接过这个问题之后，做了四件事",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-24T02:40:53.689916+00:00",
+      "source_date": "2026-06-24T01:27:03+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@frodriguezpires/em-defesa-do-usu%C3%A1rio-com-um-p%C3%A9-no-diabo-8c3e220df66a?source=rss------user_experience-5",
+      "title": "捍卫用户，一脚踩魔鬼",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-06-24T02:41:03.651977+00:00",
+      "source_date": "2026-06-23T18:20:35+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6419345.html",
+      "title": "八倍产出之后，Anthropic 工程团队发现了一个没人能解决的新问题",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-24T02:41:03.652021+00:00",
+      "source_date": "2026-06-24T02:36:46+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@stephansimorka/the-future-of-ui-is-not-one-thing-its-three-8f8999168e0b?source=rss------design-5",
+      "title": "UI 的未来不是一回事。是三号。",
+      "source": "Medium · Design",
+      "language": "en",
+      "published_at": "2026-06-24T02:41:05.463170+00:00",
+      "source_date": "2026-06-24T00:20:04+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://smashingmagazine.com/2026/02/building-empathy-centred-ux-framework-mental-health-apps/",
+      "title": "建立数字信任：以同理心为中心的心理健康应用程序用户体验框架",
+      "source": "Smashing Magazine",
+      "language": "en",
+      "published_at": "2026-06-24T02:41:15.133824+00:00",
+      "source_date": "2026-02-13T15:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.nngroup.com/articles/designing-ai-agents/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "设计人工智能代理：来自中国 Qwen Agent 的 4 个教训",
+      "source": "Nielsen Norman Group",
+      "language": "en",
+      "published_at": "2026-06-24T02:41:20.907755+00:00",
+      "source_date": "2026-05-08T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://smashingmagazine.com/2026/03/building-dynamic-forms-react-next-js/",
+      "title": "在 React 和 Next.js 中构建动态表单",
+      "source": "Smashing Magazine",
+      "language": "en",
+      "published_at": "2026-06-24T02:41:28.549008+00:00",
+      "source_date": "2026-03-10T13:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/pd/6419082.html",
+      "title": "新人产品经理接需求，先把这 10 件事问明白",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-24T02:41:28.549054+00:00",
+      "source_date": "2026-06-24T02:06:45+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1042553/the-ecological-intelligence-of-sacred-landscapes",
+      "title": "神圣景观的生态智能",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-06-24T02:41:29.688694+00:00",
+      "source_date": "2026-06-23T07:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://smashingmagazine.com/2026/03/modal-separate-page-ux-decision-tree/",
+      "title": "模态页面与单独页面：UX 决策树",
+      "source": "Smashing Magazine",
+      "language": "en",
+      "published_at": "2026-06-24T02:41:32.176861+00:00",
+      "source_date": "2026-03-19T15:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6418094.html",
+      "title": "YC最新判断：下一代大公司，可能不是卖软件的",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-24T02:41:32.176906+00:00",
+      "source_date": "2026-06-24T01:29:48+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.nngroup.com/training/september/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "UX 会议 9 月宣布（9 月 14 日 - 9 月 25 日）",
+      "source": "Nielsen Norman Group",
+      "language": "en",
+      "published_at": "2026-06-24T02:41:38.412602+00:00",
+      "source_date": "2026-06-03T01:25:55+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.nngroup.com/training/august/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "UX 会议 8 月宣布（8 月 17 日 - 8 月 28 日）",
+      "source": "Nielsen Norman Group",
+      "language": "en",
+      "published_at": "2026-06-24T02:41:42.967863+00:00",
+      "source_date": "2026-05-19T06:52:05+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/cn/1042472/tang-guo-ge-lou-susa",
+      "title": "糖果阁楼 / SUSA",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-06-24T02:41:42.967898+00:00",
+      "source_date": "2026-06-24T09:00:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.nngroup.com/articles/lean-design-system-teams/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "title": "小设计：精益设计系统团队的优势",
       "source": "Nielsen Norman Group",
