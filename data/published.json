@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.archdaily.com/1042752/james-turrells-skyspace-and-the-opening-of-the-obama-presidential-center-this-weeks-review",
+      "title": "詹姆斯·特雷尔的天空空间和奥巴马总统中心的开幕：本周回顾",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-06-26T04:37:56.830933+00:00",
+      "source_date": "2026-06-25T05:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6419694.html",
+      "title": "拆解 Anthropic 万字创业指南：AI 原生公司其实是批量生产的炮灰，跑通四阶段是入场券，不是护身符。",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-26T04:37:56.830990+00:00",
+      "source_date": "2026-06-26T01:50:10+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6419885.html",
+      "title": "组件语义快照与模式诊断：AI 生成界面的第一道检查",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-26T04:37:56.831024+00:00",
+      "source_date": "2026-06-26T01:40:35+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/rethinking-figma-in-an-ai-world-0facba587ba5?source=rss----138adf9c44c---4",
+      "title": "重新思考人工智能世界中的 Figma",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-06-26T04:37:58.096004+00:00",
+      "source_date": "2026-06-25T22:50:53+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.woshipm.com/share/6420124.html",
+      "title": "从 0-1 做 App，434 下载 $35 收入，我学到了什么",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-26T04:37:58.096055+00:00",
+      "source_date": "2026-06-25T09:38:36+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6420308.html",
+      "title": "一个好的客服Agent的架构需要怎么搭？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-26T04:37:58.096082+00:00",
+      "source_date": "2026-06-26T01:40:41+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@areej1.tariq/canva-design-innovation-without-the-design-degree-module-8-202fd9a08f7f?source=rss------design-5",
+      "title": "Canva：没有设计学位的设计创新（模块 8）",
+      "source": "Medium · Design",
+      "language": "en",
+      "published_at": "2026-06-26T04:37:59.713798+00:00",
+      "source_date": "2026-06-26T00:44:22+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/918881/23-amazing-places-in-barcelonas-best-architecture-city-guide",
+      "title": "巴塞罗那建筑城市指南：从高迪至今的 30 座建筑和场所",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-06-26T04:38:01.853104+00:00",
+      "source_date": "2026-06-25T04:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/pmd/6420088.html",
+      "title": "功能的守门人、时间的守卫者、机会的追逐者：产品经理的三角困局",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-26T04:38:01.853149+00:00",
+      "source_date": "2026-06-25T09:35:11+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/pd/6420453.html",
+      "title": "杀死 App：下一代 AI 交互的定义权，也许握在一个按钮手里",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-26T04:38:01.853176+00:00",
+      "source_date": "2026-06-26T02:19:10+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1042708/i-dont-separate-architecture-and-infrastructure-interview-with-shohei-shigematsu-on-omas-new-museum-addition",
+      "title": "“我不会将建筑和基础设施分开”：重松翔平就 OMA 博物馆新扩建项目进行采访",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-06-26T04:38:04.089544+00:00",
+      "source_date": "2026-06-25T07:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/pd/6420019.html",
+      "title": "做国企财务决策支持系统四年，我踩过的四个坑",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-26T04:38:04.089592+00:00",
+      "source_date": "2026-06-26T02:17:52+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6420395.html",
+      "title": "“崩老头”：社交产品里的情绪陪伴生意",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-26T04:38:04.089624+00:00",
+      "source_date": "2026-06-26T02:13:09+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1042731/ferruccio-laviani-designs-a-greek-theatre-inspired-stage-for-mara-at-salone-del-mobile-2026",
+      "title": "Ferruccio Laviani 在 2026 年米兰国际家具展上为 MARA 设计的希腊戏剧灵感舞台",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-06-26T04:38:08.377093+00:00",
+      "source_date": "2026-06-25T01:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/zhichang/6420343.html",
+      "title": "B端产品经理的防甩锅实战手册",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-26T04:38:08.377156+00:00",
+      "source_date": "2026-06-26T02:09:46+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6420350.html",
+      "title": "GPT、Claude、Gemini、豆包、DeepSeek，本质上不是同一种 AI 产品。",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-26T04:38:08.377184+00:00",
+      "source_date": "2026-06-26T01:46:31+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@elsaidyoussef91/visualizeai-review-is-this-ai-interior-design-tool-worth-it-2025-ccb4bd7d2f4d?source=rss------design-5",
+      "title": "VisualizeAI评论：这个AI室内设计工具值得吗？ (2026)",
+      "source": "Medium · Design",
+      "language": "en",
+      "published_at": "2026-06-26T04:38:10.511139+00:00",
+      "source_date": "2026-06-26T00:37:10+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1042758/foster-plus-partners-reveals-agricultural-city-master-plan-in-southern-oman",
+      "title": "福斯特建筑事务所公布阿曼南部农业城市总体规划",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-06-26T04:38:13.520472+00:00",
+      "source_date": "2026-06-25T06:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@clairelee227/designing-systems-for-people-not-just-products-afaab9ffe4ab?source=rss------design-5",
+      "title": "为人设计系统，而不仅仅是产品",
+      "source": "Medium · Design",
+      "language": "en",
+      "published_at": "2026-06-26T04:38:15.520991+00:00",
+      "source_date": "2026-06-26T04:05:53+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.theverge.com/gadgets/957170/xbox-series-s-x-prime-day-deal-sale",
+      "title": "在价格上涨之前购买打折的 Xbox 主机",
+      "source": "The Verge Design",
+      "language": "en",
+      "published_at": "2026-06-26T04:38:17.935821+00:00",
+      "source_date": "2026-06-25T20:18:47+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/design/we-plus-craft-digital-fabrication-material-intelligence-interview/",
       "title": "we+ 通过材料智能探索工艺和数字制造",
       "source": "designboom",
