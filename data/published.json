@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/design/plush-long-pile-textile-tubular-yellow-steel-bench-observation-01-kibekoumuten-masahiro-kibe/",
+      "title": "长毛绒纺织包裹管状黄钢凳观察.01",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-06-27T04:14:37.249915+00:00",
+      "source_date": "2026-06-27T00:55:02+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/street-vending-typologies-mobile-urban-infrastructure-india-laari-futures-chaal-chaal/",
+      "title": "将街头售货类型映射为印度各地的移动城市基础设施",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-06-27T04:14:38.558044+00:00",
+      "source_date": "2026-06-26T16:00:59+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/century-old-hanok-urban-sophistication-seoul-flagship-organized-home/",
+      "title": "在一座拥有百年历史的韩屋内，这座城市精致的首尔旗舰店被布置得像一个家",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-06-27T04:14:40.230699+00:00",
+      "source_date": "2026-06-26T06:30:28+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/technology/code-contemporary-craft-yehwan-song-digital-art-innovation-through-making/",
+      "title": "代码作为当代工艺：宋叶焕的数字艺术提出了有关创新的激进问题",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-06-27T04:14:40.794933+00:00",
+      "source_date": "2026-06-26T10:50:09+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/trenchs-studio-low-impact-glamping-pines-southern-spain-cadiz-dehesa-wecamp/",
+      "title": "Trenchs工作室在西班牙南部的松树丛中打造低影响豪华露营",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-06-27T04:14:42.051804+00:00",
+      "source_date": "2026-06-26T10:30:19+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/technology/ioana-teleanu-ai-artificial-intelligence-tool-interview/",
+      "title": "ioana teleanu 将人工智能工具从为你思考转变为让你思考",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-06-27T04:14:42.727635+00:00",
+      "source_date": "2026-06-26T09:00:37+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/rick-owens-wearable-adidas-air-conditioning-suits-paris-mens-fashion-week/",
+      "title": "里克·欧文斯在巴黎男装周上将阿迪达斯运动服变成可穿戴空调",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-06-27T04:14:43.420188+00:00",
+      "source_date": "2026-06-26T08:30:20+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/kinetic-installation-shaved-bonito-flakes-continuous-display-system-katsuo-gravity-uo/",
+      "title": "由鲣鱼片制成的动态装置形成了一个连续的显示系统",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-06-27T04:14:44.002773+00:00",
+      "source_date": "2026-06-26T09:30:21+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1042630/representation-as-argument-lyndon-neri-on-what-juries-look-for-in-architecture-competitions",
+      "title": "代表作为论据：林登·内里（Lyndon Neri）谈评审团在建筑竞赛中寻找什么",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-06-27T04:14:47.059744+00:00",
+      "source_date": "2026-06-26T04:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1042692/how-a-new-generation-of-architects-is-designing-with-natural-light",
+      "title": "新一代建筑师如何利用自然光进行设计",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-06-27T04:14:49.715421+00:00",
+      "source_date": "2026-06-26T06:45:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/gehry-partners-billowing-performing-arts-center-dar-al-funoon-abu-dhabi-uae/",
+      "title": "盖里合作伙伴为邻居阿布扎比古根海姆设计的表演艺术中心",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-06-27T04:14:49.962124+00:00",
+      "source_date": "2026-06-26T14:31:39+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6420626.html",
+      "title": "如何判断AI垂直产品是创新还是套壳？一个框架就够了",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-27T04:14:49.962169+00:00",
+      "source_date": "2026-06-26T09:07:52+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@oczz/ai-can-generate-screens-but-not-product-thinking-597480fab843?source=rss------product_design-5",
+      "title": "人工智能可以生成屏幕，但不能生成产品思维",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-06-27T04:14:54.646407+00:00",
+      "source_date": "2026-06-27T03:02:09+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6419893.html",
+      "title": "腾讯AI新棋局：为什么微信才是真正的落地主场",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-27T04:14:54.646445+00:00",
+      "source_date": "2026-06-26T09:06:55+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/cn/1042636/jiang-gao-wen-shi-wei-she-ji-huo-ban-yi-shu-mu-tu-rang-yu-feng-lang-gou-jian-jiang-wen-ji-chu-she-shi",
+      "title": "将高温视为设计伙伴：以树木、土壤与风廊构建降温基础设施",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-06-27T04:14:54.646473+00:00",
+      "source_date": "2026-06-26T15:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/zhichang/6420638.html",
+      "title": "AI时代，产品团队如何从“需求承接型”升级为“AI驱动的业务价值型团队”",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-27T04:14:54.646499+00:00",
+      "source_date": "2026-06-27T01:10:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6420554.html",
+      "title": "一篇讲透：小红书闭环电商从百万到千万的人群破圈逻辑",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-27T04:14:54.646522+00:00",
+      "source_date": "2026-06-26T06:00:35+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6420576.html",
+      "title": "用AI写PRD？先看完这5个Skill的对比",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-27T04:14:54.646541+00:00",
+      "source_date": "2026-06-26T09:57:55+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/cn/1042541/ke-la-wan-deng-ta-guan-jing-tai-evgeny-makarenkos-timber-architecture-workshop",
+      "title": "科拉湾灯塔观景台 / Evgeny Makarenko’s Timber Architecture Workshop",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-06-27T04:14:54.646563+00:00",
+      "source_date": "2026-06-26T13:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/cn/1042683/2025-nian-li-si-ben-jian-zhu-san-nian-zhan-shen-shi-ji-zhu-quan-yu-ren-lei-dui-di-qiu-de-ying-xiang",
+      "title": "2025 年里斯本建筑三年展，审视技术圈与人类对地球的影响",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-06-27T04:14:54.646584+00:00",
+      "source_date": "2026-06-24T17:00:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.archdaily.com/1042752/james-turrells-skyspace-and-the-opening-of-the-obama-presidential-center-this-weeks-review",
       "title": "詹姆斯·特雷尔的天空空间和奥巴马总统中心的开幕：本周回顾",
       "source": "ArchDaily",
