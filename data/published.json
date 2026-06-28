@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/design/hand-bent-3d-printing-oberdoerfer-krebs-digital-fabrication-bend-chair-ukurant-3daysofdesign/",
+      "title": "3D 打印后手工弯曲，oberdoerfer & krebs 的座椅重新思考数字制造",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-06-28T04:47:39.190850+00:00",
+      "source_date": "2026-06-27T19:45:36+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/it/6421133.html",
+      "title": "AI产品经理成长实战：如何从0-1落地一款AI产品！",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-28T04:47:39.190899+00:00",
+      "source_date": "2026-06-27T02:44:07+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/vertical-white-pillars-rhythmic-facade-primary-school-italy-parma-aaa-office/",
+      "title": "垂直的白色柱子构成了意大利小学的有节奏的立面",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-06-28T04:47:42.582250+00:00",
+      "source_date": "2026-06-28T02:50:19+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6421251.html",
+      "title": "我用AI写PRD踩过的所有坑，都帮你总结好了",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-28T04:47:42.582299+00:00",
+      "source_date": "2026-06-28T04:28:06+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6421100.html",
+      "title": "情绪价值的正确打开方式",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-28T04:47:42.582327+00:00",
+      "source_date": "2026-06-28T01:23:02+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/someone-designed-this-2d48482b64df?source=rss----138adf9c44c---4",
+      "title": "有人设计了这个",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-06-28T04:47:43.887839+00:00",
+      "source_date": "2026-06-26T11:09:43+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.designboom.com/architecture/stuffed-animal-shrine-kyoto-visitors-cherished-plush-companions/",
+      "title": "京都的毛绒动物神社邀请游客向珍贵的毛绒伴侣致敬",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-06-28T04:47:44.550350+00:00",
+      "source_date": "2026-06-27T14:35:36+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6420865.html",
+      "title": "踩了10个坑后，我弄清了Vibe Motion的真实玩法",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-28T04:47:44.550394+00:00",
+      "source_date": "2026-06-27T06:21:11+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.nngroup.com/articles/establishing-baselines/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "您的新用户体验习惯：建立影响基准",
+      "source": "Nielsen Norman Group",
+      "language": "en",
+      "published_at": "2026-06-28T04:47:48.036690+00:00",
+      "source_date": "2026-06-26T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6421231.html",
+      "title": "AI互联网日报：OpenAI 开启 GPT-5.6 限量预览；DeepSeek 扩招、豆包进特斯拉车机；京东欧洲推机器人维修服务",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-28T04:47:48.036735+00:00",
+      "source_date": "2026-06-27T09:57:47+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1042738/rewilding-the-city-6-unbuilt-projects-from-the-archdaily-community",
+      "title": "重建城市：ArchDaily 社区的 6 个未建项目",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-06-28T04:47:56.755674+00:00",
+      "source_date": "2026-06-26T07:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1042779/snohetta-reimagines-aino-and-alvar-aaltos-paimio-sanatorium-as-a-wellness-and-cultural-destination",
+      "title": "Snøhetta 将 Aino 和 Alvar Aalto 的 Paimio 疗养院重新构想为健康和文化目的地",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-06-28T04:48:01.713510+00:00",
+      "source_date": "2026-06-26T05:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@uroobaS/ux-is-human-work-why-ai-will-assist-not-replace-designers-ababbc99ec5b?source=rss------user_experience-5",
+      "title": "用户体验是人类的工作：为什么人工智能会帮助而不是取代设计师",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-06-28T04:48:07.878606+00:00",
+      "source_date": "2026-06-27T19:36:35+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/pd/6421173.html",
+      "title": "用产品迭代思维做家装：持续优化居住方案，拉长客户生命周期价值",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-28T04:48:07.878650+00:00",
+      "source_date": "2026-06-27T05:46:12+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6420927.html",
+      "title": "AI写小说的”三十章魔咒”：当上下文窗口不够用，工具在往哪里走",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-28T04:48:07.878677+00:00",
+      "source_date": "2026-06-27T03:18:45+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/why-your-claude-code-needs-a-design-stack-46dccbced6e5?source=rss----138adf9c44c---4",
+      "title": "为什么您的克劳德代码需要设计堆栈",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-06-28T04:48:08.368346+00:00",
+      "source_date": "2026-06-27T16:45:31+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.nngroup.com/articles/survey-bots/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "将机器人从您的调查数据中剔除",
+      "source": "Nielsen Norman Group",
+      "language": "en",
+      "published_at": "2026-06-28T04:48:11.882118+00:00",
+      "source_date": "2026-06-26T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1042536/building-public-life-how-bogota-and-mexico-city-addressed-urban-inequality",
+      "title": "建设公共生活：波哥大和墨西哥城如何解决城市不平等问题",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-06-28T04:48:17.286933+00:00",
+      "source_date": "2026-06-27T07:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@raulbp1/el-mito-de-la-fricci%C3%B3n-cero-por-qu%C3%A9-el-dise%C3%B1o-ux-de-silicon-valley-es-un-peligro-en-el-software-44bd430362de?source=rss------product_design-5",
+      "title": "“零摩擦”的神话：为什么硅谷用户体验设计是软件中的危险……",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-06-28T04:48:26.655663+00:00",
+      "source_date": "2026-06-27T18:33:16+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/cn/1042543/shui-ku-zhu-zhai-obranegra-arquitectos",
+      "title": "水库住宅 / Obranegra Arquitectos",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-06-28T04:48:26.655700+00:00",
+      "source_date": "2026-06-28T11:00:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/design/plush-long-pile-textile-tubular-yellow-steel-bench-observation-01-kibekoumuten-masahiro-kibe/",
       "title": "长毛绒纺织包裹管状黄钢凳观察.01",
       "source": "designboom",
