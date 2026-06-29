@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/architecture/neon-colors-transparent-acrylic-stone-layered-apartment-interior-madrid-casa-macedonia-bardo/",
+      "title": "霓虹灯颜色、透明亚克力和石头塑造了马德里分层的公寓内部",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-06-29T04:57:38.611287+00:00",
+      "source_date": "2026-06-29T02:35:44+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6421841.html",
+      "title": "组件语义快照：我观察 AI 产品界面时用的6字段记录法",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-29T04:57:38.611336+00:00",
+      "source_date": "2026-06-29T03:44:11+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/when-the-profession-outruns-the-mentor-5f40596e17ca?source=rss----138adf9c44c---4",
+      "title": "当职业胜过导师时",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-06-29T04:57:40.153976+00:00",
+      "source_date": "2026-06-28T22:00:11+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://medium.com/@sindhurajiuxui/as-a-product-designer-beyond-glass-ux-lessons-i-learned-from-dale-chihulys-art-d03e51b5d48f?source=rss------user_experience-5",
+      "title": "作为一名产品设计师，Beyond Glass：我从 Dale Chihuly 的艺术中学到的用户体验课程。",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-06-29T04:57:43.995500+00:00",
+      "source_date": "2026-06-29T01:25:26+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6421921.html",
+      "title": "获近千万元种子轮融资，东西方AI玄学双线布局：长期用户陪伴模式能否跑通？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-29T04:57:43.995553+00:00",
+      "source_date": "2026-06-29T03:52:01+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/chuangye/6418123.html",
+      "title": "12 家最新的 YC AI 公司，看懂 AI 创业的新分岔口",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-29T04:57:43.995599+00:00",
+      "source_date": "2026-06-29T01:04:46+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@sandip.kr/colour-theory-the-complete-guide-for-designers-94598df0fd77?source=rss------design-5",
+      "title": "色彩理论：设计师完整指南",
+      "source": "Medium · Design",
+      "language": "en",
+      "published_at": "2026-06-29T04:57:51.289510+00:00",
+      "source_date": "2026-06-29T03:01:02+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/the-bullshit-asymmetry-principle-was-survivable-ai-made-production-of-slop-almost-free-2107dd4530b4?source=rss----138adf9c44c---4",
+      "title": "狗屎不对称原理是可以生存的。人工智能使污水生产几乎免费。",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-06-29T04:57:52.629224+00:00",
+      "source_date": "2026-06-28T09:17:35+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://medium.com/@memorylibrary28/the-silent-crisis-in-the-stacks-5-ui-design-essentials-to-cut-librarian-workload-by-50-1b9379eb322b?source=rss------user_experience-5",
+      "title": "书库中的无声危机：可将图书馆员工作量减少 50% 的 5 个 UI 设计要点",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-06-29T04:57:58.203549+00:00",
+      "source_date": "2026-06-28T20:26:22+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/evaluating/6421910.html",
+      "title": "微信AI深度体验：14亿国民APP的AI答卷，藏着最难得的产品克制",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-29T04:57:58.203596+00:00",
+      "source_date": "2026-06-29T03:40:53+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/japanese-miwa-ito-molten-glass-forbidden-treats-food/",
+      "title": "日本艺术家 Miwa ito 将熔融玻璃变成禁忌食物",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-06-29T04:57:59.488821+00:00",
+      "source_date": "2026-06-28T13:45:16+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/technology/explore-wint-design-lab-regenerative-futures-humans-connect-bodies/",
+      "title": "探索 WINT 设计实验室将人类与身体连接起来的再生未来",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-06-29T04:58:01.935961+00:00",
+      "source_date": "2026-06-28T20:30:19+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/cn/1041640/jian-zhu-ri-cheng-zou-jin-2026nian-zhong-da-shi-jian",
+      "title": "2026 年建筑会议大事件",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-06-29T04:58:01.936003+00:00",
+      "source_date": "2026-06-29T11:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6421748.html",
+      "title": "Codex堪称Claude Code最严的父亲",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-29T04:58:01.936028+00:00",
+      "source_date": "2026-06-29T01:48:55+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@moumni.iness/a-mysterious-invitation-designing-a-cultural-escape-for-young-adults-who-rarely-visit-museums-f601f100761b?source=rss------product_design-5",
+      "title": "神秘的邀请：为很少参观博物馆的年轻人设计文化之旅",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-06-29T04:58:09.524138+00:00",
+      "source_date": "2026-06-28T20:05:02+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@bigmanmanman80/how-good-design-directly-drives-sales-the-ultimate-guide-to-visual-roi-0167af275eb9?source=rss------product_design-5",
+      "title": "优秀的设计如何直接推动销售：视觉投资回报率终极指南",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-06-29T04:58:15.458500+00:00",
+      "source_date": "2026-06-28T20:11:23+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/what-are-hypertokens-the-layer-between-tokens-and-components-rebuilt-for-agents-962dbe93e0c4?source=rss----138adf9c44c---4",
+      "title": "什么是超级代币？令牌和组件之间的层，为代理重建",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-06-29T04:58:16.491342+00:00",
+      "source_date": "2026-06-28T14:48:13+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.archdaily.com/1042818/yp-building-simplex-architecture",
+      "title": "YP大楼 / Simplex Architecture",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-06-29T04:58:17.514778+00:00",
+      "source_date": "2026-06-28T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6421001.html",
+      "title": "30 分钟一次实验，验证 Loop Engineering 是不是营销造词",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-29T04:58:17.514822+00:00",
+      "source_date": "2026-06-29T01:14:52+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6421578.html",
+      "title": "当AGI时代来临后，作品即产品",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-29T04:58:17.514848+00:00",
+      "source_date": "2026-06-29T01:34:33+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/design/hand-bent-3d-printing-oberdoerfer-krebs-digital-fabrication-bend-chair-ukurant-3daysofdesign/",
       "title": "3D 打印后手工弯曲，oberdoerfer & krebs 的座椅重新思考数字制造",
       "source": "designboom",
