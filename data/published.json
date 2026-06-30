@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/technology/oxman-growing-color-bacterial-pigmentation-synthetic-dyes/",
+      "title": "OXMAN 探索通过细菌色素沉着代替合成染料来增加颜色",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-06-30T04:22:48.639637+00:00",
+      "source_date": "2026-06-29T10:45:16+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/2147-voice-future-reclaimed-payphone-ai-interface-divina-machina-qs-ventures-sonar-d/",
+      "title": "2147：来自未来的声音将回收的公用电话转变为人工智能界面",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-06-30T04:22:49.514408+00:00",
+      "source_date": "2026-06-29T10:00:48+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/world-design-capital-2026-open-week-regional-design-look-behind-the-scenes/",
+      "title": "WDC 2026 开放周将设计节重新构想为一个区域平台",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-06-30T04:22:50.582783+00:00",
+      "source_date": "2026-06-29T09:30:08+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/adaptive-legacies-sustainability-room-for-dreams-podcast/",
+      "title": "适应性遗产：为什么可持续发展的最终形式意味着尽可能少地建造",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-06-30T04:22:51.268877+00:00",
+      "source_date": "2026-06-29T10:20:57+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/open-call-pli-office-paris-design-week-2026/",
+      "title": "公开征集：PLI 办公室邀请新兴创意人士参加 2026 年巴黎设计周",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-06-30T04:22:52.629436+00:00",
+      "source_date": "2026-06-29T15:30:46+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/crochet-structures-choi-shine-intricate-group-made-stitches-craft/",
+      "title": "choi+shine 设计的巨大钩针结构始于复杂的集体缝制",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-06-30T04:22:53.557533+00:00",
+      "source_date": "2026-06-30T01:30:45+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1042737/architectural-decisions-planetary-implications-interview-with-uia-2026-barcelona-curatorial-team",
+      "title": "建筑决策，对地球的影响：UIA 2026 巴塞罗那策展团队访谈",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-06-30T04:22:54.882510+00:00",
+      "source_date": "2026-06-29T07:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1042829/uia-world-congress-of-architecture-2026-opens-in-barcelona-under-the-theme-architectures-for-a-planet-in-transition",
+      "title": "2026 年 UIA 世界建筑大会在巴塞罗那开幕，主题为“转型中的星球的建筑”",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-06-30T04:23:00.968576+00:00",
+      "source_date": "2026-06-29T05:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@divinestocks/why-ai-is-becoming-essential-for-ux-designers-in-2026-the-future-of-user-experience-design-067a8ecced80?source=rss------design-5",
+      "title": "为什么人工智能在 2026 年将成为用户体验设计师的必需品：用户体验设计的未来",
+      "source": "Medium · Design",
+      "language": "en",
+      "published_at": "2026-06-30T04:23:04.183203+00:00",
+      "source_date": "2026-06-30T02:45:48+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/reclaimed-stone-timber-basque-farmhouse-contemporary-living-zu-studio/",
+      "title": "回收的石头和木材重塑了一座适合现代生活的巴斯克农舍",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-06-30T04:23:05.982027+00:00",
+      "source_date": "2026-06-29T14:00:44+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6422241.html",
+      "title": "产品经理工作流融合 AI 实战：从需求收集到开发上线全流程",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-30T04:23:05.982073+00:00",
+      "source_date": "2026-06-30T01:35:16+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/rethinking-figma-the-cost-of-low-taste-your-banking-app-is-lying-to-you-20f2ec172f03?source=rss----138adf9c44c---4",
+      "title": "重新思考Figma，低品味的代价，你的银行应用程序在骗你",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-06-30T04:23:06.507809+00:00",
+      "source_date": "2026-06-29T11:10:21+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://medium.com/@ednawalkiriahb/config-2026-what-it-feels-like-to-be-in-the-room-365d4c56739c?source=rss------product_design-5",
+      "title": "Config 2026：在房间里的感觉",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-06-30T04:23:10.810545+00:00",
+      "source_date": "2026-06-29T22:50:17+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6422432.html",
+      "title": "618给AI上了一课：Agent不是万能解药",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-30T04:23:10.810586+00:00",
+      "source_date": "2026-06-30T02:17:14+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6422326.html",
+      "title": "回顾：如何从零搭建自己的AI+小红书工作流",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-30T04:23:10.810612+00:00",
+      "source_date": "2026-06-30T02:10:17+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6422308.html",
+      "title": "AI时代改变学习顺序能让你的学习效率大大提高",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-30T04:23:10.810636+00:00",
+      "source_date": "2026-06-30T01:41:11+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/zhichang/6422228.html",
+      "title": "家装设计师复盘思维：为什么越做越稳的设计师，都在做项目闭环沉淀",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-30T04:23:10.810661+00:00",
+      "source_date": "2026-06-30T01:34:18+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6422086.html",
+      "title": "拆解具身智能系统（软件）",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-30T04:23:10.810686+00:00",
+      "source_date": "2026-06-30T01:32:43+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/it/6422576.html",
+      "title": "三只羊卖课！失败者，割“成功学”韭菜？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-30T04:23:10.810707+00:00",
+      "source_date": "2026-06-30T04:01:26+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/zhichang/6422546.html",
+      "title": "都说 AI 时代最稀缺的是定义问题，什么才叫会定义问题？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-06-30T04:23:10.810731+00:00",
+      "source_date": "2026-06-30T03:38:29+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/architecture/neon-colors-transparent-acrylic-stone-layered-apartment-interior-madrid-casa-macedonia-bardo/",
       "title": "霓虹灯颜色、透明亚克力和石头塑造了马德里分层的公寓内部",
       "source": "designboom",
