@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/art/noema-craft-prize-exhibition-evolving-language-greek-craft-athens/",
+      "title": "nóema 工艺奖展览探讨了雅典希腊工艺语言的演变",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-01T04:51:47.187754+00:00",
+      "source_date": "2026-06-30T21:00:08+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/colorful-printed-textile-installation-historic-laundry-building-facade-switzerland-studio-hug-rachele-monti/",
+      "title": "色彩缤纷的印花纺织品装置重新构想了瑞士历史悠久的洗衣房建筑立面",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-01T04:51:50.097444+00:00",
+      "source_date": "2026-06-30T09:30:33+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/kinetic-watch-dial-timekeeping-layered-colored-star-hands-the-trio-of-time-anicorn-raw-color/",
+      "title": "动感表盘通过分层彩色星形指针重新构想计时",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-01T04:51:53.072725+00:00",
+      "source_date": "2026-06-30T06:30:43+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6423018.html",
+      "title": "一个不懂设计的PM，在AIGC时代的认知重塑",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-01T04:51:53.072764+00:00",
+      "source_date": "2026-07-01T02:35:47+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/diagonal-timber-wall-installation-furniture-shelter-landscape-frame-spain-a-coruna-cesuga-erazo-pugliese/",
+      "title": "对角木墙装置成为西班牙的家具、住所和景观框架",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-01T04:51:56.880225+00:00",
+      "source_date": "2026-06-30T13:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/niko-june-industrial-fragments-bouquet-collectible-objects/",
+      "title": "NIKO JUNE 让工业碎片绽放成一束收藏品",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-01T04:52:00.691536+00:00",
+      "source_date": "2026-06-30T10:45:54+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6422965.html",
+      "title": "从语义快照到结构化诊断：三层判定模型与模式匹配机制",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-01T04:52:00.691575+00:00",
+      "source_date": "2026-07-01T03:00:08+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/39-principles-for-designing-human-ai-interaction-87be5fabdbbe?source=rss----138adf9c44c---4",
+      "title": "设计人机交互的 39 条原则",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-07-01T04:52:02.678530+00:00",
+      "source_date": "2026-06-30T22:04:22+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://uxdesign.cc/game-ux-the-cursor-that-wasnt-supposed-to-be-there-f9369dafc451?source=rss----138adf9c44c---4",
+      "title": "游戏用户体验：不应该存在的光标",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-07-01T04:52:05.030368+00:00",
+      "source_date": "2026-06-30T22:02:49+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.designboom.com/architecture/acne-studios-pink-library-tokyo-three-decades-fashion-art-publishing-autoportrait/",
+      "title": "Acne Studios 位于东京的粉色图书馆庆祝时尚、艺术和出版业三十周年",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-01T04:52:07.440629+00:00",
+      "source_date": "2026-06-30T08:30:21+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/hoshino-hotel-openshistoric-radiating-japan-former-nara-prison/",
+      "title": "星野酒店在日本前奈良监狱历史悠久的辐射结构内开业",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-01T04:52:09.614928+00:00",
+      "source_date": "2026-06-30T19:00:46+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/",
+      "title": "为什么可访问性是一种操作能力，而不是一种功能",
+      "source": "Smashing Magazine",
+      "language": "en",
+      "published_at": "2026-07-01T04:52:16.850771+00:00",
+      "source_date": "2026-06-30T12:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/why-systems-thinking-is-becoming-the-most-important-ux-skill-688136ed1ce2?source=rss----138adf9c44c---4",
+      "title": "为什么系统思维正在成为最重要的用户体验技能",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-07-01T04:52:19.385593+00:00",
+      "source_date": "2026-06-30T21:57:45+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://medium.com/@designerlifestyle/how-to-standardize-ui-elements-in-a-design-system-a-complete-guide-for-ux-and-product-designers-73b4a875c6e3?source=rss------design-5",
+      "title": "如何标准化设计系统中的 UI 元素：UX 和产品设计师的完整指南",
+      "source": "Medium · Design",
+      "language": "en",
+      "published_at": "2026-07-01T04:52:23.772416+00:00",
+      "source_date": "2026-07-01T03:20:51+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6422927.html",
+      "title": "从产品视角看智能排线：快消SFA的效率杠杆在哪里",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-01T04:52:23.772450+00:00",
+      "source_date": "2026-07-01T03:01:30+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/evaluating/6421609.html",
+      "title": "豆包专业版深度解读：操作电脑+Office+应用开发，68元/月值不值？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-01T04:52:23.772472+00:00",
+      "source_date": "2026-07-01T02:18:31+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/operate/6423000.html",
+      "title": "「营销不是换皮肤做交互」——先拆清诉求、目标和链路",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-01T04:52:23.772524+00:00",
+      "source_date": "2026-07-01T02:26:36+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/marketing/6422832.html",
+      "title": "不找董宇辉，凭什么他的产品也可以大卖？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-01T04:52:23.772544+00:00",
+      "source_date": "2026-07-01T01:58:59+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/pmd/6422841.html",
+      "title": "写PRD画原型时代结束，聊聊AI抢不走的3个产品经理底层能力",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-01T04:52:23.772561+00:00",
+      "source_date": "2026-07-01T01:42:40+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6422830.html",
+      "title": "AI 浪潮下，请保持你的 Old School 产品基本功",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-01T04:52:23.772578+00:00",
+      "source_date": "2026-07-01T03:04:36+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/technology/oxman-growing-color-bacterial-pigmentation-synthetic-dyes/",
       "title": "OXMAN 探索通过细菌色素沉着代替合成染料来增加颜色",
       "source": "designboom",
