@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.woshipm.com/ai/6423389.html",
+      "title": "把设计规范写成代码格式，是所有AI工具的上游约束方法论",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-02T04:19:31.359626+00:00",
+      "source_date": "2026-07-02T03:38:48+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1042783/what-can-architectural-practice-learn-from-botany",
+      "title": "建筑实践可以从植物学中学到什么？",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-02T04:19:35.465579+00:00",
+      "source_date": "2026-07-01T04:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/robotic-carving-reclaimed-stone-waste-porous-modular-system-vlad-tenu/",
+      "title": "机器人雕刻将回收的石材废料转化为多孔模块化系统",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-02T04:19:36.911903+00:00",
+      "source_date": "2026-07-01T09:30:17+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/firehouse-artist-home-daniel-arsham-converted-1887-soho-residence/",
+      "title": "从消防站到艺术家之家：丹尼尔·阿沙姆 (Daniel Arsham) 1887 年改建的 SoHo 住宅内部",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-02T04:19:38.180187+00:00",
+      "source_date": "2026-07-01T08:30:24+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/pink-mosaic-surface-alaia-first-miami-boutique-halleroed/",
+      "title": "alaïa 迈阿密首家精品店从内部到外立面均采用粉色马赛克瓷砖",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-02T04:19:38.929998+00:00",
+      "source_date": "2026-07-01T08:00:35+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/radar-exhibitions-july/",
+      "title": "设计邦雷达：今年七月在世界各地举办的展览",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-02T04:19:45.176896+00:00",
+      "source_date": "2026-07-01T06:30:29+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6423438.html",
+      "title": "10大真实场景，揭秘我用 Agent 的实战营销",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-02T04:19:45.176937+00:00",
+      "source_date": "2026-07-02T01:03:16+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/mad-shenzhen-tengyun-center-cloud-offices-tencent-china/",
+      "title": "MAD 深圳腾云中心开业，办公室云状升降",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-02T04:19:45.993381+00:00",
+      "source_date": "2026-07-01T15:07:22+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6423651.html",
+      "title": "踩了10年坑，才敢跟你说的产品经理避坑指南",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-02T04:19:45.993424+00:00",
+      "source_date": "2026-07-02T03:14:13+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1042925/eduardo-souto-de-moura-receives-uia-gold-medal-at-ceremony-held-in-sagrada-familia-barcelona",
+      "title": "爱德华多·苏托·德莫拉 (Eduardo Souto de Moura) 在巴塞罗那圣家族教堂举行的仪式上荣获 UIA 金质奖章",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-02T04:19:50.484775+00:00",
+      "source_date": "2026-07-01T06:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6423468.html",
+      "title": "Skills爆发元年：不会写Prompt也能让AI帮你干活的时代到了",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-02T04:19:50.484818+00:00",
+      "source_date": "2026-07-01T09:47:50+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/fold-out-silicone-bowl-reusable-water-bottles-dogs/",
+      "title": "这款折叠式硅胶碗可扣在可重复使用的水瓶上，供外出时的狗狗使用",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-02T04:19:51.138438+00:00",
+      "source_date": "2026-07-01T10:00:34+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/it/6423606.html",
+      "title": "滴滴支付的“生态突围”",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-02T04:19:51.138485+00:00",
+      "source_date": "2026-07-02T01:34:29+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1042807/architectures-of-movement-archdailys-july-editorial-focus",
+      "title": "运动的建筑：ArchDaily 七月编辑焦点",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-02T04:19:52.815109+00:00",
+      "source_date": "2026-07-01T08:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6423699.html",
+      "title": "木鸟、途家、美团进入暑假时段，盛夏之战谁将打响头炮？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-02T04:19:52.815150+00:00",
+      "source_date": "2026-07-02T03:40:01+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6423557.html",
+      "title": "产品经理AI提效实践：从Vibe Coding到Vibe Typing",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-02T04:19:52.815172+00:00",
+      "source_date": "2026-07-02T01:32:29+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/",
+      "title": "夏日快照（2026 年 7 月壁纸版）",
+      "source": "Smashing Magazine",
+      "language": "en",
+      "published_at": "2026-07-02T04:19:57.762819+00:00",
+      "source_date": "2026-06-30T11:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/you-dont-design-the-interface-anymore-you-design-the-deciding-835c01982ead?source=rss----138adf9c44c---4",
+      "title": "您不再设计界面。你设计决定。",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-07-02T04:19:58.536451+00:00",
+      "source_date": "2026-06-29T21:43:25+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1042670/agricultural-afterlives-when-waste-becomes-architecture",
+      "title": "农业的余生：当废物变成建筑",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-02T04:20:00.907946+00:00",
+      "source_date": "2026-07-01T07:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6423575.html",
+      "title": "AI Agent 进入性价比时代：产品经理该如何重新选择大模型？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-02T04:20:00.907997+00:00",
+      "source_date": "2026-07-02T01:34:22+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/art/noema-craft-prize-exhibition-evolving-language-greek-craft-athens/",
       "title": "nóema 工艺奖展览探讨了雅典希腊工艺语言的演变",
       "source": "designboom",
