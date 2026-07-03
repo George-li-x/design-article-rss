@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/architecture/kengo-kuma-craftsmanship-architecture-connection-place-interview/",
+      "title": "隈研吾谈为什么工艺仍然是建筑与地方的联系",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-03T04:05:28.497546+00:00",
+      "source_date": "2026-07-02T10:45:43+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6424340.html",
+      "title": "营销，如何强化信任感？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-03T04:05:28.497601+00:00",
+      "source_date": "2026-07-03T02:57:55+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6424194.html",
+      "title": "AI 让一人公司变轻，但真正难的是跑通产品闭环",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-03T04:05:28.497629+00:00",
+      "source_date": "2026-07-03T01:35:05+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/garden-ring-carlo-ratti-hospital-future-park-associati-brescia-italy/",
+      "title": "公里长的花园环塑造了 Carlo Ratti Associati 的“未来医院”",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-03T04:05:31.316912+00:00",
+      "source_date": "2026-07-02T16:34:59+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/operate/6423878.html",
+      "title": "下一个10年，从“增长黑客”到“信任复利”",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-03T04:05:31.316961+00:00",
+      "source_date": "2026-07-03T01:26:59+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/technology/layer-modular-chargers-everyday-power-playful-display-objects-node-and-loft-daily-objects/",
+      "title": "LAYER 的模块化充电器将日常电力变成有趣的展示物品",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-03T04:05:33.444271+00:00",
+      "source_date": "2026-07-02T12:30:24+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/big-bjarke-ingels-group-dymak-headquarters-full-scale-showcase-natural-materials-denmark/",
+      "title": "BIG 完成了 dymak 总部的建设，作为丹麦天然材料的全面展示",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-03T04:05:36.179029+00:00",
+      "source_date": "2026-07-02T10:31:52+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/toto-washlet-progetto-bathroom-sensory-experience/",
+      "title": "TOTO 卫洗丽® 的热舒适性如何重新思考浴室的感官体验",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-03T04:05:38.398928+00:00",
+      "source_date": "2026-07-02T10:00:12+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/monolithic-brick-volumes-weekend-house-courtyards-argentina-plug-arquitectura/",
+      "title": "阿根廷，巨大的砖块体量将周末别墅包裹在一系列庭院周围",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-03T04:05:40.759241+00:00",
+      "source_date": "2026-07-02T09:30:26+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1042955/uia-world-congress-2026-and-henning-larsens-new-environmental-analysis-platform-this-weeks-review",
+      "title": "UIA 2026 世界大会和 Henning Larsen 的新环境分析平台：本周回顾",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-03T04:05:46.984941+00:00",
+      "source_date": "2026-07-02T06:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/",
+      "title": "将人工智能模式与用户意图相匹配：设计正确的界面",
+      "source": "Smashing Magazine",
+      "language": "en",
+      "published_at": "2026-07-03T04:06:03.486464+00:00",
+      "source_date": "2026-07-02T10:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6424154.html",
+      "title": "Claude Fable 5 重新上线：AI 产品经理该看的不是模型参数，而是能力边界如何被产品化",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-03T04:06:03.486520+00:00",
+      "source_date": "2026-07-03T01:30:39+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/cn/1042077/jia-na-da-jian-zhu-zhong-xin-cca-qi-dong-guan-yu-zhong-guo-xian-dai-jian-zhu-de-zong-he-yan-jiu-ji-hua-yu-zhan-lan",
+      "title": "加拿大建筑中心（CCA）启动关于中国现代建筑的综合研究计划与展览",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-03T04:06:03.486550+00:00",
+      "source_date": "2026-07-02T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@fahimbinomar/trends-in-ux-design-for-2026-creating-products-that-seem-effortless-human-and-intelligent-55db89f71c69?source=rss------user_experience-5",
+      "title": "2026 年用户体验设计趋势：创造看似轻松、人性化和智能的产品。",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-07-03T04:06:15.711315+00:00",
+      "source_date": "2026-07-02T21:16:55+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/ai-personality-is-a-design-problem-58fbc7926a3d?source=rss----138adf9c44c---4",
+      "title": "AI个性是一个设计问题",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-07-03T04:06:17.284276+00:00",
+      "source_date": "2026-07-02T05:09:06+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6424121.html",
+      "title": "车机同质化困局下，我们如何用“情绪旅伴”构建品牌护城河？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-03T04:06:17.284320+00:00",
+      "source_date": "2026-07-03T01:31:31+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/technology/bugatti-hand-paints-digital-linework-w16-mistral-blanc-eternel-car/",
+      "title": "布加迪在 W16 米斯特拉尔“blanc éternel”上手绘数字线条",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-03T04:06:21.256302+00:00",
+      "source_date": "2026-07-02T15:38:28+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/face-first-swerv-electric-trike-riders-skim-pavement-maximum-thrills/",
+      "title": "最大的刺激：swerv 的电动三轮车让骑手可以面朝前掠过人行道",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-03T04:06:22.135601+00:00",
+      "source_date": "2026-07-02T10:40:10+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6424317.html",
+      "title": "WorkBuddy VS 钉钉悟空 VS 字节 Aily：桌面 Agent 的工程设计",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-03T04:06:22.135703+00:00",
+      "source_date": "2026-07-03T02:53:36+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/pd/6424167.html",
+      "title": "万字复盘：从 0 到 1 设计游戏中台监控系统",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-03T04:06:22.135735+00:00",
+      "source_date": "2026-07-03T01:59:31+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.woshipm.com/ai/6423389.html",
       "title": "把设计规范写成代码格式，是所有AI工具的上游约束方法论",
       "source": "人人都是产品经理",
