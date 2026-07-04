@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.nngroup.com/articles/reporting-ux-business-outcomes/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "停止报告用户体验活动并报告业务成果",
+      "source": "Nielsen Norman Group",
+      "language": "en",
+      "published_at": "2026-07-04T03:59:02.347894+00:00",
+      "source_date": "2026-07-03T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/hair-sanne-visser-redesigning-systems-materials-interview/",
+      "title": "“这与头发无关”：sanne visser 谈重新设计材料背后的系统",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-04T03:59:12.600898+00:00",
+      "source_date": "2026-07-03T10:45:28+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/snohetta-prairie-roof-roosevelt-library-theodore-roosevelt-badlands/",
+      "title": "snøhetta 的草原屋顶罗斯福图书馆向美国选择保护的风景致敬",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-04T03:59:13.569299+00:00",
+      "source_date": "2026-07-03T15:08:14+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/technology/lacoste-alpine-a290-rallye-iconic-crocodile-motif/",
+      "title": "Lacoste 通过其标志性的鳄鱼图案重新构想 Alpine 的 A290 拉力赛",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-04T03:59:15.244958+00:00",
+      "source_date": "2026-07-03T08:30:57+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/suspended-glacier-forms-climate-change-interactive-installation-shanghai-dayuan-design/",
+      "title": "悬浮冰川形态将气候变化转化为上海的互动装置",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-04T03:59:25.132714+00:00",
+      "source_date": "2026-07-03T17:30:30+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/scaffolding-pipes-street-furniture-future-development-site-osaka-gas-stand-team-raw-row/",
+      "title": "脚手架管道变成街道设施，激活大阪未来的开发场地",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-04T03:59:25.827425+00:00",
+      "source_date": "2026-07-04T00:55:25+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/did-good-ux-break-the-job-market-546438288589?source=rss----138adf9c44c---4",
+      "title": "良好的用户体验是否打破了就业市场？",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-07-04T03:59:27.698867+00:00",
+      "source_date": "2026-07-03T11:16:44+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/",
+      "title": "用户不需要更多工具：他们需要无缝集成",
+      "source": "Smashing Magazine",
+      "language": "en",
+      "published_at": "2026-07-04T03:59:30.454993+00:00",
+      "source_date": "2026-07-03T13:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6424770.html",
+      "title": "WorkBuddy专家团提示词全曝光：多Agent协作原来是这样产品化的",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-04T03:59:30.455043+00:00",
+      "source_date": "2026-07-04T01:58:18+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1042932/re-living-how-can-we-make-renovation-scale",
+      "title": "Re:Living：我们如何制定装修规模？",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-04T03:59:32.610328+00:00",
+      "source_date": "2026-07-03T06:45:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@adityaps219/designing-conversational-interfaces-a-field-guide-to-delegation-trust-and-control-b2ca84d251a7?source=rss------product_design-5",
+      "title": "设计对话界面：委派、信任和控制现场指南",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-07-04T03:59:39.357330+00:00",
+      "source_date": "2026-07-03T15:27:47+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/866897/30-sites-every-architect-should-visit-in-mexico-city",
+      "title": "墨西哥城建筑城市指南：从特诺奇蒂特兰到 21 世纪的 38 个项目",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-04T03:59:41.515907+00:00",
+      "source_date": "2026-07-03T04:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6424488.html",
+      "title": "一人产品团队时代：Vibe Coding 会让产品、设计、开发怎么重新分工？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-04T03:59:41.515952+00:00",
+      "source_date": "2026-07-04T00:32:04+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/cycling-running-skiing-new-halfbike-pro/",
+      "title": "骑行、跑步和滑雪在新款 halfbike pro 中融合",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-04T03:59:42.578045+00:00",
+      "source_date": "2026-07-03T09:39:25+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6424778.html",
+      "title": "好产品，为什么不一定卖得好？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-04T03:59:42.578091+00:00",
+      "source_date": "2026-07-04T02:16:37+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/cn/1041848/da-xing-mu-jie-gou-zhu-zhai-de-ji-zhu-xian-shi-wu-ge-ou-zhou-an-li",
+      "title": "大型木结构住宅的技术现实：五个欧洲案例",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-04T03:59:42.578121+00:00",
+      "source_date": "2026-07-03T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6424421.html",
+      "title": "极端约束下的从0到1的UGC生态重构实践：资源匮乏与创作者流失条件下的产品落地过程",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-04T03:59:42.578150+00:00",
+      "source_date": "2026-07-03T05:56:01+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/cn/1042504/gauguin-latelier-du-pouldu-jie-shuo-zhong-xin-modal-architecture-plus-quartz-architecture",
+      "title": "“Gauguin, l’Atelier du Pouldu” 解说中心 / Modal Architecture + Quartz Architecture",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-04T03:59:42.578175+00:00",
+      "source_date": "2026-07-03T15:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6424768.html",
+      "title": "甲方重金打造的AI应用，为什么一败涂地？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-04T03:59:42.578199+00:00",
+      "source_date": "2026-07-04T01:57:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/cn/1042719/kere-architecture-jie-xiao-li-yue-re-nei-lu-gong-gong-tu-shu-guan-she-ji-zhi-jing-fei-yi-ba-xi-wen-hua-yi-chan",
+      "title": "Kéré Architecture 揭晓里约热内卢公共图书馆设计，致敬非裔巴西文化遗产",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-04T03:59:42.578226+00:00",
+      "source_date": "2026-07-03T13:00:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/architecture/kengo-kuma-craftsmanship-architecture-connection-place-interview/",
       "title": "隈研吾谈为什么工艺仍然是建筑与地方的联系",
       "source": "designboom",
