@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/design/intelligent-hand-moves-everything-alberto-cavalli-homo-faber-2026-future-craft-interview/",
+      "title": "“智能手推动一切”：阿尔贝托·卡瓦利 (Alberto Cavalli) 谈 homo faber 和工艺的未来",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-05T04:18:08.893636+00:00",
+      "source_date": "2026-07-04T10:09:18+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/bookstore-cobe-copenhagen-material-library-architecture-cities-ideas/",
+      "title": "科比哥本哈根内的一家书店：建筑、城市和思想的材料图书馆",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-05T04:18:09.978134+00:00",
+      "source_date": "2026-07-05T02:50:54+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/copper-shingles-curving-concert-hall-la-source-vive-evian-france-philippe-chiambaretta/",
+      "title": "法国埃维昂的铜瓦包裹着弧形音乐厅“la source vive”",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-05T04:18:11.433131+00:00",
+      "source_date": "2026-07-04T14:35:26+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6424770.html",
+      "title": "WorkBuddy专家团提示词全曝光：多Agent协作原来是这样产品化的",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-05T04:18:11.433155+00:00",
+      "source_date": "2026-07-04T01:58:18+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@mysocialmail608/lessons-every-designer-learns-after-writing-no-code-frontend-54402e9e0be4?source=rss------product_design-5",
+      "title": "每个设计师在编写无代码前端后学到的教训",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-07-05T04:18:13.294904+00:00",
+      "source_date": "2026-07-04T19:17:02+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@helenmarouli/the-next-big-ux-trend-isnt-ai-it-s-giving-people-their-time-back-f5d52b1f389f?source=rss------product_design-5",
+      "title": "下一个用户体验大趋势不是人工智能。它让人们重新获得时间。",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-07-05T04:18:18.737641+00:00",
+      "source_date": "2026-07-04T15:44:31+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/technology/soft-robot-fold-laundry-weave-robotics-isaac-1/",
+      "title": "这个软机器人想要叠衣服而不假装人类",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-05T04:18:19.866455+00:00",
+      "source_date": "2026-07-03T21:00:49+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/never-mind-the-prompts-heres-the-thinking-f4af4b92155f?source=rss----138adf9c44c---4",
+      "title": "别管提示，这就是想法",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-07-05T04:18:27.366866+00:00",
+      "source_date": "2026-07-04T16:37:02+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/marketing/6424778.html",
+      "title": "为什么好产品卖不动？iPod之父的3个阶段与1个真相",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-05T04:18:27.366893+00:00",
+      "source_date": "2026-07-04T02:16:37+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.nngroup.com/articles/crafting-ai-explanations/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "为企业中的每个角色制定人工智能解释",
+      "source": "Nielsen Norman Group",
+      "language": "en",
+      "published_at": "2026-07-05T04:18:37.431775+00:00",
+      "source_date": "2026-07-03T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/otherworldly-ken-prices-solo-exhibition-pomo-norway/",
+      "title": "ken Price 在挪威 PoMo 举办的超凡脱俗的个展",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-05T04:18:38.963266+00:00",
+      "source_date": "2026-07-04T19:45:45+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/3484456.html",
+      "title": "从参数竞赛到商业落地：国内AI市场进入价值验证期",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-05T04:18:38.963291+00:00",
+      "source_date": "2026-07-05T01:31:48+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1041242/paraiso-office-building-plus-industrial-warehouse-tec-taller-ec",
+      "title": "PARAISO办公楼+工业仓库 / TEC Taller EC",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-05T04:18:40.712992+00:00",
+      "source_date": "2026-07-04T15:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6424768.html",
+      "title": "甲方斥资百万的AI CRM为什么没人用？从纷享销客拆解真正原因",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-05T04:18:40.713014+00:00",
+      "source_date": "2026-07-04T01:57:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6424682.html",
+      "title": "企业知识图谱的真相：MongoDB + Milvus + ES + NebulaGraph 混合架构实战",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-05T04:18:40.713028+00:00",
+      "source_date": "2026-07-05T00:28:06+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1042710/building-forward-how-vernacular-knowledge-is-shaping-contemporary-architecture",
+      "title": "向前发展：乡土知识如何塑造当代建筑",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-05T04:18:43.242195+00:00",
+      "source_date": "2026-07-04T07:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/you-design-it-then-what-a-clear-map-of-the-figma-to-code-ai-mess-954a4084175f?source=rss----138adf9c44c---4",
+      "title": "你设计它。然后呢？ Figma 到代码 AI 混乱的清晰地图",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-07-05T04:18:51.250604+00:00",
+      "source_date": "2026-07-03T11:17:14+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6424781.html",
+      "title": "私域运营的底层逻辑：不是社群，而是信任和组织",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-05T04:18:51.250645+00:00",
+      "source_date": "2026-07-04T02:22:49+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/cn/1042757/hu-die-da-sha-yu-di-jin-xin-hui-jiao-tang-zong-he-ti-revery-architecture",
+      "title": "蝴蝶大厦与第一浸信会教堂综合体 / Revery Architecture",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-05T04:18:51.250661+00:00",
+      "source_date": "2026-07-04T11:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6424344.html",
+      "title": "从下载到弃用再到上手：一个 Obsidian + LLM Wiki 的真实使用记录",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-05T04:18:51.250674+00:00",
+      "source_date": "2026-07-04T07:11:42+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.nngroup.com/articles/reporting-ux-business-outcomes/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "title": "停止报告用户体验活动并报告业务成果",
       "source": "Nielsen Norman Group",
