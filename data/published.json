@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.woshipm.com/ai/6425223.html",
+      "title": "设计师作为”语义翻译者” 当AI生成界面时我怎么用规则锁住设计意图",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-06T04:36:39.810322+00:00",
+      "source_date": "2026-07-06T03:44:30+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/yellow-steel-concrete-circular-openings-corner-building-spain-apart-hotel-l-hospitalet-de-llobregat-marti-julia-m-i-r-a/",
+      "title": "黄色钢材、混凝土和圆形开口使西班牙的角楼重新焕发活力，成为公寓式酒店",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-06T04:36:42.320280+00:00",
+      "source_date": "2026-07-06T01:15:10+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/aluminum-cafe-table-wall-flexible-hospitality-furniture-george-willy/",
+      "title": "离开墙壁的铝制咖啡桌重新定义了灵活的酒店家具",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-06T04:36:43.721000+00:00",
+      "source_date": "2026-07-05T04:30:56+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@hersone/why-every-ui-ux-designer-should-learn-design-systems-6db2d642c5a2?source=rss------product_design-5",
+      "title": "为什么每个 UI/UX 设计师都应该学习设计系统",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-07-06T04:36:45.488460+00:00",
+      "source_date": "2026-07-06T04:29:05+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@shanicaroy/why-rare-beauty-taught-me-more-about-ux-than-my-design-job-d8a4cd21e59c?source=rss------product_design-5",
+      "title": "为什么“稀有之美”让我学到的关于用户体验的知识比我的设计工作更多",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-07-06T04:36:49.061393+00:00",
+      "source_date": "2026-07-05T19:04:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@shanicaroy/why-rare-beauty-taught-me-more-about-ux-than-my-design-job-d8a4cd21e59c?source=rss------user_experience-5",
+      "title": "为什么“稀有之美”让我学到的关于用户体验的知识比我的设计工作更多",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-07-06T04:36:49.945415+00:00",
+      "source_date": "2026-07-05T19:04:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6425048.html",
+      "title": "AI产品正在进入“算账时代”：产品经理不能只会调用大模型了",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-06T04:36:49.945465+00:00",
+      "source_date": "2026-07-06T01:54:46+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/beauty-jacques-monneraud-cardboard-lasting-ceramics-interview/",
+      "title": "“美可以帮助拯救我们”：雅克·莫内罗 (Jacques Monneraud) 将纸板变成耐用的陶瓷",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-06T04:36:54.780859+00:00",
+      "source_date": "2026-07-05T13:45:17+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@anastasiaprh/you-are-the-creator-not-ai-89b3b75f4282?source=rss------product_design-5",
+      "title": "你是创造者，而不是人工智能",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-07-06T04:36:55.704890+00:00",
+      "source_date": "2026-07-05T22:50:21+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1042669/pedagogy-in-space-architecture-schools-hidden-curriculum",
+      "title": "太空教育学：建筑学校的隐藏课程",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-06T04:36:56.413258+00:00",
+      "source_date": "2026-07-05T07:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6424360.html",
+      "title": "微博上的品牌代言营销：一场“长期主义”的社交资产沉淀方法论",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-06T04:36:56.413304+00:00",
+      "source_date": "2026-07-06T03:48:55+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/zhichang/6425302.html",
+      "title": "运营做爆款的四个段位（2026）：从像素级复刻到 AI 一键换产品重生成",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-06T04:36:56.413333+00:00",
+      "source_date": "2026-07-06T03:47:07+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6425197.html",
+      "title": "企业的业财法AI 落地为什么总失败？一文讲透正确姿势",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-06T04:36:56.413361+00:00",
+      "source_date": "2026-07-06T03:32:46+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@juha_pihanen/ux-can-be-a-matter-of-life-and-death-81b0e9819ab6?source=rss------user_experience-5",
+      "title": "用户体验可能是生死攸关的问题",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-07-06T04:36:57.933463+00:00",
+      "source_date": "2026-07-05T16:09:37+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1043005/hampi-samay-wasi-regenerative-architecture-and-ancestral-memory-in-the-kichwa-amazon-allwa-arquitectura",
+      "title": "Hampi Samay Wasi：Kichwa 亚马逊地区的再生建筑和祖先记忆 / Allwa Arquitectura",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-06T04:36:59.319103+00:00",
+      "source_date": "2026-07-05T16:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6425352.html",
+      "title": "从仓储业务角度理解算法",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-06T04:36:59.319151+00:00",
+      "source_date": "2026-07-06T03:48:48+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6425180.html",
+      "title": "对接媒体 API 前，产品经理到底要准备什么？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-06T04:36:59.319183+00:00",
+      "source_date": "2026-07-06T03:13:24+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6425129.html",
+      "title": "AI产品时代下的创业新思路：一个前SaaS产品经理的五年反思",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-06T04:36:59.319212+00:00",
+      "source_date": "2026-07-06T02:24:42+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@design_orbits/flyer-design-cost-uk-2026-the-complete-guide-to-prices-providers-what-you-actually-get-aa024ee890ab?source=rss------product_design-5",
+      "title": "英国 2026 年传单设计成本：价格、提供商和您实际获得的完整指南",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-07-06T04:37:01.097355+00:00",
+      "source_date": "2026-07-06T01:39:58+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@mounika.konidala/one-gap-keeps-showing-up-in-ai-assisted-ux-design-a182d6af5080?source=rss------user_experience-5",
+      "title": "人工智能辅助的用户体验设计中不断出现一个差距。",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-07-06T04:37:03.977787+00:00",
+      "source_date": "2026-07-06T00:56:49+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/design/intelligent-hand-moves-everything-alberto-cavalli-homo-faber-2026-future-craft-interview/",
       "title": "“智能手推动一切”：阿尔贝托·卡瓦利 (Alberto Cavalli) 谈 homo faber 和工艺的未来",
       "source": "designboom",
