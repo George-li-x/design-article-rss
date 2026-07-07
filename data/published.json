@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.woshipm.com/ai/6425536.html",
+      "title": "AI设计提效应用案例及工作流",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-07T04:15:40.892683+00:00",
+      "source_date": "2026-07-07T01:04:53+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/mold-architects-five-stone-retreats-serifos-island-greece/",
+      "title": "MOLD 建筑师在塞里福斯岛的岩石斜坡上下沉了五个石头静修处",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-07T04:15:44.129013+00:00",
+      "source_date": "2026-07-06T17:31:49+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/four-inclined-metal-planes-bridge-place-leaning-drawing-observing-easel-bridge-xbtw-office/",
+      "title": "四个倾斜的平面将这座桥变成了一个倾斜、绘画和观察的地方",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-07T04:15:46.246500+00:00",
+      "source_date": "2026-07-06T14:00:35+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/sophie-lou-jacobsen-italy-crystals-blown-glass-craftsmanship/",
+      "title": "sophie lou jacobsen 谈意大利、水晶和吹制玻璃工艺",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-07T04:15:48.176614+00:00",
+      "source_date": "2026-07-06T10:45:31+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/local-identity-versus-universal-style-room-for-dreams-podcast/",
+      "title": "新的全球游牧者：我们是否正在用通用的建筑风格取代当地的身份？",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-07T04:15:49.208005+00:00",
+      "source_date": "2026-07-06T10:20:42+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/soft-monolithic-forms-modular-furniture-collection-nubuck-alpaca-oak-mouvement-ed-berrios-objet-mobilier/",
+      "title": "柔软的整体形式塑造了磨砂皮、羊驼毛和橡木的模块化家具系列",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-07T04:15:51.328951+00:00",
+      "source_date": "2026-07-06T09:30:07+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6425999.html",
+      "title": "上线一个多月获160万下载，老玩法20年后再度走红，“宝宝预测”迎来升级版本",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-07T04:15:51.328997+00:00",
+      "source_date": "2026-07-07T03:35:40+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6425774.html",
+      "title": "AI产品思考（一）从社交本质出发，AI会如何参与社交？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-07T04:15:51.329021+00:00",
+      "source_date": "2026-07-07T02:11:36+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/it/6424699.html",
+      "title": "八年跨越AI两个时代：一个产品经理的五条核心判断",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-07T04:15:51.329045+00:00",
+      "source_date": "2026-07-07T01:06:16+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1042691/the-shape-of-water-20-aquatic-centers-building-collective-landscapes",
+      "title": "水形物语：20个水上运动中心打造集体景观",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-07T04:15:55.579227+00:00",
+      "source_date": "2026-07-06T04:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/teresa-van-dongen-designing-living-systems-essay/",
+      "title": "teresa van dongen 谈生命系统设计",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-07T04:16:07.706994+00:00",
+      "source_date": "2026-07-07T01:30:26+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1042030/expanding-the-meaning-of-accessibility-designing-for-assisted-care-in-public",
+      "title": "扩展无障碍的含义：公共辅助护理设计",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-07T04:16:12.707302+00:00",
+      "source_date": "2026-07-06T06:45:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/fujiko-nakaya-mies-van-der-rohe-berlin-sculpture-garden-landscape-fog-neue-nationalgalerie/",
+      "title": "中谷藤子将密斯·凡德罗的柏林雕塑花园变成雾景",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-07T04:16:13.628774+00:00",
+      "source_date": "2026-07-06T08:30:19+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/marketing/6425344.html",
+      "title": "同一件商品，为什么在A平台卖爆，在B平台无人问津？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-07T04:16:13.628812+00:00",
+      "source_date": "2026-07-07T03:33:22+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6425854.html",
+      "title": "别再神化 OpenClaw，聊天框做不出好产品",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-07T04:16:13.628836+00:00",
+      "source_date": "2026-07-07T02:06:09+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1043000/wildsumaco-research-pavilion-caa-pora-arquitectura",
+      "title": "WildSumaco 研究馆 / Caá Porá Arquitectura",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-07T04:16:17.380346+00:00",
+      "source_date": "2026-07-06T15:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/pmd/6425789.html",
+      "title": "当实现不再稀缺，AI PM 靠什么活下去？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-07T04:16:17.380387+00:00",
+      "source_date": "2026-07-07T01:29:20+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6425718.html",
+      "title": "7·15新规落地后，情感AI的未成年人保护，不能只靠一个弹窗了",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-07T04:16:17.380413+00:00",
+      "source_date": "2026-07-07T01:07:43+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1042924/new-life-for-old-spaces-buildner-reveals-re-form-winners-as-edition-3-opens",
+      "title": "旧空间的新生命：随着第 3 版的开放，建筑商公布了改造获胜者",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-07T04:16:29.503747+00:00",
+      "source_date": "2026-07-06T06:45:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.theverge.com/gadgets/961895/hoto-pixeldrive-screwdriver-deal-sale",
+      "title": "Hoto 的 PixelDrive 螺丝刀降至 60 美元，符合最优惠价格",
+      "source": "The Verge Design",
+      "language": "en",
+      "published_at": "2026-07-07T04:16:31.802404+00:00",
+      "source_date": "2026-07-06T20:24:28+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.woshipm.com/ai/6425223.html",
       "title": "设计师作为”语义翻译者” 当AI生成界面时我怎么用规则锁住设计意图",
       "source": "人人都是产品经理",
