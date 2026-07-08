@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.archdaily.com/1054028/snohettas-shanghai-grand-opera-house-nears-completion-ahead-of-october-opening",
+      "title": "Snøhetta 设计的上海大歌剧院即将于 10 月开幕",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-08T03:40:31.334828+00:00",
+      "source_date": "2026-07-07T05:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/new-art-center-paris-ile-seguin-october-rcr-arquitectes/",
+      "title": "由 RCR arquitectes 设计的新艺术中心将于 10 月在巴黎塞甘岛开业",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-08T03:40:32.500509+00:00",
+      "source_date": "2026-07-07T18:00:02+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/antoni-gaudi-architecture-way-schiaparelli-haute-couture-daniel-roseberry/",
+      "title": "安东尼·高迪的建筑如何融入夏帕瑞丽高级时装界",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-08T03:40:33.580240+00:00",
+      "source_date": "2026-07-07T14:00:18+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/mutated-chairs-fur-flesh-studio-charlotte-kingsnorth-london/",
+      "title": "夏洛特·金斯诺斯工作室里变异的椅子长出了毛皮和肉",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-08T03:40:34.444860+00:00",
+      "source_date": "2026-07-07T10:50:15+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/the-crisis-of-the-what-d29135a8be59?source=rss----138adf9c44c---4",
+      "title": "危机是什么",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-07-08T03:40:40.793821+00:00",
+      "source_date": "2026-07-07T22:51:18+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/moradavaga-interactive-urban-connectors-viennese-neighborhood-living-lab-outsiders/",
+      "title": "莫拉达瓦加的交互式城市连接器激活了维也纳邻里生活实验室",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-08T03:40:43.413548+00:00",
+      "source_date": "2026-07-07T06:30:13+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6425191.html",
+      "title": "一个Demo惊艳全场、两周后被叫停的Agent项目",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-08T03:40:43.413597+00:00",
+      "source_date": "2026-07-08T02:00:45+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/casa-kiki-1930s-california-style-home-pink-turret-mexico-city-zda-yuri-zagorin-alazraki/",
+      "title": "casa kiki 在墨西哥城的粉红色塔楼周围重现了 1930 年代加州风格的住宅",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-08T03:40:44.552255+00:00",
+      "source_date": "2026-07-07T16:30:14+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6426270.html",
+      "title": "别再只会 Vibe Coding：AI 做大项目，产品经理要先搭 Harness",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-08T03:40:44.552300+00:00",
+      "source_date": "2026-07-08T01:58:50+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6426333.html",
+      "title": "聊天框让 AI 被看见，工作台才可能让 AI 被留下。",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-08T03:40:44.552328+00:00",
+      "source_date": "2026-07-08T03:03:08+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/black-fabric-veil-raw-bamboo-matrix-hubei-dense-grove-veil-tower-gengjin/",
+      "title": "湖北茂密的树林中，黑色的织物面纱悬浮在原始的竹子基质中",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-08T03:40:45.166125+00:00",
+      "source_date": "2026-07-07T09:30:46+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/the-15-minute-ai-stress-test-every-designer-can-run-ce8de95ff5c9?source=rss----138adf9c44c---4",
+      "title": "每个设计师都可以进行的 15 分钟 AI 压力测试",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-07-08T03:40:54.253028+00:00",
+      "source_date": "2026-07-07T12:06:33+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/",
+      "title": "认识 Kirki：WordPress 的第一个具有无限画布的视觉构建器",
+      "source": "Smashing Magazine",
+      "language": "en",
+      "published_at": "2026-07-08T03:40:59.629750+00:00",
+      "source_date": "2026-07-07T10:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/how-any-designer-can-build-a-more-open-design-culture-at-work-e74e0925d781?source=rss----138adf9c44c---4",
+      "title": "设计师如何在工作中建立更加开放的设计文化",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-07-08T03:41:00.144718+00:00",
+      "source_date": "2026-07-07T12:04:52+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/design-system-debt-game-ux-39-principles-for-ai-interaction-dab9500dc926?source=rss----138adf9c44c---4",
+      "title": "设计系统债务、游戏用户体验、AI 交互的 39 条原则",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-07-08T03:41:01.430658+00:00",
+      "source_date": "2026-07-06T11:25:19+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/pmd/6426257.html",
+      "title": "商业化产品为什么一定要懂数据？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-08T03:41:01.430704+00:00",
+      "source_date": "2026-07-08T01:48:07+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6426247.html",
+      "title": "WPS舆情风波后，金山办公需要一场“海底捞式”的转身",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-08T03:41:01.430732+00:00",
+      "source_date": "2026-07-08T01:31:09+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6425750.html",
+      "title": "为了对抗AI的”附和”，我把它做成了一款产品",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-08T03:41:01.430758+00:00",
+      "source_date": "2026-07-07T09:19:27+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6426300.html",
+      "title": "AI 搜索正在改写内容增长：以后你的文章，可能先被机器筛掉",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-08T03:41:01.430783+00:00",
+      "source_date": "2026-07-08T02:32:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6426224.html",
+      "title": "预算产品化：用产品成本逻辑做家装报价，告别比价内卷与客户质疑",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-08T03:41:01.430807+00:00",
+      "source_date": "2026-07-08T01:02:41+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.woshipm.com/ai/6425536.html",
       "title": "AI设计提效应用案例及工作流",
       "source": "人人都是产品经理",
