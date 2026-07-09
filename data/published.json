@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/design/ceramic-wall-termite-mounds-cools-interiors-without-air-conditioning/",
+      "title": "受白蚁丘启发的陶瓷墙无需空调即可冷却室内",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-09T10:07:45.495383+00:00",
+      "source_date": "2026-07-09T08:00:57+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/modular-cabin-river-forest-mountains-argentine-patagonia-plug-arquitectura-villa-meliquina/",
+      "title": "阿根廷巴塔哥尼亚的河流、森林和山脉之间矗立着一座模块化小屋",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-09T10:07:47.457028+00:00",
+      "source_date": "2026-07-09T06:30:13+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/villa-benkemoun-home-gerardandkelly-site-specific-performance-rencontres-arles-raphael-giannesini-interview/",
+      "title": "杰拉德和凯利 (Gerard & kelly) 的场地特定表演让本克蒙别墅 (Villa Benkemoun) 再次成为家",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-09T10:07:49.929242+00:00",
+      "source_date": "2026-07-09T08:30:29+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1054058/mycelium-resources-in-architecture-and-design",
+      "title": "建筑和设计中的菌丝体资源",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-09T10:07:50.628371+00:00",
+      "source_date": "2026-07-08T11:43:31+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1054057/walzwerk-student-design-competition",
+      "title": "Walzwerk - 学生设计竞赛",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-09T10:07:50.851572+00:00",
+      "source_date": "2026-07-08T11:43:31+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/indo-global-dialogue-regional-craft-room-for-dreams-podcast/",
+      "title": "印度-全球对话：放弃西方模板，让区域工艺拥有发言权",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-09T10:07:52.199278+00:00",
+      "source_date": "2026-07-09T09:30:40+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1042929/the-politics-of-bamboo-from-vernacular-craft-to-temporal-infrastructure",
+      "title": "竹子的政治：从民间工艺到临时基础设施",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-09T10:07:53.148054+00:00",
+      "source_date": "2026-07-08T06:30:24+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1042581/park-in-market-office-canopy-of-architecture",
+      "title": "市场公园 / 建筑办公室天篷",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-09T10:07:55.195048+00:00",
+      "source_date": "2026-07-08T06:30:24+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@unitedworldinstitute1/product-and-service-design-course-in-india-uid-aebed2f985e3?source=rss------product_design-5",
+      "title": "印度的产品和服务设计课程|用户识别码",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-07-09T10:07:57.876772+00:00",
+      "source_date": "2026-07-09T07:54:22+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6427258.html",
+      "title": "软件的护城河，已经被 AI 打穿了",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-09T10:07:57.876818+00:00",
+      "source_date": "2026-07-09T07:19:47+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@biswajitsarkarip/design-lawyer-in-india-protect-your-creative-designs-with-expert-legal-support-2c47c09463d0?source=rss------design-5",
+      "title": "印度的设计律师：通过专家法律支持保护您的创意设计",
+      "source": "Medium · Design",
+      "language": "en",
+      "published_at": "2026-07-09T10:08:01.106879+00:00",
+      "source_date": "2026-07-09T09:15:07+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@unitedworldinstitute1/product-and-service-design-course-in-india-uid-aebed2f985e3?source=rss------design-5",
+      "title": "印度的产品和服务设计课程|用户识别码",
+      "source": "Medium · Design",
+      "language": "en",
+      "published_at": "2026-07-09T10:08:01.395204+00:00",
+      "source_date": "2026-07-09T07:54:22+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1054056/lorcan-oherlihys-los-angeles-dignity-beauty-and-belonging-free-self-guided-architectural-trail-map",
+      "title": "洛肯·奥赫利希 (Lorcan O’Herlihy) 的洛杉矶：尊严、美丽和归属感 - 免费自助建筑路线地图",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-09T10:08:02.327306+00:00",
+      "source_date": "2026-07-08T11:43:31+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6427080.html",
+      "title": "大厂砍掉 AI 聊天搭子后，产品经理要重算用户价值",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-09T10:08:02.327349+00:00",
+      "source_date": "2026-07-09T06:10:03+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/cn/1055966/casaluna-zhu-zhai-anarquitectura",
+      "title": "Casaluna 住宅 / Anarquitectura",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-09T10:08:03.511156+00:00",
+      "source_date": "2026-07-08T18:30:24+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6427223.html",
+      "title": "不需要手机验证，如何使用Codex？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-09T10:08:03.511214+00:00",
+      "source_date": "2026-07-09T06:36:46+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6427123.html",
+      "title": "AI帮我做完PPT后，我要求它告诉我怎么做的，于是我学会了…",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-09T10:08:03.511246+00:00",
+      "source_date": "2026-07-09T03:36:55+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6427084.html",
+      "title": "主管休假我就慌，没有领导“兜底”的你，该怎么独立行走？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-09T10:08:03.511276+00:00",
+      "source_date": "2026-07-09T02:46:03+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6427077.html",
+      "title": "企业增长停滞，先别怪市场部！",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-09T10:08:03.511301+00:00",
+      "source_date": "2026-07-09T02:37:42+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6427003.html",
+      "title": "为什么越推AI，公司内耗越严重？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-09T10:08:03.511326+00:00",
+      "source_date": "2026-07-09T01:40:13+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/architecture/handmade-elephant-dung-bricks-goya-tower-southern-thailand/",
       "title": "手工制作的象粪砖让 Boonserm Premthada 的戈雅塔在泰国南部拔地而起",
       "source": "designboom",
