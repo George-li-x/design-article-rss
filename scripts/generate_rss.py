@@ -31,6 +31,8 @@ OUTPUT = ROOT / "docs" / "design-rss.xml"
 USER_AGENT = "DesignDigestRSS/2.0 (+https://github.com/George-li-x/design-article-rss)"
 ARTICLES_PER_DAY = 20
 CHINESE_PER_DAY = 8
+UI_UX_PER_DAY = 12
+ARCHITECTURE_MAX_PER_DAY = 4
 ARCHIVE_RETENTION_DAYS = 180
 MAX_TRANSLATION_CHARS = 3200
 MEDIUM_AUTHOR_FEEDS: dict[str, dict[str, str]] = {}
@@ -45,6 +47,15 @@ KEYWORDS = {
     "产品": 9, "设计": 7, "用户体验": 10, "界面": 8, "交互": 8,
     "家具": 9, "室内": 9, "建筑": 7, "无障碍": 9, "服务设计": 9,
     "可持续": 7, "调研": 7,
+}
+UI_UX_TERMS = {
+    "ux", "ui", "user experience", "interface", "usability", "interaction",
+    "accessibility", "design system", "user research", "prototype",
+    "用户体验", "用户研究", "界面", "交互", "可用性", "无障碍", "设计系统", "原型",
+}
+ARCHITECTURE_TERMS = {
+    "architecture", "architect", "building", "pavilion", "facade", "interior",
+    "建筑", "建筑师", "展馆", "立面", "室内", "住宅", "公寓",
 }
 CONTENT_NS = "http://purl.org/rss/1.0/modules/content/"
 MEDIA_NS = "http://search.yahoo.com/mrss/"
@@ -363,13 +374,52 @@ def paragraphs_from_text(value: str) -> str:
     return "".join(f"<p>{html.escape(block)}</p>" for block in blocks) or f"<p>{html.escape(value)}</p>"
 
 
+def design_area(article: dict) -> str:
+    """Classify articles for quota enforcement; article text beats source defaults."""
+    haystack = (article["title"] + " " + article["summary"]).lower()
+    if any(term in haystack for term in UI_UX_TERMS):
+        return "ui_ux"
+    if any(term in haystack for term in ARCHITECTURE_TERMS):
+        return "architecture"
+    topics = set(article["source"].get("topics", []))
+    if topics.intersection({"ux", "ui", "research", "web"}):
+        return "ui_ux"
+    if topics.intersection({"architecture", "interior"}):
+        return "architecture"
+    return "other"
+
+
+def select_bucket(items: list[dict], quota: int, ui_ux_target: int, architecture_max: int) -> list[dict]:
+    """Select one language bucket while guaranteeing UI/UX and limiting architecture."""
+    selected = [item for item in items if design_area(item) == "ui_ux"][:ui_ux_target]
+    for item in items:
+        if len(selected) >= quota:
+            break
+        if item in selected:
+            continue
+        if design_area(item) == "architecture":
+            architecture_count = sum(design_area(chosen) == "architecture" for chosen in selected)
+            if architecture_count >= architecture_max:
+                continue
+        selected.append(item)
+    return selected
+
+
 def select_articles(candidates: list[dict]) -> list[dict]:
     candidates.sort(key=score, reverse=True)
     chinese = [item for item in candidates if item["source"].get("language") == "zh" or is_chinese(item["title"])]
     international = [item for item in candidates if item not in chinese]
-    selected = chinese[:CHINESE_PER_DAY] + international[:ARTICLES_PER_DAY - CHINESE_PER_DAY]
+    selected = select_bucket(chinese, CHINESE_PER_DAY, 5, 2)
+    selected += select_bucket(international, ARTICLES_PER_DAY - CHINESE_PER_DAY, UI_UX_PER_DAY - 5, 2)
     if len(selected) < ARTICLES_PER_DAY:
-        selected += [item for item in candidates if item not in selected][:ARTICLES_PER_DAY - len(selected)]
+        for item in candidates:
+            if len(selected) >= ARTICLES_PER_DAY:
+                break
+            if item in selected:
+                continue
+            if design_area(item) == "architecture" and sum(design_area(chosen) == "architecture" for chosen in selected) >= ARCHITECTURE_MAX_PER_DAY:
+                continue
+            selected.append(item)
     return sorted(selected, key=score, reverse=True)[:ARTICLES_PER_DAY]
 
 
