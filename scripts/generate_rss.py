@@ -31,7 +31,8 @@ OUTPUT = ROOT / "docs" / "design-rss.xml"
 USER_AGENT = "DesignDigestRSS/2.0 (+https://github.com/George-li-x/design-article-rss)"
 ARTICLES_PER_DAY = 20
 CHINESE_PER_DAY = 8
-UI_UX_PER_DAY = 12
+UI_UX_TARGET_PER_DAY = 10
+UI_UX_MAX_PER_DAY = 10
 ARCHITECTURE_MAX_PER_DAY = 4
 ARCHIVE_RETENTION_DAYS = 180
 MAX_TRANSLATION_CHARS = 3200
@@ -389,7 +390,7 @@ def design_area(article: dict) -> str:
     return "other"
 
 
-def select_bucket(items: list[dict], quota: int, ui_ux_target: int, architecture_max: int) -> list[dict]:
+def select_bucket(items: list[dict], quota: int, ui_ux_target: int, ui_ux_max: int, architecture_max: int) -> list[dict]:
     """Select one language bucket while guaranteeing UI/UX and limiting architecture."""
     selected = [item for item in items if design_area(item) == "ui_ux"][:ui_ux_target]
     for item in items:
@@ -397,6 +398,10 @@ def select_bucket(items: list[dict], quota: int, ui_ux_target: int, architecture
             break
         if item in selected:
             continue
+        if design_area(item) == "ui_ux":
+            ui_ux_count = sum(design_area(chosen) == "ui_ux" for chosen in selected)
+            if ui_ux_count >= ui_ux_max:
+                continue
         if design_area(item) == "architecture":
             architecture_count = sum(design_area(chosen) == "architecture" for chosen in selected)
             if architecture_count >= architecture_max:
@@ -409,13 +414,15 @@ def select_articles(candidates: list[dict]) -> list[dict]:
     candidates.sort(key=score, reverse=True)
     chinese = [item for item in candidates if item["source"].get("language") == "zh" or is_chinese(item["title"])]
     international = [item for item in candidates if item not in chinese]
-    selected = select_bucket(chinese, CHINESE_PER_DAY, 5, 2)
-    selected += select_bucket(international, ARTICLES_PER_DAY - CHINESE_PER_DAY, UI_UX_PER_DAY - 5, 2)
+    selected = select_bucket(chinese, CHINESE_PER_DAY, 4, 4, 2)
+    selected += select_bucket(international, ARTICLES_PER_DAY - CHINESE_PER_DAY, UI_UX_TARGET_PER_DAY - 4, 6, 2)
     if len(selected) < ARTICLES_PER_DAY:
         for item in candidates:
             if len(selected) >= ARTICLES_PER_DAY:
                 break
             if item in selected:
+                continue
+            if design_area(item) == "ui_ux" and sum(design_area(chosen) == "ui_ux" for chosen in selected) >= UI_UX_MAX_PER_DAY:
                 continue
             if design_area(item) == "architecture" and sum(design_area(chosen) == "architecture" for chosen in selected) >= ARCHITECTURE_MAX_PER_DAY:
                 continue
