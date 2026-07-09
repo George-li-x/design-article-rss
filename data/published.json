@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.archdaily.com/1035492/yano-house-peninsula-arquitetura",
+      "title": "矢野屋 / Peninsula Arquitetura",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-09T10:13:59.678891+00:00",
+      "source_date": "2026-07-08T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/the-promotion-that-didnt-take-adb678a7ec74?source=rss----138adf9c44c---4",
+      "title": "未采取的促销活动",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-07-09T10:14:06.104387+00:00",
+      "source_date": "2026-07-06T22:09:40+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1054052/amonti-chalets-architekt-andreas-gruber",
+      "title": "阿蒙蒂小屋 / Architekt Andreas Gruber",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-09T10:14:08.178570+00:00",
+      "source_date": "2026-07-08T10:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1054059/munich-kinderoase-kindergarten-kere-architecture-plus-hk-architekten-hermann-kaufmann-plus-partner-zt",
+      "title": "慕尼黑工业大学 Kinderoase 日托中心 / Kéré Architecture + HK Architekten",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-09T10:14:11.384076+00:00",
+      "source_date": "2026-07-08T07:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1055217/casaluna-anarquitectura",
+      "title": "卡萨卢纳/无建筑学",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-09T10:14:13.430044+00:00",
+      "source_date": "2026-07-08T06:30:24+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1054066/art-museum-of-ahua-tjad-plus-dca",
+      "title": "AHUA 美术馆 / TJAD + DCA",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-09T10:14:14.088749+00:00",
+      "source_date": "2026-07-09T00:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@sujithsreenivasan77/15-ui-ux-design-mistakes-beginners-make-and-how-to-avoid-them-6f5ab5116962?source=rss------design-5",
+      "title": "初学者常犯的 15 个 UI/UX 设计错误（以及如何避免这些错误）",
+      "source": "Medium · Design",
+      "language": "en",
+      "published_at": "2026-07-09T10:14:16.323798+00:00",
+      "source_date": "2026-07-09T09:55:38+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1041093/midea-science-center-atelier-ma-biad",
+      "title": "美的科学中心 / 马工作室_BIAD",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-09T10:14:18.111394+00:00",
+      "source_date": "2026-07-08T18:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
+      "title": "ChatGPT升级语音模式更能闭嘴",
+      "source": "The Verge Design",
+      "language": "en",
+      "published_at": "2026-07-09T10:14:20.246149+00:00",
+      "source_date": "2026-07-08T17:21:35+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@andrewjypark/design-system-creating-a-color-system-ad71c4e11e6f?source=rss------user_experience-5",
+      "title": "设计系统——创建色彩系统",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-07-09T10:14:23.539929+00:00",
+      "source_date": "2026-07-09T03:45:46+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1042938/from-homes-to-coffee-shops-adaptive-reuse-projects-transforming-domestic-history",
+      "title": "从住宅到咖啡店：适应性再利用项目改变国内历史",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-09T10:14:26.182413+00:00",
+      "source_date": "2026-07-08T07:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1042944/ecc-creative-a-parallel-architecture",
+      "title": "ECC创意/并行架构",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-09T10:14:27.507809+00:00",
+      "source_date": "2026-07-08T12:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1034573/pukara-house-el-sindicato-arquitectura",
+      "title": "普卡拉住宅 / El Sindicato Arquitectura",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-09T10:14:31.095065+00:00",
+      "source_date": "2026-07-08T19:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/lara-tabet-bacteria-living-images-bmw-rencontres-arles-le-corps-vitre-vitreous-body-exhibition-yasmine-chemali/",
+      "title": "lara tabet 在宝马阿尔勒展览上与细菌合作制作活生生的图像",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-09T10:14:41.485837+00:00",
+      "source_date": "2026-07-08T16:30:30+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6408170.html",
+      "title": "停下脚步，不是为了偷懒，而是为了看清自己搭过的台阶",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-09T10:14:41.485883+00:00",
+      "source_date": "2026-07-09T01:21:33+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/cn/1056612/an-hui-yi-zhu-xue-yuan-mei-zhu-guan-tong-ji-da-xue-jian-zhu-she-ji-yan-jiu-yuan-plus-dao-chen-jian-zhu",
+      "title": "安徽艺术学院美术馆 / 同济大学建筑设计研究院 + 道辰建筑",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-09T10:14:41.485911+00:00",
+      "source_date": "2026-07-09T09:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6427257.html",
+      "title": "年度王牌方法论！“结构分析法”搞定九成分析场景",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-09T10:14:41.485934+00:00",
+      "source_date": "2026-07-09T07:16:30+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/cn/1054547/liu-bian-zhong-de-20shi-ji-she-ji-archdailywu-yue-zhuan-ti",
+      "title": "流变中的20世纪设计：ArchDaily五月专题",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-09T10:14:41.485957+00:00",
+      "source_date": "2026-07-08T22:21:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6427237.html",
+      "title": "又有人来教微信怎么做产品了",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-09T10:14:41.485978+00:00",
+      "source_date": "2026-07-09T07:04:49+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6427120.html",
+      "title": "数据换数据：数据流通的五种新玩法",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-09T10:14:41.486040+00:00",
+      "source_date": "2026-07-09T03:29:30+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/design/ceramic-wall-termite-mounds-cools-interiors-without-air-conditioning/",
       "title": "受白蚁丘启发的陶瓷墙无需空调即可冷却室内",
       "source": "designboom",
