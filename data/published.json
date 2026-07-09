@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/architecture/handmade-elephant-dung-bricks-goya-tower-southern-thailand/",
+      "title": "手工制作的象粪砖让 Boonserm Premthada 的戈雅塔在泰国南部拔地而起",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-09T04:10:27.420444+00:00",
+      "source_date": "2026-07-08T10:50:22+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/rethinking-glass-tower-living-skin-grows-shades-generates-energy-uau-studio-algae-tower/",
+      "title": "通过生长、遮阳和产生能量的活体表皮重新思考玻璃塔",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-09T04:10:28.869239+00:00",
+      "source_date": "2026-07-08T07:30:47+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/vondom-gum-collection/",
+      "title": "vondom 的口香糖系列将铝的刚性软化为流体管线",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-09T04:10:29.111064+00:00",
+      "source_date": "2026-07-08T06:30:36+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/en/1054058/mycelium-resources-in-architecture-and-design",
+      "title": "建筑和设计中的菌丝体资源",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-09T04:10:30.829679+00:00",
+      "source_date": "2026-07-08T11:43:31+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/en/1054057/walzwerk-student-design-competition",
+      "title": "Walzwerk - 学生设计竞赛",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-09T04:10:32.357617+00:00",
+      "source_date": "2026-07-08T11:43:31+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/knitted-sculptures-luna-haverkorn-life-interview/",
+      "title": "luna Haverkorn 的针织雕塑只有在使用时才会变得栩栩如生",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-09T04:10:42.311970+00:00",
+      "source_date": "2026-07-08T20:00:11+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/technology/hiplok-compact-modular-locking-system-next-generation-bike-security-l1000/",
+      "title": "hiplok 推出紧凑型模块化锁定系统，用于下一代自行车安全",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-09T04:10:44.022149+00:00",
+      "source_date": "2026-07-08T10:00:48+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/there-is-nothing-convenient-about-my-work-lucy-sparrow-on-sewing-a-supermarket/",
+      "title": "“我的工作没有什么方便之处”：露西·斯帕罗谈超市缝纫",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-09T04:10:53.528704+00:00",
+      "source_date": "2026-07-08T09:00:03+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/giant-flowers-twisting-vines-bureau-betak-enchanted-garden-chanel/",
+      "title": "巨大的花朵和扭曲的藤蔓为香奈儿塑造了Bureau Betak的迷人花园",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-09T04:10:54.355915+00:00",
+      "source_date": "2026-07-08T08:30:30+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/when-compliance-is-the-brief-a-creative-practitioners-survival-guide-to-designing-in-regulated-f0759cd3732c?source=rss----138adf9c44c---4",
+      "title": "在受监管的行业中进行设计",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-07-09T04:11:00.131562+00:00",
+      "source_date": "2026-07-08T05:15:18+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/en/1042929/the-politics-of-bamboo-from-vernacular-craft-to-temporal-infrastructure",
+      "title": "竹子的政治：从民间工艺到临时基础设施",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-09T04:11:08.581590+00:00",
+      "source_date": "2026-07-08T06:30:24+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/transformation-unused-wastewater-facility-public-cultural-hub-korea-be-fore-a-co-lab/",
+      "title": "韩国将一座闲置的废水处理设施改造成公共文化中心",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-09T04:11:11.180183+00:00",
+      "source_date": "2026-07-08T14:00:30+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6426934.html",
+      "title": "不怕 AI 抢岗位，产品人最怕失去判断力",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-09T04:11:11.180224+00:00",
+      "source_date": "2026-07-09T02:09:55+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/pd/6427117.html",
+      "title": "三周、三个 Agent、一个读书工具——一个 PM 的架构决策实录",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-09T04:11:11.180252+00:00",
+      "source_date": "2026-07-09T03:25:16+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/user-research/6426933.html",
+      "title": "7·15新规下，情感AI如何平衡“合规风控”与“用户情绪体验”？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-09T04:11:11.180275+00:00",
+      "source_date": "2026-07-09T01:19:10+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/it/6426936.html",
+      "title": "AI时代SaaS怎么做，北森给出了最优解决方案，卖的是判断力",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-09T04:11:11.180297+00:00",
+      "source_date": "2026-07-09T00:55:59+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/operate/6426972.html",
+      "title": "拆解老君山 6 万月薪营销：真正高手，从不花钱买流量",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-09T04:11:11.180318+00:00",
+      "source_date": "2026-07-09T01:30:14+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/cn/1054443/ling-chong-wei-lai-wu-zuo-wei-21shi-ji-zhong-gou-de-xian-dai-zhu-yi-di-biao",
+      "title": "另一种未来：五座为21世纪重构的现代主义地标",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-09T04:11:11.180341+00:00",
+      "source_date": "2026-07-08T22:18:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/cn/1040340/she-ji-gong-qi-archdaily-student-project-awards-shou-jie-huo-jiang-zhe-jie-xiao",
+      "title": "设计共生：首届 ArchDaily 学生设计奖获奖名单揭晓",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-09T04:11:11.180390+00:00",
+      "source_date": "2026-07-08T22:21:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/cn/1054256/you-lei-ni-star-gai-hao-si-te-she-ji-de-sheng-de-ni-cu-ye-zhu-yi-ji-he-zhu-zhai-ilot-8-mian-lin-bei-shou-zheng-yi-de-zhong-xin-kai-fa-ji-hua",
+      "title": "由蕾妮·盖豪斯特设计的圣德尼粗野主义集合住宅 Îlot 8 面临备受争议的重新开发计划",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-09T04:11:11.180419+00:00",
+      "source_date": "2026-07-08T22:13:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.archdaily.com/1054028/snohettas-shanghai-grand-opera-house-nears-completion-ahead-of-october-opening",
       "title": "Snøhetta 设计的上海大歌剧院即将于 10 月开幕",
       "source": "ArchDaily",
