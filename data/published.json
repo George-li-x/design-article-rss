@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/architecture/bright-orange-perforated-metal-sheets-modular-fitness-center-madrid-canobardin-moof-fitness-studio/",
+      "title": "明亮的橙色穿孔金属板塑造了马德里的模块化健身中心",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-10T04:10:38.103521+00:00",
+      "source_date": "2026-07-10T03:30:02+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/mycelium-algae-digital-archive-sustainable-materials-creative-practices/",
+      "title": "从菌丝体到藻类，这个数字档案馆收集可持续材料用于创意实践",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-10T04:10:38.759879+00:00",
+      "source_date": "2026-07-09T16:10:19+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/",
+      "title": "为苦恼的用户设计：为什么心理健康应用程序不应该遵循所有的 UI 时尚",
+      "source": "Smashing Magazine",
+      "language": "en",
+      "published_at": "2026-07-10T04:10:45.819562+00:00",
+      "source_date": "2026-07-09T15:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/transparent-turntable-vinyl-sungwoo-choi/",
+      "title": "这个未来派的转盘概念让黑胶唱片超越了怀旧",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-10T04:10:46.262881+00:00",
+      "source_date": "2026-07-09T16:30:12+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/lagoa-de-pataias-sculptural-museum-proposal-portugal-lakeshore-lp-alexander-velgan/",
+      "title": "这个雕塑博物馆方案沿着 lagoa de pataias 蜿蜒，沿着葡萄牙的湖岸",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-10T04:10:47.170022+00:00",
+      "source_date": "2026-07-09T10:30:45+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6427529.html",
+      "title": "在求职中，如果你能表现出“在分歧中寻找共识”，那将是顶级能力",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-10T04:10:47.170074+00:00",
+      "source_date": "2026-07-10T02:46:08+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/where-folded-canvas-carries-the-memory-of-the-hand-susan-maddux/",
+      "title": "折叠的画布承载着手的记忆：susan maddux",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-10T04:10:47.886785+00:00",
+      "source_date": "2026-07-09T10:58:46+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6427552.html",
+      "title": "聊聊支付宝AI：阿宝",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-10T04:10:47.886832+00:00",
+      "source_date": "2026-07-10T03:31:47+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6427501.html",
+      "title": "YAML契约格式：理解了语义规范体系后怎么写语义规则",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-10T04:10:47.886863+00:00",
+      "source_date": "2026-07-10T02:41:52+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6427377.html",
+      "title": "AI 到底新在哪儿。",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-10T04:10:47.886888+00:00",
+      "source_date": "2026-07-10T01:36:08+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1092389/yi-zhu-zhi-jia-spaces-architects-at-ka",
+      "title": "艺术之家 / Spaces Architects@ka",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-10T04:10:47.886916+00:00",
+      "source_date": "2026-07-10T03:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1092227/kosmalt-zhu-zhai-gai-zao-atrium-architekti",
+      "title": "KOSMALT 住宅改造 / Atrium Architekti",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-10T04:10:47.886977+00:00",
+      "source_date": "2026-07-09T10:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1092232/villa-crocodile-localarchitecture",
+      "title": "鳄鱼别墅 / 当地建筑",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-10T04:10:48.698000+00:00",
+      "source_date": "2026-07-10T07:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1092408/call-for-papers-siitua-iii-international-seminar-on-research-in-territory-urbanism-and-architecture",
+      "title": "征文：SIITUA III（地域、城市化和建筑研究国际研讨会）",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-10T04:10:49.527419+00:00",
+      "source_date": "2026-07-08T10:52:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.archdaily.com/1035492/yano-house-peninsula-arquitetura",
       "title": "矢野屋 / Peninsula Arquitetura",
       "source": "ArchDaily",
