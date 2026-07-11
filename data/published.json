@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/design/oorvi-sharma-craftsmanship-key-resilient-futures-essay/",
+      "title": "奥尔维·夏尔马 (oorvi sharma) 认为，工艺是打造弹性未来的关键",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-11T03:38:00.321831+00:00",
+      "source_date": "2026-07-10T17:00:44+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/stilfold-curved-folding-metal-interview/",
+      "title": "“设计不再受制于工具”：STILFOLD 用扁平金属创造工业折纸",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-11T03:38:08.242823+00:00",
+      "source_date": "2026-07-10T09:30:13+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/living-plants-perforated-aluminum-climate-installation-new-york-botanical-garden-demael-zimmerer-greenhouse-prototype-2/",
+      "title": "纽约植物园的穿孔铝气候装置上生长着活植物",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-11T03:38:09.151863+00:00",
+      "source_date": "2026-07-10T14:30:47+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1092499/design-week-calgary-2026",
+      "title": "2026 年卡尔加里设计周",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-11T03:38:10.826016+00:00",
+      "source_date": "2026-07-10T09:05:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6427586.html",
+      "title": "模型已经会工作了，为什么还要继续升级？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-11T03:38:10.826068+00:00",
+      "source_date": "2026-07-11T01:36:34+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/technology/miniature-oled-display-matrix-cascading-green-code-signet-ring-daniel-idle/",
+      "title": "微型 OLED 显示屏在图章环内循环矩阵的级联绿色代码",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-11T03:38:11.752310+00:00",
+      "source_date": "2026-07-10T09:00:16+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/heritage-archive-gunia-ukraine-craft-material-traditions-interview/",
+      "title": "“遗产不是静态档案”：GUNIA 重塑乌克兰的工艺和材料传统",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-11T03:38:25.576825+00:00",
+      "source_date": "2026-07-10T10:50:50+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/",
+      "title": "从启动到第一个概念：如何将品牌策略转化为视觉方向",
+      "source": "Smashing Magazine",
+      "language": "en",
+      "published_at": "2026-07-11T03:38:33.133519+00:00",
+      "source_date": "2026-07-10T13:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6427836.html",
+      "title": "OpenAI 这次把 GPT-5.6 和 Codex 重新组合成一个可落地的产品底座",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-11T03:38:33.133565+00:00",
+      "source_date": "2026-07-11T02:55:19+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1092336/alva-zhu-zhai-felipe-caboclo-arquitetura",
+      "title": "阿尔瓦住宅 / Felipe Caboclo Arquitetura",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-11T03:38:34.646939+00:00",
+      "source_date": "2026-07-09T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6427758.html",
+      "title": "阿里全面禁用Claude改用千问：为什么”吃自己的狗粮”是产品破局的唯一捷径？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-11T03:38:34.646988+00:00",
+      "source_date": "2026-07-11T00:20:07+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1092333/growing-knowledge-in-wood-10-timber-pavilion-experiments-from-the-classroom",
+      "title": "增长木材知识：课堂上的 10 个木亭实验",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-11T03:38:37.600080+00:00",
+      "source_date": "2026-07-10T07:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1054004/ba-xian-shan-zi-ran-gong-ce-protoplain-architects",
+      "title": "八仙山自然公厕 / 元象建筑",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-11T03:38:37.600126+00:00",
+      "source_date": "2026-07-10T11:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1092432/zhong-shi-jian-zhu-de-zai-di-zhi-sheng",
+      "title": "重拾建筑的在地之声",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-11T03:38:37.600149+00:00",
+      "source_date": "2026-07-10T01:30:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/architecture/bright-orange-perforated-metal-sheets-modular-fitness-center-madrid-canobardin-moof-fitness-studio/",
       "title": "明亮的橙色穿孔金属板塑造了马德里的模块化健身中心",
       "source": "designboom",
