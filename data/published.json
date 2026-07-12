@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.woshipm.com/share/6427930.html",
+      "title": "从濒临破产、到获a16z领投的280万美元：一个AI开发工具如何打开普通人的产品创造力",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-12T03:52:44.638024+00:00",
+      "source_date": "2026-07-11T06:21:55+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/coil-kazuteru-matumura-architects-hidden-timber-outbuildings-shared-kitchen-osaka-ichizu/",
+      "title": "Coil Kazuteru Matumura 将大阪隐藏的木质附属建筑改造成共用厨房",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-12T03:52:46.803725+00:00",
+      "source_date": "2026-07-12T03:30:28+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1042712/muxarabi-house-ana-sawaia-arquitetura",
+      "title": "Muxarabi 住宅 / Ana Sawaia Arquitetura",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-12T03:52:51.380812+00:00",
+      "source_date": "2026-07-11T13:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6427947.html",
+      "title": "实测GPT5.6，分享三个超实用Prompt，跟Fable5分工合作",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-12T03:52:51.380863+00:00",
+      "source_date": "2026-07-11T07:08:49+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6427900.html",
+      "title": "如何用AI“蒸馏”自己：把零散经验，变成可复用的个人核心资产",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-12T03:52:51.380899+00:00",
+      "source_date": "2026-07-11T04:07:30+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1092538/2026nian-qia-er-jia-li-she-ji-zhou",
+      "title": "2026年卡尔加里设计周",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-12T03:52:51.380927+00:00",
+      "source_date": "2026-07-10T09:05:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.nngroup.com/articles/design-system-maturity/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "设计系统成熟度：六维框架",
+      "source": "Nielsen Norman Group",
+      "language": "en",
+      "published_at": "2026-07-12T03:53:02.539066+00:00",
+      "source_date": "2026-07-10T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6427888.html",
+      "title": "AI 将如何重塑市场与用户洞察行业",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-12T03:53:02.539109+00:00",
+      "source_date": "2026-07-11T03:41:40+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1092552/muxarabi-zhu-zhai-ana-sawaia-arquitetura",
+      "title": "Muxarabi 住宅 / Ana Sawaia Architecture",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-12T03:53:04.367689+00:00",
+      "source_date": "2026-07-11T13:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1042916/architecture-in-the-andes-how-altitude-shapes-design-decisions",
+      "title": "安第斯山脉的建筑：海拔如何影响设计决策",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-12T03:53:07.750897+00:00",
+      "source_date": "2026-07-11T07:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1092349/design-hotels-hq-rho",
+      "title": "设计酒店总部/RHO",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-12T03:53:10.327326+00:00",
+      "source_date": "2026-07-10T06:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6427785.html",
+      "title": "AI 录音产品复盘：AI 协同落地的真实办公场景",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-12T03:53:10.327408+00:00",
+      "source_date": "2026-07-12T03:21:49+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.nngroup.com/articles/dimensions-of-ai-chatbots/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "特定站点人工智能聊天机器人的 5 个品质",
+      "source": "Nielsen Norman Group",
+      "language": "en",
+      "published_at": "2026-07-12T03:53:28.390843+00:00",
+      "source_date": "2026-07-10T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6427886.html",
+      "title": "家装设计师竞品思维：摆脱同质化内卷，用差异化定位拿到优质客户",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-12T03:53:28.390888+00:00",
+      "source_date": "2026-07-12T00:59:48+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/contemporary-propylaea-twin-timber-gateways-open-air-architectural-park-russia-cube-plus-creative-collective-protivo-stoyanie-counter-standing/",
+      "title": "作为当代的 Progoaea，双木门构成了这个露天建筑公园",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-12T03:53:31.447075+00:00",
+      "source_date": "2026-07-11T00:30:29+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1042503/ma-ti-xiao-wu-alma-de-arquitectos",
+      "title": "马蹄小屋 / ALMA de Arquitectos",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-12T03:53:31.447124+00:00",
+      "source_date": "2026-07-10T09:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@omniview3d.com/the-legacy-of-the-file-attachment-51b76447ab2a?source=rss------product_design-5",
+      "title": "文件附件的遗产",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-07-12T03:53:36.308813+00:00",
+      "source_date": "2026-07-11T20:26:58+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6427919.html",
+      "title": "传统PLM已死，新一代PLM由谁定义？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-12T03:53:36.308859+00:00",
+      "source_date": "2026-07-11T05:54:12+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1054049/how-architects-can-simplify-project-workflows-beyond-cad-and-bim",
+      "title": "建筑师如何简化 CAD 和 BIM 之外的项目工作流程",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-12T03:53:42.751095+00:00",
+      "source_date": "2026-07-10T06:45:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1092405/nachan-na-shan-gu-yuan-jiu-dian-pava-architects",
+      "title": "Nachan 纳禅古院酒店 / PAVA architects",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-12T03:53:42.751137+00:00",
+      "source_date": "2026-07-11T17:00:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/design/oorvi-sharma-craftsmanship-key-resilient-futures-essay/",
       "title": "奥尔维·夏尔马 (oorvi sharma) 认为，工艺是打造弹性未来的关键",
       "source": "designboom",
