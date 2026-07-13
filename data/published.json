@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/art/interconnected-metal-rods-luminous-winged-installation-china-coastline-oas-s-aether-zhide/",
+      "title": "相互连接的金属棒在中国海岸线上形成了一个发光的有翼装置",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-13T03:55:24.010642+00:00",
+      "source_date": "2026-07-13T03:30:44+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6428313.html",
+      "title": "GPT-5.6 上线，Codex 并入 ChatGPT：实测好用的点和坑",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-13T03:55:24.010692+00:00",
+      "source_date": "2026-07-13T02:54:57+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@arafatulalam/the-future-of-product-design-where-ai-ux-and-business-strategy-meet-01ed2476c463?source=rss------product_design-5",
+      "title": "产品设计的未来：人工智能、用户体验和业务策略的相遇",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-07-13T03:55:27.168590+00:00",
+      "source_date": "2026-07-13T02:01:02+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/the-interface-has-left-the-building-8fdb558d33a9?source=rss----138adf9c44c---4",
+      "title": "界面已离开建筑物",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-07-13T03:55:32.690851+00:00",
+      "source_date": "2026-07-12T09:30:16+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/technology/love-hulten-pink-floyds-prism-playable-synthesizer-guitar/",
+      "title": "Love Hultén 将 Pink Floyd 的 Prism 改造成可演奏的合成器吉他",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-13T03:55:33.512450+00:00",
+      "source_date": "2026-07-12T20:00:12+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/taste-cannot-be-delegated-1706847a0b4b?source=rss----138adf9c44c---4",
+      "title": "品味不能被委托",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-07-13T03:55:36.497445+00:00",
+      "source_date": "2026-07-12T21:32:06+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6428077.html",
+      "title": "OpenAI 正在重写 ChatGPT：从聊天工具到 AI 工作台",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-13T03:55:36.497496+00:00",
+      "source_date": "2026-07-13T01:42:49+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/nicolas-nielsen-self-driving-hyve-beehive-pollinate-cities/",
+      "title": "尼古拉斯·尼尔森设计自动驾驶 HYVE 蜂箱为城市授粉",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-13T03:55:37.592514+00:00",
+      "source_date": "2026-07-12T10:50:13+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6428321.html",
+      "title": "FDE真正要交付的，是个能持续运行的项目",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-13T03:55:37.592560+00:00",
+      "source_date": "2026-07-13T03:22:35+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1092516/qia-si-kai-shi-si-hu-zhu-zhai-gong-yu-humberto-conde-arquitectos",
+      "title": "卡斯凯什四户住宅公寓 / Humberto Conde Arquitectos",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-13T03:55:37.592587+00:00",
+      "source_date": "2026-07-12T13:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1054048/tai-di-shan-zhu-zhai-a-parallel-architecture",
+      "title": "台地山住宅 / A Parallel Architecture",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-13T03:55:37.592612+00:00",
+      "source_date": "2026-07-12T13:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1092542/antara-zhu-zhai-ark-architecture-studio",
+      "title": "安塔拉住宅 / Ark Architecture Studio",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-13T03:55:38.487142+00:00",
+      "source_date": "2026-07-13T02:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/interview-absurdist-basket-maker-lewis-prosser/",
+      "title": "“摆脱功能性的制作方法”：荒诞派篮子制造者刘易斯·普罗瑟",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-13T03:55:39.457007+00:00",
+      "source_date": "2026-07-11T10:30:40+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/mirrored-water-drop-installation-landscape-sayram-lake-china-zhide/",
+      "title": "镜面水滴装置反映了中国赛里木湖的景观",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-13T03:55:40.465342+00:00",
+      "source_date": "2026-07-11T20:30:12+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.woshipm.com/share/6427930.html",
       "title": "从濒临破产、到获a16z领投的280万美元：一个AI开发工具如何打开普通人的产品创造力",
       "source": "人人都是产品经理",
