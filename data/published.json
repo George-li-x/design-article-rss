@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/design/what-we-learned-crafting-the-future/",
+      "title": "我们学到了什么：创造未来",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-14T03:29:43.748735+00:00",
+      "source_date": "2026-07-13T10:50:01+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/century-old-japanese-cedar-flat-pack-furniture-collection-flat-form-satoshi-itasaka-h220430/",
+      "title": "百年日本雪松成为平板家具系列，FLAT/FORM",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-14T03:29:45.110183+00:00",
+      "source_date": "2026-07-13T10:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6428610.html",
+      "title": "作为设计者，如何把AI作为设计材料",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-14T03:29:45.110227+00:00",
+      "source_date": "2026-07-14T03:00:57+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/solid-carrara-marble-abstract-house-objects-architectural-form-eternal-structures-kfir-galatia-azulay/",
+      "title": "由坚固的卡拉拉大理石雕刻而成，抽象的房屋状物体探索建筑形式",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-14T03:29:47.131144+00:00",
+      "source_date": "2026-07-13T21:00:04+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/modernist-cafe-layered-wood-steel-almaty-museum-arts-khalansky-cafe-alma/",
+      "title": "现代主义风格的咖啡馆由分层的木材和钢材构成，延伸了阿拉木图艺术博物馆",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-14T03:29:48.582619+00:00",
+      "source_date": "2026-07-13T14:00:16+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/who-made-this-designing-excuses-designops-in-the-age-of-ai-e5ef0bb9093c?source=rss----138adf9c44c---4",
+      "title": "谁创造了这个，设计借口，人工智能时代的设计运营",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-07-14T03:29:51.520624+00:00",
+      "source_date": "2026-07-13T11:11:11+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1092512/jacarezinho-ii-zhu-zhai-felipe-hess-arquitetos",
+      "title": "Jacarezinho II 住宅 / Felipe Hess Arquitetos",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-14T03:29:52.604185+00:00",
+      "source_date": "2026-07-13T13:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6429050.html",
+      "title": "当 AI 会画原型，产品经理还剩下什么",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-14T03:29:52.604227+00:00",
+      "source_date": "2026-07-14T03:09:41+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@mdarifhossain211735/how-ui-ux-design-improves-customer-experience-141b75f6d1cb?source=rss------user_experience-5",
+      "title": "UI/UX 设计如何改善客户体验",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-07-14T03:29:58.542174+00:00",
+      "source_date": "2026-07-13T17:10:03+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/david-chipperfield-opens-a-historic-waterfront-building-as-a-new-museum-in-spain/",
+      "title": "大卫·奇普菲尔德 (David Chipperfield) 将历史悠久的海滨地标重新打造为西班牙新博物馆",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-14T03:30:00.017815+00:00",
+      "source_date": "2026-07-13T17:00:24+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@surajstha883/why-ux-debt-may-become-more-expensive-than-technical-debt-509083c72c01?source=rss------product_design-5",
+      "title": "为什么用户体验债务可能比技术债务更昂贵",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-07-14T03:30:03.101208+00:00",
+      "source_date": "2026-07-14T02:43:55+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1148592/dyes-inlet-zhu-zhai-shed-architecture-and-design",
+      "title": "Dyes Inlet 住宅 / SHED Architecture & Design",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-14T03:30:05.173214+00:00",
+      "source_date": "2026-07-13T12:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1092513/condominium-4-houses-in-cascais-humberto-conde-arquitectos",
+      "title": "卡斯卡伊斯 4 栋公寓 / Humberto Conde Arquitectos",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-14T03:30:09.656698+00:00",
+      "source_date": "2026-07-12T13:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/recycled-adidas-sneakers-cory-infinite-teezo-touchdown/",
+      "title": "回收的电缆将这双阿迪达斯运动鞋变成了一体式设计",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-14T03:30:09.900218+00:00",
+      "source_date": "2026-07-13T09:26:06+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@surajstha883/why-ux-debt-may-become-more-expensive-than-technical-debt-509083c72c01?source=rss------design-5",
+      "title": "为什么用户体验债务可能比技术债务更昂贵",
+      "source": "Medium · Design",
+      "language": "en",
+      "published_at": "2026-07-14T03:30:10.233878+00:00",
+      "source_date": "2026-07-14T02:43:55+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1092359/remise-rosa-hello-wood",
+      "title": "Remise Rosa Complex / 你好伍德",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-14T03:30:11.567509+00:00",
+      "source_date": "2026-07-13T06:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1148565/2026nian-greenbuild-guo-ji-hui-yi-yu-bo-lan-hui",
+      "title": "2026年 Greenbuild 国际会议与博览会",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-14T03:30:11.567551+00:00",
+      "source_date": "2026-07-13T09:05:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.archdaily.com/1041842/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad",
+      "title": "南京东路生态万花筒：世纪广场重生 / EMBT + TJAD",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-14T03:30:14.113282+00:00",
+      "source_date": "2026-07-13T00:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1042806/belonging-to-the-earth-architecture-in-the-worldviews-of-indigenous-peoples-of-latin-america",
+      "title": "属于地球：拉丁美洲原住民世界观中的建筑",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-14T03:30:22.102675+00:00",
+      "source_date": "2026-07-13T04:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1092240/huset-can-ting-si-wa-er-ba-snohetta",
+      "title": "Huset 餐厅，斯瓦尔巴 / Snøhetta",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-14T03:30:22.102724+00:00",
+      "source_date": "2026-07-13T07:00:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/art/interconnected-metal-rods-luminous-winged-installation-china-coastline-oas-s-aether-zhide/",
       "title": "相互连接的金属棒在中国海岸线上形成了一个发光的有翼装置",
       "source": "designboom",
