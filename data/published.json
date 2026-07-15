@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.archdaily.com/1148634/enter-the-25th-andreu-world-international-design-competition",
+      "title": "参加第25届安德鲁世界国际设计大赛",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-15T03:29:03.293242+00:00",
+      "source_date": "2026-07-14T08:55:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/terraced-timber-pavilion-circular-construction-austria-gabonsa-music-festival-students-kaiserslautern/",
+      "title": "梯田木亭为奥地利加蓬萨音乐节探索圆形建筑",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-15T03:29:04.463334+00:00",
+      "source_date": "2026-07-14T14:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6429208.html",
+      "title": "【全球视野篇01】别再用肉型扒差评了：如何搭建一个 24小时为你打工的“AI 选品 Agent”？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-15T03:29:04.463386+00:00",
+      "source_date": "2026-07-15T01:40:57+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/architecture-permission-thoughtful-public-design-inner-child/",
+      "title": "许可的架构或深思熟虑的公共设计如何激活我们内心的孩子",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-15T03:29:11.174987+00:00",
+      "source_date": "2026-07-14T10:50:12+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/play-form-resistance-lea-mestres-imagination-freer-world-interview/",
+      "title": "“玩耍是我小小的抵抗形式”：léa mestres 谈想象力和设计一个更自由的世界",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-15T03:29:12.700530+00:00",
+      "source_date": "2026-07-14T10:50:07+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/realizing-the-dream-crafting-from-confluence-culture-room-for-dreams-podcast/",
+      "title": "实现梦想：从文化融合中打造新的设计语言",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-15T03:29:13.267187+00:00",
+      "source_date": "2026-07-14T09:30:40+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/exposed-brick-and-blue-metal-transform-a-1930s-brazilian-house-into-a-cultural-art-hub/",
+      "title": "裸露的砖块和蓝色金属将 1930 年代的巴西房屋改造成文化艺术中心",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-15T03:29:14.584436+00:00",
+      "source_date": "2026-07-14T06:30:38+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6429618.html",
+      "title": "我用 WorkBuddy + ima，搭了一套提效的互金运营工作流",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-15T03:29:14.584481+00:00",
+      "source_date": "2026-07-15T02:19:40+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6429434.html",
+      "title": "AI到底能不能取代产品经理？我拿自己做了半年实验",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-15T03:29:14.584510+00:00",
+      "source_date": "2026-07-15T01:49:38+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6429089.html",
+      "title": "AI时代最大的幻觉：技术正在解决一切问题，但真正的问题是没人理解业务",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-15T03:29:14.584539+00:00",
+      "source_date": "2026-07-15T01:40:20+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1148636/can-jia-di-25jie-andreu-worldguo-ji-she-ji-da-sai",
+      "title": "参加第25届Andreu World国际设计大赛",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-15T03:29:14.584564+00:00",
+      "source_date": "2026-07-14T08:55:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.designboom.com/design/surfboard-offcuts-furniture-objects-hall5/",
+      "title": "这对创意二人组将冲浪板废料变成家具和日常用品",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-15T03:29:15.669196+00:00",
+      "source_date": "2026-07-14T21:03:40+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1092510/da-jiao-tang-zhi-jia-jak-architecture",
+      "title": "大教堂之家 / JAK Architecture",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-15T03:29:15.669239+00:00",
+      "source_date": "2026-07-15T07:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1092504/dyes-inlet-house-shed-architecture-and-design",
+      "title": "染料入口屋 / SHED Architecture & Design",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-15T03:29:16.794245+00:00",
+      "source_date": "2026-07-13T12:00:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/design/what-we-learned-crafting-the-future/",
       "title": "我们学到了什么：创造未来",
       "source": "designboom",
