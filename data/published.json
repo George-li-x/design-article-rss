@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/architecture/belinda-stewart-architects-preservation-frank-lloyd-wrights-fountainhead-house-mississippi-museum-art-msmuseumart/",
+      "title": "贝琳达·斯图尔特建筑师事务所将负责保护弗兰克·劳埃德·赖特的“源泉”房屋",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-16T03:32:43.646688+00:00",
+      "source_date": "2026-07-15T08:31:21+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6429851.html",
+      "title": "小白如何做出第一个真正可用的 Agent？用 Coze 搭建一个私人求职助手",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-16T03:32:43.646743+00:00",
+      "source_date": "2026-07-16T01:41:52+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6430262.html",
+      "title": "用户从路人到铁粉，底层逻辑只有这6步",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-16T03:32:43.646770+00:00",
+      "source_date": "2026-07-16T01:35:51+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/please-touch-the-art-takako-saito-spectators-into-players/",
+      "title": "请触摸艺术：斋藤贵子将观众变成玩家",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-16T03:32:44.459238+00:00",
+      "source_date": "2026-07-15T10:30:28+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/technology/audi-zero-one-sphere-four-tubes-electric-car-radical-geometry-wini-camacho/",
+      "title": "奥迪ZERØ：一个球体和四个管子通过激进的几何形状重新定义了电动汽车",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-16T03:32:45.550181+00:00",
+      "source_date": "2026-07-15T14:00:37+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/ai-systems-are-demanding-new-interaction-models-are-designers-ready-d8a95f5e55a9?source=rss----138adf9c44c---4",
+      "title": "人工智能系统需要新的交互模型。设计师们准备好了吗？",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-07-16T03:32:47.296122+00:00",
+      "source_date": "2026-07-15T19:48:50+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/garden-within-a-garden-water-translucent-pavilions-green-courtyards-trop-terrains-plus-open-space-yanlord-arcadia/",
+      "title": "花园中的花园通过水、半透明的凉亭和绿色的庭院展开",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-16T03:32:48.417152+00:00",
+      "source_date": "2026-07-15T06:30:23+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6430460.html",
+      "title": "从“惩罚顾客” 到“保护顾客”：新服务时代的品牌生存法则",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-16T03:32:48.417198+00:00",
+      "source_date": "2026-07-16T02:30:48+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/public-art-keeps-inviting-us-to-play-so-why-is-so-little-of-it-actually-thrilling/",
+      "title": "公共艺术不断邀请我们去玩耍，但为什么真正令人兴奋的却这么少呢？",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-16T03:32:48.940356+00:00",
+      "source_date": "2026-07-16T01:41:17+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/koala-kare-accessibility-in-public-spaces/",
+      "title": "koala kare 通过设计公共辅助护理来扩大可及性",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-16T03:32:52.260704+00:00",
+      "source_date": "2026-07-15T01:30:08+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1148765/jardim-zhu-zhai-gai-zao-baixo-impacto-arquiteturaof",
+      "title": "Jardim 住宅改造 / Baixo Impacto Arquiteturaof_",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-16T03:32:52.260751+00:00",
+      "source_date": "2026-07-15T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1148666/bo-zi-nan-jezyce-he-xin-qu-gong-yu-lbwa",
+      "title": "波兹南 Jeżyce 核心区公寓 / LBWA",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-16T03:32:52.260776+00:00",
+      "source_date": "2026-07-15T12:00:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1148694/studio-libeskind-she-ji-shou-er-quan-xin-gao-mi-du-zhu-zhai-ta-lou",
+      "title": "Studio Libeskind 设计首尔全新高密度住宅塔楼",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-16T03:32:52.260799+00:00",
+      "source_date": "2026-07-15T05:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/mestiz-vibrant-world-flowers-curious-creatures-hermes-windows-mexico/",
+      "title": "MESTIZ 为爱马仕橱窗编织了一个充满活力的花朵和好奇生物的世界",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-16T03:32:53.092189+00:00",
+      "source_date": "2026-07-15T21:00:27+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.archdaily.com/1148634/enter-the-25th-andreu-world-international-design-competition",
       "title": "参加第25届安德鲁世界国际设计大赛",
       "source": "ArchDaily",
