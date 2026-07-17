@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/architecture/michele-de-lucchi-appointed-creative-director-triennale-milano/",
+      "title": "米歇尔·德卢基 (Michele de lucchi) 被任命为米兰三年展创意总监",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-17T03:33:24.030096+00:00",
+      "source_date": "2026-07-16T14:33:06+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/urban-soul-project-hospitality-design-spatial-experience/",
+      "title": "城市灵魂项目酒店设计将当地叙事转化为空间体验",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-17T03:33:25.584095+00:00",
+      "source_date": "2026-07-16T10:30:47+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1148808/join-the-25th-andreu-world-international-design-contest",
+      "title": "参加第25届安德鲁世界国际设计大赛",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-17T03:33:27.605957+00:00",
+      "source_date": "2026-07-16T09:10:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1054055/designing-for-deconstruction-a-path-toward-post-waste-architecture",
+      "title": "解构设计：通往后废弃建筑的道路",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-17T03:33:33.330508+00:00",
+      "source_date": "2026-07-16T01:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1148811/can-jia-di-25jie-andreu-worldguo-ji-she-ji-da-sai",
+      "title": "参加第25届Andreu World国际设计大赛",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-17T03:33:33.330559+00:00",
+      "source_date": "2026-07-16T09:10:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/jakob-macfarlane-reclaimed-pallets-contemplative-refuge-normandy-coast-shelter-for-peace/",
+      "title": "jakob+macfarlane 将回收的托盘变成诺曼底海岸的沉思避难所",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-17T03:33:34.886753+00:00",
+      "source_date": "2026-07-16T21:00:32+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/elevated-glazed-walkways-house-panoramic-views-carilo-forest-argentina-grizzo-studio/",
+      "title": "高架玻璃走道使房屋能够欣赏到阿根廷卡里罗森林的全景",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-17T03:33:37.935150+00:00",
+      "source_date": "2026-07-16T14:00:51+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/pollinator-machine-giant-tulip-magnolia-installation-shanghai-martha-schwartz-partners-msp/",
+      "title": "走进上海的巨型郁金香木兰装置授粉机器",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-17T03:33:41.043690+00:00",
+      "source_date": "2026-07-16T09:30:05+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/jia-curated-2026-craft-culture-bali-beachfront/",
+      "title": "jia 策划的 2026 年在巴厘岛海滨展示工艺、设计和文化",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-17T03:33:42.268662+00:00",
+      "source_date": "2026-07-16T10:00:14+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6431097.html",
+      "title": "从 Skill 到应用，最难的不是写代码，而是先想清楚这5件事",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-17T03:33:42.268709+00:00",
+      "source_date": "2026-07-17T02:18:26+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1054046/xi-ao-duo-star-luo-si-fu-zong-tong-tu-shu-guan-snohetta",
+      "title": "西奥多·罗斯福总统图书馆 / Snøhetta",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-17T03:33:42.268734+00:00",
+      "source_date": "2026-07-16T09:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1148786/yi-bi-li-ya-mei-zhou-jian-zhu-yan-tao-hui",
+      "title": "伊比利亚美洲建筑研讨会",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-17T03:33:42.268757+00:00",
+      "source_date": "2026-07-16T08:39:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1148806/ezologia-di-bi-li-si-de-duo-kong-ji-li",
+      "title": "Ezologia — 第比利斯的多孔肌理",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-17T03:33:42.268779+00:00",
+      "source_date": "2026-07-16T09:05:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1148814/di-li-ye-shuang-nian-zhan-ji-jin-hui-gong-gong-xiang-mu-da-lou-ariel-andre-golem",
+      "title": "迪里耶双年展基金会公共项目大楼 / Ariel André-GOLEM",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-17T03:33:42.268801+00:00",
+      "source_date": "2026-07-17T07:00:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/architecture/belinda-stewart-architects-preservation-frank-lloyd-wrights-fountainhead-house-mississippi-museum-art-msmuseumart/",
       "title": "贝琳达·斯图尔特建筑师事务所将负责保护弗兰克·劳埃德·赖特的“源泉”房屋",
       "source": "designboom",
