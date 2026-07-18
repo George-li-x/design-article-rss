@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/art/tomas-saraceno-haus-der-kunst-multispecies-landscape-ancestral-futures/",
+      "title": "托马斯·萨拉切诺 (Tomás Saraceno) 德国有史以来最大的展览以多物种景观开幕",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-18T03:27:27.701659+00:00",
+      "source_date": "2026-07-17T06:30:49+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1041959/ferro-offices-group-a",
+      "title": "Ferro 办事处 / A 组",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-18T03:27:28.558174+00:00",
+      "source_date": "2026-07-17T10:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6431564.html",
+      "title": "OpenAI合并Codex背后，AI体验的硬仗才刚刚开始",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-18T03:27:28.558229+00:00",
+      "source_date": "2026-07-17T08:21:27+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/luxury-craft-analog-slow-living-room-for-dreams-podcast/",
+      "title": "奢华的目的：通过工艺和模拟慢生活重新定义独特性",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-18T03:27:29.940924+00:00",
+      "source_date": "2026-07-17T10:30:46+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/origami-inspired-helix-pot-self-waters-twists-grows-plants-grow-potr/",
+      "title": "受折纸启发的螺旋花盆会随着植物的生长而自动浇水、扭曲和生长",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-18T03:27:30.598454+00:00",
+      "source_date": "2026-07-17T07:00:54+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.nngroup.com/articles/human-led-research-still-matters/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "不要外包学习：为什么人类主导的研究在人工智能时代仍然很重要",
+      "source": "Nielsen Norman Group",
+      "language": "en",
+      "published_at": "2026-07-18T03:27:36.416684+00:00",
+      "source_date": "2026-07-17T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1148908/warming-huts-competition-arts-plus-architecture-competition-on-ice",
+      "title": "温暖小屋竞赛：冰上艺术+建筑竞赛",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-18T03:27:37.296713+00:00",
+      "source_date": "2026-07-17T09:05:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ucd/6431586.html",
+      "title": "UX、DX、AX：重新定义设计“对象”",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-18T03:27:37.296751+00:00",
+      "source_date": "2026-07-18T02:25:53+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6431526.html",
+      "title": "用户操作是否越简单越好？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-18T03:27:37.296778+00:00",
+      "source_date": "2026-07-17T07:22:33+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@prishitameshram/the-four-titles-of-ui-ux-design-a-beginners-guide-to-knowing-which-one-you-are-77a6c71a07d7?source=rss------product_design-5",
+      "title": "UI/UX 设计的四个标题：了解您属于哪一个的初学者指南",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-07-18T03:27:42.925625+00:00",
+      "source_date": "2026-07-17T19:18:33+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6431683.html",
+      "title": "Claude Cowork 用不了没关系，学会这套Agent工作流思路就够了",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-18T03:27:42.925683+00:00",
+      "source_date": "2026-07-17T09:42:26+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/technology/harvard-smart-knitted-textiles-stable-shapes-switch-sense-kausalya-mahadevan-katia-bertoldi-seas/",
+      "title": "哈佛大学开发出智能针织纺织品，可以在稳定的形状之间快速切换和感知",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-18T03:27:43.582065+00:00",
+      "source_date": "2026-07-17T08:30:39+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1148909/warming-huts-jing-sai-bing-shang-yi-zhu-yu-jian-zhu-jing-sai",
+      "title": "Warming Huts 竞赛：冰上艺术与建筑竞赛",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-18T03:27:43.582101+00:00",
+      "source_date": "2026-07-17T09:05:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1040629/gong-kong-jian-gui-shui-suo-you-su-zao-ou-zhou-yu-niu-yue-cheng-shi-gong-xiang-zi-yuan-de-san-chong-zhu-dong-guan-li-mo-shi",
+      "title": "公共空间归谁所有？塑造欧洲与纽约城市公地的三种活跃共管模式",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-18T03:27:43.582129+00:00",
+      "source_date": "2026-07-17T09:00:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/architecture/michele-de-lucchi-appointed-creative-director-triennale-milano/",
       "title": "米歇尔·德卢基 (Michele de lucchi) 被任命为米兰三年展创意总监",
       "source": "designboom",
