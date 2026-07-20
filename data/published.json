@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://medium.com/@nehathakkar3008/user-experience-design-how-to-create-meaningful-experiences-that-matter-cde455ebcdfd?source=rss------user_experience-5",
+      "title": "用户体验设计：如何创造重要的有意义的体验",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-07-20T03:59:59.796758+00:00",
+      "source_date": "2026-07-19T17:15:42+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1148952/selldorf-architects-gong-bu-ma-sa-zhu-sai-zhou-ke-la-ke-yi-zhu-xue-yuan-kuo-jian-xiang-mu-she-ji",
+      "title": "Selldorf Architects 公布马萨诸塞州克拉克艺术学院扩建项目设计",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-20T03:59:59.796804+00:00",
+      "source_date": "2026-07-20T05:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6432131.html",
+      "title": "给浏览器 Agent 设计一间办公室：一次 Browser Use 改造里的权限、焦点与可观察性",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-20T03:59:59.796835+00:00",
+      "source_date": "2026-07-20T01:51:24+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1148649/fire-station-and-community-hall-motz-imgang-architekten",
+      "title": "莫茨消防站和社区大厅 / Imgang Architects",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-20T04:00:03.292155+00:00",
+      "source_date": "2026-07-19T11:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/circular-roof-opening-sunlight-casa-oculo-ohlab-palma/",
+      "title": "圆形屋顶开口将阳光引入 OHLAB 位于帕尔马的 casa óculo",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-20T04:00:03.981425+00:00",
+      "source_date": "2026-07-19T20:30:13+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1042941/halcom-offices-kip",
+      "title": "Halcom 办公室 / KIP 建筑事务所",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-20T04:00:04.923196+00:00",
+      "source_date": "2026-07-18T11:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/the-mocked-then-loved-airpods-effect-65ec25feeb3a?source=rss----138adf9c44c---4",
+      "title": "AirPods 的“先被嘲笑，后被喜爱”效应",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-07-20T04:00:07.716938+00:00",
+      "source_date": "2026-07-17T21:22:37+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1043020/hotel-nobis-palma-jordi-herrero-arquitecto",
+      "title": "帕尔马酒店 / Jordi Herrero Arquitecto",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-20T04:00:10.136632+00:00",
+      "source_date": "2026-07-19T09:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6432491.html",
+      "title": "AI产品的需求文档和传统PRD有什么不同？附一份B端AI产品PRD模板",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-20T04:00:10.136679+00:00",
+      "source_date": "2026-07-20T03:10:01+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6432227.html",
+      "title": "语义字典：设计系统组件的语义覆盖层",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-20T04:00:10.136709+00:00",
+      "source_date": "2026-07-20T02:09:17+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1148546/tiansong-headquarters-ziad",
+      "title": "天送总部 / ZIAD",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-20T04:00:11.754570+00:00",
+      "source_date": "2026-07-19T02:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1148906/humaita-ding-ceng-gong-yu-huma-arquitetura",
+      "title": "Humaitá 顶层公寓 / Huma Arquitetura",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-20T04:00:11.754617+00:00",
+      "source_date": "2026-07-19T13:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/zhichang/6429827.html",
+      "title": "离开大厂，坚定往前走",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-20T04:00:11.754645+00:00",
+      "source_date": "2026-07-20T01:36:26+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1148897/urban-egg-mixed-use-facility-uga-architects",
+      "title": "城市鸡蛋混合用途设施 / U.GA Architects",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-20T04:00:14.511123+00:00",
+      "source_date": "2026-07-19T21:00:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/architecture/bigx-super-sports-playground-digital-landscape-steel-light-color-fun-connection-design-funconn/",
       "title": "BIGX超级运动游乐场通过钢铁、光线和色彩塑造数字景观",
       "source": "designboom",
