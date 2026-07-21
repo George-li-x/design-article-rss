@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.archdaily.com/1148941/selldorf-architects-unveils-design-for-clark-art-institute-extension-in-massachusetts",
+      "title": "Selldorf Architects 公布马萨诸塞州克拉克艺术学院扩建项目的设计",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-21T03:39:53.444411+00:00",
+      "source_date": "2026-07-20T05:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1042188/architecture-is-not-jewelry-xing-ruan-on-building-for-time-not-perfection",
+      "title": "“建筑不是珠宝”：阮星谈建筑是为了时间而不是完美",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-21T03:39:54.470151+00:00",
+      "source_date": "2026-07-20T04:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/jello-lamp-freezes-the-soft-wobble-of-gelatin-desserts-into-3d-printed-sculptural-table-light/",
+      "title": "果冻灯将明胶甜点的柔和晃动冻结成 3D 打印的雕塑台灯",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-21T03:39:56.309387+00:00",
+      "source_date": "2026-07-20T21:30:23+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/timber-curves-crafted-details-dhaus-spatial-narrative-nanjing-townhouse-mendong/",
+      "title": "木材、曲线和精心制作的细节塑造了 DHaus 在南京联排别墅内的空间叙事",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-21T03:39:57.013451+00:00",
+      "source_date": "2026-07-20T14:00:59+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/readers/colorful-furnishings-raw-textures-flower-shop-moscow/",
+      "title": "色彩缤纷的家具和原始的纹理使开放式花店充满活力",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-21T03:39:57.696315+00:00",
+      "source_date": "2026-07-20T09:59:06+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/technology/cork-canvas-lunar-rover-electric-beach-buggy-amble-one/",
+      "title": "软木、帆布和月球车线索塑造了这款电动沙滩车“amble one”",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-21T03:39:58.254579+00:00",
+      "source_date": "2026-07-20T07:30:16+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/gabled-timber-volumes-sanctum-cabin-retreat-lithuanian-forest-studio-arches/",
+      "title": "山墙木体量将圣所小屋隐匿于立陶宛森林之中",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-21T03:39:58.713267+00:00",
+      "source_date": "2026-07-20T03:30:46+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6433167.html",
+      "title": "AI互联网日报：腾讯15亿美元洽购SuperPlay、智谱启用国产芯片数据中心、Google研发Frozen v2专用芯片",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-21T03:39:58.713315+00:00",
+      "source_date": "2026-07-21T02:41:41+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1181286/jiang-yi-neng-fou-zhong-xin-ding-yi-she-hua",
+      "title": "匠艺能否重新定义奢华？",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-21T03:39:58.713340+00:00",
+      "source_date": "2026-07-21T01:30:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.woshipm.com/share/6432875.html",
+      "title": "7·15新规长效合规：情感AI企业全生命周期风控治理顶层架构设计",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-21T03:39:58.713365+00:00",
+      "source_date": "2026-07-21T02:07:57+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1181282/kul-nosara-zhu-zhai-qbo3-arquitectos",
+      "title": "库尔诺萨拉大厦 / QBO3 Architects",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-21T03:40:00.175401+00:00",
+      "source_date": "2026-07-20T15:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1181276/engawa-ti-yu-she-shi-fakt-office-for-architecture",
+      "title": "Engawa 体育设施 / FAKT – Office for Architecture",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-21T03:40:00.175450+00:00",
+      "source_date": "2026-07-21T06:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6425326.html",
+      "title": "【乙方视角】当你洞察客户时，是在洞察什么-银行客户",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-21T03:40:00.175484+00:00",
+      "source_date": "2026-07-21T01:31:57+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1181304/threshold-house-david-macias",
+      "title": "门槛屋 / David Macias",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-21T03:40:00.641682+00:00",
+      "source_date": "2026-07-20T19:00:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://medium.com/@nehathakkar3008/user-experience-design-how-to-create-meaningful-experiences-that-matter-cde455ebcdfd?source=rss------user_experience-5",
       "title": "用户体验设计：如何创造重要的有意义的体验",
       "source": "Medium · User Experience",
