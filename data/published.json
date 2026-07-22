@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/technology/cipherx-painless-permanent-tattoos-dissolving-microneedle-patches/",
+      "title": "cipherX 通过溶解微针贴片应用无痛永久纹身",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-22T03:40:47.667625+00:00",
+      "source_date": "2026-07-21T18:15:34+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/care-play-design-pediatric-healthcare/",
+      "title": "当护理学会玩耍：设计如何重塑儿科医疗保健",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-22T03:40:52.479341+00:00",
+      "source_date": "2026-07-21T06:00:05+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/ida-billy-hong-kong-campus-modernism-dormitory-gridded-facades-choi-kai-yau/",
+      "title": "ida & billy 通过宿舍的网格立面重新诠释香港校园现代主义",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-22T03:40:53.079686+00:00",
+      "source_date": "2026-07-21T07:00:41+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/i-handed-a-ux-review-over-to-ai-heres-what-happened-0511e73e4ffe?source=rss----138adf9c44c---4",
+      "title": "我将用户体验审核交给了 AI。这就是发生的事情。",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-07-22T03:40:55.387136+00:00",
+      "source_date": "2026-07-21T21:36:57+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1181353/fine-design-a-studio-guide-to-remixing-design-art-craft-and-industry",
+      "title": "精美设计：重新混合设计、艺术、工艺和工业的工作室指南",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-22T03:40:56.324428+00:00",
+      "source_date": "2026-07-21T09:05:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/sliding-timber-frames-reused-materials-reversible-pavilion-swiss-meadow-piertzovanis-toews/",
+      "title": "滑动木框架和重复使用的材料在瑞士草地上塑造了可翻转的凉亭",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-22T03:40:57.061718+00:00",
+      "source_date": "2026-07-21T20:30:24+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6356975.html",
+      "title": "AI不仅拯救了阿尔茨海默病，也为产品经理带来了机遇",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-22T03:40:57.061772+00:00",
+      "source_date": "2026-07-22T01:21:15+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6433773.html",
+      "title": "理解 AHA：两个 Agent，如何一起办事？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-22T03:40:57.061806+00:00",
+      "source_date": "2026-07-22T02:53:39+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1148895/liang-shen-ding-zhi-he-er-zuo-ge-yu-de-mei-long-jia-ju-she-ji-de-jian-zhu-xue-fang-fa",
+      "title": "量身定制：赫尔佐格与德梅隆家具设计的建筑学方法",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-22T03:40:57.061838+00:00",
+      "source_date": "2026-07-22T01:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/pd/6433609.html",
+      "title": "7·15新规下，第三方大模型API接入情感AI权责与全链路改造方案",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-22T03:40:57.061871+00:00",
+      "source_date": "2026-07-22T01:45:49+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/it/6433783.html",
+      "title": "AI落地，最难的根本不是数据",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-22T03:40:57.061901+00:00",
+      "source_date": "2026-07-22T03:11:23+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/land-art-greek-beach-scene-ancient-hunters-modern-extraction-the-krank-the-hunt/",
+      "title": "大地艺术将希腊海滩变成了古代猎人和现代提取的场景",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-22T03:40:57.749117+00:00",
+      "source_date": "2026-07-22T01:15:40+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/malta-pavilion-at-venice-art-biennale-2026/",
+      "title": "爱与革命的实验占据了 2026 年威尼斯艺术双年展的马耳他馆",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-22T03:40:58.341324+00:00",
+      "source_date": "2026-07-21T10:30:45+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1181371/urban-revivo-san-li-tun-qi-jian-dian-mvrdv",
+      "title": "Urban Revivo 三里屯旗舰店 / MVRDV",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-22T03:40:58.341365+00:00",
+      "source_date": "2026-07-22T06:00:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.archdaily.com/1148941/selldorf-architects-unveils-design-for-clark-art-institute-extension-in-massachusetts",
       "title": "Selldorf Architects 公布马萨诸塞州克拉克艺术学院扩建项目的设计",
       "source": "ArchDaily",
