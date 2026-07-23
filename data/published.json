@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/design/creativity-play-lidewij-edelkoort-philip-fimmano-inner-child-artipelag-interview/",
+      "title": "为什么创造力需要发挥？ lidewij edelkoort 和 philip fimmano 讨论他们的“内在小孩”",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-23T03:40:12.464543+00:00",
+      "source_date": "2026-07-22T10:50:52+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/open-submission-a-design-award-and-competition-2027/",
+      "title": "20 个获奖项目引发了 2027 年 A’design 奖和竞赛的提交",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-23T03:40:13.379131+00:00",
+      "source_date": "2026-07-22T10:00:11+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1181490/call-for-entries-25th-tile-of-spain-awards-in-architecture-and-interior-design",
+      "title": "征集参赛作品：第 25 届西班牙建筑和室内设计瓷砖奖",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-23T03:40:14.776976+00:00",
+      "source_date": "2026-07-22T02:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1148855/redge-contemporary-art-center-atelier-meadow",
+      "title": "REDGE 当代艺术中心 / Atelier Meadow",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-23T03:40:17.008158+00:00",
+      "source_date": "2026-07-22T00:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/giant-blue-green-semicircular-table-tato-architects-yo-shimada-kyoto-apartment/",
+      "title": "tato建筑事务所设计的巨型蓝绿色半圆桌重新整理了京都公寓",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-23T03:40:18.406591+00:00",
+      "source_date": "2026-07-22T21:45:42+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/heat-pressed-artificial-wood-organic-joints-mocky-furniture-series-tact-inoue/",
+      "title": "热压人造木材融化成模拟家具系列的有机接缝",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-23T03:40:19.477427+00:00",
+      "source_date": "2026-07-22T17:10:01+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/optimism-friction-catalyst-innovation-room-for-dreams-podcast/",
+      "title": "乐观主义的架构：将摩擦视为创新的催化剂",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-23T03:40:20.738819+00:00",
+      "source_date": "2026-07-22T07:30:42+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6433992.html",
+      "title": "Codex与ChatGPT合并后，work和codex两种模式有什么区别?",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-23T03:40:20.738864+00:00",
+      "source_date": "2026-07-22T08:33:57+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6434075.html",
+      "title": "面试官想听的 不是你“懂AI”，是你理解这个岗位的工作底盘变了",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-23T03:40:20.738888+00:00",
+      "source_date": "2026-07-23T02:07:50+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1181440/she-ji-yu-xing-dong-zhu-yi-mi-bu-ke-fen-2026nian-uiashi-jie-jian-zhu-shi-da-hui-dui-hua-an-de-lie-si-star-ya-ke",
+      "title": "“设计与行动主义密不可分”：2026年UIA世界建筑师大会对话安德烈斯·雅克",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-23T03:40:20.738913+00:00",
+      "source_date": "2026-07-22T06:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1148656/made-to-measure-herzog-and-de-meurons-architectural-approach-to-furniture-design",
+      "title": "量身定制：赫尔佐格和德梅隆的家具设计建筑方法",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-23T03:40:26.925036+00:00",
+      "source_date": "2026-07-22T01:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/the-screens-are-getting-demoted-6b40120fcf04?source=rss----138adf9c44c---4",
+      "title": "屏幕正在降级",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-07-23T03:40:34.207405+00:00",
+      "source_date": "2026-07-22T22:21:02+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6434012.html",
+      "title": "腾讯悄悄上线了他们第一个设计Agent – Miora。",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-23T03:40:34.207449+00:00",
+      "source_date": "2026-07-22T08:49:41+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1037479/who-owns-public-space-three-active-models-of-shared-management-shaping-urban-commons-in-europe-and-new-york",
+      "title": "谁拥有公共空间？塑造欧洲和纽约城市公共空间的三种主动共享管理模式",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-23T03:40:39.768855+00:00",
+      "source_date": "2026-07-22T05:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1181459/ambroise-croizat-kong-jian-tautem-architecture",
+      "title": "Ambroise Croizat 空间 / TAUTEM Architecture",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-23T03:40:39.864524+00:00",
+      "source_date": "2026-07-22T12:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6433991.html",
+      "title": "让AI从零做完一个系统，这几条避坑铁律我建议你先看再动手",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-23T03:40:39.864569+00:00",
+      "source_date": "2026-07-22T08:32:36+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1181438/design-is-inseparable-from-activism-in-conversation-with-andres-jaque-at-the-uia-world-congress-of-architects-2026",
+      "title": "“设计与行动主义密不可分”：在 2026 年 UIA 世界建筑师大会上与 Andrés Jaque 的对话",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-23T03:40:41.807298+00:00",
+      "source_date": "2026-07-22T06:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/technology/light-flip-reimagines-dumbphone-with-clamshell-design-and-no-social-media/",
+      "title": "light 的怀旧翻盖手机“旨在尽可能少地使用”",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-23T03:40:42.723264+00:00",
+      "source_date": "2026-07-22T13:54:08+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1181388/dak-coffee-roasters-barde-plus-vanvoltt",
+      "title": "DAK 咖啡烘焙机 / Barde + vanVoltt",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-23T03:40:43.809338+00:00",
+      "source_date": "2026-07-23T10:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1181480/le-guan-de-ze-ren",
+      "title": "乐观的责任",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-23T03:40:43.809380+00:00",
+      "source_date": "2026-07-23T01:30:00+00:00",
+      "full_text": false
+    },
+    {
       "url": "https://www.designboom.com/technology/cipherx-painless-permanent-tattoos-dissolving-microneedle-patches/",
       "title": "cipherX 通过溶解微针贴片应用无痛永久纹身",
       "source": "designboom",
