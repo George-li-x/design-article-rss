@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/architecture/reclaimed-oak-cork-cardboard-flexible-furniture-cultural-hub-ny-medina-triennial-hub-serweta-peck/",
+      "title": "回收的橡木、软木和纸板为纽约文化中心建造灵活的家具",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-24T03:39:09.936586+00:00",
+      "source_date": "2026-07-23T21:45:31+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/lebanon-devalued-silver-gold-coins-patterns-collectible-furniture-frata-studio-majnoona/",
+      "title": "黎巴嫩贬值的银币和金币变成了收藏家具上的图案",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-24T03:39:11.185529+00:00",
+      "source_date": "2026-07-23T09:15:07+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6434479.html",
+      "title": "我们拼命用AI提高效率，为何迟迟不见增长？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-24T03:39:11.185573+00:00",
+      "source_date": "2026-07-23T09:58:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6434407.html",
+      "title": "又搜罗了一大筐 GitHub 开源项目，最后一个挺值得关注的。",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-24T03:39:11.185600+00:00",
+      "source_date": "2026-07-23T08:13:41+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/ooiio-reused-madrid-auto-center-permeable-skin-vertical-metal-slats/",
+      "title": "OOIIO 将重复使用的马德里汽车中心包裹在垂直金属板条的渗透表皮中",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-24T03:39:12.348209+00:00",
+      "source_date": "2026-07-23T06:15:01+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/ramon-esteve-mel-outdoor-furniture-collection-vondom/",
+      "title": "ramón esteve 为 vondom 的 mel 户外系列塑造了厚实、整体的造型",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-24T03:39:13.673421+00:00",
+      "source_date": "2026-07-23T10:05:49+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/worlds-tallest-timber-tower-reaches-full-height-sydney-shop-bvn-australia/",
+      "title": "由 SHoP 设计的世界最高木塔在悉尼达到全高",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-24T03:39:15.100400+00:00",
+      "source_date": "2026-07-23T14:52:16+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1092229/5-design-strategies-for-contemporary-bathrooms",
+      "title": "现代浴室的 5 种设计策略",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-24T03:39:18.561124+00:00",
+      "source_date": "2026-07-23T06:45:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6434365.html",
+      "title": "梁文峰看到的大模型下一个瓶颈，已经有团队在解决了",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-24T03:39:18.561167+00:00",
+      "source_date": "2026-07-23T06:59:48+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/kinzo-architekten-100-meter-swimming-pool-berlin-tilla-durieux-park/",
+      "title": "kinzo 提议在柏林市中心修建 100 米长的泳道",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-24T03:39:19.174957+00:00",
+      "source_date": "2026-07-24T01:30:14+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1148780/zhu-pei-dong-line-plus-cheng-shi-jin-shan-shou-zuo-luo-di-hang-zhou-loft49er-qi-zheng-shi-kai-fang-yun-ying",
+      "title": "杭州 LOFT49 / line+",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-24T03:39:19.334727+00:00",
+      "source_date": "2026-07-24T00:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/ewe-studio-sculptural-table-hand-carved-green-marble-cast-aluminum-exhuma/",
+      "title": "EWE工作室的雕塑桌将手工雕刻的绿色大理石与铸铝相结合",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-24T03:39:20.495668+00:00",
+      "source_date": "2026-07-23T17:10:18+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1181366/casa-arbo-perkins-and-will",
+      "title": "Casa Arbo 住宅楼 / Perkins&Will",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-24T03:39:21.584880+00:00",
+      "source_date": "2026-07-23T13:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/how-to-apply-nir-eyals-hook-model-to-ai-products-safely-f6a986305a2d?source=rss----138adf9c44c---4",
+      "title": "如何安全地将 Nir ​​Eyal 的 Hook 模型应用于人工智能产品",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-07-24T03:39:28.537807+00:00",
+      "source_date": "2026-07-20T22:00:29+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1181331/natural-history-museum-abu-dhabi-mecanoo",
+      "title": "阿布扎比自然历史博物馆 / Mecanoo",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-24T03:39:32.089575+00:00",
+      "source_date": "2026-07-23T07:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1181538/rike-park-music-theater-in-tbilisi-and-cras-residential-tower-in-seoul-this-weeks-review",
+      "title": "第比利斯 Rike Park 音乐剧院和首尔 CRA 住宅楼：本周回顾",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-24T03:39:36.195591+00:00",
+      "source_date": "2026-07-23T06:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1181541/di-bi-li-si-li-ke-gong-yuan-yin-le-ting-yu-crashou-er-zhu-zhai-ta-lou-ben-zhou-hui-gu",
+      "title": "第比利斯里科公园音乐厅与CRA首尔住宅塔楼：本周回顾",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-24T03:39:36.195635+00:00",
+      "source_date": "2026-07-23T06:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1092554/south-of-everything-architecture-and-territorial-presence-in-antarctica",
+      "title": "万物之南：南极洲的建筑和领土存在",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-24T03:39:37.316463+00:00",
+      "source_date": "2026-07-23T04:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/kite-filled-sky-china-janice-chan-photography-weifang-festival/",
+      "title": "在中国放满风筝的天空下，Janice Chan 拍摄了热带鱼和面条包",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-24T03:39:38.178980+00:00",
+      "source_date": "2026-07-23T14:15:01+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1181500/bu-ru-ke-ting-zhi-qian-jin-cou-xing-du-shi-zhu-zhai-de-ru-hu-guo-du-kong-jian",
+      "title": "内外之间：探索城市住宅的入口过渡空间",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-24T03:39:38.179026+00:00",
+      "source_date": "2026-07-23T07:30:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/design/creativity-play-lidewij-edelkoort-philip-fimmano-inner-child-artipelag-interview/",
       "title": "为什么创造力需要发挥？ lidewij edelkoort 和 philip fimmano 讨论他们的“内在小孩”",
       "source": "designboom",
