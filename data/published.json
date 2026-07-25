@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.nngroup.com/articles/ux-context-design/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "用户体验情境设计：利用用户体验知识为人工智能生成的设计提供信息",
+      "source": "Nielsen Norman Group",
+      "language": "en",
+      "published_at": "2026-07-25T03:34:16.925328+00:00",
+      "source_date": "2026-07-24T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/cnc-timber-modules-saga-space-summerhouse-denmark/",
+      "title": "CNC 切割木材模块塑造了 SAGA 在丹麦的紧凑型避暑别墅",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-25T03:34:17.451831+00:00",
+      "source_date": "2026-07-24T16:15:32+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/the-right-to-play/",
+      "title": "谁有权利玩？",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-25T03:34:22.258665+00:00",
+      "source_date": "2026-07-24T14:15:42+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/red-microcement-onyx-marble-brutalist-barcelona-duplex-lobb-studio/",
+      "title": "红色微水泥与缟玛瑙大理石搭配，重塑巴塞罗那野兽派复式公寓",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-25T03:34:22.573976+00:00",
+      "source_date": "2026-07-25T00:35:12+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.nngroup.com/articles/product-sense-definition/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "“产品意识”的具体定义（以及如何构建它）",
+      "source": "Nielsen Norman Group",
+      "language": "en",
+      "published_at": "2026-07-25T03:34:25.014971+00:00",
+      "source_date": "2026-07-24T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/ifda-2027-timber-wood-furniture-competition/",
+      "title": "IFDA 2027呼吁全球设计师回归木材本源",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-25T03:34:25.506799+00:00",
+      "source_date": "2026-07-24T10:05:33+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6435047.html",
+      "title": "AI时代ToB产品的“七步法”：当智能线索评分取代人工经验，销售效能如何重构？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-25T03:34:25.506849+00:00",
+      "source_date": "2026-07-25T02:36:18+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6434832.html",
+      "title": "19大场景实测Qwen-Image-3.0，GPT Image2不再是生图的唯一选择了",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-25T03:34:25.506880+00:00",
+      "source_date": "2026-07-24T07:55:45+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6435091.html",
+      "title": "B端产品人的机会，不是转向通用AI，而是在业务中落地AI",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-25T03:34:25.506909+00:00",
+      "source_date": "2026-07-25T02:53:03+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6434831.html",
+      "title": "一行代码不会写，我靠“白嫖”AI，做出了一个 3.2K Star 的开源工具",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-25T03:34:25.506937+00:00",
+      "source_date": "2026-07-24T10:01:57+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1181588/wa-lun-xi-ya-she-ji-jie",
+      "title": "瓦伦西亚设计节",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-25T03:34:25.506962+00:00",
+      "source_date": "2026-07-24T09:05:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1181596/call-to-makers-furniture-design-workshop-opening-celebration",
+      "title": "创客号召——家具设计工作坊开幕庆典",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-25T03:34:26.341597+00:00",
+      "source_date": "2026-07-24T09:20:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1181601/design-competition-for-the-prishtina-city-cemetery",
+      "title": "普里什蒂纳市公墓设计竞赛",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-25T03:34:27.207156+00:00",
+      "source_date": "2026-07-24T09:25:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1181599/chuang-ke-zheng-ji-jia-ju-she-ji-gong-zuo-fang-kai-mu-qing-dian",
+      "title": "创客征集——家具设计工作坊开幕庆典",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-25T03:34:27.207199+00:00",
+      "source_date": "2026-07-24T09:20:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/architecture/reclaimed-oak-cork-cardboard-flexible-furniture-cultural-hub-ny-medina-triennial-hub-serweta-peck/",
       "title": "回收的橡木、软木和纸板为纽约文化中心建造灵活的家具",
       "source": "designboom",
