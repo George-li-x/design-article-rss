@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/art/sculptural-exhibition-design-antiquity-poland-krakow/",
+      "title": "雕塑展览设计追溯了波兰古代的光辉之路",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-27T03:58:38.293346+00:00",
+      "source_date": "2026-07-26T20:44:05+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/cultivated-cellulose-layered-ash-horizon-inspired-lighting-polybion-natural-urbano-cenit/",
+      "title": "地平线启发的栽培纤维素和层状白蜡木形状系列照明",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-27T03:58:39.164993+00:00",
+      "source_date": "2026-07-26T01:55:04+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/your-website-is-boring-but-that-might-just-set-it-free-f2b13863e22c?source=rss----138adf9c44c---4",
+      "title": "你的网站很无聊（但这可能会让它自由）",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-07-27T03:58:41.053646+00:00",
+      "source_date": "2026-07-26T14:19:22+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/technology/mouse-augmental-mouthpad-tongue-control/",
+      "title": "忘记鼠标：augmental 的口垫让舌头控制光标",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-27T03:58:41.929838+00:00",
+      "source_date": "2026-07-26T16:00:45+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6435717.html",
+      "title": "create-an-asset ：从客户信息到品牌化交付物，一个 Skill 串起整个售前流程",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-27T03:58:41.929882+00:00",
+      "source_date": "2026-07-26T14:33:32+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1181627/mimado-restaurant-garcia-de-alba-plus-ponce-arquitectos",
+      "title": "Mimado 餐厅 / García de Alba + Ponce Arquitectos",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-27T03:58:44.505427+00:00",
+      "source_date": "2026-07-26T16:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1148723/a-play-of-color-in-an-apartment-interior-within-poznans-lazarz-district-lbwa",
+      "title": "波兹南 Łazarz 区公寓内部 / LBWA",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-27T03:58:45.672051+00:00",
+      "source_date": "2026-07-26T09:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1181629/mimado-can-ting-garcia-de-alba-plus-ponce-arquitectos",
+      "title": "奢华餐厅 / García de Alba + Ponce Arquitectos",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-27T03:58:46.199473+00:00",
+      "source_date": "2026-07-26T16:00:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.woshipm.com/share/6434060.html",
+      "title": "你的产品，在关闭好奇窗口还是保护它？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-27T03:58:46.199523+00:00",
+      "source_date": "2026-07-27T03:22:57+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6435133.html",
+      "title": "Agent跑完任务算成功？PM必须建的3层评估体系",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-27T03:58:46.199556+00:00",
+      "source_date": "2026-07-26T05:52:08+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1181499/ma-li-ha-zhi-wu-house-malija-raketa-plus-tria-studio",
+      "title": "Malija 住宅 / Raketa + Tria Studio",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-27T03:58:47.110048+00:00",
+      "source_date": "2026-07-27T03:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1181546/ruan-mu-xiao-wu-polysmiths",
+      "title": "软木小屋 / Polysmiths",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-27T03:58:47.110097+00:00",
+      "source_date": "2026-07-27T06:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1181461/macchiato-pocket-park-out-architecture",
+      "title": "玛奇朵袖珍公园 / OUT Architecture",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-27T03:58:47.864495+00:00",
+      "source_date": "2026-07-26T06:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1181253/mami-dan-temple-of-toligbe-cultural-center-maison-bignon-sossou",
+      "title": "托利贝文化中心玛米丹神庙 / Maison Bignon Sossou",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-27T03:58:50.174176+00:00",
+      "source_date": "2026-07-26T17:00:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/design/rummy-card-game-playful-sculptural-furniture-collection-ramino-series-atelier-arunika/",
       "title": "拉米纸牌游戏激发了俏皮的雕塑家具系列的灵感",
       "source": "designboom",
