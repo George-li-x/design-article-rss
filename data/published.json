@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.archdaily.com/1181678/mycology-for-architecture",
+      "title": "建筑真菌学",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-28T03:31:04.074414+00:00",
+      "source_date": "2026-07-27T09:25:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1181537/an-architectural-language-of-artificial-cooling-shade-mist-and-autonomy",
+      "title": "人工冷却的建筑语言：阴影、薄雾和自治",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-28T03:31:06.833549+00:00",
+      "source_date": "2026-07-27T04:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/fredrik-paulsen-limited-edition-chair-helsinki-diy-skateboarding-festival-vauhtikisat-chair-one/",
+      "title": "fredrik paulsen 为赫尔辛基 DIY 滑板节打造限量版椅子",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-28T03:31:08.891391+00:00",
+      "source_date": "2026-07-27T14:15:33+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@contactfedra/bridging-the-skill-gap-in-the-layoff-era-a-ui-ux-case-study-on-workhub-dca0e35123af?source=rss------product_design-5",
+      "title": "缩小裁员时代的“技能差距”：WorkHub 上的 UI/UX 案例研究",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-07-28T03:31:13.277015+00:00",
+      "source_date": "2026-07-28T03:18:26+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/aalto-works-mosques-modernist-cities-join-unesco-2026-world-heritage-list/",
+      "title": "阿尔托作品、岩石清真寺和现代主义城市加入联合国教科文组织 2026 年世界遗产名录",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-28T03:31:21.320634+00:00",
+      "source_date": "2026-07-27T16:07:51+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/fluid-spatial-evolution-room-for-dreams-podcast/",
+      "title": "超越蓝图：打破僵化结构，拥抱流动的空间演化",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-28T03:31:22.201531+00:00",
+      "source_date": "2026-07-27T10:00:32+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1181670/claying-architecture",
+      "title": "黏土建筑",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-28T03:31:23.660051+00:00",
+      "source_date": "2026-07-27T09:15:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1181647/promoting-another-way-of-living-together-in-conversation-with-cristina-gamboa-of-lacol",
+      "title": "“促进另一种共同生活的方式”：与 Lacol 的 Cristina Gamboa 对话",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-28T03:31:24.921962+00:00",
+      "source_date": "2026-07-27T06:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1181668/2026nian-cdmshu-zi-jian-zao-jing-sai-you-cainz-x-kokuyo-x-vuild-zhu-ban",
+      "title": "2026年CDM数字建造竞赛，由 CAINZ × KOKUYO × VUILD 主办",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-28T03:31:24.922005+00:00",
+      "source_date": "2026-07-27T09:10:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1181673/ni-su-jian-zhu",
+      "title": "泥塑建筑",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-28T03:31:24.922028+00:00",
+      "source_date": "2026-07-27T09:15:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6436055.html",
+      "title": "想做AI Agent产品经理？请先忘掉原型和PRD",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-28T03:31:24.922053+00:00",
+      "source_date": "2026-07-28T01:52:36+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1181650/chang-dao-ling-chong-gong-tong-sheng-huo-fang-shi-dui-hua-lacol-jian-zhu-shi-wu-suo-de-cristina-gamboa",
+      "title": "“倡导另一种共同生活方式”：对话 Lacol 建筑事务所的 Cristina Gamboa",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-28T03:31:24.922080+00:00",
+      "source_date": "2026-07-27T06:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1181653/melody-zhu-zhai-modo-designs",
+      "title": "Melody House / MODO 设计",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-28T03:31:26.142797+00:00",
+      "source_date": "2026-07-28T02:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6436099.html",
+      "title": "AI互联网日报：OpenAI欧洲总部落地爱尔兰、抖音升级适龄推荐、美团CatPaw走进本地生活、京东在伦敦设英国总部",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-28T03:31:26.142862+00:00",
+      "source_date": "2026-07-27T12:09:14+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/art/sculptural-exhibition-design-antiquity-poland-krakow/",
       "title": "雕塑展览设计追溯了波兰古代的光辉之路",
       "source": "designboom",
