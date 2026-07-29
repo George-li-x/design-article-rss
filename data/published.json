@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/design/sutyo-smart-sunglasses/",
+      "title": "Sutyo 的外形第一太阳镜只需轻轻一划即可改变镜片颜色和色调",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-29T03:33:46.520023+00:00",
+      "source_date": "2026-07-28T10:00:23+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6435731.html",
+      "title": "设计师与产品经理：AI界面语义走查指南",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-29T03:33:46.520068+00:00",
+      "source_date": "2026-07-29T00:48:12+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/readers/pollennav-mobile-app-city-routes-allergies-yani-shi/",
+      "title": "PollenNav 移动应用程序根据您可以呼吸的内容绘制城市地图，而不仅仅是您可以步行的地方",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-29T03:33:49.019479+00:00",
+      "source_date": "2026-07-28T22:20:19+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/black-asphalt-birch-plywood-compact-retreat-czech-barn-facha-architekti/",
+      "title": "捷克谷仓内的黑色沥青和桦木胶合板形状紧凑的撤退",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-29T03:33:49.888401+00:00",
+      "source_date": "2026-07-28T23:55:47+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6436539.html",
+      "title": "上线3个月、1200万DAU，WorkBuddy是怎么炼成的？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-29T03:33:49.888444+00:00",
+      "source_date": "2026-07-28T11:08:22+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/bagel-inspired-details-flexible-furniture-seoul-bakery-open-interior-jojoworkshop-achime-bagel/",
+      "title": "受百吉饼启发的细节和灵活的家具塑造了首尔面包店的开放式内部空间",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-29T03:33:52.139210+00:00",
+      "source_date": "2026-07-28T15:45:07+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/fiberglass-shells-bronze-skeletal-forms-sculptural-light-furniture-collection-salina-federico-stefanovich/",
+      "title": "玻璃纤维贝壳和青铜骨架塑造雕塑灯光和家具系列",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-29T03:33:53.467216+00:00",
+      "source_date": "2026-07-29T02:10:52+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1181682/architecture-as-an-ongoing-conversation",
+      "title": "建筑作为一种持续的对话",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-29T03:33:55.090441+00:00",
+      "source_date": "2026-07-28T01:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6436318.html",
+      "title": "B 端系统接了大模型，却被真实业务疯狂打脸？复盘我的 3 个“反直觉”设计",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-29T03:33:55.090482+00:00",
+      "source_date": "2026-07-29T02:55:22+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1181707/zhi-ji-zhu-zhai-casa-tear-felipe-caboclo-arquitetura",
+      "title": "织机住宅 (Casa Tear) / Felipe Caboclo Arquitetura",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-29T03:33:55.090500+00:00",
+      "source_date": "2026-07-28T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/bomb-scars-wall-rock-artist-pavel-rotts-war-climbing-play/",
+      "title": "“炸弹留下的伤痕让墙壁重回岩石”：艺术家帕维尔·罗茨通过攀爬描绘战争地图",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-29T03:34:05.977868+00:00",
+      "source_date": "2026-07-28T14:00:23+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1181756/wpp-ji-tuan-mi-zha-er-zong-bu-mizal-eller-plus-eller-architekten-gmbh",
+      "title": "WPP 集团米扎尔总部（Mizal） / Eller + Eller Architekten GmbH",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-29T03:34:05.977907+00:00",
+      "source_date": "2026-07-29T10:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1181737/yong-long-zhu-zhai-naq-architecture",
+      "title": "永隆住宅 / NAQ Architecture",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-29T03:34:05.977926+00:00",
+      "source_date": "2026-07-28T02:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1181697/the-ecc-awards-shortlist-explores-memory-identity-and-technology-in-venice",
+      "title": "ECC 奖入围名单探讨了威尼斯的记忆、身份和技术",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-29T03:34:15.817310+00:00",
+      "source_date": "2026-07-28T05:30:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.archdaily.com/1181678/mycology-for-architecture",
       "title": "建筑真菌学",
       "source": "ArchDaily",
