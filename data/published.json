@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/architecture/perforated-terracotta-screens-naq-architecture-breezy-vinh-long-house-vietnam/",
+      "title": "穿孔的赤土屏风为 NAQ 建筑事务所的通风长屋带来凉爽",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-30T03:23:39.287720+00:00",
+      "source_date": "2026-07-29T22:10:25+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/technology/vollebak-yellow-trench-coat-protective-rubber-fwahbl-jacket/",
+      "title": "vollebak 用防护橡胶制成的黄色风衣为末日做准备",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-30T03:23:40.325512+00:00",
+      "source_date": "2026-07-29T15:30:42+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/curved-curtain-modular-furniture-shanghai-interior-workshop-pop-up-atelier-siyu/",
+      "title": "弧形窗帘和模块化家具重塑上海室内工作室和快闪店",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-30T03:23:40.972545+00:00",
+      "source_date": "2026-07-29T14:15:34+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/habits-design-light-bites-tableware-synchronized-performance/",
+      "title": "习惯设计将用餐转变为同步灯光表演",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-30T03:23:41.869985+00:00",
+      "source_date": "2026-07-29T10:00:14+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/the-ux-of-contrast-what-indika-taught-me-about-designing-intentional-contradiction-c880e9eaf084?source=rss----138adf9c44c---4",
+      "title": "对比的用户体验：Indika 游戏设计的经验教训",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-07-30T03:23:45.629188+00:00",
+      "source_date": "2026-07-29T21:57:08+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6437181.html",
+      "title": "Anthropic 第一个技术型 PM 最新访谈：现在真正管用的东西叫 evals",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-30T03:23:45.629237+00:00",
+      "source_date": "2026-07-29T14:17:58+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
+      "title": "人工智能时代数字设计的牛市与熊市案例",
+      "source": "Smashing Magazine",
+      "language": "en",
+      "published_at": "2026-07-30T03:23:48.465947+00:00",
+      "source_date": "2026-07-29T13:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6436634.html",
+      "title": "当“人”在算法中消失：从携程51.79亿重罚，看产品体验的“失温”与“重塑”",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-30T03:23:48.466028+00:00",
+      "source_date": "2026-07-30T01:31:09+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6436717.html",
+      "title": "搭建工作大脑：我是如何把产品工作托管给AI的",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-30T03:23:48.466055+00:00",
+      "source_date": "2026-07-30T01:49:13+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1181849/caju-gong-yu-coda-arquitetura",
+      "title": "Caju 公寓 / CODA Arquitetura",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-30T03:23:49.051024+00:00",
+      "source_date": "2026-07-29T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1181666/wpp-headquarters-mizal-eller-plus-eller-architekten-gmbh",
+      "title": "WPP 总部 Mizal / Eller + Eller Architekten GmbH",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-30T03:23:50.850821+00:00",
+      "source_date": "2026-07-29T10:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1181785/shenzhen-natural-history-museum-designed-by-3xn-b-plus-h-architects-and-zhubo-opens-in-china",
+      "title": "由 3XN、B+H Architects 和 Zhubo 设计的深圳自然历史博物馆在中国开幕",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-07-30T03:23:53.002239+00:00",
+      "source_date": "2026-07-29T04:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1181750/redhill-early-learning-centre-hubo-studio",
+      "title": "红山早教中心 / Hubo Studio",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-30T03:23:53.224398+00:00",
+      "source_date": "2026-07-30T07:00:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1181802/ju-chi-wu-francesco-pierazzi-architects",
+      "title": "锯齿屋 / Francesco Pierazzi Architects",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-30T03:23:53.224444+00:00",
+      "source_date": "2026-07-30T06:00:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/design/sutyo-smart-sunglasses/",
       "title": "Sutyo 的外形第一太阳镜只需轻轻一划即可改变镜片颜色和色调",
       "source": "designboom",
