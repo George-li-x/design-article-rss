@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/architecture/lantern-pavilion-recycled-brick-bar-bangkok-house-arvie-restaurant-pachapasa-studio/",
+      "title": "灯笼式凉亭和回收砖吧将曼谷房屋改造成 arvie 餐厅",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-31T03:47:21.013693+00:00",
+      "source_date": "2026-07-31T02:10:21+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/technology/3d-printed-cloak-infrared-cameras-redirected-heat/",
+      "title": "3D打印斗篷通过仔细重定向热量来欺骗红外相机",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-31T03:47:22.775698+00:00",
+      "source_date": "2026-07-30T20:45:12+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/studio-frank-havermans-500-year-old-dutch-house-timber-scaffolding-structures-besiendershuis-nijmegen/",
+      "title": "Frank Havermans工作室用木脚手架结构建造了一座拥有500年历史的荷兰房屋",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-31T03:47:33.931722+00:00",
+      "source_date": "2026-07-30T18:15:28+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/addi-saute-pan-geometry-octagonal-raw-aluminum-form-steka-mozambique/",
+      "title": "ADDI 通过经久耐用的八角形原铝形式重新思考炒锅的几何形状",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-31T03:47:36.154139+00:00",
+      "source_date": "2026-07-30T17:55:24+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/subconscious-spaces-invisible-energy-room-for-dreams-podcast/",
+      "title": "潜意识空间：追踪赋予建筑灵魂的无形能量",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-31T03:47:37.224841+00:00",
+      "source_date": "2026-07-30T10:00:16+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/rhythmic-timber-glass-pavilion-pecan-tree-canopy-argentina-pabellon-los-troncos-galetto-estudio/",
+      "title": "有节奏的木材和玻璃展馆在阿根廷山核桃树冠下展开",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-31T03:47:38.769203+00:00",
+      "source_date": "2026-07-30T20:35:57+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6437617.html",
+      "title": "难用到令人发指的网站，是存心跟用户过不去吗？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-31T03:47:38.769297+00:00",
+      "source_date": "2026-07-31T03:31:25+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/dan-ortiz-leizman-strings-monobloc-chair-playable-instrument-interview/",
+      "title": "dan ortiz leizman 在整体椅子上添加了琴弦，将其变成了可演奏的乐器",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-31T03:47:46.168348+00:00",
+      "source_date": "2026-07-30T10:50:30+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6436690.html",
+      "title": "智能体的万维网：下一代网络生态的终局预言与人本回归",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-31T03:47:46.168395+00:00",
+      "source_date": "2026-07-31T01:48:45+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6435160.html",
+      "title": "Agent全自动是个坑，人工介入设计才是产品落地的关键",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-31T03:47:46.168424+00:00",
+      "source_date": "2026-07-31T01:04:05+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6437924.html",
+      "title": "当 AI 把原型画完，产品经理的工作才刚开始",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-07-31T03:47:46.168452+00:00",
+      "source_date": "2026-07-30T15:04:19+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/plastic-400-year-ice-cream-contrasting-timelines-fleeting-pleasure-material-decay-joll/",
+      "title": "塑料冰淇淋追溯了转瞬即逝的快乐和物质腐烂的对比时间线",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-07-31T03:47:47.431474+00:00",
+      "source_date": "2026-07-30T07:45:20+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1181819/yi-hun-ning-tu-zhu-jiu-rui-shi-wan-biao-ke-la-ke-jian-she-ji-tuan-tan-lacma-da-wei-star-ge-fen-zhan-ting",
+      "title": "混凝土如何拥有“瑞士腕表”的精度？Clark Construction 解读 LACMA 大卫·格芬展馆的建造挑战",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-31T03:47:47.431521+00:00",
+      "source_date": "2026-07-30T07:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1181827/shi-yao-shi-yuan-xian-dai-zhu-yi-jian-zhu-jie-yu-hou-xian-dai-fan-feng-yu-xin-zhen-cheng-zhi-jian",
+      "title": "什么是元现代主义建筑 Metamodern Architecture？",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-07-31T03:47:47.431549+00:00",
+      "source_date": "2026-07-30T04:00:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/architecture/perforated-terracotta-screens-naq-architecture-breezy-vinh-long-house-vietnam/",
       "title": "穿孔的赤土屏风为 NAQ 建筑事务所的通风长屋带来凉爽",
       "source": "designboom",
