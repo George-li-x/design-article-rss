@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.nngroup.com/articles/no-new-name-ux/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "没有新名称取代“UX”",
+      "source": "Nielsen Norman Group",
+      "language": "en",
+      "published_at": "2026-08-01T03:46:38.144027+00:00",
+      "source_date": "2026-07-31T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.nngroup.com/articles/mentorship/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "为什么需要指导以及如何正确实施",
+      "source": "Nielsen Norman Group",
+      "language": "en",
+      "published_at": "2026-08-01T03:46:42.398425+00:00",
+      "source_date": "2026-07-31T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/readers/2s-design-horse-inhalation-mask-veterinary-technology-natural-form-language-equihero/",
+      "title": "2s.design 的马吸入面罩将兽医技术与自然形式语言融为一体",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-01T03:46:43.240541+00:00",
+      "source_date": "2026-08-01T02:10:30+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/ukyo-x-cafe-listening-bar-co-working-restored-historic-interior-romania-in-still/",
+      "title": "ukyo X 在罗马尼亚经过修复的历史悠久的内部空间中融合了咖啡馆、聆听酒吧和联合办公空间",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-01T03:46:44.153293+00:00",
+      "source_date": "2026-07-31T20:15:54+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/it/6438353.html",
+      "title": "起薪30K的高薪AI产品经理，0经验如何快速转型入行？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-01T03:46:44.153342+00:00",
+      "source_date": "2026-08-01T01:08:40+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1181936/latin-america-in-focus-this-month-in-architecture-cultural-institutions-heritage-and-resilience",
+      "title": "拉丁美洲聚焦：本月建筑、文化机构、遗产和复原力",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-01T03:46:46.926074+00:00",
+      "source_date": "2026-07-31T06:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/creative-technologists-are-moving-from-the-margins-to-the-center-4fcfaa3cf2f6?source=rss----138adf9c44c---4",
+      "title": "创意技术人员正在从边缘走向中心",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-08-01T03:46:50.824024+00:00",
+      "source_date": "2026-08-01T02:44:37+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6438503.html",
+      "title": "Cursor零代码做页面，设计入门：从盲说改错到100%还原",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-01T03:46:50.824072+00:00",
+      "source_date": "2026-08-01T03:11:25+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6437579.html",
+      "title": "模型一开源，你的 AI 产品可能一夜之间没有壁垒",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-01T03:46:50.824097+00:00",
+      "source_date": "2026-08-01T02:28:03+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6436781.html",
+      "title": "拆了腾讯WorkBuddy，我发现了AI产品三个值得抄的设计",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-01T03:46:50.824121+00:00",
+      "source_date": "2026-07-31T08:48:54+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1181991/coastal-mhk-2009-2014nian-jian-zhu-zuo-pin",
+      "title": "Coastal MHK 2009-2014年建筑作品",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-01T03:46:50.824144+00:00",
+      "source_date": "2026-07-31T09:10:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1181948/ju-jiao-la-ding-mei-zhou-ben-yue-jian-zhu-wen-hua-ji-gou-yi-chan-yu-ren-xing",
+      "title": "聚焦拉丁美洲：本月建筑、文化机构、遗产与韧性",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-01T03:46:50.824168+00:00",
+      "source_date": "2026-07-31T06:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1181872/mac-casa-cta-creative-architects",
+      "title": "Mac Casa / CTA |创意建筑师",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-01T03:46:52.073383+00:00",
+      "source_date": "2026-07-31T03:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1181483/the-avli-houses-ona-i-ona-architecture-and-design",
+      "title": "Avlí 住宅 / Ona i Ona Architecture and Design",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-01T03:46:52.851662+00:00",
+      "source_date": "2026-07-31T06:00:00+00:00",
+      "full_text": false
+    },
+    {
       "url": "https://www.designboom.com/architecture/lantern-pavilion-recycled-brick-bar-bangkok-house-arvie-restaurant-pachapasa-studio/",
       "title": "灯笼式凉亭和回收砖吧将曼谷房屋改造成 arvie 餐厅",
       "source": "designboom",
