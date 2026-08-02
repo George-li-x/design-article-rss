@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/art/jewel-covered-apple-frozen-clocks-62-proposals-high-line-sculpture/",
+      "title": "从镶满珠宝的苹果到冰冻时钟：高线公园下一个雕塑的 62 个创意",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-02T03:49:04.372615+00:00",
+      "source_date": "2026-07-31T16:36:07+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/radar-exhibitions-august/",
+      "title": "设计邦雷达：今年八月在世界各地举办的展览",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-02T03:49:16.046583+00:00",
+      "source_date": "2026-08-01T07:45:39+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6438526.html",
+      "title": "Decagon亲述：从2人到1000人，AI客服创业公司是怎么起步的",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-02T03:49:16.046622+00:00",
+      "source_date": "2026-08-01T04:08:53+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/rethinking-friction-in-an-ai-world-8f361d62ab5e?source=rss----138adf9c44c---4",
+      "title": "重新思考人工智能世界中的摩擦",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-08-02T03:49:22.714874+00:00",
+      "source_date": "2026-07-30T22:33:38+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1181985/coastal-mhk-architecture-works-from-2009-2014",
+      "title": "2009-2014年沿海MHK建筑工程",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-02T03:49:25.635595+00:00",
+      "source_date": "2026-07-31T09:10:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/ippolito-pestellini-laparelli-erica-petrillo-2050-parking-lot-essay/",
+      "title": "2050+ 的 ippolito pestellini laparelli 和 erica petrillo 谈“忘记自己的停车场”",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-02T03:49:41.649069+00:00",
+      "source_date": "2026-08-01T14:15:35+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/jakobs-law-how-to-apply-it-as-ai-collapses-surfaces-into-one-chat-box-d8ebc9a727db?source=rss----138adf9c44c---4",
+      "title": "雅各布定律：当人工智能将表面折叠成一个聊天框时如何应用它",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-08-02T03:49:53.754341+00:00",
+      "source_date": "2026-07-30T22:36:31+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/technology/lightfoot-solar-cargo-scooter-sunlight-everyday-errands/",
+      "title": "Lightfoot 太阳能货运踏板车可储存阳光以供日常事务使用",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-02T03:49:55.715496+00:00",
+      "source_date": "2026-07-31T09:57:47+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1018806/luxe-lakes-cpi-island-vari-architects",
+      "title": "奢华湖 CPI 岛 / Vari Architects",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-02T03:49:56.666434+00:00",
+      "source_date": "2026-08-01T02:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6438529.html",
+      "title": "AI互联网日报：DeepSeek-V4-Flash打响成本战、美团上线等灯停表、小米汽车交付超3万辆",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-02T03:49:56.666477+00:00",
+      "source_date": "2026-08-01T05:14:22+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1181882/cafe-n-plus-horibe-associates",
+      "title": "N+ 咖啡馆 / Horibe Associates",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-02T03:49:58.654023+00:00",
+      "source_date": "2026-08-01T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/steel-hanji-porous-vessel-memory-cold-war-bunker-seoul-checksy-choi-eotieum-the-ply-of-longing/",
+      "title": "首尔冷战地堡内的钢铁和韩纸编织成多孔的记忆容器",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-02T03:50:01.416785+00:00",
+      "source_date": "2026-07-31T23:55:22+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@ayushramawat29/the-product-design-skill-most-ai-builders-skip-designing-what-happens-next-c32708e94569?source=rss------product_design-5",
+      "title": "大多数人工智能构建者都会跳过的产品设计技能：设计接下来会发生什么",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-08-02T03:50:06.170191+00:00",
+      "source_date": "2026-08-01T21:06:53+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@ayushramawat29/the-product-design-skill-most-ai-builders-skip-designing-what-happens-next-c32708e94569?source=rss------user_experience-5",
+      "title": "大多数人工智能构建者都会跳过的产品设计技能：设计接下来会发生什么",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-08-02T03:50:07.234814+00:00",
+      "source_date": "2026-08-01T21:06:53+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1182031/ma-li-mo-yi-liao-da-lou-asnow-design-and-construct",
+      "title": "马里万医疗大楼 / AsNow Design & Construct",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-02T03:50:07.234845+00:00",
+      "source_date": "2026-08-01T21:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6438539.html",
+      "title": "2026 开源鸿蒙进入下半场，最大机遇：嵌入式 AI 硬件开发",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-02T03:50:07.234868+00:00",
+      "source_date": "2026-08-01T05:53:07+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1181555/where-is-the-border-the-role-of-architecture-in-controlling-mobility",
+      "title": "边界在哪里？架构如何控制和重新构想移动性",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-02T03:50:17.470527+00:00",
+      "source_date": "2026-08-01T07:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1181895/n-plus-ka-pei-ting-horibe-associates",
+      "title": "N+ 咖啡厅 / Horibe Associates",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-02T03:50:17.470575+00:00",
+      "source_date": "2026-08-01T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1181891/mac-casa-zhu-zhai-cta-creative-architects",
+      "title": "Mac Home 住宅 / CTA |创意建筑师",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-02T03:50:18.433010+00:00",
+      "source_date": "2026-07-31T03:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1181746/casa-mezcal-barde-plus-vanvoltt",
+      "title": "梅斯卡尔之家 / Barde + vanVoltt",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-02T03:50:20.100498+00:00",
+      "source_date": "2026-07-31T19:00:00+00:00",
+      "full_text": false
+    },
+    {
       "url": "https://www.nngroup.com/articles/no-new-name-ux/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "title": "没有新名称取代“UX”",
       "source": "Nielsen Norman Group",
