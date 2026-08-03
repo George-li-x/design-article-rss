@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/design/designboom-shop-drop-august-2026-limited-release-watches-architectural-jewelry/",
+      "title": "designboom shop drop：限量发售手表和建筑珠宝",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-03T03:50:30.052289+00:00",
+      "source_date": "2026-08-02T07:45:26+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/timber-wave-like-metal-lakeside-pavilion-family-restaurant-china-lago-italian-family-kitchen-vari-architects/",
+      "title": "木材和波浪状金属将湖畔凉亭改造成中国的家庭餐厅",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-03T03:50:31.341964+00:00",
+      "source_date": "2026-08-02T20:45:50+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6437601.html",
+      "title": "PM在不同组织架构下的生存之道",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-03T03:50:31.342014+00:00",
+      "source_date": "2026-08-03T02:06:07+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@kirankrishnap2021/from-ux-to-ax-why-i-think-were-not-just-redesigning-interfaces-we-re-redesigning-trust-092898cefcce?source=rss------user_experience-5",
+      "title": "从 UX 到 AX：为什么我认为我们不仅在重新设计界面，还在重新设计信任",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-08-03T03:50:34.789661+00:00",
+      "source_date": "2026-08-02T16:36:08+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@moumni.iness/tracking-steadiness-not-speed-designing-glimpse-for-people-transitioning-career-6134757872eb?source=rss------product_design-5",
+      "title": "追踪稳定性，而不是速度：为职业转型者设计一瞥",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-08-03T03:50:40.713857+00:00",
+      "source_date": "2026-08-02T22:36:51+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/the-architecture-of-watching-work-dcc521fcad1c?source=rss----138adf9c44c---4",
+      "title": "观看工作的架构",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-08-03T03:50:41.547312+00:00",
+      "source_date": "2026-08-02T10:27:44+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/design-md-the-one-standard-file-carries-your-visual-identity-for-humans-and-agents-9058d5b39d9b?source=rss----138adf9c44c---4",
+      "title": "Design.md：唯一一个标准文件，为人类和代理承载您的视觉标识",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-08-03T03:50:46.722074+00:00",
+      "source_date": "2026-08-02T10:27:17+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1182034/zhong-sheng-zhi-jia-dare-design-arena-plus-research",
+      "title": "重生之家 / DARE – Design Arena + Research",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-03T03:50:46.722117+00:00",
+      "source_date": "2026-08-03T02:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/designing-for-the-proxy-2606ffac2335?source=rss----138adf9c44c---4",
+      "title": "为代理设计",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-08-03T03:50:49.985009+00:00",
+      "source_date": "2026-08-02T14:12:49+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6438504.html",
+      "title": "豆包、飞书合并，字节奔赴AI办公战场",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-03T03:50:49.985052+00:00",
+      "source_date": "2026-08-03T03:15:14+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1181998/resonancia-ppaa",
+      "title": "共振装置 / PPAA",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-03T03:50:52.608590+00:00",
+      "source_date": "2026-08-02T15:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6437379.html",
+      "title": "AI Agent功能越做越多，为什么用户反而失去了控制？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-03T03:50:52.608643+00:00",
+      "source_date": "2026-08-03T02:07:08+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6438322.html",
+      "title": "AI办公没有超级入口",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-03T03:50:52.608673+00:00",
+      "source_date": "2026-08-03T02:19:41+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6438276.html",
+      "title": "AI持续学习火了：下一代智能体拼的不是“会回答”，而是“会积累”",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-03T03:50:52.608703+00:00",
+      "source_date": "2026-08-03T02:17:54+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@ayushramawat29/your-first-ai-built-pull-request-a-safe-workflow-for-designers-2f296a942c39?source=rss------product_design-5",
+      "title": "您的第一个人工智能构建的拉取请求：设计师的安全工作流程",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-08-03T03:50:55.270386+00:00",
+      "source_date": "2026-08-02T18:59:22+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@Dhara/why-do-we-carry-an-almost-empty-water-bottle-all-day-a8d20c4a056b?source=rss------product_design-5",
+      "title": "为什么我们整天带着几乎空的水瓶？",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-08-03T03:50:58.071265+00:00",
+      "source_date": "2026-08-02T21:30:20+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1182010/xun-huan-jing-ji-chuang-xin-zhong-xin-ciec-liu-dong-hua-yuan-gassz-arquitectos",
+      "title": "循环经济创新中心（CIEC）“流动”花园 / gaSSz arquitectos",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-03T03:50:58.071327+00:00",
+      "source_date": "2026-08-03T10:00:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.designboom.com/design/paivi-raivios-basic-forms-barbican-london-movable-urban-playground/",
+      "title": "päivi raivio 的基本形式将瓮城变成了一个可移动的城市游乐场",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-03T03:50:58.455197+00:00",
+      "source_date": "2026-08-02T15:27:10+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1181822/jing-mian-jia-ju-zhi-jia-set-architects",
+      "title": "镜面家具之家 / Set Architects",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-03T03:50:58.455238+00:00",
+      "source_date": "2026-08-03T06:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1181834/the-gigur-visitor-center-in-iceland-sp-r-int-studio-plus-nissen-richards-studio",
+      "title": "冰岛吉古尔游客中心 / SP(R)INT STUDIO + Nissen Richards Studio",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-03T03:51:00.095662+00:00",
+      "source_date": "2026-08-02T10:00:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/art/jewel-covered-apple-frozen-clocks-62-proposals-high-line-sculpture/",
       "title": "从镶满珠宝的苹果到冰冻时钟：高线公园下一个雕塑的 62 个创意",
       "source": "designboom",
