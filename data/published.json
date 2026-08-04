@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.woshipm.com/ai/6439802.html",
+      "title": "前端与AI工程师：把语义约束写进AI的生成上下文",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-04T03:33:15.645920+00:00",
+      "source_date": "2026-08-04T03:03:51+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6439390.html",
+      "title": "从飞书 Skill 到项目管理平台实践：重新理解 Agent、GUI 与 Skill 的分工",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-04T03:33:15.645955+00:00",
+      "source_date": "2026-08-04T01:59:26+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/concrete-wood-greenery-perkins-will-residential-tower-sao-paulo-casa-arbo/",
+      "title": "Perkins&will 的住宅塔楼位于圣保罗，周围环绕着混凝土、木材和绿色植物",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-04T03:33:17.137687+00:00",
+      "source_date": "2026-08-03T20:35:01+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/technology/augment-360-folding-electric-moped-compact-ev/",
+      "title": "Augment 360：这款折叠电动助力车可以跟随骑手进入电梯",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-04T03:33:18.592709+00:00",
+      "source_date": "2026-08-03T15:55:45+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/technology/digital-camouflage-computational-noise-wearable-shield-ai-surveillance-simon-weckert/",
+      "title": "数码迷彩将计算噪音变成可穿戴的盾牌以抵御人工智能监视",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-04T03:33:19.487890+00:00",
+      "source_date": "2026-08-03T04:45:53+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@shilpamehta.in/accessibility-was-never-part-of-my-plan-ea112f770f32?source=rss------user_experience-5",
+      "title": "可访问性从来不是我计划的一部分",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-08-04T03:33:21.966655+00:00",
+      "source_date": "2026-08-04T03:17:19+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1182098/the-fundacio-mies-van-der-rohe-opens-the-call-for-entries-for-the-5th-lilly-reich-grant-for-equality-in-architecture",
+      "title": "密斯凡德罗基金会开始征集第五届礼来帝国建筑平等奖的参赛作品",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-04T03:33:23.294525+00:00",
+      "source_date": "2026-08-03T09:10:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ucd/6439321.html",
+      "title": "自然交流设计-多模态交互·上篇",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-04T03:33:23.294570+00:00",
+      "source_date": "2026-08-04T01:44:03+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.nngroup.com/news/item/people-culture-generalist-remote/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "职位空缺：人与文化通才（远程，美国）",
+      "source": "Nielsen Norman Group",
+      "language": "en",
+      "published_at": "2026-08-04T03:33:25.738338+00:00",
+      "source_date": "2026-08-01T19:25:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/franck-bohbot-vienna-state-opera-curtain-rises/",
+      "title": "弗兰克·博博特 (Franck Bohbot) 在维也纳国家歌剧院拉开帷幕之前捕捉到了这场演出",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-04T03:33:26.780647+00:00",
+      "source_date": "2026-08-03T09:25:02+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/slice-discarded-tennis-balls-wearable-shoes-soroosh-riazi-isfahani/",
+      "title": "切开并重建，废弃的网球变成了可穿的鞋子",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-04T03:33:27.661270+00:00",
+      "source_date": "2026-08-04T02:20:46+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/recycled-aerospace-steel-rammed-earth-homeware-collection-life-mars-roc-h-biel-martian-relics/",
+      "title": "回收的航空航天钢和夯土形状的家居用品系列，适合火星生活",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-04T03:33:28.474595+00:00",
+      "source_date": "2026-08-03T14:25:59+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/ia-for-ai-the-ux-of-contrast-battling-ai-fatigue-4f623495bed8?source=rss----138adf9c44c---4",
+      "title": "AI 的 IA、对比的 UX、对抗 AI 疲劳",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-08-04T03:33:30.621086+00:00",
+      "source_date": "2026-08-03T09:47:06+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1181954/reborn-house-dare-design-arena-plus-research",
+      "title": "Reborn House / DARE – 设计竞技场+研究",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-04T03:33:31.310013+00:00",
+      "source_date": "2026-08-03T02:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/what-ive-learned-writing-for-billions-of-users-f4db0c1aa9cb?source=rss----138adf9c44c---4",
+      "title": "我在为数十亿用户写作时学到了什么",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-08-04T03:33:36.930929+00:00",
+      "source_date": "2026-08-03T06:08:51+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1164587/the-art-of-ice-cream-shop-design",
+      "title": "冰淇淋店设计的艺术",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-04T03:33:37.895074+00:00",
+      "source_date": "2026-08-03T07:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/unopiu-igea-iron-outdoor-furniture-collection/",
+      "title": "unopiù 将传统铁制品带回现代庭院环境",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-04T03:33:38.953352+00:00",
+      "source_date": "2026-08-03T07:00:35+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1182000/ju-yu-jin-zi-ta-nei-6ge-jiang-jing-dian-xing-tai-ying-yong-yu-zhu-zhai-she-ji-de-xiang-mu",
+      "title": "居于金字塔内：6个将经典形态应用于住宅设计的项目",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-04T03:33:38.953399+00:00",
+      "source_date": "2026-08-04T04:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1182132/aroeira-zhu-zhai-fgmf",
+      "title": "阿罗埃拉住宅 / FGMF",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-04T03:33:40.395869+00:00",
+      "source_date": "2026-08-03T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6439414.html",
+      "title": "个体看衰AI，企业加速转型",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-04T03:33:40.395922+00:00",
+      "source_date": "2026-08-04T01:59:13+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/design/designboom-shop-drop-august-2026-limited-release-watches-architectural-jewelry/",
       "title": "designboom shop drop：限量发售手表和建筑珠宝",
       "source": "designboom",
