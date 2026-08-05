@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/design/hand-woven-nitinol-sofa-flat-pack-self-deploy-single-motion-re-flat-pack-sofa-jisu-yoon/",
+      "title": "手工编织的镍钛合金沙发可以单步平装和自行展开",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-05T03:28:29.297387+00:00",
+      "source_date": "2026-08-04T14:15:14+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/yacademy-placement-program/",
+      "title": "从课堂到梦想的建筑实践：yacademy 在 Chipperfield、BIG 和 snøhetta 的安置",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-05T03:28:30.554351+00:00",
+      "source_date": "2026-08-04T10:00:30+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6414766.html",
+      "title": "什么是POD？一个零库存、零风险的电商模式正在崛起",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-05T03:28:30.554399+00:00",
+      "source_date": "2026-08-05T01:21:30+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/yinka-ilori-book-chair-vessel-memory-identity-oro-editions-chairman/",
+      "title": "yinka ilori 的新书探讨了椅子作为记忆和身份的容器",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-05T03:28:31.158978+00:00",
+      "source_date": "2026-08-04T07:45:16+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/restockholm-leftover-construction-waste-robust-public-furniture-nicholas-niemen/",
+      "title": "re：斯德哥尔摩将剩余的建筑垃圾转化为坚固的公共家具",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-05T03:28:31.630288+00:00",
+      "source_date": "2026-08-04T06:15:49+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/luxembourg-mudam-superflex-build-new-bank/",
+      "title": "SUPERFLEX 和 mudam 邀请社区重新思考银行",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-05T03:28:32.379818+00:00",
+      "source_date": "2026-08-04T10:15:12+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1181850/cultural-center-la-tuilerie-in-limoux-ferrier-marchetti-studio",
+      "title": "利穆 La Tuilerie 文化中心 / Ferrier Marchetti Studio",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-05T03:28:34.246484+00:00",
+      "source_date": "2026-08-04T10:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1182175/casa-tertulia-marcela-carranza-arquitectura",
+      "title": "特图利亚住宅 / Marcela Carranza Arquitectura",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-05T03:28:34.902299+00:00",
+      "source_date": "2026-08-04T15:00:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.archdaily.com/1181928/granada-echo-park-granada-form",
+      "title": "格拉纳达回声公园别墅 / Granada Form",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-05T03:28:35.792694+00:00",
+      "source_date": "2026-08-04T12:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6440384.html",
+      "title": "阿里太狠！刚上线「千问办公」，又开始内测「万有无界」，实测后结果很惊人",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-05T03:28:35.792745+00:00",
+      "source_date": "2026-08-04T12:49:44+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6440337.html",
+      "title": "一套能用的合同管理系统，应该具备哪些基本功能？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-05T03:28:35.792773+00:00",
+      "source_date": "2026-08-05T02:37:25+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1182190/tamarindo-apartment-estudio-minke",
+      "title": "塔马林多公寓 / Studio Minke",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-05T03:28:38.391337+00:00",
+      "source_date": "2026-08-04T13:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1182191/ta-ma-lin-duo-gong-yu-estudio-minke",
+      "title": "塔马林多公寓 / Estúdio Minke",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-05T03:28:38.391382+00:00",
+      "source_date": "2026-08-04T13:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1182101/granada-echo-park-zhu-zhai-granada-form",
+      "title": "格拉纳达回声公园住宅 / 格拉纳达表格",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-05T03:28:39.013599+00:00",
+      "source_date": "2026-08-04T12:00:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.woshipm.com/ai/6439802.html",
       "title": "前端与AI工程师：把语义约束写进AI的生成上下文",
       "source": "人人都是产品经理",
