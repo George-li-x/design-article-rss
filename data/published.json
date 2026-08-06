@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/architecture/inflated-orange-volumes-smash-burger-restaurant-interior-da-bureau-armenia-yerevan-iykyk/",
+      "title": "亚美尼亚 da Bureau 设计的充气橙色体块装饰了汉堡餐厅的内部",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-06T03:32:21.189539+00:00",
+      "source_date": "2026-08-05T18:10:53+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/sawtooth-roof-textured-brick-facade-victorian-home-uk-francesco-pierazzi-architects/",
+      "title": "锯齿形屋顶和纹理砖立面重新构想了英国维多利亚时代的住宅",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-06T03:32:23.530358+00:00",
+      "source_date": "2026-08-06T01:55:09+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/digitally-fabricated-plywood-pavilion-shaded-curved-refuge-chihuahua-instituto-superior-arquitectura-diseno-isad-paso-nara/",
+      "title": "数字化制造的胶合板凉亭在奇瓦瓦州创造了阴影弯曲的避难所",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-06T03:32:26.668071+00:00",
+      "source_date": "2026-08-05T14:35:16+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/technology/madkids-empire-playful-synthesizers-anyone-sound-interview/",
+      "title": "madkids Empire 制作有趣的合成器，邀请任何人探索声音",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-06T03:32:31.455251+00:00",
+      "source_date": "2026-08-05T10:50:29+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1182262/futurebuild-kun-shi-lan",
+      "title": "Futurebuild 昆士兰",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-06T03:32:31.455298+00:00",
+      "source_date": "2026-08-05T09:10:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/storefront-canopies-streets-sculptures-urban-identity-egon-van-herreweghe-footnote-gallery/",
+      "title": "店面檐篷离开街道，成为城市形象的雕塑",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-06T03:32:32.093601+00:00",
+      "source_date": "2026-08-05T08:45:46+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/the-future-of-work-belongs-to-the-knowledge-djs-7cc596be1f77?source=rss----138adf9c44c---4",
+      "title": "工作的未来属于知识 DJ",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-08-06T03:32:33.045003+00:00",
+      "source_date": "2026-08-05T07:36:54+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.archdaily.com/1182258/la-feria-de-diseno-medellin",
+      "title": "麦德林设计博览会",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-06T03:32:34.293908+00:00",
+      "source_date": "2026-08-05T09:05:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6441308.html",
+      "title": "AI 时代，软件交付逻辑也要改变了，技术不再是重点，一切回归业务本身",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-06T03:32:34.293960+00:00",
+      "source_date": "2026-08-06T02:10:52+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6441073.html",
+      "title": "上周，我直播讲了这个用户旅程地图 的 skills，一键出用户旅程图",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-06T03:32:34.293989+00:00",
+      "source_date": "2026-08-06T01:06:33+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1182200/gong-yi-yu-bu-wan-mei-jie-yu-shou-gong-yu-ji-qi-zhi-jian-de-10ge-xiang-mu",
+      "title": "工艺与不完美：介于手工与机器之间的10个项目",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-06T03:32:34.294019+00:00",
+      "source_date": "2026-08-06T04:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1182236/ji-zuo-zhu-zhai-cambra-buro",
+      "title": "基座住宅 / Cambra Buró",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-06T03:32:34.294043+00:00",
+      "source_date": "2026-08-06T03:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6440530.html",
+      "title": "把我的价值赋能给 AI，那我还值什么？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-06T03:32:34.294067+00:00",
+      "source_date": "2026-08-06T01:20:34+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1181747/brutalist-penthouse-barde-plus-vanvoltt",
+      "title": "野兽派顶层公寓 / Barde + vanVoltt",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-06T03:32:35.252363+00:00",
+      "source_date": "2026-08-05T19:00:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/design/hand-woven-nitinol-sofa-flat-pack-self-deploy-single-motion-re-flat-pack-sofa-jisu-yoon/",
       "title": "手工编织的镍钛合金沙发可以单步平装和自行展开",
       "source": "designboom",
