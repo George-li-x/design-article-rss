@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/architecture/bamboo-pier-pattani-fishermen-community-hub-thailand-has/",
+      "title": "竹码头为泰国北大年的渔民带来了一个新的公共海滨",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-07T03:13:55.603181+00:00",
+      "source_date": "2026-08-06T16:18:37+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/cra-carlo-ratti-associati-kinetic-canopy-modena-former-hospital-italy/",
+      "title": "Carlo Ratti Associati 预览摩德纳前医院的动力天篷",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-07T03:13:57.668588+00:00",
+      "source_date": "2026-08-06T06:15:55+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@kvividsnaps/why-visual-hierarchy-matters-more-than-beautiful-ui-06f276b9c1f8?source=rss------product_design-5",
+      "title": "为什么视觉层次比漂亮的 UI 更重要",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-08-07T03:14:00.078460+00:00",
+      "source_date": "2026-08-07T02:01:02+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@kvividsnaps/why-visual-hierarchy-matters-more-than-beautiful-ui-06f276b9c1f8?source=rss------user_experience-5",
+      "title": "为什么视觉层次比漂亮的 UI 更重要",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-08-07T03:14:00.605627+00:00",
+      "source_date": "2026-08-07T02:01:02+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/triangulated-steel-lattice-gateway-barcelona-logistics-park-mias-architects/",
+      "title": "三角钢格重新定义了巴塞罗那物流园区的新门户",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-07T03:14:01.995428+00:00",
+      "source_date": "2026-08-06T20:35:05+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1182303/mads-shenzhen-bay-culture-square-and-dorte-mandrups-place-exhibition-this-weeks-review",
+      "title": "MAD深圳湾文化广场与Dorte Mandrup的PLACE展览：本周回顾",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-07T03:14:07.483893+00:00",
+      "source_date": "2026-08-06T06:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1182353/wei-sheng-tai-xi-tong-han-guo-gao-mi-du-hun-he-ju-zhu-de-ying-dui-zhi-dao",
+      "title": "微生态系统：韩国高密度混合居住的应对之道",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-07T03:14:07.483946+00:00",
+      "source_date": "2026-08-07T07:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1182352/medellin-design-fair",
+      "title": "麦德林设计博览会",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-07T03:14:08.319546+00:00",
+      "source_date": "2026-08-06T12:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1182351/mai-de-lin-she-ji-bo-lan-hui",
+      "title": "麦德林设计博览会",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-07T03:14:08.319588+00:00",
+      "source_date": "2026-08-06T12:00:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6442106.html",
+      "title": "飞书都并入豆包了，SaaS 怎么突围？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-07T03:14:08.319617+00:00",
+      "source_date": "2026-08-07T01:26:05+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6442060.html",
+      "title": "DeepSeek V4-Flash火了：AI产品经理真正该学的，不是追模型，而是做“模型分层”",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-07T03:14:08.319646+00:00",
+      "source_date": "2026-08-07T01:23:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/pd/6441858.html",
+      "title": "复杂作业系统中的控制逻辑设计：以物流管理系统为例",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-07T03:14:08.319713+00:00",
+      "source_date": "2026-08-07T02:08:49+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1182047/chengdu-pavilion-iwamotoscott-architecture",
+      "title": "成都馆 / IwamotoScott Architecture",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-07T03:14:09.796513+00:00",
+      "source_date": "2026-08-06T07:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1182283/xian-xian-de-fang-jian-hua-dong-ge-duan-yu-tiao-jian-xing-zhu-zhai-kong-jian",
+      "title": "显现的房间：滑动隔断与条件性住宅空间",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-07T03:14:09.796560+00:00",
+      "source_date": "2026-08-06T07:30:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/architecture/inflated-orange-volumes-smash-burger-restaurant-interior-da-bureau-armenia-yerevan-iykyk/",
       "title": "亚美尼亚 da Bureau 设计的充气橙色体块装饰了汉堡餐厅的内部",
       "source": "designboom",
