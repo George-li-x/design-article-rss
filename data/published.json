@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://medium.com/@Itsmekriiishna/15-ui-ux-websites-every-designer-should-bookmark-part-02-itsmekriiishna-44605edfdf83?source=rss------product_design-5",
+      "title": "每个设计师都应该收藏的 15 个 UI/UX 网站 — 第 02 部分 —ItsmeKriiishna",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-08-09T02:26:39.804121+00:00",
+      "source_date": "2026-08-08T17:24:17+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/red-craft-collection-four-japanese-traditional-techniques-sculptural-domestic-objects-kenta-yoshizawa/",
+      "title": "红色工艺系列将四种日本传统技术重新改造为雕塑家居用品",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-09T02:26:41.224206+00:00",
+      "source_date": "2026-08-08T14:15:20+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/play-function-luca-boscardin-toys-cities-spaces-imagination-interview/",
+      "title": "“游戏本身就是一种功能”：卢卡·博斯卡丁谈设计玩具、城市和想象力空间",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-09T02:26:50.574348+00:00",
+      "source_date": "2026-08-08T07:45:35+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1182128/ubc-biodiversity-centre-addition-public-architecture-plus-design",
+      "title": "UBC 生物多样性中心扩建 / 公共建筑 + 设计",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-09T02:26:53.070963+00:00",
+      "source_date": "2026-08-08T11:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6442536.html",
+      "title": "AI 产品的下一道分水岭：从展示能力到稳定交付结果",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-09T02:26:53.071006+00:00",
+      "source_date": "2026-08-08T07:33:25+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1182346/coral-barn-alvorada-house-nildo-jose-arquitetos",
+      "title": "珊瑚谷仓阿尔沃拉达住宅 / Nildo José Arquitetos",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-09T02:26:58.361998+00:00",
+      "source_date": "2026-08-07T13:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@junaidmaniyar/the-ux-of-truth-why-data-visualization-is-your-most-powerful-strategic-asset-22a3d0898314?source=rss------user_experience-5",
+      "title": "真相的用户体验：为什么数据可视化是您最强大的战略资产",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-08-09T02:27:00.620027+00:00",
+      "source_date": "2026-08-08T10:41:43+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1182356/beijing-named-world-capital-of-architecture-2029-by-unesco-uia",
+      "title": "北京被联合国教科文组织-UIA评为2029年世界建筑之都",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-09T02:27:05.420643+00:00",
+      "source_date": "2026-08-07T05:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1182196/shin-nakano-residence-ryuichi-sasaki-plus-sasaki-architecture",
+      "title": "新中野住宅 / 佐佐木龙一 + Sasaki Architecture",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-09T02:27:07.351409+00:00",
+      "source_date": "2026-08-08T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1182438/ubc-sheng-wu-duo-yang-xing-zhong-xin-kuo-jian-xiang-mu-public-architecture-plus-design",
+      "title": "UBC 生物多样性中心扩建项目 / Public Architecture + Design",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-09T02:27:07.351446+00:00",
+      "source_date": "2026-08-08T11:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6442626.html",
+      "title": "AI 能秒级出报表，为什么业务还是来不及？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-09T02:27:07.351471+00:00",
+      "source_date": "2026-08-08T07:37:30+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/pd/6442449.html",
+      "title": "别把产品放在同一个篮子里！读懂IPD产品规划",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-09T02:27:07.351490+00:00",
+      "source_date": "2026-08-08T07:26:22+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1182099/four-roof-house-tw-ryan-architecture",
+      "title": "四屋顶住宅 / TW Ryan Architecture",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-09T02:27:09.024137+00:00",
+      "source_date": "2026-08-07T12:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1182377/kramy-zhou-mo-zhu-zhai-anna-koukolova-architekti",
+      "title": "Krámy 周末住宅 / Anna Koukolová architekti",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-09T02:27:09.024178+00:00",
+      "source_date": "2026-08-07T15:00:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.nngroup.com/articles/dogfooding/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "title": "Dogfooding、QA 与用户研究",
       "source": "Nielsen Norman Group",
