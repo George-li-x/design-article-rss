@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/architecture/split-level-timber-house-layered-interiors-japanese-forest-landscape-morimado-house-yosuke-tomiya/",
+      "title": "错层木屋围绕日本森林景观组织分层的内饰",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-10T02:30:50.422059+00:00",
+      "source_date": "2026-08-09T14:15:48+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/frank-kunert-miniature-worlds-bend-logic-familiar-architecture-photography/",
+      "title": "Frank Kunert 的微型世界打破了人们熟悉的建筑逻辑",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-10T02:30:51.339508+00:00",
+      "source_date": "2026-08-09T07:45:45+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6442920.html",
+      "title": "千问办公初体验：“三合一”更好用吗？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-10T02:30:51.339557+00:00",
+      "source_date": "2026-08-09T06:46:14+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6442036.html",
+      "title": "AI的工具模式：产品设计的“三派”进化路线图",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-10T02:30:51.339590+00:00",
+      "source_date": "2026-08-10T01:04:02+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1181776/post-rotterdam-tower-oda-new-york",
+      "title": "POST 鹿特丹塔 / ODA 纽约",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-10T02:30:52.698849+00:00",
+      "source_date": "2026-08-09T11:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/evaluating/6443257.html",
+      "title": "从“不会写”到“为什么写”：格志日记面对的两道门槛",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-10T02:30:52.698904+00:00",
+      "source_date": "2026-08-10T01:53:15+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/thinking-outside-the-box-2c2054ea6017?source=rss----138adf9c44c---4",
+      "title": "跳出框框思考（字面意思）",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-08-10T02:30:54.059385+00:00",
+      "source_date": "2026-08-09T18:25:26+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://medium.com/@junaidmaniyar/why-the-best-design-is-often-the-words-you-dont-notice-the-essentials-of-ux-writing-3e263c4532b0?source=rss------user_experience-5",
+      "title": "为什么最好的设计往往是你没有注意到的文字：用户体验写作的要点",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-08-10T02:30:55.471320+00:00",
+      "source_date": "2026-08-09T12:16:11+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1182245/weekend-house-in-kramy-anna-koukolova-architekti",
+      "title": "克拉米周末别墅 / Anna Koukolová 建筑事务所",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-10T02:30:58.372829+00:00",
+      "source_date": "2026-08-07T15:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1182413/gong-yi-mei-zhu-yun-dong-ru-he-zhi-jin-reng-zai-su-zao-dang-dai-jian-zhu",
+      "title": "工艺美术运动如何至今仍在塑造当代建筑",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-10T02:30:58.372883+00:00",
+      "source_date": "2026-08-10T07:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6442620.html",
+      "title": "Agent产品怎样又智能又可靠",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-10T02:30:58.372917+00:00",
+      "source_date": "2026-08-10T00:54:18+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1182275/post-rotterdam-ta-lou-oda-new-york",
+      "title": "POST Rotterdam 塔楼 / ODA New York",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-10T02:30:58.481429+00:00",
+      "source_date": "2026-08-09T11:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1182418/casaviva-residence-shroffleon",
+      "title": "CASAVIVA 住宅 / SHROFFLEón",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-10T02:30:59.205790+00:00",
+      "source_date": "2026-08-09T21:00:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.archdaily.com/1181657/house-with-reflective-furniture-set-architects",
+      "title": "带反光家具的房子 / Set Architects",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-10T02:31:00.192675+00:00",
+      "source_date": "2026-08-08T06:00:00+00:00",
+      "full_text": false
+    },
+    {
       "url": "https://medium.com/@Itsmekriiishna/15-ui-ux-websites-every-designer-should-bookmark-part-02-itsmekriiishna-44605edfdf83?source=rss------product_design-5",
       "title": "每个设计师都应该收藏的 15 个 UI/UX 网站 — 第 02 部分 —ItsmeKriiishna",
       "source": "Medium · Product Design",
