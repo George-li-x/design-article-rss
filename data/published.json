@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/design/discarded-synthetic-textiles-porous-structural-material-heat-fusion-fast-fashion-architecture-taylor-leung/",
+      "title": "废弃的合成纺织品通过热熔合变成多孔结构材料",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-11T02:24:16.597455+00:00",
+      "source_date": "2026-08-10T14:15:17+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/recessed-roof-house-bangkok-living-planted-courtyard-anonym-studio-bhoon/",
+      "title": "曼谷中心的凹式屋顶房屋居住在种植庭院周围",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-11T02:24:18.381926+00:00",
+      "source_date": "2026-08-10T21:55:06+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/what-we-learned-play/",
+      "title": "我们学到了什么：玩",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-11T02:24:20.333427+00:00",
+      "source_date": "2026-08-10T08:51:27+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/recycled-paper-composite-sculptural-vessels-volcanic-rocks-fragment-donatas-zukauskas/",
+      "title": "再生纸复合材料形成雕塑容器，让人想起火山岩",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-11T02:24:21.111757+00:00",
+      "source_date": "2026-08-10T19:10:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/lumion-pro-architectural-concepts/",
+      "title": "从像素到规划审批：lumion pro 如何实现未建成的建筑",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-11T02:24:21.928548+00:00",
+      "source_date": "2026-08-10T07:00:58+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6443744.html",
+      "title": "当Agent成为产品的新用户：AI产品经理该如何设计AX？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-11T02:24:21.928593+00:00",
+      "source_date": "2026-08-11T01:32:39+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/technology/sharp-kayak-aluminum-sheet-unsinkable-hull-cork-seat/",
+      "title": "锋利的皮划艇将铝板折叠成带有软木座椅的不沉船体",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-11T02:24:22.697323+00:00",
+      "source_date": "2026-08-10T11:50:37+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@cahyadi_aditya/communicate-deliberately-like-a-diplomat-aligning-allies-in-a-high-stakes-room-7c6020ef417c?source=rss------product_design-5",
+      "title": "深思熟虑地沟通：像外交官一样在高风险的房间里协调盟友",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-08-11T02:24:29.194729+00:00",
+      "source_date": "2026-08-11T02:19:47+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/gxn-toronto-construction-leftovers-pop-up-public-space/",
+      "title": "gxn 和 ha/f 将多伦多的建筑剩余物堆放在弹出式公共空间中",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-11T02:24:29.833865+00:00",
+      "source_date": "2026-08-10T11:50:45+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6444079.html",
+      "title": "从 ChatGPT 到 Agent：AI 每半年换一次牌桌，我们靠什么不掉队？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-11T02:24:29.833913+00:00",
+      "source_date": "2026-08-11T02:06:04+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/saintofathens-byzantine-iconography-black-white-frescoes-mykonos-kalesma-chapel/",
+      "title": "雅典圣徒在米科诺斯岛用黑白壁画重新构想拜占庭图像",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-11T02:24:32.177439+00:00",
+      "source_date": "2026-08-10T06:15:22+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/bottle-your-judgment-chat-is-the-wrong-ui-design-md-2484e8d870af?source=rss----138adf9c44c---4",
+      "title": "限制你的判断，聊天是错误的 UI，Design.md",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-08-11T02:24:34.972647+00:00",
+      "source_date": "2026-08-10T11:11:29+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6443822.html",
+      "title": "宠物医疗AI真正的产品，不是“医生”，而是“分诊台”",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-11T02:24:34.972694+00:00",
+      "source_date": "2026-08-11T01:22:03+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1182469/call-for-application",
+      "title": "致电申请",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-11T02:24:35.748085+00:00",
+      "source_date": "2026-08-10T09:05:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6443282.html",
+      "title": "AI 都会写 PRD 了，我为什么还要专门做一款 Skill？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-11T02:24:35.748129+00:00",
+      "source_date": "2026-08-10T07:15:02+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1041835/banshan1994-commune-office-canopy-of-architecture",
+      "title": "BANSHAN1994 公社/办公室建筑雨棚",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-11T02:24:37.062343+00:00",
+      "source_date": "2026-08-10T00:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1182486/v-plus-m-house-solange-calio-arquitetos",
+      "title": "V+M 住宅 / Solange Cálio Arquitetos",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-11T02:24:39.806272+00:00",
+      "source_date": "2026-08-10T14:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1182338/hain-vineyard-facilities-undjurekbruggen-plus-afea",
+      "title": "HAIN Vineyard Facilities / undjurekbrüggen + AFEA",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-11T02:24:40.620558+00:00",
+      "source_date": "2026-08-10T10:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1181400/she-ji-hui-bao-ru-he-yan-bian-wei-shi-shi-jue-ce-kong-jian",
+      "title": "设计汇报如何演变为实时决策空间",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-11T02:24:40.620599+00:00",
+      "source_date": "2026-08-11T06:45:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1182492/3dda-yin-sheng-tu-shi-dai-de-jiang-yi-shu-zi-gong-ju-neng-fou-su-zao-xin-xing-gong-jiang",
+      "title": "3D打印生土时代的匠艺：数字工具能否塑造新型工匠？",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-11T02:24:40.620627+00:00",
+      "source_date": "2026-08-11T04:00:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/architecture/split-level-timber-house-layered-interiors-japanese-forest-landscape-morimado-house-yosuke-tomiya/",
       "title": "错层木屋围绕日本森林景观组织分层的内饰",
       "source": "designboom",
