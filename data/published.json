@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.woshipm.com/ai/6445421.html",
+      "title": "大家明明都在用AI，为什么公司一推动AI提效，就没人愿意配合？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-13T02:43:44.608137+00:00",
+      "source_date": "2026-08-13T01:11:26+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/shifted-roofs-reflected-light-old-new-homes-suburban-tokyo-slur-house-yohei-ikai-icai-architects/",
+      "title": "shifted roofs and reflected light connect old and new homes in suburban tokyo",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-13T02:43:46.517511+00:00",
+      "source_date": "2026-08-12T15:15:28+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/light-voids-reclaimed-stone-houses-community-space-china-shiji-commons-studiotiltedcircle/",
+      "title": "light and voids recast reclaimed stone houses as community space in china",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-13T02:43:48.077459+00:00",
+      "source_date": "2026-08-12T06:10:02+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@raos83421/designing-a-mobile-train-booking-interface-using-jakobs-hick-s-and-miller-s-laws-5853a325a8ef?source=rss------user_experience-5",
+      "title": "Designing a Mobile Train-Booking Interface Using Jakob’s, Hick’s, and Miller’s Laws",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-08-13T02:43:53.744351+00:00",
+      "source_date": "2026-08-12T17:49:50+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/forestier-solis-pendant-jette-scheib-hand-woven-raphia/",
+      "title": "forestier’s solis pendants by jette scheib radiate a soft glow with hand-woven raphia",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-13T02:43:56.972061+00:00",
+      "source_date": "2026-08-12T10:00:39+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1183143/prototype-architectural-battery-turns-public-space-into-urban-energy-storage-in-ontario-canada",
+      "title": "Prototype Architectural Battery Turns Public Space Into Urban Energy Storage in Ontario, Canada",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-13T02:44:00.046698+00:00",
+      "source_date": "2026-08-12T05:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1182271/reworking-everyday-objects-and-industrial-production-the-work-of-amass",
+      "title": "Reworking Everyday Objects and Industrial Production: The Work of Amass",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-13T02:44:03.753744+00:00",
+      "source_date": "2026-08-12T04:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6445703.html",
+      "title": "《AI比人凶》读后，我从焦虑到清醒的答案",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-13T02:44:03.753792+00:00",
+      "source_date": "2026-08-12T11:01:36+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/hanghar-hierarchical-house-to-stop-telling-us-how-to-live/",
+      "title": "HANGHAR wants hierarchical homes to stop telling us how to live",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-13T02:44:04.765985+00:00",
+      "source_date": "2026-08-12T09:03:24+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6445745.html",
+      "title": "3万字长文带你WorkBuddy 从入门到精通",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-13T02:44:04.766067+00:00",
+      "source_date": "2026-08-12T11:26:20+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1183212/xiong-ya-li-xin-jian-zhu-tu-jing-li-zu-li-shi-de-jian-zao",
+      "title": "匈牙利新建筑图景：立足历史的建造",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-13T02:44:04.766094+00:00",
+      "source_date": "2026-08-13T04:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1183205/shou-zuo-biao-mian-dang-dai-zhong-guo-shi-nei-kong-jian-zhong-de-bu-wan-mei-ji-li-yu-gong-yi",
+      "title": "手作表面：当代中国室内空间中的不完美、肌理与工艺",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-13T02:44:04.766121+00:00",
+      "source_date": "2026-08-13T07:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1183222/matchbox-kaan-architecten",
+      "title": "Matchbox / KAAN Architecten",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-13T02:44:05.296415+00:00",
+      "source_date": "2026-08-13T06:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1183168/international-youth-day-2026-architecture-for-different-contexts-common-aspirations",
+      "title": "International Youth Day 2026: Architecture for Different Contexts, Common Aspirations",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-13T02:44:10.102043+00:00",
+      "source_date": "2026-08-12T06:30:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.archdaily.com/1182433/tcc-daka-renewable-resource-recycling-center-rrrc-kpf",
       "title": "TCC DAKA 再生资源回收中心 (RRRC) / KPF",
       "source": "ArchDaily",
