@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/architecture/zayed-national-museum-interiors-emirati-craft-material-cycles-time-agata-kurzela-studio/",
+      "title": "扎耶德国家博物馆的内饰编织了阿联酋的工艺、材料和时间循环",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-14T02:42:07.893029+00:00",
+      "source_date": "2026-08-13T23:55:29+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/stupid-engineerings-aluminum-wall-calendar-holiday-brain/",
+      "title": "愚蠢的工程为假期大脑提供了自己的铝制挂历",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-14T02:42:09.160738+00:00",
+      "source_date": "2026-08-13T14:00:48+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/technology/lincoln-sunset-interiors-2027-nautilus-monterey-refresh/",
+      "title": "林肯在蒙特利汽车周期间为 2027 年鹦鹉螺带来日落色调的内饰",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-14T02:42:10.940249+00:00",
+      "source_date": "2026-08-13T19:56:19+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/former-textile-warehouse-fractal-inspired-jaipur-rugs-showroom-mumbai-roar/",
+      "title": "孟买前纺织仓库改造成分形斋浦尔地毯陈列室",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-14T02:42:13.054891+00:00",
+      "source_date": "2026-08-13T18:10:41+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/technology/jaguar-reveals-type-01-interior-spine-travertine-tones/",
+      "title": "捷豹展示 01 型内饰，采用全长“脊柱”和石灰华色调",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-14T02:42:14.205035+00:00",
+      "source_date": "2026-08-13T18:09:02+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/island-records-and-emi-turn-their-kings-cross-headquarters-into-a-spatial-mixtape/",
+      "title": "island Records 和 EMI 将他们的 King's Cross 总部变成了空间混音带",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-14T02:42:15.587532+00:00",
+      "source_date": "2026-08-13T07:20:27+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/rethinking-design-leadership-with-swarms-and-flocks-9298db8c59d2?source=rss----138adf9c44c---4",
+      "title": "重新思考群体和群体的设计领导力",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-08-14T02:42:17.447372+00:00",
+      "source_date": "2026-08-13T22:18:13+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.woshipm.com/share/6446559.html",
+      "title": "AI 时代 Vibe Design 必备的 50 种 UI 风格名词！",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-14T02:42:17.447419+00:00",
+      "source_date": "2026-08-13T12:46:09+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6446651.html",
+      "title": "工具类APP的用户增长与商业化逻辑：用户获取",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-14T02:42:17.447437+00:00",
+      "source_date": "2026-08-14T01:24:36+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6446641.html",
+      "title": "从0到1带你速通DeepSeek Harness。",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-14T02:42:17.447455+00:00",
+      "source_date": "2026-08-14T01:23:44+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1183129/tianfu-fusion-technology-research-center-swip-csadi",
+      "title": "天府聚变技术研究中心 - SWIP / CSWADI",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-14T02:42:19.427607+00:00",
+      "source_date": "2026-08-13T00:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1183296/sjc-zhu-zhai-felipe-hess-arquitetos",
+      "title": "SJC 住宅 / Felipe Hess Arquitetos",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-14T02:42:20.639622+00:00",
+      "source_date": "2026-08-13T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1183226/ge-lun-bi-ya-di-zhen-bao-dao-yu-liang-zuo-quan-xin-guo-ji-she-ji-ta-lou-ben-zhou-hui-gu",
+      "title": "哥伦比亚地震报道与两座全新国际设计塔楼：本周回顾",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-14T02:42:20.639658+00:00",
+      "source_date": "2026-08-13T05:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1183275/brunnengasse-er-tong-zhi-jia-bernardo-bader-architekten",
+      "title": "Brunnengasse 儿童之家 / Bernardo Bader Architekten",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-14T02:42:20.639676+00:00",
+      "source_date": "2026-08-14T06:00:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.woshipm.com/ai/6445421.html",
       "title": "大家明明都在用AI，为什么公司一推动AI提效，就没人愿意配合？",
       "source": "人人都是产品经理",
