@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/architecture/casa-malaparte-sheats-goldstein-residence-homes-movie-stars/",
+      "title": "从 casa malaparte 到 sheats-goldstein 住宅，这些住宅成为了电影明星",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-15T01:47:53.289352+00:00",
+      "source_date": "2026-08-14T10:05:50+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/technology/torras-ostand-q3-air-pro-airbag-mobile-protection/",
+      "title": "TORRAS ostand q3 Air Pro 嵌入最新安全气囊技术，重新定义移动保护",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-15T01:47:55.662905+00:00",
+      "source_date": "2026-08-14T10:00:16+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/single-sheet-folded-steel-z-shaped-table-lamp-cobre-estudio/",
+      "title": "单片折叠钢片雕刻成 Z 形台灯",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-15T01:47:56.598314+00:00",
+      "source_date": "2026-08-14T20:35:39+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/tablet-shaped-pillows-48-hours-sleeplessness-tactile-installation-pillow-hommes-hom-sitta-chandarawong/",
+      "title": "平板电脑形状的枕头将 48 小时的失眠变成了触觉装置",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-15T01:47:58.369146+00:00",
+      "source_date": "2026-08-14T06:15:10+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/960854/applying-exposed-cork-in-interior-architecture",
+      "title": "在室内建筑中应用裸露软木",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-15T01:48:00.274233+00:00",
+      "source_date": "2026-08-14T07:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6447090.html",
+      "title": "用DeepSeek Harness两小时做出一个macOS应用后，我看到了它的野心",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-15T01:48:00.274282+00:00",
+      "source_date": "2026-08-14T07:46:50+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1182129/industrialized-steel-construction-lessons-from-a-naval-foundry-in-thailand",
+      "title": "工业化钢结构：泰国海军铸造厂的经验教训",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-15T01:48:05.667350+00:00",
+      "source_date": "2026-08-14T06:45:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6447431.html",
+      "title": "我扒了 DeepSeek Harness 219 个包，真有价值的是插件内核，附插件推荐",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-15T01:48:05.667395+00:00",
+      "source_date": "2026-08-14T15:17:31+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6447430.html",
+      "title": "DeepSeek Harness 安装，初体验，没有惊喜。",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-15T01:48:05.667416+00:00",
+      "source_date": "2026-08-14T15:16:22+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6446682.html",
+      "title": "工具类APP冷启动困境与破局方法论：在有限预算下同步完成定位、画像、用户增长",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-15T01:48:05.667436+00:00",
+      "source_date": "2026-08-14T06:40:26+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/technology/preview-aston-martin-valen-monterey-car-week-2026-the-quail/",
+      "title": "干涉油漆、车身和材料形状有限的阿斯顿·马丁·瓦伦",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-15T01:48:07.976602+00:00",
+      "source_date": "2026-08-14T16:00:11+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1183260/the-tale-of-bricks-house-earthscape-studio",
+      "title": "砖房的故事 / Earthscape Studio",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-15T01:48:09.712573+00:00",
+      "source_date": "2026-08-14T03:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1183335/yin-le-yu-jian-zhu-de-he-xie-ou-zhou-ge-ju-yuan-yu-yin-le-ting-1672-2022",
+      "title": "音乐与建筑的和谐：欧洲歌剧院与音乐厅（1672-2022）",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-15T01:48:09.712616+00:00",
+      "source_date": "2026-08-14T09:20:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1183344/zai-chang-em-campo-hick-duarte-ge-ren-zhan-lan-clube",
+      "title": "在场（Em Campo），Hick Duarte 个人展览 / Clube",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-15T01:48:09.712632+00:00",
+      "source_date": "2026-08-14T13:00:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/architecture/zayed-national-museum-interiors-emirati-craft-material-cycles-time-agata-kurzela-studio/",
       "title": "扎耶德国家博物馆的内饰编织了阿联酋的工艺、材料和时间循环",
       "source": "designboom",
