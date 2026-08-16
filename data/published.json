@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://medium.com/@rakeshmanjhi/agentic-ai-for-ux-ui-designers-and-researchers-6f6b3259fe04?source=rss------product_design-5",
+      "title": "面向 UX/UI 设计师和研究人员的代理 AI",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-08-16T01:55:35.247723+00:00",
+      "source_date": "2026-08-15T20:46:33+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/traditional-potter-stand-timber-bench-stretching-cat-mach-architects-beijing/",
+      "title": "传统的陶艺台变成了一张木凳，形状像一只伸展的猫",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-16T01:55:37.061742+00:00",
+      "source_date": "2026-08-15T14:15:08+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@hirufernando1107/from-user-problems-to-better-experiences-ux-research-ia-interaction-design-7b3d5d4f37f7?source=rss------user_experience-5",
+      "title": "从用户问题到更好的体验：UX 研究、IA 和交互设计",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-08-16T01:55:47.174471+00:00",
+      "source_date": "2026-08-15T13:16:32+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/nonhuman-residents-multispecies-design-wildlife-biodiversity/",
+      "title": "谁能住在墙里？建筑为非人类居民腾出空间",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-16T01:55:48.395334+00:00",
+      "source_date": "2026-08-15T20:35:31+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/milan-apartment-bursting-thousands-twentieth-century-masterpieces/",
+      "title": "这座米兰公寓充满了数千件二十世纪的杰作",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-16T01:55:50.406552+00:00",
+      "source_date": "2026-08-15T07:45:15+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/how-to-become-an-ai-designer-ff8ee8aed205?source=rss----138adf9c44c---4",
+      "title": "如何成为一名人工智能设计师",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-08-16T01:55:51.210889+00:00",
+      "source_date": "2026-08-15T13:16:28+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.archdaily.com/1183343/in-campo-solo-exhibition-by-hick-duarte-clube",
+      "title": "在坎波，Hick Duarte / Clube 个展",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-16T01:55:52.109315+00:00",
+      "source_date": "2026-08-14T13:00:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.woshipm.com/share/6447609.html",
+      "title": "实测GLM 5.3｜重回开源国模一哥",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-16T01:55:52.109355+00:00",
+      "source_date": "2026-08-15T09:02:21+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1181917/how-the-arts-and-crafts-movement-still-shapes-contemporary-architecture",
+      "title": "工艺美术运动如何塑造当代建筑",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-16T01:56:01.782705+00:00",
+      "source_date": "2026-08-15T07:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6447663.html",
+      "title": "上线12小时5万星，DeepSeek Harness实测：能干活，但得盯着",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-16T01:56:01.782744+00:00",
+      "source_date": "2026-08-15T11:54:54+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1183248/common-days-ka-pei-guan-ins-gong-zuo-shi",
+      "title": "Common Days 咖啡馆 / INS 工作室",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-16T01:56:01.782764+00:00",
+      "source_date": "2026-08-15T21:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6447245.html",
+      "title": "没有用户数据时，我怎样验证一个 RAG 知识库 MVP",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-16T01:56:01.782785+00:00",
+      "source_date": "2026-08-15T07:12:19+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1183351/castelo-zhi-jia-goncalo-gracio",
+      "title": "Castelo之家 / Gonçalo Grácio",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-16T01:56:02.680924+00:00",
+      "source_date": "2026-08-15T13:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1183393/livraria-da-vila-artes-architects-office",
+      "title": "Vila Artes 书店 / 建筑师事务所",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-16T01:56:02.865853+00:00",
+      "source_date": "2026-08-14T17:00:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/architecture/casa-malaparte-sheats-goldstein-residence-homes-movie-stars/",
       "title": "从 casa malaparte 到 sheats-goldstein 住宅，这些住宅成为了电影明星",
       "source": "designboom",
