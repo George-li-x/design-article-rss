@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/art/material-structure-scent-so-koizumi-south-korean-solo-exhibition/",
+      "title": "材料、结构和气味在小泉苏的韩国个展中汇聚",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-17T01:53:09.550185+00:00",
+      "source_date": "2026-08-16T06:15:23+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/designboom-shop-drop-material-craft-tactile-design-objects/",
+      "title": "designboom 商店掉落：触觉设计物品的材料和工艺庆典",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-17T01:53:11.156059+00:00",
+      "source_date": "2026-08-16T15:45:13+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/you-already-know-how-to-make-it-accessible-b29513a9b217?source=rss----138adf9c44c---4",
+      "title": "您已经知道如何使其易于访问",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-08-17T01:53:12.072089+00:00",
+      "source_date": "2026-08-16T10:08:38+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.designboom.com/architecture/six-tatami-garden-tea-room-salvaged-timber-titanium-steel-ichihara-japan-kurosawa-kawara-ten/",
+      "title": "日本市原市的六榻榻米花园茶室采用回收木材、钛和钢材制成",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-17T01:53:13.491708+00:00",
+      "source_date": "2026-08-16T20:35:46+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6447714.html",
+      "title": "海外营销必看：工具类APP如何用十步策略进行冷启动用户增长？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-17T01:53:13.491761+00:00",
+      "source_date": "2026-08-17T01:10:12+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1183395/bi-nan-suo-zhu-zhai-elisa-porto-arquitetura",
+      "title": "避难所住宅 / Elisa Porto Arquitetura",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-17T01:53:13.491792+00:00",
+      "source_date": "2026-08-16T13:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1182452/beyond-the-handmade-aesthetic-why-craft-needs-new-construction-economies",
+      "title": "超越手工美学：为什么工艺需要新的建筑经济",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-17T01:53:19.169472+00:00",
+      "source_date": "2026-08-16T07:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/australian-architects-ditch-the-traditional-box-in-favor-of-climate-responsive-home-designs/",
+      "title": "澳大利亚建筑师抛弃了传统的盒子，转而采用气候响应型家居设计",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-17T01:53:24.259870+00:00",
+      "source_date": "2026-08-16T10:50:58+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6447680.html",
+      "title": "FDE不是“新售前”：AI落地进入深水区，产品经理该如何理解这个岗位？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-17T01:53:24.259922+00:00",
+      "source_date": "2026-08-16T08:49:01+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6447872.html",
+      "title": "DeepSeek Harness 上线 3 天，4300 个第三方插件都在干什么？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-17T01:53:24.259954+00:00",
+      "source_date": "2026-08-17T01:21:04+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6447940.html",
+      "title": "二次元头像=技术大佬？DeepSeek Harness揭开AI圈隐藏规律",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-17T01:53:24.259987+00:00",
+      "source_date": "2026-08-16T13:26:48+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@ranjotisingh7/10-design-thinking-principles-i-learned-from-nike-accae2623d95?source=rss------product_design-5",
+      "title": "我从 Nike 学到的 10 条设计思维原则",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-08-17T01:53:29.088522+00:00",
+      "source_date": "2026-08-16T18:03:10+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6447574.html",
+      "title": "GPT-5.6 把 Agent 做便宜了，但产品经理最该先改的不是模型",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-17T01:53:29.088562+00:00",
+      "source_date": "2026-08-16T04:40:51+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/were-gorging-on-borrowed-trust-and-it-s-going-to-cost-us-2bc3f918caf5?source=rss----138adf9c44c---4",
+      "title": "我们正在吞噬借来的信任，这会让我们付出代价。",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-08-17T01:53:29.906439+00:00",
+      "source_date": "2026-08-13T04:37:38+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1183382/paso-nara-instituto-superior-de-arquitectura-y-diseno",
+      "title": "奈良关/高等建筑设计学院",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-17T01:53:30.115903+00:00",
+      "source_date": "2026-08-16T16:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@minal.hameed/why-a-polished-figma-file-can-still-be-an-incomplete-ux-design-cc9e057bf943?source=rss------user_experience-5",
+      "title": "为什么完善的 Figma 文件仍然是不完整的 UX 设计",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-08-17T01:53:33.500595+00:00",
+      "source_date": "2026-08-16T15:33:37+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1183381/paso-nara-instituto-superior-de-arquitectura-y-diseno",
+      "title": "奈良关/高等建筑设计学院",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-17T01:53:34.914758+00:00",
+      "source_date": "2026-08-16T16:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1183378/linea-house-instinto-estudio",
+      "title": "House Line / Instinto Studio",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-17T01:53:36.267097+00:00",
+      "source_date": "2026-08-14T15:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1183359/shao-bing-qiao-snohetta-plus-sbp",
+      "title": "哨兵桥 / Snøhetta + sbp",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-17T01:53:36.267138+00:00",
+      "source_date": "2026-08-17T07:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1183362/bossard-xue-xiao-gut-deubelbeiss-nill-architekten",
+      "title": "Bossard 学校 / Gut Deubelbeiss Nill Architects",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-17T01:53:37.364068+00:00",
+      "source_date": "2026-08-17T06:00:00+00:00",
+      "full_text": false
+    },
+    {
       "url": "https://medium.com/@rakeshmanjhi/agentic-ai-for-ux-ui-designers-and-researchers-6f6b3259fe04?source=rss------product_design-5",
       "title": "面向 UX/UI 设计师和研究人员的代理 AI",
       "source": "Medium · Product Design",
