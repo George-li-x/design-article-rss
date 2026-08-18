@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/design/vcu-arts-qatar-thresholds-of-perception-venice-biennale-2026-interview/",
+      "title": "VCUarts 卡塔尔在 2026 年威尼斯双年展上探索“感知的门槛”",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-18T01:48:25.626075+00:00",
+      "source_date": "2026-08-17T10:00:18+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/technology/405-days-sketch-supercar-audi-nuvolari-monterey-car-week-quail-2026/",
+      "title": "从草图到超级跑车 405 天，奥迪 Nuvolari 抵达蒙特利",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-18T01:48:26.414472+00:00",
+      "source_date": "2026-08-17T21:13:38+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1183429/loose-fit-provisional-and-participatory-practices-from-east-asia",
+      "title": "松散配合：东亚的临时性和参与性实践",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-18T01:48:27.232408+00:00",
+      "source_date": "2026-08-17T09:05:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/open-source-paint-archive-reusable-biomaterials-earth-pigments-fine-art-sophia-collender/",
+      "title": "开源涂料档案探索可重复使用的生物材料和美术颜料",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-18T01:48:28.980136+00:00",
+      "source_date": "2026-08-17T13:57:02+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/rethinking-leadership-judgment-as-bottleneck-ethical-ux-for-machines-5927df9a399e?source=rss----138adf9c44c---4",
+      "title": "重新思考领导力、判断瓶颈、机器的道德用户体验",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-08-18T01:48:30.223868+00:00",
+      "source_date": "2026-08-17T11:23:18+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://uxdesign.cc/the-feature-was-fine-so-why-did-users-keep-hiding-it-58082b6f3abf?source=rss----138adf9c44c---4",
+      "title": "这个功能很好。那么为什么用户一直隐藏它呢？",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-08-18T01:48:31.005253+00:00",
+      "source_date": "2026-08-17T11:22:10+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6449308.html",
+      "title": "DeepSeek Harness 带来的新机会？ 让Agent自我演化才是正确的Harness Engineering？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-18T01:48:31.005306+00:00",
+      "source_date": "2026-08-18T01:01:30+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6448577.html",
+      "title": "Notion：一个千人 SaaS 公司，怎么把自己重新做成 AI 公司",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-18T01:48:31.005338+00:00",
+      "source_date": "2026-08-17T07:50:23+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/carved-travertine-transforms-paving-furniture-and-planting-across-spanish-historic-old-town/",
+      "title": "雕刻的石灰华改变了西班牙历史悠久的老城区的铺路、家具和植物",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-18T01:48:31.833522+00:00",
+      "source_date": "2026-08-17T13:56:52+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6431608.html",
+      "title": "从跑步机吃灰到抬腿即玩：临境漫游如何在鸿蒙生态里重做家庭运动",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-18T01:48:31.833577+00:00",
+      "source_date": "2026-08-17T08:16:13+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6448552.html",
+      "title": "一个项目管理软件的诞生（四）：工作项元模型设计，类型、字段、工作流与配置方案",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-18T01:48:31.833617+00:00",
+      "source_date": "2026-08-17T07:35:43+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6448463.html",
+      "title": "「尾程物流」打单平台应该怎么做？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-18T01:48:31.833648+00:00",
+      "source_date": "2026-08-18T01:27:26+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/contemporary-ceramics-rhodes-historic-monuments-bck-biennale-2026/",
+      "title": "当代陶瓷在 2026 年 BCK 双年展上进入罗德岛的历史古迹",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-18T01:48:32.528149+00:00",
+      "source_date": "2026-08-17T09:25:16+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1183240/hideout-leaf-bie-shu-pablo-luna-studio",
+      "title": "Hideout Leaf 别墅 / Pablo Luna Studio",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-18T01:48:32.639627+00:00",
+      "source_date": "2026-08-18T07:00:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/art/material-structure-scent-so-koizumi-south-korean-solo-exhibition/",
       "title": "材料、结构和气味在小泉苏的韩国个展中汇聚",
       "source": "designboom",
