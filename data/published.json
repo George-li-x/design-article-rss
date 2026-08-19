@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/design/reza-raeisifar-saber-abar-steel-spheres-chairs-lamps-pet-homes/",
+      "title": "Reza Raeisifar 和 Saber Abar 将钢球堆叠成椅子、灯具和宠物屋",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-19T01:50:37.837392+00:00",
+      "source_date": "2026-08-18T14:46:06+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/contemporary-orangery-georgia-ancient-botanical-mythology-hecates-garden/",
+      "title": "当代橘园重新构想赫卡忒花园的古代植物神话",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-19T01:50:38.755024+00:00",
+      "source_date": "2026-08-18T10:00:39+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/intricate-exoskeleton-powerhouse-parramatta-sydney-australia-moreau-kusunoki-genton/",
+      "title": "帕拉马塔发电站将于 2026 年 11 月开幕，并举办由 OMA/AMO 设计的展览",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-19T01:50:39.755519+00:00",
+      "source_date": "2026-08-18T07:45:38+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1183504/damata-house-melina-romano",
+      "title": "达玛塔住宅 / Melina Romano",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-19T01:50:41.482897+00:00",
+      "source_date": "2026-08-18T13:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/pd/6449500.html",
+      "title": "从效果图到量产：硬件产品为什么频繁出现“颜值缩水”？——为什么好设计总是输在量产最后一公里",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-19T01:50:41.482945+00:00",
+      "source_date": "2026-08-18T09:03:11+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1042609/designing-quietly-rethinking-architectures-overlooked-surface",
+      "title": "安静地设计：重新思考建筑被忽视的表面",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-19T01:50:45.526380+00:00",
+      "source_date": "2026-08-18T01:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@bahriyesevval/what-i-learned-auditing-35-youth-fintech-financial-literacy-apps-e2902d6b1996?source=rss------user_experience-5",
+      "title": "我在审核 35+ 青年金融科技和金融素养应用程序时学到了什么",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-08-19T01:50:47.970010+00:00",
+      "source_date": "2026-08-19T01:26:11+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6449052.html",
+      "title": "产品经理AI提效实践(二)：以看板开发为例",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-19T01:50:47.970049+00:00",
+      "source_date": "2026-08-19T01:39:46+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1183503/casa-damata-melina-romano",
+      "title": "达马塔之家 / Melina Romano",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-19T01:50:49.384532+00:00",
+      "source_date": "2026-08-18T13:00:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6450185.html",
+      "title": "做智能体最容易踩的误区：从“功能清单”转向“服务闭环”",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-19T01:50:49.384575+00:00",
+      "source_date": "2026-08-18T09:06:21+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/19th-century-coffee-table-articulated-computer-arms-canine-form/",
+      "title": "19 世纪的咖啡桌配有铰接式电脑臂，呈现犬类形状",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-19T01:50:49.694837+00:00",
+      "source_date": "2026-08-18T09:30:16+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/it/6450341.html",
+      "title": "AI疯狂生成一切，审美降级之下什么才是核心竞争力？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-19T01:50:49.694885+00:00",
+      "source_date": "2026-08-19T01:34:56+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1183476/cheng-san-zhi-jia-bian-jie-shou-wang-zhe-cha-she-ban-gong-shi",
+      "title": "撑伞之家，边界守望者 / 察社办公室",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-19T01:50:49.694910+00:00",
+      "source_date": "2026-08-19T00:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1183472/graham-foundation-announces-45-new-grants-for-projects-expanding-architectural-discourse-in-2026",
+      "title": "格雷厄姆基金会宣布 2026 年为扩大建筑话语的项目提供 45 项新资助",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-19T01:50:55.576087+00:00",
+      "source_date": "2026-08-18T05:30:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/design/vcu-arts-qatar-thresholds-of-perception-venice-biennale-2026-interview/",
       "title": "VCUarts 卡塔尔在 2026 年威尼斯双年展上探索“感知的门槛”",
       "source": "designboom",
