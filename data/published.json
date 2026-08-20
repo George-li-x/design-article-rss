@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/architecture/life-after-rooms-how-barcelona-studio-takk-questions-domestic-architecture-we-call-home/",
+      "title": "走廊的黄昏：TAKK 如何重新思考固定房间之外的国内建筑",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-20T01:48:46.440673+00:00",
+      "source_date": "2026-08-19T08:44:52+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/readers/studio-lievito-marmifere-carrara-marble-urban-furniture/",
+      "title": "studio lievito 将废弃大理石变成模块化的城市微建筑家具",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-20T01:48:47.203438+00:00",
+      "source_date": "2026-08-19T10:19:06+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/selected-wallpapers-and-interiors-luxury-wallcovering/",
+      "title": "奢华壁纸的新角色从最后一层转向起点",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-20T01:48:48.136597+00:00",
+      "source_date": "2026-08-19T10:00:58+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1183594/crossing-grounds-art-design-and-technology",
+      "title": "跨越领域：艺术、设计和技术",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-20T01:48:49.170952+00:00",
+      "source_date": "2026-08-19T09:05:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/maison-cedrats-new-lamps-light-clay-handcrafted-washi-paper/",
+      "title": "Maison Cédrat 的新款灯具通过粘土和手工制作的和纸过滤光线",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-20T01:48:49.843864+00:00",
+      "source_date": "2026-08-19T17:32:32+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1183556/bruce-springsteen-center-for-american-music-cookfox",
+      "title": "布鲁斯·斯普林斯汀美国音乐中心 / COOKFOX",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-20T01:48:51.374044+00:00",
+      "source_date": "2026-08-19T12:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1183399/how-to-inhabit-a-territory-10-houses-shaped-by-argentinas-landscapes",
+      "title": "如何居住在一片土地上：10座由阿根廷风景塑造的房屋",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-20T01:48:52.505750+00:00",
+      "source_date": "2026-08-19T04:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6451145.html",
+      "title": "做得越快，错得越贵：AI产品为什么必须反向冷启动",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-20T01:48:52.505797+00:00",
+      "source_date": "2026-08-19T11:02:05+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1183596/kua-jie-yi-zhu-she-ji-yu-ji-zhu",
+      "title": "跨界：艺术、设计与技术",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-20T01:48:52.505818+00:00",
+      "source_date": "2026-08-19T09:05:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1183584/bu-lu-si-star-si-pu-lin-si-ting-mei-guo-yin-le-zhong-xin-cookfox",
+      "title": "布鲁斯·斯普林斯汀美国音乐中心 / COOKFOX",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-20T01:48:52.505836+00:00",
+      "source_date": "2026-08-19T12:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6450593.html",
+      "title": "模型之外，Coding Agent 还需要一套怎样的执行系统",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-20T01:48:52.505855+00:00",
+      "source_date": "2026-08-19T02:18:47+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6451023.html",
+      "title": "AI辅助销售，和销售AI化不是一回事",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-20T01:48:52.505875+00:00",
+      "source_date": "2026-08-19T07:03:47+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1183559/shen-zhen-da-peng-xin-qu-xing-huo-tan-suo-ying-lang-jia-she-ji-li-mi-zhi-zao",
+      "title": "深圳大鹏新区星火探索营廊架设计 / 厘米制造",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-20T01:48:52.505893+00:00",
+      "source_date": "2026-08-20T00:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1183617/call-for-entries-international-design-competition-for-the-redevelopment-of-the-hwamyeong-outdoor-swimming-pool",
+      "title": "征集参赛作品：华明室外游泳池重建国际设计竞赛",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-20T01:48:53.347899+00:00",
+      "source_date": "2026-08-19T09:10:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/design/reza-raeisifar-saber-abar-steel-spheres-chairs-lamps-pet-homes/",
       "title": "Reza Raeisifar 和 Saber Abar 将钢球堆叠成椅子、灯具和宠物屋",
       "source": "designboom",
