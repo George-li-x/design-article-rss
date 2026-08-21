@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/architecture/aulets-architectes-natural-stone-recycled-pallet-roof-mallorca-futur-habitable-pavilion-pollenca/",
+      "title": "aulets 在马略卡岛的回收托盘屋顶下堆放天然石材",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-21T01:55:17.664269+00:00",
+      "source_date": "2026-08-20T15:45:21+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/a-design-award-and-competition-winner-furniture-interior-concepts/",
+      "title": "揭示家具和室内概念，优先考虑同一性而不是统一性",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-21T01:55:19.454025+00:00",
+      "source_date": "2026-08-20T10:00:08+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/cities-digital-nomad-destinations-lisbon-mexico-city-athens-bali/",
+      "title": "当城市成为数字游牧目的地时，谁能留下来？",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-21T01:55:27.248174+00:00",
+      "source_date": "2026-08-20T10:50:35+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/konstantinos-gournas-turns-reclaimed-marble-sink-into-a-mobile-wash-station/",
+      "title": "konstantinos gournas 将回收的大理石水槽变成移动清洗站",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-21T01:55:28.057318+00:00",
+      "source_date": "2026-08-20T09:22:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/chuangye/6451687.html",
+      "title": "拆解Anthropic：押注 coding 的公司很多，为什么它先吃到复利？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-21T01:55:28.057373+00:00",
+      "source_date": "2026-08-20T09:47:42+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/atrium-architekti-workers-dormitory-homes-slovakia/",
+      "title": "Atrium architekti 将斯洛伐克 1960 年代的工人宿舍改造成 507 间住宅",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-21T01:55:29.482744+00:00",
+      "source_date": "2026-08-20T16:01:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@darkpiodos/9-designing-for-tomorrow-top-10-high-demand-mobile-ui-ux-projects-in-2026-305526a9c6bd?source=rss------product_design-5",
+      "title": "9 — 为明天设计：2026 年十大高需求移动 UI/UX 项目",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-08-21T01:55:37.208428+00:00",
+      "source_date": "2026-08-20T22:23:28+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6451651.html",
+      "title": "当AI把高保真原型压缩到3小时，30+的设计师，路在何方？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-21T01:55:37.208468+00:00",
+      "source_date": "2026-08-20T08:52:57+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6451983.html",
+      "title": "Pi说模型可以更换： AI产品真正该留下的，是Harness吗？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-21T01:55:37.208496+00:00",
+      "source_date": "2026-08-21T01:07:35+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/rome-vienna-teach-future-affordable-housing/",
+      "title": "罗马和维也纳对经济适用住房的未来有何启示",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-21T01:55:37.964345+00:00",
+      "source_date": "2026-08-20T20:25:16+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6451991.html",
+      "title": "国内跑通的情感AI，做出海为什么架构要推倒重来？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-21T01:55:37.964392+00:00",
+      "source_date": "2026-08-21T01:11:18+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1183680/san-bu-qu-zhu-zhai-waechter-architecture",
+      "title": "三部曲住宅 / Waechter Architecture",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-21T01:55:37.964418+00:00",
+      "source_date": "2026-08-20T12:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1183726/shi-ting-shi-yan-zhong-xin-jian-zhu-zong-ju-plus-gui-hua-mi-shu-chu-plus-a-wei-ya-nei-da-shi-zheng-fu",
+      "title": "视听实验中心 / 建筑总局 + 规划秘书处 + 阿韦亚内达市政府",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-21T01:55:37.964442+00:00",
+      "source_date": "2026-08-20T19:00:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.archdaily.com/1183601/lina-bo-bardis-first-exhibition-in-china-and-gxns-reclaimed-material-community-space-this-weeks-review",
+      "title": "Lina Bo Bardi 在中国的首次展览和 GXN 的再生材料社区空间：本周回顾",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-21T01:55:41.215835+00:00",
+      "source_date": "2026-08-20T06:30:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/architecture/life-after-rooms-how-barcelona-studio-takk-questions-domestic-architecture-we-call-home/",
       "title": "走廊的黄昏：TAKK 如何重新思考固定房间之外的国内建筑",
       "source": "designboom",
