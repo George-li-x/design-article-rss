@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.nngroup.com/articles/artificial-intelligence-glossary/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "人工智能：术语表",
+      "source": "Nielsen Norman Group",
+      "language": "en",
+      "published_at": "2026-08-22T01:49:37.625995+00:00",
+      "source_date": "2026-08-21T17:00:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.designboom.com/design/takuto-ohta-200-leftover-cedar-logs-evolving-furniture-system/",
+      "title": "takuto ohta 将 200 根剩余的雪松原木变成了不断发展的家具系统",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-22T01:49:38.427763+00:00",
+      "source_date": "2026-08-21T16:25:21+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/peculiar-facades-roadside-love-hotels-francois-prost-japan-photo-diary-12-27-2024/",
+      "title": "路边情人旅馆的奇特外墙描绘了弗朗索瓦·普罗斯特的日本照片日记",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-22T01:49:40.404277+00:00",
+      "source_date": "2026-08-21T10:50:33+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/albanian-files-two-decades-international-architecture-country-transition-anneke-abhelakh-lars-muller-publishers/",
+      "title": "阿尔巴尼亚档案：转型国家二十年的国际建筑",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-22T01:49:46.944767+00:00",
+      "source_date": "2026-08-21T08:45:14+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/minqa-atelier-charred-timber-refuge-ecuador-choco-forest/",
+      "title": "Minqa 工作室沿着厄瓜多尔乔科森林的陡坡走下烧焦的木材避难所",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-22T01:49:48.196293+00:00",
+      "source_date": "2026-08-21T20:35:52+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/peleg-designs-crocodile-clips-beach-towels-blowing-away/",
+      "title": "Peleg design 的鳄鱼夹可防止沙滩巾被风吹走",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-22T01:49:49.254738+00:00",
+      "source_date": "2026-08-21T15:46:53+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6452361.html",
+      "title": "大厂争相开源 Harness 背后的商业阳谋",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-22T01:49:49.254776+00:00",
+      "source_date": "2026-08-21T09:20:45+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6452353.html",
+      "title": "手把手搭建AI报价工作台，甩掉手工查表算价",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-22T01:49:49.254798+00:00",
+      "source_date": "2026-08-21T09:16:46+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1183772/yaku-cheng-shi-yu-shui-jing-liu-ke-chi-xu-guan-li-mo-kuai-el-sindicato-arquitectura",
+      "title": "Yaku – 城市雨水径流可持续管理模块 / El Sindicato Arquitectura",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-22T01:49:49.254816+00:00",
+      "source_date": "2026-08-21T19:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/opposite-office-one-square-meter-treehouse-germany-weimar/",
+      "title": "对面办公室搬进包豪斯大学一平方米的树屋",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-22T01:49:50.538076+00:00",
+      "source_date": "2026-08-21T14:15:19+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6452124.html",
+      "title": "Agent为什么需要沙盒？产品经理必须理解的AI安全边界",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-22T01:49:50.538116+00:00",
+      "source_date": "2026-08-22T01:21:36+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1183676/wa-wei-er-cheng-bao-gu-dai-yi-zhu-zhan-narchitektura",
+      "title": "瓦维尔城堡古代艺术展 / NArchitekTURA",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-22T01:49:50.538136+00:00",
+      "source_date": "2026-08-22T06:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1183538/ren-min-zhi-jia-maison-du-peuple-zhong-su-cu-ye-zhu-yi-fu-wu-guo-jia-jian-she",
+      "title": "人民之家：为国家建设重塑粗野主义",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-22T01:49:50.538153+00:00",
+      "source_date": "2026-08-21T04:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1183510/ocean-stories-museum-transborder-studio",
+      "title": "海洋故事博物馆 / Transborder Studio",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-22T01:49:51.500241+00:00",
+      "source_date": "2026-08-21T07:00:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/architecture/aulets-architectes-natural-stone-recycled-pallet-roof-mallorca-futur-habitable-pavilion-pollenca/",
       "title": "aulets 在马略卡岛的回收托盘屋顶下堆放天然石材",
       "source": "designboom",
