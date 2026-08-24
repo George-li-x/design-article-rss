@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://uxdesign.cc/sterling-cooper-built-your-ux-process-we-need-to-redefine-it-in-the-age-of-ai-and-systems-520a2d3b2a60?source=rss----138adf9c44c---4",
+      "title": "Sterling Cooper built your UX process. We need to redefine it in the age of AI and systems.",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-08-24T01:55:36.670761+00:00",
+      "source_date": "2026-08-23T09:35:34+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.designboom.com/architecture/blue-portals-and-brick-vaults-shape-dkas-apartment-renovation-in-rome/",
+      "title": "blue portals and brick vaults shape DKA’s apartment renovation in rome",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-24T01:55:38.201938+00:00",
+      "source_date": "2026-08-23T06:14:46+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1183789/ji-yi-zhi-jia-studio-lagom",
+      "title": "记忆之家 / Studio Lagom",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-24T01:55:38.202030+00:00",
+      "source_date": "2026-08-24T07:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6453079.html",
+      "title": "Pi：一个把“被听见”做成产品的 AI，为什么动人，也难赢",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-24T01:55:38.202066+00:00",
+      "source_date": "2026-08-24T01:28:39+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6453071.html",
+      "title": "OpenAI开放Codex Harness，Agent产品需要重新设计权限",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-24T01:55:38.202110+00:00",
+      "source_date": "2026-08-24T01:28:53+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6453010.html",
+      "title": "WorkBuddy的备胎+对手华为WorkSwarm使用测试",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-24T01:55:38.202144+00:00",
+      "source_date": "2026-08-24T01:08:53+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1183690/zimbro-house-stemmer-rodrigues-arquitetura",
+      "title": "Zimbro House / Stemmer Rodrigues Arquitetura",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-24T01:55:39.434710+00:00",
+      "source_date": "2026-08-23T15:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6452993.html",
+      "title": "从“明星式”品牌到“管家式”品牌：下一代品牌的成长思考",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-24T01:55:39.434763+00:00",
+      "source_date": "2026-08-24T01:03:14+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6453025.html",
+      "title": "对话 Claude Code 之父：当模型越来越聪明，还在设计复杂工作流的人只是在假装做产品",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-24T01:55:39.434802+00:00",
+      "source_date": "2026-08-23T10:42:02+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/readers/deliberately-uncomfortable-stainless-steel-chair-sitting-social-commentary/",
+      "title": "deliberately uncomfortable stainless steel chair turns sitting into social commentary",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-24T01:55:41.222252+00:00",
+      "source_date": "2026-08-23T20:43:31+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6448678.html",
+      "title": "3年烧掉1400万美元做“读脑耳机”，最后靠一个 AI 输入法翻身",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-24T01:55:41.222306+00:00",
+      "source_date": "2026-08-23T06:03:04+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/technology/car-garage-home-residential-design-supercar-towers-miami/",
+      "title": "when the car moves upstairs, the garage becomes part of the home",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-24T01:55:42.226185+00:00",
+      "source_date": "2026-08-23T10:50:09+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@737shirley/trust-before-automation-a-framework-for-designing-human-centered-ai-products-ec709c302d39?source=rss------product_design-5",
+      "title": "Trust Before Automation: A Framework for Designing Human-Centered AI Products",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-08-24T01:55:45.288780+00:00",
+      "source_date": "2026-08-23T22:35:42+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6452868.html",
+      "title": "从一次危重猫接诊，看动物医院该怎么做 RAG",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-24T01:55:45.288827+00:00",
+      "source_date": "2026-08-23T10:14:08+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1183796/nooba-building-saraiva-plus-associados",
+      "title": "Nooba Building / Saraiva + Associados",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-24T01:55:46.247734+00:00",
+      "source_date": "2026-08-23T13:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1183167/housing-on-top-of-the-petrol-station-gut-deubelbeiss-nill-architekten",
+      "title": "Housing on top of the petrol station / Gut Deubelbeiss Nill Architekten",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-24T01:55:47.840169+00:00",
+      "source_date": "2026-08-23T06:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/939644/11-colombian-houses-that-feature-exposed-brick",
+      "title": "12 Colombian Houses Featuring Exposed Brick",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-24T01:55:49.105435+00:00",
+      "source_date": "2026-08-21T07:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@blumintdigital/the-safest-customer-database-is-the-one-you-never-build-5a3360fea274?source=rss------product_design-5",
+      "title": "The Safest Customer Database Is the One You Never Build",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-08-24T01:55:51.739291+00:00",
+      "source_date": "2026-08-24T00:05:55+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1183666/raw-and-warm-zhu-zhai-habitat-architects",
+      "title": "Raw & Warm 住宅 / Habitat Architects",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-24T01:55:52.313470+00:00",
+      "source_date": "2026-08-23T21:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1183765/lin-jie-zhi-jia-madras-spaces",
+      "title": "临界之家 / Madras Spaces",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-24T01:55:52.313517+00:00",
+      "source_date": "2026-08-23T17:00:00+00:00",
+      "full_text": false
+    },
+    {
       "url": "https://www.woshipm.com/ai/6452857.html",
       "title": "对话 Anthropic 产品负责人：不懂评测的 AI 产品负责人，只是在假装做产品",
       "source": "人人都是产品经理",
