@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/design/made-bush-terminal-nycedc-creative-ecosystem-brooklyn/",
+      "title": "MADE: bush terminal by NYCEDC empowers creative ecosystem on brooklyn waterfront",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-26T01:56:07.716394+00:00",
+      "source_date": "2026-08-25T10:00:07+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/technology/tobi-turns-digital-fortunes-into-a-tiny-cyber-friend-for-your-keyring/",
+      "title": "TOBI turns digital fortunes into a tiny ‘cyber friend’ for your keyring",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-26T01:56:09.652746+00:00",
+      "source_date": "2026-08-25T16:05:20+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/robert-smithsons-entropy-bear-architects-spaces-architecture/",
+      "title": "robert smithson’s entropy leads BEAR architects into the spaces architecture forgot",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-26T01:56:11.373305+00:00",
+      "source_date": "2026-08-25T12:36:14+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/researcher-in-the-loop-18a8ffddf48e?source=rss----138adf9c44c---4",
+      "title": "Researcher-in-the-loop",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-08-26T01:56:12.845569+00:00",
+      "source_date": "2026-08-25T11:18:37+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://uxdesign.cc/what-blade-runner-got-right-about-ai-99cc75c0f761?source=rss----138adf9c44c---4",
+      "title": "What Blade Runner got right about AI",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-08-26T01:56:13.711572+00:00",
+      "source_date": "2026-08-25T17:12:03+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://medium.com/@darkpiodos/14-c-master-the-mic-top-10-ui-ux-design-interview-questions-part-3-of-5-96d57c6525c8?source=rss------product_design-5",
+      "title": "14 C — Master the Mic: Top 10 UI/UX Design Interview Questions (Part 3 of 5)",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-08-26T01:56:16.451896+00:00",
+      "source_date": "2026-08-25T22:19:58+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6454164.html",
+      "title": "实测MiniMax Design：视频生成之后，开卷组织生产",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-26T01:56:16.451951+00:00",
+      "source_date": "2026-08-25T09:19:25+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1183930/bo-li-wu-charlene-koetz-arquitetura",
+      "title": "玻璃屋 / Charlene Koetz Arquitetura",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-26T01:56:16.451979+00:00",
+      "source_date": "2026-08-25T13:00:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.designboom.com/design/freddie-mercury-iconic-costumes-vam-victoria-albert-museum-galleries-london/",
+      "title": "freddie mercury’s iconic costumes to enter the V&A galleries in london",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-26T01:56:17.442894+00:00",
+      "source_date": "2026-08-25T07:45:12+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.nngroup.com/training/november/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "UX Conference November Announced (Nov 9 - Nov 13)",
+      "source": "Nielsen Norman Group",
+      "language": "en",
+      "published_at": "2026-08-26T01:56:22.326555+00:00",
+      "source_date": "2026-08-24T06:48:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1183902/oma-amo-and-open-architecture-design-opening-exhibitions-for-powerhouse-parramatta-in-sydney-australia",
+      "title": "OMA/AMO and OPEN Architecture Design Opening Exhibitions for Powerhouse Parramatta in Sydney, Australia",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-26T01:56:25.174989+00:00",
+      "source_date": "2026-08-25T05:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6454423.html",
+      "title": "边界动作诊断：拒绝 ≠ 终止 权利差异未区分",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-26T01:56:25.175044+00:00",
+      "source_date": "2026-08-26T01:29:51+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/zhichang/6454375.html",
+      "title": "产品经理如何快速了解一项陌生业务",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-26T01:56:25.175075+00:00",
+      "source_date": "2026-08-26T01:23:31+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/pd/6453718.html",
+      "title": "给B端产品加上AI聊天框之后，用户为什么还要回到Excel？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-26T01:56:25.175103+00:00",
+      "source_date": "2026-08-26T01:14:18+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/user-research/6454136.html",
+      "title": "如何洞察用户？9个视角19个提示词",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-26T01:56:25.175132+00:00",
+      "source_date": "2026-08-25T08:50:16+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/",
+      "title": "Why Your Website Should Never Stop Changing",
+      "source": "Smashing Magazine",
+      "language": "en",
+      "published_at": "2026-08-26T01:56:27.755243+00:00",
+      "source_date": "2026-08-25T08:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/sordo-madaleno-art-gallery-los-cabos-arte-abierto-baja-anima-village-mexico/",
+      "title": "sordo madaleno sinks open-air art gallery four meters below ground in los cabos",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-26T01:56:28.673981+00:00",
+      "source_date": "2026-08-25T02:10:09+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1183928/glass-house-charlene-koetz-arquitetura",
+      "title": "Glass House / Charlene Koetz Arquitetura",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-26T01:56:29.621592+00:00",
+      "source_date": "2026-08-25T13:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1183959/split-mass-zhu-zhai-k-thengono-design-studio",
+      "title": "Split Mass 住宅 / K-Thengono Design Studio",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-26T01:56:30.195517+00:00",
+      "source_date": "2026-08-26T07:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1183792/oh-ho-zhu-zhai-play-architecture",
+      "title": "OH HO 住宅 / Play Architecture",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-26T01:56:30.918736+00:00",
+      "source_date": "2026-08-26T02:00:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/art/sierra-de-la-higuera-vasto-gallery-art-collectible-design-one-roof/",
       "title": "S+DLH and VASTO gallery bring contemporary art and collectible design under one roof",
       "source": "designboom",
