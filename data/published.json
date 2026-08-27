@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/architecture/27-square-meter-steel-timber-pavilion-chiang-mai-thailand/",
+      "title": "清迈27平方米的钢木结构展馆是为了抵御洪水而建造的",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-27T09:37:04.581798+00:00",
+      "source_date": "2026-08-27T07:17:04+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/my-archischool-winners-international-youth-archidesign-competition-2026/",
+      "title": "my archischool 公布 2026 年国际青年 ARCHIDESIGN 竞赛获奖者",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-27T09:37:06.107951+00:00",
+      "source_date": "2026-08-26T10:00:39+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/readers/ryo-yamada-in-vitro-zero-metre-above-sea-level-installation-summerhall-arts/",
+      "title": "山田亮 (Ryo yamada) 在 2026 年爱丁堡艺术节上的海平面装置预测上升",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-27T09:37:06.850289+00:00",
+      "source_date": "2026-08-26T09:00:31+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/takaaki-fuji-yuko-fuji-japanese-home-dismantled-circularity-cabin/",
+      "title": "takaaki fuji + yuko fuji 建造的日本住宅将被拆除并与居民一起搬迁",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-27T09:37:07.835885+00:00",
+      "source_date": "2026-08-26T15:55:03+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/it/6455167.html",
+      "title": "诺基亚：从2500亿到72亿，全球手机之王如何被时代抛弃",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-27T09:37:07.835935+00:00",
+      "source_date": "2026-08-27T07:29:02+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1183975/pelli-clarke-and-partners-city-tower-one-and-dubai-city-life-under-the-lens-of-ahmad-alnaji",
+      "title": "艾哈迈德·阿尔纳吉 (Ahmad Alnaji) 镜头下的 Pelli Clarke & Partners 城市塔一号和迪拜城市景观",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-27T09:37:10.800484+00:00",
+      "source_date": "2026-08-26T05:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/luca-fontana-gives-vancouvers-timber-factory-a-roof-you-can-walk-on/",
+      "title": "卢卡丰塔纳将温哥华的一家木材工厂变成了适合步行的屋顶景观",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-27T09:37:11.731695+00:00",
+      "source_date": "2026-08-26T15:33:56+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1184022/call-for-proposals-ii-experimental-research-project-at-monitor-p-casa-dellarchitettura-of-rome",
+      "title": "提案征集 II：罗马 Casa dell’Architettura Monitor P 实验研究项目",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-27T09:37:12.607864+00:00",
+      "source_date": "2026-08-26T09:05:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6455170.html",
+      "title": "单人手搓9款AI产品、多次获得苹果推荐，上海这家一人初创公司藏不住了？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-27T09:37:12.607914+00:00",
+      "source_date": "2026-08-27T07:30:12+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6455456.html",
+      "title": "对谈前剪映负责人KiKi：「All in One」是个伪命题，创业别用AI新瓶装旧酒",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-27T09:37:12.607945+00:00",
+      "source_date": "2026-08-27T08:07:06+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1184033/seed-2026",
+      "title": "种子 2026",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-27T09:37:13.493511+00:00",
+      "source_date": "2026-08-26T13:05:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6455220.html",
+      "title": "智谱 5.3-flash 成了新的斩杀线",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-27T09:37:13.493559+00:00",
+      "source_date": "2026-08-27T07:32:47+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1183993/deleers-xiao-yuan-smak-architects",
+      "title": "Deleers 校园 / SMAK Architects",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-27T09:37:13.615992+00:00",
+      "source_date": "2026-08-27T06:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184045/pa-la-ma-ta-dong-li-bo-wu-guan-kai-mu-yu-di-li-ding-wei-bao-gao-xin-xing-kai-yuan-ying-yong-ben-zhou-hui-gu",
+      "title": "帕拉马塔动力博物馆开幕与地理定位报告新型开源应用：本周回顾",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-27T09:37:13.616040+00:00",
+      "source_date": "2026-08-27T05:30:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/design/made-bush-terminal-nycedc-creative-ecosystem-brooklyn/",
       "title": "MADE: bush terminal by NYCEDC empowers creative ecosystem on brooklyn waterfront",
       "source": "designboom",
