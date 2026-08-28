@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/design/twelve-tanks-dripping-aqueduct-water-loss-mies-van-der-rohe-barcelona-pavilion-plou-prou-cierto-estudio-h3o-architects-metronom/",
+      "title": "twelve tanks and dripping aqueduct trace water loss at mies van der rohe barcelona pavilion",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-28T11:18:40.334177+00:00",
+      "source_date": "2026-08-27T14:30:06+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1184043/the-opening-of-powerhouse-parramatta-and-an-new-open-source-app-for-geolocated-reports-this-weeks-review",
+      "title": "The Opening of Powerhouse Parramatta and a New Open-Source App for Geolocated Reports: This Week’s Review",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-28T11:18:43.718342+00:00",
+      "source_date": "2026-08-27T05:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/technology/quail-green-rose-gold-spyker-c8-preliator-xxv-monterey/",
+      "title": "quail green and rose gold frame the obsessive details of spyker’s C8 preliator XXV",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-28T11:18:44.805240+00:00",
+      "source_date": "2026-08-27T16:44:14+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/technology/lassie-robot-dog-quadrupedal-mobility-soft-removable-knitted-suit/",
+      "title": "lassie robot dog pairs quadrupedal mobility with a soft removable knitted suit",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-28T11:18:45.631213+00:00",
+      "source_date": "2026-08-28T06:15:10+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1183662/doble-erre-morphism",
+      "title": "Hybrid Infrastructure Doble Erre / Morphism",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-28T11:18:46.316374+00:00",
+      "source_date": "2026-08-28T03:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/technology/joshua-vides-mercedes-benz-sl500-drawing-painted-black-white-auction/",
+      "title": "joshua vides’ mercedes SL500 looks like a drawing, and now it’s up for auction",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-28T11:18:47.063899+00:00",
+      "source_date": "2026-08-27T20:35:29+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/pd/6455612.html",
+      "title": "广告商业化变现2：产品经理的8个核心命题",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-28T11:18:47.063945+00:00",
+      "source_date": "2026-08-28T06:12:17+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1183842/hun-he-ji-chu-she-shi-doble-erre-plus-morphism",
+      "title": "混合基础设施 / Doble Erre + Morphism",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-28T11:18:47.063975+00:00",
+      "source_date": "2026-08-28T03:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/embodied/6455670.html",
+      "title": "在具身智能行业，产品经理能干什么？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-28T11:18:47.064003+00:00",
+      "source_date": "2026-08-28T01:15:28+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6456015.html",
+      "title": "美国红杉预言的模应一体，Loopit是值得重点关注的样本",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-28T11:18:47.064032+00:00",
+      "source_date": "2026-08-28T08:22:22+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/lens-installation-rhythmic-timber-slats-kizhi-historic-churches-design-wood-home/",
+      "title": "lens installation uses rhythmic timber slats to frame island’s historic churches",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-28T11:18:48.298784+00:00",
+      "source_date": "2026-08-27T18:10:01+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1183936/autocamp-sequoia-waechter-architecture",
+      "title": "Autocamp Sequoia / Waechter Architecture",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-28T11:18:48.672841+00:00",
+      "source_date": "2026-08-28T12:00:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.designboom.com/art/do-ho-suh-four-decades-home-memory-migration-mmca-seoul-retrospective/",
+      "title": "do ho suh maps four decades of home, memory, and migration at MMCA seoul retrospective",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-28T11:18:49.605148+00:00",
+      "source_date": "2026-08-28T07:45:33+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184088/estancia-el-terron-zhu-zhai-santiago-bertotti",
+      "title": "Estancia El Terrón 住宅 / Santiago Bertotti",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-28T11:18:50.159928+00:00",
+      "source_date": "2026-08-28T15:00:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/architecture/27-square-meter-steel-timber-pavilion-chiang-mai-thailand/",
       "title": "清迈27平方米的钢木结构展馆是为了抵御洪水而建造的",
       "source": "designboom",
