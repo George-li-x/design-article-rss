@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.nngroup.com/articles/ai-ux-debt/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "The Custodial Era of UX: Cleaning Up After AI",
+      "source": "Nielsen Norman Group",
+      "language": "en",
+      "published_at": "2026-08-29T07:00:30.388416+00:00",
+      "source_date": "2026-08-28T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/it/6453574.html",
+      "title": "从人形概念到咖啡机器人，具身智能如何跨过商业化鸿沟",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-29T07:00:30.388466+00:00",
+      "source_date": "2026-08-29T01:53:29+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/mamuli-georgian-culture-traditions-layered-restaurant-interior-soia-design/",
+      "title": "mamuli translates georgian culture and traditions into layered restaurant interior",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-29T07:00:32.412561+00:00",
+      "source_date": "2026-08-28T14:30:48+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1184102/lina-bo-bardi-and-popular-making-craft-and-accessibility-in-design",
+      "title": "Lina Bo Bardi and Popular Making: Craft and Accessibility in Design",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-29T07:00:36.101239+00:00",
+      "source_date": "2026-08-28T07:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.nngroup.com/articles/ai-empathy-mapping/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "AI Can't Replace Real Research in Empathy Mapping",
+      "source": "Nielsen Norman Group",
+      "language": "en",
+      "published_at": "2026-08-29T07:00:39.177933+00:00",
+      "source_date": "2026-08-28T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1184135/tomaz-building-ideia1",
+      "title": "Tomaz Building / IDEIA1",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-29T07:00:40.257337+00:00",
+      "source_date": "2026-08-28T13:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
+      "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
+      "source": "Smashing Magazine",
+      "language": "en",
+      "published_at": "2026-08-29T07:00:44.902888+00:00",
+      "source_date": "2026-08-26T13:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/tato-architects-arc-tent-hammock-outdoor-shelter/",
+      "title": "tato architects suspends arc tent somewhere between a hammock and a campsite",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-29T07:00:45.961433+00:00",
+      "source_date": "2026-08-28T08:58:30+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/byunggwon-na-alit-lamp-ceramic-wood-light/",
+      "title": "byunggwon na’s ALIT lamp balances ceramic, wood and light in one quiet composition",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-29T07:00:47.173985+00:00",
+      "source_date": "2026-08-28T14:55:14+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1184123/latin-america-in-focus-this-month-in-architecture-environmental-design-social-infrastructure-and-practice",
+      "title": "Latin America in Focus: This Month in Architecture, Environmental Design, Social Infrastructure, and Practice",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-29T07:00:51.141622+00:00",
+      "source_date": "2026-08-28T06:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1184131/call-for-submissions-the-architecture-drawing-prize-2026",
+      "title": "Call for Submissions: The Architecture Drawing Prize 2026",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-29T07:00:52.199171+00:00",
+      "source_date": "2026-08-28T09:10:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1184113/building-the-future-6-unbuilt-research-centers-from-the-archdaily-community",
+      "title": "Building the Future: 6 Unbuilt Research Centers from the ArchDaily Community",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-29T07:00:54.018385+00:00",
+      "source_date": "2026-08-28T04:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6456417.html",
+      "title": "腾讯猛踩油门，混元追赶的127天",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-29T07:00:54.018432+00:00",
+      "source_date": "2026-08-29T02:41:41+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1184127/venturous-design-practice-research-futures-in-architecture-and-urban-design",
+      "title": "VENTUROUS: Design Practice Research Futures in Architecture & Urban Design",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-29T07:00:55.113482+00:00",
+      "source_date": "2026-08-28T09:05:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@dashmeghna/why-continue-watching-is-one-of-the-best-product-features-ca253469b8ca?source=rss------user_experience-5",
+      "title": "Why “Continue Watching” Is One of the Best Product Features",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-08-29T07:00:57.410626+00:00",
+      "source_date": "2026-08-28T15:02:23+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184145/sergipe-gong-yu-terra-arquitetura",
+      "title": "Sergipe 公寓 / Terra Arquitetura",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-29T07:00:58.043581+00:00",
+      "source_date": "2026-08-29T13:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6455491.html",
+      "title": "从砍掉Sora到等待AI的iPhone时刻：奥特曼复盘OpenAI的算力取舍、产品转折与未来",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-29T07:00:58.043628+00:00",
+      "source_date": "2026-08-29T01:39:25+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184137/tuo-ma-si-da-sha-ideia1",
+      "title": "托马斯大厦 / IDEIA1",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-29T07:00:58.043649+00:00",
+      "source_date": "2026-08-28T13:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184134/jing-sai-zheng-ji-2026nian-jian-zhu-hui-tu-jiang",
+      "title": "竞赛征集：2026年建筑绘图奖",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-29T07:00:58.043667+00:00",
+      "source_date": "2026-08-28T09:10:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@naturalindomebel/interior-furniture-jogja-bb774f498cf0?source=rss------design-5",
+      "title": "Interior Furniture Jogja",
+      "source": "Medium · Design",
+      "language": "en",
+      "published_at": "2026-08-29T07:01:01.103299+00:00",
+      "source_date": "2026-08-28T22:57:45+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/design/twelve-tanks-dripping-aqueduct-water-loss-mies-van-der-rohe-barcelona-pavilion-plou-prou-cierto-estudio-h3o-architects-metronom/",
       "title": "twelve tanks and dripping aqueduct trace water loss at mies van der rohe barcelona pavilion",
       "source": "designboom",
