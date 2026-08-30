@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/design/art-miniature-staircases-cooper-hewitt-design-museum/",
+      "title": "库珀休伊特设计博物馆的微型楼梯艺术",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-30T05:19:30.405708+00:00",
+      "source_date": "2026-08-29T20:35:52+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/sculptural-table-lamps-3d-printing-graphic-geometry-saturated-color-charlie-firth-colorful-rebellion/",
+      "title": "雕塑台灯结合了 3D 打印、图形几何和饱和色彩",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-30T05:19:32.243155+00:00",
+      "source_date": "2026-08-29T02:10:04+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6453549.html",
+      "title": "从 Sora 退场到实时交互，AI视频产品如何走向真实场景",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-30T05:19:32.243202+00:00",
+      "source_date": "2026-08-30T03:48:01+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@darkpiodos/20-the-ultimate-ui-ux-designers-toolkit-60-free-web-resources-for-every-stage-of-design-bbff3dbb2d63?source=rss------product_design-5",
+      "title": "20 — 终极 UI/UX 设计师工具包：适用于设计各个阶段的 60 个免费 Web 资源",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-08-30T05:19:39.053676+00:00",
+      "source_date": "2026-08-30T05:10:45+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6456450.html",
+      "title": "为什么大厂都在补 Harness？Agent 的竞争正在从模型转向运行时",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-30T05:19:39.053730+00:00",
+      "source_date": "2026-08-29T08:56:18+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/icon-construction-system-3d-print-home-modes-habitation/",
+      "title": "ICON 使用一种建筑系统 3D 打印截然不同的家居理念",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-30T05:19:46.362691+00:00",
+      "source_date": "2026-08-29T07:45:24+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1183945/lpp-rice-bran-oil-refinery-phtaa",
+      "title": "LPP 米糠油精炼厂 / PHTAA",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-30T05:19:48.356749+00:00",
+      "source_date": "2026-08-29T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@darkpiodos/21-365-days-of-pixels-the-ultimate-daily-web-design-log-1cee884ee25d?source=rss------product_design-5",
+      "title": "21 — 365 天的像素：终极每日网页设计日志",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-08-30T05:19:52.613196+00:00",
+      "source_date": "2026-08-30T05:10:54+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184059/loto-zhu-zhai-ezequiel-farca-studio",
+      "title": "Loto House / Ezequiel Farca Studio",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-30T05:19:53.620456+00:00",
+      "source_date": "2026-08-29T16:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184126/ju-jiao-la-ding-mei-zhou-ben-yue-jian-zhu-huan-jing-she-ji-she-hui-ji-chu-she-shi-yu-shi-jian",
+      "title": "聚焦拉丁美洲：本月建筑、环境设计、社会基础设施与实践",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-30T05:19:53.620500+00:00",
+      "source_date": "2026-08-28T06:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184056/ao-li-ao-si-jiao-yi-zhong-xin-da-lou-gai-zao-oscar-escuder-arquitectura",
+      "title": "奥里奥斯交易中心大楼改造 / Oscar Escuder Arquitectura",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-30T05:19:53.620526+00:00",
+      "source_date": "2026-08-29T11:00:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1183761/choszczowka-gong-gong-tu-shu-guan-ambient",
+      "title": "Choszczówka 公共图书馆 / Ambient",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-30T05:19:53.620549+00:00",
+      "source_date": "2026-08-30T06:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@naturalindomebel/furniture-interior-hpl-cb7e383f93c3?source=rss------design-5",
+      "title": "家具内饰HPL",
+      "source": "Medium · Design",
+      "language": "en",
+      "published_at": "2026-08-30T05:20:07.720852+00:00",
+      "source_date": "2026-08-30T02:26:41+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1184112/the-round-whitehorse-centre-kerstin-thompson-architects-plus-bkk-architects",
+      "title": "圆形白马中心 / Kerstin Thompson Architects + BKK Architects",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-30T05:20:09.325498+00:00",
+      "source_date": "2026-08-29T21:00:00+00:00",
+      "full_text": false
+    },
+    {
       "url": "https://www.nngroup.com/articles/ai-ux-debt/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "title": "The Custodial Era of UX: Cleaning Up After AI",
       "source": "Nielsen Norman Group",
