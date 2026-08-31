@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/architecture/gabled-timber-cabins-corr-scotland-rugged-landscape-na-bothain-isle-raasay-distillery/",
+      "title": "gabled timber cabins by córr nestle into scotland’s rugged landscape",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-31T05:27:09.811825+00:00",
+      "source_date": "2026-08-30T14:15:20+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/designboom-shop-drop-serene-lifestyle-objects-to-design-your-quiet-moments/",
+      "title": "designboom shop drop: serene lifestyle objects to design your quiet moments",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-31T05:27:11.601091+00:00",
+      "source_date": "2026-08-30T14:15:28+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/manifesta-16-past-present-future-ruhr-churches/",
+      "title": "manifesta 16 and the past, present, and future of ruhr’s churches",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-08-31T05:27:12.896396+00:00",
+      "source_date": "2026-08-30T20:35:29+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6457223.html",
+      "title": "AI互联网日报：字节跳动推迟豆包2.2、华为云发布病理大模型、小米实测续航1230公里",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-31T05:27:12.896480+00:00",
+      "source_date": "2026-08-31T05:09:29+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/evaluating/6457035.html",
+      "title": "实测3大 Flash 模型，谁是真正的斩杀线？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-31T05:27:12.896513+00:00",
+      "source_date": "2026-08-31T02:13:05+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@ashutoshkala7/building-tranquil-ai-designing-for-empathetic-product-interaction-225a7c16eb77?source=rss------user_experience-5",
+      "title": "Building Tranquil AI: Designing for Empathetic Product Interaction",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-08-31T05:27:15.865560+00:00",
+      "source_date": "2026-08-30T15:59:11+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@marcosalbuquerq/pare-de-desenhar-telas-comece-a-resolver-problemas-d7869a3ea758?source=rss------product_design-5",
+      "title": "Pare de desenhar telas. Comece a resolver problemas.",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-08-31T05:27:21.683489+00:00",
+      "source_date": "2026-08-31T03:32:38+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@marcosalbuquerq/pare-de-desenhar-telas-comece-a-resolver-problemas-d7869a3ea758?source=rss------user_experience-5",
+      "title": "Pare de desenhar telas. Comece a resolver problemas.",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-08-31T05:27:28.016071+00:00",
+      "source_date": "2026-08-31T03:32:38+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184203/shao-shan-mu-xiao-wu-alki-architecture-plus-design-studio",
+      "title": "烧杉木小屋 / Alki Architecture + Design Studio",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-31T05:27:28.016104+00:00",
+      "source_date": "2026-08-30T21:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6457163.html",
+      "title": "一个项目管理软件的诞生（六）：工作项状态机设计，状态类型、流转步骤与运行治理",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-08-31T05:27:28.016127+00:00",
+      "source_date": "2026-08-31T03:56:52+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184091/etchegoyen-zhu-zhai-wasingerbarletti-arquitectos",
+      "title": "Etchegoyen 住宅 / wasingerbarletti arquitectos",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-31T05:27:28.632936+00:00",
+      "source_date": "2026-08-30T15:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1183913/maison-bellon-camprubi-r2a-architectes",
+      "title": "Maison Bellon Camprubi / R2A Architectes",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-08-31T05:27:29.097095+00:00",
+      "source_date": "2026-08-31T06:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1184066/ripples-becoming-everyday-ground-tjad-original-design-studio",
+      "title": "Ripples Becoming Everyday Ground / TJAD Original Design Studio",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-31T05:27:31.038613+00:00",
+      "source_date": "2026-08-30T02:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1183710/public-library-in-choszczowka-ambient",
+      "title": "Public Library in Choszczówka / Ambient",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-08-31T05:27:32.192997+00:00",
+      "source_date": "2026-08-30T06:00:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/design/art-miniature-staircases-cooper-hewitt-design-museum/",
       "title": "库珀休伊特设计博物馆的微型楼梯艺术",
       "source": "designboom",
