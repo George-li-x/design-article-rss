@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/architecture/steel-layered-facade-1969-modernist-city-hall-czech-republic-prerov-atelier-gram/",
+      "title": "钢分层立面复兴了1969年捷克共和国现代主义市政厅",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-01T05:01:33.625759+00:00",
+      "source_date": "2026-09-01T02:10:54+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/space-animals-history/",
+      "title": "历史上建筑如何为动物腾出空间",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-01T05:01:39.534709+00:00",
+      "source_date": "2026-08-31T20:35:24+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/adn-forum-turns-madrid-pink-with-art-design-and-a-temporary-dry-port/",
+      "title": "ADN FÓRUM 通过艺术、设计和临时“陆港”将马德里变成粉红色",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-01T05:01:40.276004+00:00",
+      "source_date": "2026-08-31T08:45:49+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/design-has-outgrown-the-traditional-designer-adbb657aa30a?source=rss----138adf9c44c---4",
+      "title": "设计已经超越了传统设计师",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-09-01T05:01:41.070689+00:00",
+      "source_date": "2026-08-31T15:56:24+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://uxdesign.cc/blank-pages-researcher-in-the-loop-designs-craft-crisis-7934ab0bc9cf?source=rss----138adf9c44c---4",
+      "title": "空白页、循环中的研究员、设计的工艺危机",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-09-01T05:01:42.116485+00:00",
+      "source_date": "2026-08-31T11:59:52+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.archdaily.com/1183895/house-of-monitors-williamson-williamson",
+      "title": "监控之家 / Williamson Williamson",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-01T05:01:43.793385+00:00",
+      "source_date": "2026-08-31T12:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/mineral-stone-wall-enclosure-tectoniques-cultural-center-france-vaison-la-romaine/",
+      "title": "矿物石围墙构成了法国 tectoniques 文化中心的框架",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-01T05:01:45.626889+00:00",
+      "source_date": "2026-08-31T14:45:05+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/pd/6457521.html",
+      "title": "从 0 设计 AI 陪伴产品：陪伴产品的内核是什么？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-01T05:01:45.626940+00:00",
+      "source_date": "2026-09-01T01:01:12+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184213/klaus-zhu-zhai-neo-architects",
+      "title": "Klaus 住宅 / Neo Architects",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-01T05:01:45.750519+00:00",
+      "source_date": "2026-08-31T15:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/disposable-retail-price-tags-copper-enamel-pins-lucie-davis/",
+      "title": "一次性零售价格标签被重新设计为铜和搪瓷别针",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-01T05:01:47.398936+00:00",
+      "source_date": "2026-08-31T06:15:33+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184264/ye-ying-zhu-zhai-sergio-sampaio-archi-plus-tectonica",
+      "title": "夜莺住宅 / Sergio Sampaio Archi + Tectônica",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-01T05:01:47.398977+00:00",
+      "source_date": "2026-08-31T17:00:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.woshipm.com/embodied/6457610.html",
+      "title": "如何设计自然的具身人机交互",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-01T05:01:47.399006+00:00",
+      "source_date": "2026-09-01T01:17:09+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184184/lan-shi-zhu-zhai-escala-arquitetura",
+      "title": "蓝石住宅 / Escala Arquitetura",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-01T05:01:47.399030+00:00",
+      "source_date": "2026-08-31T13:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184116/mo-hua-lu-xin-shi-ji-yun-lang-shi-tang-shi-ji-jian-zhu",
+      "title": "万华绿心食集、沄廊食堂 / 拾集建筑",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-01T05:01:47.399052+00:00",
+      "source_date": "2026-08-31T12:00:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/architecture/gabled-timber-cabins-corr-scotland-rugged-landscape-na-bothain-isle-raasay-distillery/",
       "title": "gabled timber cabins by córr nestle into scotland’s rugged landscape",
       "source": "designboom",
