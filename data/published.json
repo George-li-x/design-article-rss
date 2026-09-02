@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/architecture/3d-printed-concrete-cork-36-student-homes-denmark-skovsporet-saga-space-architects-ms-plus-arkitekter/",
+      "title": "3D 打印混凝土和软木形状的丹麦 36 栋学生住宅",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-02T04:24:34.385638+00:00",
+      "source_date": "2026-09-02T02:10:52+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/mvrdv-colorful-woma-housing-fornasetti-miami-wynwood-uribe-schwarzkopf/",
+      "title": "MVRDV 将在迈阿密 Fornasetti 马赛克广场周围堆叠色彩缤纷的 WOMA 住房",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-02T04:24:36.997796+00:00",
+      "source_date": "2026-09-01T15:22:18+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/kengo-kuma-andree-putman-lifetime-achievement-award-2027-createurs-design-awards/",
+      "title": "隈研吾荣获 2027 年安德烈·普特曼终身成就奖",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-02T04:24:38.815187+00:00",
+      "source_date": "2026-09-01T07:00:14+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/exhibition-radar-september-2026/",
+      "title": "设计邦雷达：今年九月在世界各地举办的展览",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-02T04:24:51.876990+00:00",
+      "source_date": "2026-09-01T06:15:27+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/what-minority-report-got-right-about-ai-45b9f1106431?source=rss----138adf9c44c---4",
+      "title": "《少数派报告》关于人工智能的正确说法是什么",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-09-02T04:24:53.017856+00:00",
+      "source_date": "2026-09-01T22:16:54+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.designboom.com/design/concrete-firebrick-steel-community-oven-alpine-landscape-studio-carraldo-backdirwas-5/",
+      "title": "高山景观中的混凝土、耐火砖和钢制社区烤箱",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-02T04:24:55.556567+00:00",
+      "source_date": "2026-09-01T16:05:05+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6458312.html",
+      "title": "marketingskills：一套 Markdown 文件，让 AI 编码智能体变成半个 CMO",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-02T04:24:55.556606+00:00",
+      "source_date": "2026-09-01T12:27:32+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6458308.html",
+      "title": "Penpot UI/UX Design 拆解：把设计判断力塞进 MCP 工具链",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-02T04:24:55.556631+00:00",
+      "source_date": "2026-09-01T12:13:21+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/chuangye/6457112.html",
+      "title": "20岁大学生在 TikTok 评论区发现一个焦虑，做出月入10万美元的 AI App",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-02T04:24:55.556655+00:00",
+      "source_date": "2026-09-02T03:40:35+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184308/2026-in-situ-da-hui-plus-caa-hui-yuan-da-hui",
+      "title": "2026 in:situ 大会 + CAA 会员大会",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-02T04:24:55.556675+00:00",
+      "source_date": "2026-09-01T09:05:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184229/lighthouse-zhu-zhai-architecture-discipline",
+      "title": "灯塔住宅/建筑学科",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-02T04:24:57.765953+00:00",
+      "source_date": "2026-09-01T14:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184243/jian-shi-qi-zhi-jia-williamson-williamson",
+      "title": "监视器之家 / Williamson Williamson",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-02T04:24:57.765988+00:00",
+      "source_date": "2026-08-31T12:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1184355/vhlab-sessions-from-space-to-growth-design-as-a-retail-strategy",
+      "title": "VhLab 会议：“从空间到增长：设计作为零售策略”",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-02T04:25:00.139982+00:00",
+      "source_date": "2026-09-01T12:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/double-helix-stairs-wetland-xiang-architects-wuhan-observation-tower/",
+      "title": "双螺旋楼梯框架 翔建筑事务所的武汉瞭望塔内的湿地景观",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-02T04:25:01.281975+00:00",
+      "source_date": "2026-09-01T04:55:05+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/architecture/steel-layered-facade-1969-modernist-city-hall-czech-republic-prerov-atelier-gram/",
       "title": "钢分层立面复兴了1969年捷克共和国现代主义市政厅",
       "source": "designboom",
