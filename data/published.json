@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/architecture/home-becomes-life-support-habitats-mars-moon-big-icon-saga-nasa/",
+      "title": "当家成为生命保障：为火星和月球设计栖息地",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-03T04:18:21.565307+00:00",
+      "source_date": "2026-09-02T23:35:46+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1183467/5-women-in-the-building-industry-share-how-they-bring-light-to-life",
+      "title": "建筑行业的 5 位女性分享她们如何为生活带来光明",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-03T04:18:28.744333+00:00",
+      "source_date": "2026-09-02T06:45:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/discarded-aluminum-blinds-cylindrical-lighting-system-keker-collection-reza-raeisifar/",
+      "title": "废弃的铝百叶窗改造成圆柱形照明系统",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-03T04:18:31.055840+00:00",
+      "source_date": "2026-09-02T15:15:47+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/apartment-atlantic-view-cra-carlo-ratti-zig-zag-west-palm-beach-tower-mimar-florida/",
+      "title": "卡罗·拉蒂设计的之字形西棕榈滩塔楼的每间公寓都可以欣赏到大西洋的景色",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-03T04:18:33.523346+00:00",
+      "source_date": "2026-09-02T15:45:40+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1184221/lighthouse-residence-architecture-discipline",
+      "title": "灯塔住宅 / 建筑学科",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-03T04:18:35.808419+00:00",
+      "source_date": "2026-09-02T02:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6458867.html",
+      "title": "为什么 Codex 等 AI Agent 产品要做额度隐藏？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-03T04:18:35.808458+00:00",
+      "source_date": "2026-09-03T01:34:04+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6457661.html",
+      "title": "字段层差异：颜色、文案、图标各自有独立的语义定义",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-03T04:18:35.808481+00:00",
+      "source_date": "2026-09-03T01:29:28+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/when-the-canvas-starts-acting-whos-really-in-control-0128f641223c?source=rss----138adf9c44c---4",
+      "title": "当画布开始发挥作用时，谁才是真正的控制者？",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-09-03T04:18:37.014774+00:00",
+      "source_date": "2026-09-02T22:13:30+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://uxdesign.cc/ai-took-away-engineerings-right-to-say-no-839b9b6256f2?source=rss----138adf9c44c---4",
+      "title": "人工智能剥夺了工程师说不的权利",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-09-03T04:18:38.727471+00:00",
+      "source_date": "2026-09-02T22:13:11+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://medium.com/@dev.jlagunas/building-a-daily-content-engine-as-a-product-designer-6143c74ca035?source=rss------product_design-5",
+      "title": "作为产品设计师构建每日内容引擎",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-09-03T04:18:43.154659+00:00",
+      "source_date": "2026-09-03T01:04:03+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/used-london-tea-leaves-coffee-waste-large-scale-3d-printed-sculptural-objects-after-the-last-sip/",
+      "title": "用过的伦敦茶叶和咖啡废料被改造成大型 3D 打印雕塑物品",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-03T04:18:45.293675+00:00",
+      "source_date": "2026-09-02T05:15:27+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/interview-dlr-group-urban-density-intimate-neighborhoods-middle-east/",
+      "title": "DLR 集团致力于将中东的城市密度转化为亲密的社区",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-03T04:18:57.322316+00:00",
+      "source_date": "2026-09-02T10:00:24+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6458294.html",
+      "title": "AI让调研快了，为什么真需求反而更难找？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-03T04:18:57.322358+00:00",
+      "source_date": "2026-09-03T00:59:59+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1184412/if-you-build-ugly-social-housing-you-will-create-social-problems-an-interview-with-the-obel-award-2026-recipients",
+      "title": "“如果建造丑陋的社会住房，就会造成社会问题”：2026 年 OBEL 奖获奖者访谈",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-03T04:19:04.447658+00:00",
+      "source_date": "2026-09-02T05:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6458062.html",
+      "title": "爆款文创产品和长红IP，真正差的不是设计，而是用户为什么持续喜欢你。",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-03T04:19:04.447700+00:00",
+      "source_date": "2026-09-02T09:24:01+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/oma-taipei-housing-renewal-residents-alternative-standard-tower/",
+      "title": "OMA 的台北住房更新让居民塑造标准塔楼的替代方案",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-03T04:19:06.977866+00:00",
+      "source_date": "2026-09-02T08:25:35+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1184417/mvrdv-reveals-woma-mixed-use-development-in-miamis-wynwood-norte",
+      "title": "MVRDV 公布了迈阿密 Wynwood Norte 的 WOMA 综合用途开发项目",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-03T04:19:11.342434+00:00",
+      "source_date": "2026-09-02T06:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/big-bjarke-ingels-group-suzhou-museum-contemporary-art-public-village-12-pavilions/",
+      "title": "BIG苏州当代艺术博物馆以12个展馆组成的村庄向公众开放",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-03T04:19:13.708700+00:00",
+      "source_date": "2026-09-02T10:37:51+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/pd/6458887.html",
+      "title": "设计查询条件时，别顺手把搜索框加上",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-03T04:19:13.708740+00:00",
+      "source_date": "2026-09-03T01:34:21+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184430/kaya-da-lou-jeff-svitak",
+      "title": "KAYA 大楼 / Jeff Svitak",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-03T04:19:13.952113+00:00",
+      "source_date": "2026-09-02T15:00:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/architecture/3d-printed-concrete-cork-36-student-homes-denmark-skovsporet-saga-space-architects-ms-plus-arkitekter/",
       "title": "3D 打印混凝土和软木形状的丹麦 36 栋学生住宅",
       "source": "designboom",
