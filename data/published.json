@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/design/designboom-guide-paris-design-week-2026-highlights-maisonobjet/",
+      "title": "designboom 2026 年巴黎设计周指南：maison&objet 内外的亮点",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-04T04:25:04.465371+00:00",
+      "source_date": "2026-09-03T08:25:22+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6459500.html",
+      "title": "AI产品经理是否需要懂技术",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-04T04:25:04.465466+00:00",
+      "source_date": "2026-09-04T03:28:20+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/travertine-timber-desert-toned-textures-groundeddesign-villa-limni-dubai/",
+      "title": "石灰华、木材和沙漠色调的纹理塑造了 Groundeddesign 位于迪拜的 limni 别墅",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-04T04:25:06.921776+00:00",
+      "source_date": "2026-09-03T23:15:35+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/mad-ma-yansong-1923-art-deco-warehouse-rotterdam-house-dance-danshuis/",
+      "title": "MAD 将 1923 年的装饰艺术仓库改造成鹿特丹的舞蹈之家",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-04T04:25:09.038582+00:00",
+      "source_date": "2026-09-03T18:15:15+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/what-minority-report-got-wrong-about-ai-so-far-9048573aa70f?source=rss----138adf9c44c---4",
+      "title": "《少数派报告》关于人工智能的错误之处（到目前为止）",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-09-04T04:25:10.538128+00:00",
+      "source_date": "2026-09-03T22:39:12+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.archdaily.com/1182454/what-does-a-museum-need-inside-the-exhibition-architecture-of-the-natural-history-museum-oslo",
+      "title": "博物馆需要什么？奥斯陆自然历史博物馆展览建筑内部",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-04T04:25:17.598298+00:00",
+      "source_date": "2026-09-03T06:45:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.nngroup.com/training/nov-asia-au/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "UX 会议 11 月宣布（11 月 16 日 - 11 月 19 日）",
+      "source": "Nielsen Norman Group",
+      "language": "en",
+      "published_at": "2026-09-04T04:25:25.103540+00:00",
+      "source_date": "2026-09-03T04:50:49+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/pmd/6459338.html",
+      "title": "产品经理的三思之道：思危、思退、思变",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-04T04:25:25.103586+00:00",
+      "source_date": "2026-09-04T01:31:38+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184452/veil-house-turkel-design",
+      "title": "面纱屋 / Turkel Design",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-04T04:25:26.633209+00:00",
+      "source_date": "2026-09-03T12:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1184224/greentown-thinkworks-lycs-architecture",
+      "title": "绿城ThinkWorks / 零壹城市建筑+GLA",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-04T04:25:30.110551+00:00",
+      "source_date": "2026-09-03T00:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184466/su-zhou-dang-dai-mei-zhu-guan-kai-guan-xi-bigshou-ge-luo-cheng-mei-zhu-guan",
+      "title": "苏州当代美术馆开馆，系BIG首个落成美术馆",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-04T04:25:30.110598+00:00",
+      "source_date": "2026-09-03T05:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/user-research/6459283.html",
+      "title": "同样是一对一服务，为什么“丝芙兰”的转化“远超同行”？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-04T04:25:30.110628+00:00",
+      "source_date": "2026-09-04T01:24:26+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184309/lu-cheng-si-chuang-kong-jian-ling-yi-cheng-shi-plus-gla-jian-zhu-she-ji",
+      "title": "绿城思创空间 / 零壹城市 + GLA 建筑设计",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-04T04:25:30.110650+00:00",
+      "source_date": "2026-09-03T00:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/vase-full-arc-flower-life-petals-fall-vita-vase-houbi/",
+      "title": "即使花瓣落下，花瓶也能遵循花朵生命的完整轨迹",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-04T04:25:34.146704+00:00",
+      "source_date": "2026-09-04T02:30:40+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/architecture/home-becomes-life-support-habitats-mars-moon-big-icon-saga-nasa/",
       "title": "当家成为生命保障：为火星和月球设计栖息地",
       "source": "designboom",
