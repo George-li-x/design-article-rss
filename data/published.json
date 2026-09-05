@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/architecture/voids-vertical-space-traditional-japanese-machiya-compact-site-tokyo-takumi-wakui-riho-wakui-architects-house-kagurazaka/",
+      "title": "空隙和垂直空间在东京紧凑的场地上重新诠释了传统的日本町屋",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-05T04:20:37.222421+00:00",
+      "source_date": "2026-09-04T18:10:39+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/daniel-arsham-the-balvenie-dawn-of-our-spirit-1931-collection-frieze-seoul/",
+      "title": "丹尼尔·阿沙姆 (Daniel Arsham) 在首尔弗里兹弗里兹艺术博览会上为百富 (balvenie) 打造动人雕塑",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-05T04:20:38.535709+00:00",
+      "source_date": "2026-09-04T11:43:15+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1030853/pracownia-workshop-acos-a-collection-of-stories",
+      "title": "Pracownia - 工作坊 / ACOS（故事集）",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-05T04:20:40.352551+00:00",
+      "source_date": "2026-09-04T10:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/temporary-timber-pavilion-cedar-cypress-reclaimed-clt-japan-forest-festival-onodatesho-yano-aoyama/",
+      "title": "日本森林节临时木材展馆使用雪松、柏树和回收的 CLT",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-05T04:20:42.325563+00:00",
+      "source_date": "2026-09-05T02:10:29+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/playful-covers-bio-based-pla-conventional-light-switch-kovr-studio/",
+      "title": "由生物基 PLA+ 制成的俏皮外壳重新思考传统的电灯开关",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-05T04:20:44.529125+00:00",
+      "source_date": "2026-09-04T14:15:35+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/japanese-market-nordic-scandinavian-aesthetics-interview/",
+      "title": "为什么进入日本设计市场需要的不仅仅是输出北欧美学",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-05T04:20:44.901776+00:00",
+      "source_date": "2026-09-04T08:30:11+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6459785.html",
+      "title": "豆包Agent最系统手把手教程，从入门到精通（附完整PDF）",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-05T04:20:44.901817+00:00",
+      "source_date": "2026-09-05T01:56:25+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1184537/udl-thesis-publication-seminar-2026",
+      "title": "UDL论文发表研讨会2026",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-05T04:20:47.036596+00:00",
+      "source_date": "2026-09-04T09:10:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/pd/6459798.html",
+      "title": "B端可视化大屏性能治理：从需求定义开始",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-05T04:20:47.036633+00:00",
+      "source_date": "2026-09-05T02:05:43+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1184533/tbilisi-architecture-forum",
+      "title": "第比利斯建筑论坛",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-05T04:20:49.331017+00:00",
+      "source_date": "2026-09-04T09:05:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184584/perichon-zhu-zhai-odb-arquitectos",
+      "title": "Perichón 住宅 / ODB Arquitectos",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-05T04:20:50.438373+00:00",
+      "source_date": "2026-09-04T15:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6459890.html",
+      "title": "AgentLoop数据飞轮，怎么持续调优",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-05T04:20:50.438412+00:00",
+      "source_date": "2026-09-05T02:21:41+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1153446/pracownia-gong-zuo-fang-acos-a-collection-of-stories",
+      "title": "Pracownia 工作坊 / ACOS (A Collection of Stories)",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-05T04:20:50.438431+00:00",
+      "source_date": "2026-09-04T10:00:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184538/2026nian-udlbi-ye-lun-wen-chu-ban-yan-tao-hui",
+      "title": "2026年UDL毕业论文出版研讨会",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-05T04:20:50.438447+00:00",
+      "source_date": "2026-09-04T09:10:00+00:00",
+      "full_text": false
+    },
+    {
       "url": "https://www.designboom.com/design/designboom-guide-paris-design-week-2026-highlights-maisonobjet/",
       "title": "designboom 2026 年巴黎设计周指南：maison&objet 内外的亮点",
       "source": "designboom",
