@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/architecture/power-goes-out-keep-house-cooling-passive-survivability/",
+      "title": "当停电时，建筑如何让房子保持凉爽？",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-06T04:31:29.053766+00:00",
+      "source_date": "2026-09-05T07:45:23+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/continuous-white-dj-console-turntables-mixers-hidden-cables-modek-evolution-pro/",
+      "title": "连续白色 DJ 控制台集成了转盘、混音器和隐藏电缆",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-06T04:31:29.784560+00:00",
+      "source_date": "2026-09-05T14:15:30+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/amsterdam-fashion-week-2026-design-highlights-performance/",
+      "title": "2026 年阿姆斯特丹时装周将这座城市变成设计和表演的舞台",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-06T04:31:30.943242+00:00",
+      "source_date": "2026-09-05T09:01:58+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6460061.html",
+      "title": "旅行照不好看？我开源了一个做杂志风格海报的Skill",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-06T04:31:30.943281+00:00",
+      "source_date": "2026-09-05T05:44:36+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/paul-clemence-skyscraper-crowns-landmarks-shanghai-guest-essay/",
+      "title": "保罗·克莱门斯 (Paul Clemence) 讲述摩天大楼的皇冠如何成为上海的地标",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-06T04:31:35.214684+00:00",
+      "source_date": "2026-09-05T20:45:18+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.nngroup.com/articles/ai-work-study-guide/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "使用人工智能进行用户体验工作：学习指南",
+      "source": "Nielsen Norman Group",
+      "language": "en",
+      "published_at": "2026-09-06T04:31:45.507730+00:00",
+      "source_date": "2026-09-04T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1184574/doutor-leite-lopes-state-airport-bacco-arquitetos-associados",
+      "title": "Doutor Leite Lopes 州立机场 / Bacco Arquitetos Associados",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-06T04:31:48.251567+00:00",
+      "source_date": "2026-09-04T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184611/yarumos-gong-yu-tropico-arquitectura",
+      "title": "Yarumos 公寓 / Trópico Arquitectura",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-06T04:31:48.595021+00:00",
+      "source_date": "2026-09-05T16:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184456/ocean-zhu-zhai-biazus-arquitetura",
+      "title": "海洋住宅 / Biazus Arquitetura",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-06T04:31:50.299387+00:00",
+      "source_date": "2026-09-05T13:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1184370/archdaily-next-practices-awards-2026-meet-the-jury",
+      "title": "2026 年 ArchDaily 下一步实践奖：与评审团会面",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-06T04:31:52.499666+00:00",
+      "source_date": "2026-09-04T08:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6460067.html",
+      "title": "600亿拿下Cursor后，马斯克的第一份答卷来了",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-06T04:31:52.499706+00:00",
+      "source_date": "2026-09-05T05:46:31+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184393/archdaily-2026wei-lai-shi-jian-jiang-ping-wei-zhen-rong",
+      "title": "ArchDaily 2026未来实践奖：评委阵容",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-06T04:31:52.499728+00:00",
+      "source_date": "2026-09-04T08:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/spok-brillor-geometry-tennis-court-felipe-pantone-casa-axis/",
+      "title": "spok 将网球的几何形状弯曲成 felipe pantone casa 轴上的光学环",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-06T04:31:53.527829+00:00",
+      "source_date": "2026-09-04T16:22:16+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184559/210-south-12th-da-lou-rshp",
+      "title": "210 South 12th 大楼 / RSHP",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-06T04:31:53.624768+00:00",
+      "source_date": "2026-09-04T12:00:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/architecture/voids-vertical-space-traditional-japanese-machiya-compact-site-tokyo-takumi-wakui-riho-wakui-architects-house-kagurazaka/",
       "title": "空隙和垂直空间在东京紧凑的场地上重新诠释了传统的日本町屋",
       "source": "designboom",
