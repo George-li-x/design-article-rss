@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://uxdesign.cc/ai-canvas-synthetic-self-the-prompt-is-the-product-801f0da7bea6?source=rss----138adf9c44c---4",
+      "title": "AI画布，合成自我，提示就是产品",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-09-07T04:31:03.044438+00:00",
+      "source_date": "2026-09-06T23:49:45+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://uxdesign.cc/ai-in-product-teams-in-2026-the-growing-impact-on-collaboration-8ea9f6024dca?source=rss----138adf9c44c---4",
+      "title": "产品团队中的人工智能：2026 年，对协作的影响越来越大",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-09-07T04:31:04.726656+00:00",
+      "source_date": "2026-09-06T23:47:16+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.designboom.com/design/leisurama-promise-fabulous-mid-century-vacationing-for-all/",
+      "title": "leisurama 为所有人带来美妙的中世纪假期的预制承诺",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-07T04:31:09.258763+00:00",
+      "source_date": "2026-09-06T07:45:21+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1183943/chleboteka-okraglak-cudo",
+      "title": "Chleboteka“Okrąglak”/ CUDO：",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-07T04:31:11.104273+00:00",
+      "source_date": "2026-09-06T06:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/embodied/6460388.html",
+      "title": "机器人没有互联网",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-07T04:31:11.104317+00:00",
+      "source_date": "2026-09-07T01:10:44+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@DikshaJangra/freelanceos-a-freelancer-management-platform-24e738a1a7ed?source=rss------user_experience-5",
+      "title": "FreelanceOS-自由职业者管理平台",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-09-07T04:31:12.628315+00:00",
+      "source_date": "2026-09-06T16:43:04+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/atlas-re-edificatoria-exhibition-renovation-photography-contemporary-catalan-art-adria-goula/",
+      "title": "atlas re-edificatoria 展览将改造摄影与加泰罗尼亚艺术联系起来",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-07T04:31:13.871691+00:00",
+      "source_date": "2026-09-06T14:15:15+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6460553.html",
+      "title": "AI互联网日报：千问开源Qwen-Drive/Kimi、MiniMax洽谈天猫开店/国内首款AI辅助创新药艾普司韦获批上市",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-07T04:31:13.871827+00:00",
+      "source_date": "2026-09-06T14:32:50+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/pd/6460680.html",
+      "title": "技术转产品：B端音视频SDK，如何把技术组件设计成业务能力",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-07T04:31:13.871859+00:00",
+      "source_date": "2026-09-07T02:47:12+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184334/mian-bao-fang-chleboteka-okraglak-cudo",
+      "title": "面包房 Chleboteka \"Okrąglak\" / CUDO",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-07T04:31:13.871882+00:00",
+      "source_date": "2026-09-06T06:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6460410.html",
+      "title": "找到你的 Herbie：小企业如何用 AI 改造核心工作流",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-07T04:31:13.871906+00:00",
+      "source_date": "2026-09-06T12:04:30+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1184612/grava-house-remyarchitects",
+      "title": "格拉瓦住宅 / remyarchitects",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-07T04:31:17.142035+00:00",
+      "source_date": "2026-09-06T16:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184518/spitfire-roastery-hao-ke-ka-pei-hong-bei-gong-han-notajian-zhu-she-ji-gong-zuo-shi",
+      "title": "Spitfire Roastery 浩克咖啡烘焙工厂 / Nota建筑设计工作室",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-07T04:31:17.142078+00:00",
+      "source_date": "2026-09-06T02:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@bejeshop981/termurah-0822-8157-1217-tukang-kitchen-set-mewah-di-tulang-bawang-lampung-6debcac5b4e1?source=rss------design-5",
+      "title": "最便宜的，0822–8157–1217，Tulang Bawang Lampung 的豪华厨房套装制造商",
+      "source": "Medium · Design",
+      "language": "en",
+      "published_at": "2026-09-07T04:31:19.724365+00:00",
+      "source_date": "2026-09-07T04:20:01+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/architecture/power-goes-out-keep-house-cooling-passive-survivability/",
       "title": "当停电时，建筑如何让房子保持凉爽？",
       "source": "designboom",
