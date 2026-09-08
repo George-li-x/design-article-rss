@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/architecture/triangular-timber-structure-tsukumo-kiln-ceramic-studio-kobe-japan-dept-oaaa/",
+      "title": "三角形木结构包围了日本神户的津云窑陶瓷工作室",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-08T04:29:11.159083+00:00",
+      "source_date": "2026-09-07T20:35:58+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/xbox-controller-furniture-ikea-yxstaby-collection-gaming/",
+      "title": "Xbox 控制器形状成为宜家 YXSTABY 九件套系列中的家具",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-08T04:29:14.569603+00:00",
+      "source_date": "2026-09-07T18:10:07+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/zhichang/6461101.html",
+      "title": "医美机构四类运营岗位的重视逻辑与背后思考",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-08T04:29:14.569653+00:00",
+      "source_date": "2026-09-08T01:07:32+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/technology/tangent-porsche-911-chicago-urban-safari-car/",
+      "title": "tangent 将保时捷 911 升起三英寸，打造芝加哥建造的城市游猎之旅",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-08T04:29:17.461624+00:00",
+      "source_date": "2026-09-08T02:10:52+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/refuge-prototype-cabins-keep-redefining-how-we-live/",
+      "title": "从避难所到原型：为什么小屋不断重新定义我们的生活方式",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-08T04:29:20.477647+00:00",
+      "source_date": "2026-09-07T16:38:45+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/life-housing-possible-33-projects-answers-book-edition-detail-laura-traub-interview/",
+      "title": "住房应该让什么样的生活成为可能？ 33个项目提供答案",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-08T04:29:34.990211+00:00",
+      "source_date": "2026-09-07T10:50:09+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/technology/purple-fabric-sunlight-heat-cool-sun-research-zhengzhou-university-adelaide/",
+      "title": "紫色面料反射阳光并释放热量，在阳光下保持凉爽",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-08T04:29:37.260351+00:00",
+      "source_date": "2026-09-07T07:45:11+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184665/se-cai-jian-zhu",
+      "title": "色彩建筑",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-08T04:29:37.260395+00:00",
+      "source_date": "2026-09-07T09:15:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1184649/call-for-papers-dearq-50-architectures-that-linger",
+      "title": "Dearq 50 征文：挥之不去的架构",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-08T04:29:39.273969+00:00",
+      "source_date": "2026-09-07T09:05:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/pmd/6461254.html",
+      "title": "深度：产品经理要守住产品边界！为什么会这么难？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-08T04:29:39.274046+00:00",
+      "source_date": "2026-09-08T01:09:34+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1184663/chromatic-architecture",
+      "title": "色彩架构",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-08T04:29:41.394219+00:00",
+      "source_date": "2026-09-07T09:15:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184595/la-pa-li-nong-zhu-zhai-gai-zao-estudio-piloti-arquitetura",
+      "title": "拉帕里弄住宅改造 / Estudio Piloti Arquitetura",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-08T04:29:41.394266+00:00",
+      "source_date": "2026-09-07T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6461461.html",
+      "title": "我帮着做 AI 原生组织那家公司要死了……",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-08T04:29:41.394293+00:00",
+      "source_date": "2026-09-08T02:24:57+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ucd/6461000.html",
+      "title": "多模态交互·下篇——面向 AI 的多模态反馈设计指南",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-08T04:29:41.394320+00:00",
+      "source_date": "2026-09-08T00:51:58+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6460986.html",
+      "title": "生成速度跑赢播放速度，AI内容为何死磕“实时”门槛？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-08T04:29:41.394342+00:00",
+      "source_date": "2026-09-08T02:47:17+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1184597/floresta-apartment-vaga-arquitetura",
+      "title": "弗洛雷斯塔公寓 / VACANCY Architecture",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-08T04:29:47.554973+00:00",
+      "source_date": "2026-09-06T15:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/reading-and-writing-are-interfaces-and-ai-can-reduce-their-friction-13623dea34c0?source=rss----138adf9c44c---4",
+      "title": "读和写是接口。人工智能可以减少他们的摩擦。",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-09-08T04:29:50.101096+00:00",
+      "source_date": "2026-09-05T00:21:17+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.archdaily.com/1184504/pageone-bookstore-at-wuxi-park-station-lllab",
+      "title": "无锡公园站PAGEONE书店 / llLab.",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-08T04:29:52.983912+00:00",
+      "source_date": "2026-09-07T00:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184652/dearq-di-50-qi-zheng-gao-qi-shi-yu-yun-jian-zhu",
+      "title": "Dearq 第 50 期征稿启事：余韵建筑",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-08T04:29:52.983957+00:00",
+      "source_date": "2026-09-07T09:05:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://medium.com/@vijaykanna1200/i-got-a-rejection-email-from-a-government-portal-2f829b01b7ff?source=rss------product_design-5",
+      "title": "我收到一封来自政府门户网站的拒绝电子邮件。",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-09-08T04:29:59.774886+00:00",
+      "source_date": "2026-09-08T02:54:51+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://uxdesign.cc/ai-canvas-synthetic-self-the-prompt-is-the-product-801f0da7bea6?source=rss----138adf9c44c---4",
       "title": "AI画布，合成自我，提示就是产品",
       "source": "UX Collective",
