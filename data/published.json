@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/architecture/eclede-sustainable-home-greece-leed-platinum-certification/",
+      "title": "希腊首个单户住宅获得 LEED 可持续生活白金认证",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-09T04:35:27.923746+00:00",
+      "source_date": "2026-09-08T10:00:02+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/50-chairs-christies-exhibition-basic-space-beverly-hills/",
+      "title": "“佳士得的 50 张椅子”追溯了设计师如何不断重塑坐姿",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-09T04:35:30.259701+00:00",
+      "source_date": "2026-09-08T16:38:52+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/alaia-shanghai-boutique-perforated-facade-curved-interior-plaza-66/",
+      "title": "alaïa 上海精品店重新开业，采用穿孔立面和弧形内饰",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-09T04:35:31.460046+00:00",
+      "source_date": "2026-09-08T07:45:09+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1184774/bernoulli-college-vale-do-sereno-bcmf-arquitetos",
+      "title": "塞雷诺谷伯努利学院 / BCMF Arquitetos",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-09T04:35:38.035080+00:00",
+      "source_date": "2026-09-08T13:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/most-ai-problems-are-really-human-problems-this-is-how-you-can-fix-it-ab64843f845e?source=rss----138adf9c44c---4",
+      "title": "大多数人工智能问题实际上都是人类问题",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-09-09T04:35:40.915881+00:00",
+      "source_date": "2026-09-08T20:37:28+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://uxdesign.cc/persistent-lessons-in-human-centered-automation-45b53412e6a5?source=rss----138adf9c44c---4",
+      "title": "以人为本的自动化的持续教训",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-09-09T04:35:42.442074+00:00",
+      "source_date": "2026-09-08T20:34:18+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184717/2026nian-aiahan-guo-she-ji-jiang",
+      "title": "2026年AIA韩国设计奖",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-09T04:35:42.442110+00:00",
+      "source_date": "2026-09-08T09:05:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.woshipm.com/share/6461983.html",
+      "title": "产品经理在AI时代的三层进阶",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-09T04:35:42.442131+00:00",
+      "source_date": "2026-09-09T01:20:39+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184776/bernoulli-vale-do-sereno-xue-xiao-bcmf-arquitetos",
+      "title": "伯努利 Vale do Sereno 学校 / BCMF Arquitetos",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-09T04:35:43.551737+00:00",
+      "source_date": "2026-09-08T13:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184684/6am-zhu-zhai-studio-pka",
+      "title": "上午 6 点住宅/工作室 PKA",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-09T04:35:44.873112+00:00",
+      "source_date": "2026-09-08T03:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6462102.html",
+      "title": "OpenMAIC：开源自清华的课件 Agent",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-09T04:35:44.873150+00:00",
+      "source_date": "2026-09-09T02:51:53+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6461835.html",
+      "title": "消费格式差异：同一份契约的四角色消费格式",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-09T04:35:44.873177+00:00",
+      "source_date": "2026-09-09T01:23:09+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1184667/madrid-region-and-the-city-of-leganes-launch-an-open-call-urban-design-contest-for-the-new-puerta-de-madrid-sustainable-district-in-leganes-madrid",
+      "title": "马德里地区和莱加内斯市为莱加内斯（马德里）新的“马德里门”可持续发展区启动公开征集城市设计竞赛",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-09T04:35:49.676243+00:00",
+      "source_date": "2026-09-07T09:20:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@mikekuniavsky/ai-first-design-semantic-direct-manipulation-f373d256f33e?source=rss------product_design-5",
+      "title": "人工智能优先设计：语义直接操作",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-09-09T04:35:57.385533+00:00",
+      "source_date": "2026-09-08T21:17:08+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/architecture/triangular-timber-structure-tsukumo-kiln-ceramic-studio-kobe-japan-dept-oaaa/",
       "title": "三角形木结构包围了日本神户的津云窑陶瓷工作室",
       "source": "designboom",
