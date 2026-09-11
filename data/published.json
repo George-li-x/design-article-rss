@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/design/ied-master-of-arts-graduates-design-x-commons/",
+      "title": "IED 艺术硕士毕业生部署设计以应对公共物品的损失",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-11T04:32:16.210120+00:00",
+      "source_date": "2026-09-10T07:30:46+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/korean-hanji-paper-sustainable-biomaterial-maison-et-objet-2026/",
+      "title": "古代韩国韩纸在 maison&objet 2026 上转化为可持续生物材料",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-11T04:32:18.228785+00:00",
+      "source_date": "2026-09-10T10:00:17+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6463040.html",
+      "title": "抖音上线「兴趣卡」，一种全新的 AI 互动内容",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-11T04:32:18.228829+00:00",
+      "source_date": "2026-09-11T00:57:09+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/gerhard-richter-hexagonal-doha-pavilion-strip-paintings-qatar-sellforf/",
+      "title": "艺术家格哈德·里希特用他的条画设计了六角形多哈馆",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-11T04:32:20.736411+00:00",
+      "source_date": "2026-09-10T14:29:21+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/curved-joinery-bold-color-1960s-apartment-madrid-imperial-alessio-lamarca-marta-ciabattini/",
+      "title": "弯曲的细木工和大胆的色彩重塑了 20 世纪 60 年代马德里的公寓",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-11T04:32:22.933330+00:00",
+      "source_date": "2026-09-10T18:10:58+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/kias-textured-brick-facade-planted-atrium-headquarters-japan-kawamura-electric/",
+      "title": "KIAS 将纹理砖立面与种植中庭相结合，用于日本总部",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-11T04:32:24.469963+00:00",
+      "source_date": "2026-09-10T06:15:55+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/life-virtual-worlds-places-the-sims-minecraft-animal-crossing/",
+      "title": "在虚拟世界中构建生活：我们居住和失去的地方",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-11T04:32:35.500140+00:00",
+      "source_date": "2026-09-10T20:35:23+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/pd/6462955.html",
+      "title": "一个项目管理软件的诞生（十三）：从封闭工具到开放平台，项目管理软件如何设计开放与集成能力",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-11T04:32:35.500192+00:00",
+      "source_date": "2026-09-11T01:32:55+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6460786.html",
+      "title": "AI Coding的产品竟然卖了好几万，你咋搞的？？？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-11T04:32:35.500219+00:00",
+      "source_date": "2026-09-11T01:32:37+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6463036.html",
+      "title": "从投资人最看好的48个AI应用，我看到了这两个趋势",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-11T04:32:35.500245+00:00",
+      "source_date": "2026-09-11T00:54:21+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184849/sai-a-la-lian-bang-da-xue-ufc-yi-zhu-wen-hua-yu-huo-dong-zhong-xin-jian-zhu-cheng-shi-gui-hua-yu-jing-guan-she-ji-quan-guo-gong-kai-jing-sai",
+      "title": "塞阿拉联邦大学（UFC）艺术、文化与活动中心建筑、城市规划与景观设计全国公开竞赛",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-11T04:32:35.500273+00:00",
+      "source_date": "2026-09-10T09:05:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184819/shu-zi-shi-jie-yu-wu-mo-ca-kong-jian-de-ju-xian-zhong-xin-si-kao-chi-du-yu-wu-zhi-xing",
+      "title": "数字世界与无摩擦空间的局限：重新思考尺度与物质性",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-11T04:32:35.500299+00:00",
+      "source_date": "2026-09-10T07:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1184822/jury-led-design-competition-for-sustainable-and-innovative-urban-planning-proposals-for-the-puerta-de-madrid-area-in-leganes-madrid",
+      "title": "由评审团主导的莱加内斯（马德里）“马德里门”地区可持续和创新城市规划方案设计竞赛",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-11T04:32:38.277325+00:00",
+      "source_date": "2026-09-09T14:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1184434/coronation-park-sports-and-recreation-centre-hcma-architecture-plus-design-plus-dub-architects-plus-faulknerbrowns-architects",
+      "title": "加冕公园体育休闲中心 / hcma Architecture + design + Dub Architects + FaulknerBrowns Architects",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-11T04:32:41.498817+00:00",
+      "source_date": "2026-09-09T12:00:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/design/future-interior-design-human-behavior-if-design-award/",
       "title": "室内设计如何发展以满足新的人类行为和不断变化的习惯",
       "source": "designboom",
