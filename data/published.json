@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.nngroup.com/articles/test-earlier-with-ai/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "Test Complex Interactions Earlier with AI Prototyping",
+      "source": "Nielsen Norman Group",
+      "language": "en",
+      "published_at": "2026-09-12T04:28:53.900564+00:00",
+      "source_date": "2026-09-11T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/philippe-starck-designeuropa-lifetime-award-interview/",
+      "title": "‘less materiality means more humanity’: philippe starck on the designeuropa lifetime award",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-12T04:28:57.781047+00:00",
+      "source_date": "2026-09-11T10:00:33+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/dubai-gallery-open-white-exhibition-halls-concealed-brick-toned-museum-room-gary-tatintsian-mast/",
+      "title": "dubai gallery pairs open white exhibition halls with a concealed, brick-toned museum room",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-12T04:28:58.724225+00:00",
+      "source_date": "2026-09-11T20:35:57+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/readers/3d-printing-ai-reused-objects-bathing-prototype-year-2050-sustainable-decadence-v2-0-ross-stevens/",
+      "title": "3D printing, AI and reused objects form a bathing prototype for year 2050",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-12T04:28:59.798795+00:00",
+      "source_date": "2026-09-11T16:15:57+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/compact-forest-cabin-wiki-world-red-wooden-submarine-china/",
+      "title": "compact forest cabin by wiki world takes shape as a red wooden submarine",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-12T04:29:00.895892+00:00",
+      "source_date": "2026-09-11T08:45:40+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/tom-sachs-handmade-31-rue-cambon-plywood-chanel-couture-flagship-new-york/",
+      "title": "inside tom sachs’ handmade ’31 rue cambon’, plywood becomes chanel couture",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-12T04:29:01.828573+00:00",
+      "source_date": "2026-09-11T06:15:04+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
+      "title": "Building A UX ROI Case That Survives The Boardroom",
+      "source": "Smashing Magazine",
+      "language": "en",
+      "published_at": "2026-09-12T04:29:05.555155+00:00",
+      "source_date": "2026-09-11T13:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/m2ft-architects-woodland-branches-modular-biodiversity-pavilion-italy/",
+      "title": "m²ft architects stacks woodland branches into modular biodiversity pavilion in italy",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-12T04:29:06.592269+00:00",
+      "source_date": "2026-09-12T02:10:05+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/kosmos-architects-mallorcan-townhouse-old-materials-new-roles-blanca-gardelegui/",
+      "title": "KOSMOS transforms mallorcan townhouse by giving old materials new roles",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-12T04:29:07.482298+00:00",
+      "source_date": "2026-09-11T09:30:17+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1184920/mad-reveals-design-to-transform-1923-warehouse-into-danshuis-in-rotterdam",
+      "title": "MAD Reveals Design to Transform 1923 Warehouse Into Danshuis in Rotterdam",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-12T04:29:08.718041+00:00",
+      "source_date": "2026-09-11T06:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/cabina-curiosidad-timber-nests-eucalyptus-roof-ecuador-cholan/",
+      "title": "la cabina de la curiosidad suspends timber ‘nests’ beneath eucalyptus roof in ecuador",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-12T04:29:09.540137+00:00",
+      "source_date": "2026-09-11T18:10:39+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6463407.html",
+      "title": "抖音即将“上架”AI应用，大厂抢滩下一代分发入口",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-12T04:29:09.540186+00:00",
+      "source_date": "2026-09-11T06:59:06+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/8-voice-aiux-patterns-81324c8feaa0?source=rss----138adf9c44c---4",
+      "title": "8 voice AIUX patterns",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-09-12T04:29:10.239605+00:00",
+      "source_date": "2026-09-10T22:40:55+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://uxdesign.cc/five-eras-of-ux-design-and-the-lessons-to-keep-in-the-ai-era-d76a548747a9?source=rss----138adf9c44c---4",
+      "title": "Five eras of UX design and the lessons to keep in the AI era",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-09-12T04:29:11.030453+00:00",
+      "source_date": "2026-09-10T22:38:12+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6463492.html",
+      "title": "“美国版豆包”又更新了",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-12T04:29:11.030505+00:00",
+      "source_date": "2026-09-11T08:08:47+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6463289.html",
+      "title": "广告投放这件事，正在变成一条AI流水线",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-12T04:29:11.030536+00:00",
+      "source_date": "2026-09-11T07:16:04+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184950/pc-inhouse-arcieri-arquitectura",
+      "title": "PC Inhouse / Arcieri Arquitectura",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-12T04:29:11.583176+00:00",
+      "source_date": "2026-09-11T19:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1184927/buenos-aires-architecture-biennial-celebrates-40-years-with-a-free-program-under-the-theme-of-inhabiting",
+      "title": "Buenos Aires Architecture Biennial Celebrates 40 Years With a Free Program Under the Theme of Inhabiting",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-12T04:29:14.467003+00:00",
+      "source_date": "2026-09-11T05:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184865/chi-zu-zhi-meng-zhu-zhai-ameet-mirpuri-design-studio",
+      "title": "赤足之梦住宅 / Ameet Mirpuri Design Studio",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-12T04:29:14.467054+00:00",
+      "source_date": "2026-09-11T02:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184928/bu-yi-nuo-si-ai-li-si-jian-zhu-shuang-nian-zhan-ying-lai-40zhou-nian-wei-rao-qi-ju-zhu-ti-tui-chu-mian-fei-huo-dong",
+      "title": "布宜诺斯艾利斯建筑双年展迎来40周年，围绕“栖居”主题推出免费活动",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-12T04:29:14.467088+00:00",
+      "source_date": "2026-09-11T05:30:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/design/ied-master-of-arts-graduates-design-x-commons/",
       "title": "IED 艺术硕士毕业生部署设计以应对公共物品的损失",
       "source": "designboom",
