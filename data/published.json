@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.archdaily.com/1184968/enso-compartment-s4",
+      "title": "Enso / Compartment S4",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-14T04:49:26.498707+00:00",
+      "source_date": "2026-09-12T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/suspended-metal-grid-ceiling-translucent-reflective-surfaces-french-cafe-mellow-wrong-door-studio/",
+      "title": "suspended metal grid ceiling meets translucent and reflective surfaces inside french café",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-14T04:49:28.702762+00:00",
+      "source_date": "2026-09-12T14:15:38+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/salvaged-concrete-recycled-aluminum-tehran-demolition-waste-debris-pavilion-dap-studio/",
+      "title": "salvaged concrete and recycled aluminum turn tehran’s demolition waste into debris pavilion",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-14T04:49:29.743056+00:00",
+      "source_date": "2026-09-13T14:15:28+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6464056.html",
+      "title": "意图设计的翻译能力：从”人懂的直觉”到”机器读的规则”",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-14T04:49:29.743111+00:00",
+      "source_date": "2026-09-14T01:22:14+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ucd/6464115.html",
+      "title": "苹果折叠屏，一个动画就让人想换手机？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-14T04:49:29.743144+00:00",
+      "source_date": "2026-09-14T03:06:33+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1185009/marinas-zhu-zhai-pirca-arquitectura",
+      "title": "Marinas 住宅 / Pirca Arquitectura",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-14T04:49:30.648852+00:00",
+      "source_date": "2026-09-13T15:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@tasnim.mohammd/ux-beyond-borders-bb6683b11d61?source=rss------product_design-5",
+      "title": "UX Beyond Borders",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-09-14T04:49:35.731040+00:00",
+      "source_date": "2026-09-14T04:30:28+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1024569/37-dwellings-in-lhospitalet-de-llobregat-b720-fermin-vazquez-arquitectos",
+      "title": "37 Dwellings in L'Hospitalet de Llobregat / b720 Fermín Vázquez Arquitectos",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-14T04:49:37.069922+00:00",
+      "source_date": "2026-09-12T15:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184737/paroissien-zhu-zhai-veronica-gilotaux",
+      "title": "Paroissien 住宅 / Veronica Gilotaux",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-14T04:49:37.409902+00:00",
+      "source_date": "2026-09-12T16:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/superstudio-12-ideal-cities-price-perfectly-designed-life/",
+      "title": "superstudio’s 12 ideal cities question the price of a perfectly designed life",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-14T04:49:40.768993+00:00",
+      "source_date": "2026-09-12T20:35:32+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184796/hong-qian-ting-zhi-jia-ge-ge-shi-jie-wiki-world-plus-xian-jin-jian-zhu-shi-yan-shi-aal",
+      "title": "红潜艇之家 / 个个世界 Wiki World + 先进建筑实验室AaL",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-14T04:49:40.769045+00:00",
+      "source_date": "2026-09-12T02:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1184634/red-submarine-cabin-wiki-world",
+      "title": "Red Submarine Cabin / Wiki World",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-14T04:49:41.737558+00:00",
+      "source_date": "2026-09-12T02:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184939/cuo-ceng-zhu-zhai-shi-jian-zhu-she-ji-yu-yan-jiu-shi",
+      "title": "错层住宅 / 十一建筑设计与研究室",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-14T04:49:41.737603+00:00",
+      "source_date": "2026-09-14T00:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1184983/house-above-the-trees-wallflower-architecture-plus-design",
+      "title": "House Above The Trees / Wallflower Architecture + Design",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-14T04:49:43.298697+00:00",
+      "source_date": "2026-09-12T21:00:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.nngroup.com/articles/test-earlier-with-ai/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "title": "Test Complex Interactions Earlier with AI Prototyping",
       "source": "Nielsen Norman Group",
