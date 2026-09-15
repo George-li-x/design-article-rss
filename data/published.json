@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/technology/smart-tech-winners-a-design-award-and-competition-2026-call-for-entries/",
+      "title": "突破性智能技术获奖者推动 2026 年 A’ 设计奖参赛作品征集",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-15T04:48:48.943238+00:00",
+      "source_date": "2026-09-14T10:00:29+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/so-arquitetura-tiny-azores-home-mini-atalhada-portugal/",
+      "title": "SO arquitetura 在 13 平方米的占地面积上堆叠了亚速尔群岛的小住宅",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-15T04:48:49.864294+00:00",
+      "source_date": "2026-09-14T16:03:11+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/the-ux-double-diamond-is-dead-and-in-ai-only-one-survives-for-software-heres-how-to-adapt-f63b57c524ed?source=rss----138adf9c44c---4",
+      "title": "UX 双钻已死，在 AI 领域，软件领域只剩下双钻了",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-09-15T04:48:51.806251+00:00",
+      "source_date": "2026-09-14T18:52:50+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://uxdesign.cc/five-eras-of-ux-first-drafts-logos-made-of-data-voice-aiux-patterns-7b326c9aba4a?source=rss----138adf9c44c---4",
+      "title": "UX 的五个时代、初稿、数据徽标、语音 AIUX 模式",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-09-15T04:48:53.066859+00:00",
+      "source_date": "2026-09-14T11:26:18+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.woshipm.com/share/6464786.html",
+      "title": "场景越多 ≠ 产品越好，：从抽象价值到真实生活的定义结构",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-15T04:48:53.066909+00:00",
+      "source_date": "2026-09-15T03:58:24+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1184531/reinterpreting-the-ruyi-knot-as-a-cultural-symbol-in-contemporary-metalwork",
+      "title": "重新诠释如意结作为当代金属制品的文化符号",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-15T04:48:57.350920+00:00",
+      "source_date": "2026-09-14T06:45:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1184991/assemble-to-transform-grade-ii-star-listed-bromley-hall-into-a-new-creative-and-light-industrial-workspace-in-london",
+      "title": "集结将二级*保护的布罗姆利大厅改造成伦敦新的创意和轻工业工作空间",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-15T04:49:01.997970+00:00",
+      "source_date": "2026-09-14T05:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@karanchauhan1131/aesthetic-engineering-why-visual-polish-is-no-longer-optional-for-growing-tech-products-736a57f24dc7?source=rss------user_experience-5",
+      "title": "美学工程：为什么视觉抛光对于成长中的科技产品不再是可选的",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-09-15T04:49:04.403366+00:00",
+      "source_date": "2026-09-15T04:06:01+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6464655.html",
+      "title": "微信桌面端变“三折叠”，可能是在给小微腾位置",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-15T04:49:04.403408+00:00",
+      "source_date": "2026-09-15T01:46:44+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/what-we-learned-modes-of-habitation/",
+      "title": "我们学到了什么：居住模式",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-15T04:49:08.015783+00:00",
+      "source_date": "2026-09-14T09:10:18+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6464272.html",
+      "title": "读完斯坦福116页AI实施手册，我最大的感受是：别再盯着模型了",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-15T04:49:08.015830+00:00",
+      "source_date": "2026-09-15T04:14:33+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/pd/6464544.html",
+      "title": "让 AI 补货，但不让它算库存——LangGraph 在生鲜补货的落地实践",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-15T04:49:08.015860+00:00",
+      "source_date": "2026-09-15T02:55:15+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184741/dang-dai-jin-shu-gong-yi-zhong-ru-yi-jie-zuo-wei-wen-hua-fu-hao-de-zhong-xin-quan-shi",
+      "title": "当代金属工艺中如意结作为文化符号的重新诠释",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-15T04:49:08.015885+00:00",
+      "source_date": "2026-09-14T06:45:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1184998/jiu-shi-jiu-yao-tao-ci-gong-zuo-shi-deppt",
+      "title": "九十九窑陶瓷工作室 / Dept.EPT",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-15T04:49:08.015905+00:00",
+      "source_date": "2026-09-14T02:00:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.archdaily.com/1184968/enso-compartment-s4",
       "title": "Enso / Compartment S4",
       "source": "ArchDaily",
