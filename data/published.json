@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/architecture/compressed-agricultural-waste-complete-building-system-new-york-house-ltl-architects/",
+      "title": "LTL 建筑师在纽约住宅中利用农业废弃物形成完整的建筑系统",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-16T04:44:29.298648+00:00",
+      "source_date": "2026-09-15T14:15:42+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1185140/rozana-montiel-zuo-ke-ie-jian-zhu-yu-she-ji-xue-yuan-common-s-xi-lie-jiang-zuo",
+      "title": "Rozana Montiel 做客 IE 建筑与设计学院 COMMON(S) 系列讲座",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-16T04:44:29.298703+00:00",
+      "source_date": "2026-09-15T09:25:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/analog-sound-installation-yont-studio-berlin-kadewe/",
+      "title": "YONT 工作室的模拟声音装置捕捉了柏林卡迪威公路旅行的怀旧之情",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-16T04:44:34.223704+00:00",
+      "source_date": "2026-09-15T14:00:12+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/spiral-timber-beams-steel-tiny-40-sqm-tokyo-home-musashi-koyama-tato-architects-yo-shimada/",
+      "title": "东京 40 平方米的螺旋木梁和钢框架住宅",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-16T04:44:34.598772+00:00",
+      "source_date": "2026-09-15T15:55:32+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/chuangye/6464913.html",
+      "title": "从200亿收购失败到650亿IPO：Figma如何用“协作”颠覆设计帝国",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-16T04:44:34.598821+00:00",
+      "source_date": "2026-09-16T03:30:53+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1185069/crux-south-climbing-gym-derrington-building-studio",
+      "title": "Crux South 攀岩馆 / Derrington Building Studio",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-16T04:44:35.295810+00:00",
+      "source_date": "2026-09-15T12:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/editorials/the-hacienda-must-be-built-spectacle-wonder-disenchanted-world/",
+      "title": "庄园必须建立在一个幻灭的世界中的奇观和奇迹之上",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-16T04:44:36.236396+00:00",
+      "source_date": "2026-09-15T10:49:11+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/pmd/6465006.html",
+      "title": "从入门到精通，一篇文章带你入门产品经理！（2026 年最新版）",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-16T04:44:36.236495+00:00",
+      "source_date": "2026-09-16T00:53:35+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/lasvit-lighting-fixture-installation-for-napa-valley-home/",
+      "title": "lasvit 将波西米亚草甸融入纳帕谷住宅的定制照明灯具中",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-16T04:44:36.752932+00:00",
+      "source_date": "2026-09-15T10:00:46+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6465120.html",
+      "title": "语义翻译的操作日常：把”我觉得不对”变成”机器能查”",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-16T04:44:36.752985+00:00",
+      "source_date": "2026-09-16T01:52:32+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/technology/ferraris-rarest-paint-finish-on-its-only-matte-enzo-at-auction/",
+      "title": "法拉利在拍卖会上唯一一款哑光恩佐上采用了最稀有的漆面",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-16T04:44:37.915049+00:00",
+      "source_date": "2026-09-15T17:19:43+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6464960.html",
+      "title": "GPT-6 Astra 之后，产品经理需要重新设计人在流程中的位置",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-16T04:44:37.915103+00:00",
+      "source_date": "2026-09-16T01:10:17+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1185141/rural-and-future-public-programme",
+      "title": "农村和未来公共计划",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-16T04:44:38.929255+00:00",
+      "source_date": "2026-09-15T09:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1185143/xiang-cun-yu-wei-lai-gong-gong-xiang-mu",
+      "title": "乡村与未来公共项目",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-16T04:44:38.929300+00:00",
+      "source_date": "2026-09-15T09:30:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/technology/smart-tech-winners-a-design-award-and-competition-2026-call-for-entries/",
       "title": "突破性智能技术获奖者推动 2026 年 A’ 设计奖参赛作品征集",
       "source": "designboom",
