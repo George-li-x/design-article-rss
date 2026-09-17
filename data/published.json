@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/design/three-axis-joint-eugenio-costa-raw-branches-structure-screws/",
+      "title": "三轴接头无需螺钉即可连接原始树枝，用于自建结构",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-17T04:47:27.479870+00:00",
+      "source_date": "2026-09-16T10:10:41+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/pli-office-tout-est-chaos-at-la-gaite-lyrique-for-paris-design-week-2026/",
+      "title": "pli 办公室在 la gaîté lyrique 为 2026 年巴黎设计周探索混乱的力量",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-17T04:47:30.140894+00:00",
+      "source_date": "2026-09-16T10:00:17+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6465626.html",
+      "title": "做了十年的iOS交互，被折叠屏iPhone Duo推翻了？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-17T04:47:30.140939+00:00",
+      "source_date": "2026-09-17T01:52:59+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/evaluating/6465652.html",
+      "title": "workbuddy和豆包工作的使用心得比较",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-17T04:47:30.140967+00:00",
+      "source_date": "2026-09-17T02:47:29+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/bethan-laura-wood-max-lamb-andu-masebo-material-language-contemporary-home/",
+      "title": "贝森·劳拉·伍德、马克斯·兰姆和安杜·马塞博重新思考家居的物质语言",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-17T04:47:40.939013+00:00",
+      "source_date": "2026-09-16T08:03:06+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/designboom-shop-drop-kitchen-with-a-twist-culinary-design/",
+      "title": "designboom shop drop：限量发布有趣的烹饪设计",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-17T04:47:42.938005+00:00",
+      "source_date": "2026-09-16T15:45:34+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1185230/design-week-mexico-2026",
+      "title": "2026 年墨西哥设计周",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-17T04:47:44.960795+00:00",
+      "source_date": "2026-09-16T09:05:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/film-stills-screen-elaborate-makeup-compositions-emerald-vysions/",
+      "title": "电影剧照离开银幕，成为精致的化妆作品",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-17T04:47:47.429154+00:00",
+      "source_date": "2026-09-16T20:35:59+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.nngroup.com/training/december/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "用户体验大会 12 月宣布（12 月 2 日 - 12 月 15 日）",
+      "source": "Nielsen Norman Group",
+      "language": "en",
+      "published_at": "2026-09-17T04:47:57.990340+00:00",
+      "source_date": "2026-09-16T06:59:19+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1185251/alto-teles-pires-zhu-zhai-ser-arquitetos",
+      "title": "Alto Teles Pires 住宅 / Ser Arquitetos",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-17T04:47:59.687720+00:00",
+      "source_date": "2026-09-16T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1185225/buildnergong-bu-di-wu-jie-jian-zhu-shi-zhi-yi-she-ji-jing-sai-huo-jiang-ming-dan-bing-qi-dong-di-liu-jie-si-de-ge-er-mo-jia-ju-zhan-te-bie-ban",
+      "title": "Buildner公布第五届“建筑师之椅”设计竞赛获奖名单，并启动第六届（斯德哥尔摩家具展特别版）",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-17T04:47:59.687767+00:00",
+      "source_date": "2026-09-16T06:45:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1184973/buildner-announces-winners-of-architects-chair-number-5-and-launches-stockholm-furniture-fair-edition-number-6",
+      "title": "Builder 宣布 Architect’s Chair #5 获奖者并推出斯德哥尔摩家具展 #6",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-17T04:48:14.278185+00:00",
+      "source_date": "2026-09-16T06:45:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1185247/noor-zhu-zhai-marcos-lula",
+      "title": "努尔之家 / Marcos Lula",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-17T04:48:16.061654+00:00",
+      "source_date": "2026-09-16T13:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1185176/jing-guan-ji-bian-wu-dang-dai-zhi-wu-yuan-zhong-de-jian-zhu",
+      "title": "景观即编舞：当代植物园中的建筑",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-17T04:48:16.061703+00:00",
+      "source_date": "2026-09-16T07:30:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/architecture/compressed-agricultural-waste-complete-building-system-new-york-house-ltl-architects/",
       "title": "LTL 建筑师在纽约住宅中利用农业废弃物形成完整的建筑系统",
       "source": "designboom",
