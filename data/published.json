@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/architecture/cantilevered-roof-frank-lloyd-wrights-concrete-usonian-house-michigan-listed-sothebys/",
+      "title": "悬臂屋顶延伸到弗兰克·劳埃德·赖特的混凝土美国住宅上",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-18T04:37:13.418739+00:00",
+      "source_date": "2026-09-17T15:45:20+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/mushlume-living-fungi-lighting-made-bush-terminal/",
+      "title": "mushlume 与生物体共同创造，在 MADE: Bush Terminal 种植设计对象",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-18T04:37:19.425292+00:00",
+      "source_date": "2026-09-17T10:00:50+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/studiomateriality-lucha-libre-green-lit-stainless-steel-bar-athens-ochotac/",
+      "title": "studiomateriality 将 lucha libre 转化为雅典绿灯不锈钢酒吧",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-18T04:37:20.509387+00:00",
+      "source_date": "2026-09-17T14:15:14+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/cca-tashkent-1912-tram-depot-studio-ko/",
+      "title": "CCA 塔什干在 KO 工作室改造的 1912 年有轨电车站内开业",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-18T04:37:23.276819+00:00",
+      "source_date": "2026-09-17T09:25:25+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/triangular-layered-residence-qbo3-arquitectos-costa-rican-hillside-casa-cinco-7/",
+      "title": "QBO3 arquitectos 设计的三角形分层住宅坐落在哥斯达黎加的山坡上",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-18T04:37:25.765654+00:00",
+      "source_date": "2026-09-17T02:10:36+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/nothing-has-changed-other-than-how-we-talk-about-it-fcc554e853aa?source=rss----138adf9c44c---4",
+      "title": "除了我们谈论它的方式之外，什么都没有改变",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-09-18T04:37:27.255928+00:00",
+      "source_date": "2026-09-17T21:29:03+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.designboom.com/architecture/diagonal-forms-illuminated-curves-2050-coffee-shop-osaka-midosuji-axis-teki-design/",
+      "title": "对角线形式和照明曲线沿着大阪御堂筋轴线勾勒出 2050 咖啡店的轮廓",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-18T04:37:30.171477+00:00",
+      "source_date": "2026-09-17T02:10:37+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/chuangye/6465988.html",
+      "title": "从“性能最弱”到销量破亿：任天堂Wii如何用体感重新定义游戏",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-18T04:37:30.171530+00:00",
+      "source_date": "2026-09-18T01:25:47+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6466175.html",
+      "title": "四大前沿AI模型72小时内密集发布：产品经理该盯成本曲线",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-18T04:37:30.171635+00:00",
+      "source_date": "2026-09-18T03:50:40+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1185088/micro-regeneration-on-ouyang-road-scenic-architecture-office",
+      "title": "欧阳路微再生 / 风景建筑事务所",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-18T04:37:32.670177+00:00",
+      "source_date": "2026-09-17T00:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1185307/casa-bajura-mapa-arquitectos-llc",
+      "title": "巴朱拉住宅 / MAPA Arquitectos LLC",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-18T04:37:33.839313+00:00",
+      "source_date": "2026-09-17T15:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6466118.html",
+      "title": "电脑都会自己干活了，手机还要你动手？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-18T04:37:33.839369+00:00",
+      "source_date": "2026-09-18T01:50:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1185252/yi-fa-lu-se-kua-yue-guo-jie-de-ke-chi-xu-xing-yu-jian-zhu-ze-ren-zai-si-kao",
+      "title": "“依法”绿色？跨越国界的可持续性与建筑责任再思考",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-18T04:37:33.839405+00:00",
+      "source_date": "2026-09-17T07:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1185097/ou-yang-lu-li-shi-jie-qu-de-san-chu-wei-geng-xin-she-ji-shan-shui-xiu-jian-zhu-shi-wu-suo",
+      "title": "欧阳路历史街区的三处微更新设计 / 山水秀建筑事务所",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-18T04:37:33.839433+00:00",
+      "source_date": "2026-09-17T00:00:00+00:00",
+      "full_text": false
+    },
+    {
       "url": "https://www.designboom.com/design/three-axis-joint-eugenio-costa-raw-branches-structure-screws/",
       "title": "三轴接头无需螺钉即可连接原始树枝，用于自建结构",
       "source": "designboom",
