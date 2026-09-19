@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.nngroup.com/articles/designing-ai-study-guide/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "设计人工智能产品和功能：学习指南",
+      "source": "Nielsen Norman Group",
+      "language": "en",
+      "published_at": "2026-09-19T04:32:55.947872+00:00",
+      "source_date": "2026-09-18T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/found-associations-future-cafe-bio-laboratory-paris-design-week-kalve-coffee/",
+      "title": "发现协会在巴黎设计周将未来咖啡馆重新构想为生物实验室",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-19T04:32:57.909063+00:00",
+      "source_date": "2026-09-18T18:10:44+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/wendell-castle-living-family-home-furniture-friedman-benda-exhibition/",
+      "title": "温德尔城堡的家庭住宅通过弗里德曼本达的家具和文物回归",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-19T04:32:59.641986+00:00",
+      "source_date": "2026-09-18T23:55:25+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/jesus-mari-lazkano-changing-landscapes-painting-animated-film-azken-natura/",
+      "title": "耶稣·马里·拉兹卡诺通过绘画和动画电影追踪不断变化的风景",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-19T04:33:02.422336+00:00",
+      "source_date": "2026-09-18T20:35:39+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6466884.html",
+      "title": "Kimi向左，Claude、GPT向右",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-19T04:33:02.422378+00:00",
+      "source_date": "2026-09-19T03:59:35+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/minimalism-aarke-brand-identity-interview/",
+      "title": "“当缺乏叙事时，极简主义会让人感到冷淡”：aarke 如何塑造其品牌形象",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-19T04:33:10.348479+00:00",
+      "source_date": "2026-09-18T10:00:25+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1185316/mecanoo-and-rdhas-lawson-centre-for-sustainability-opens-at-trinity-college-with-a-farm-to-table-approach",
+      "title": "Mecanoo 和 RDHA 的劳森可持续发展中心在三一学院开业，采用从农场到餐桌的方式",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-19T04:33:15.017603+00:00",
+      "source_date": "2026-09-18T05:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6466415.html",
+      "title": "我近期看到的最有创意的 GitHub 开源项目，太惊艳了。",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-19T04:33:15.017640+00:00",
+      "source_date": "2026-09-19T01:45:09+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1185348/mecanoo-yu-rdha-she-ji-de-san-xue-yuan-lao-sen-ke-chi-xu-fa-zhan-zhong-xin-luo-cheng-yin-ru-cong-nong-chang-dao-can-zhuo-li-nian",
+      "title": "Mecanoo 与 RDHA 设计的三一学院劳森可持续发展中心落成，引入“从农场到餐桌”理念",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-19T04:33:15.017662+00:00",
+      "source_date": "2026-09-18T05:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1185095/green-by-law-rethinking-sustainability-and-architectural-responsibility-across-borders",
+      "title": "依法绿色？重新思考跨国界的可持续性和建筑责任",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-19T04:33:16.904513+00:00",
+      "source_date": "2026-09-17T07:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6466723.html",
+      "title": "微信AI团队开源WeKnora：给知识库装上“手脚”，AI 从能答到能做",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-19T04:33:16.904555+00:00",
+      "source_date": "2026-09-18T10:02:43+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/gunia-assouline-visual-history-ukrainian-folk-art-naive-my-love-interview/",
+      "title": "GUNIA 和 assouline 在“naïve my love”中汇集了乌克兰民间艺术的视觉史",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-19T04:33:26.155723+00:00",
+      "source_date": "2026-09-18T09:25:26+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1185292/lorne-road-zhu-zhai-foomann-architects",
+      "title": "Lorne Road 住宅 / Foomann Architects",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-19T04:33:26.344125+00:00",
+      "source_date": "2026-09-18T03:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1185314/alpamyr-zhu-zhai-sandro-durrer",
+      "title": "Alpamyr 外壳 / sandro durrer",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-19T04:33:27.578298+00:00",
+      "source_date": "2026-09-18T10:00:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/architecture/cantilevered-roof-frank-lloyd-wrights-concrete-usonian-house-michigan-listed-sothebys/",
       "title": "悬臂屋顶延伸到弗兰克·劳埃德·赖特的混凝土美国住宅上",
       "source": "designboom",
