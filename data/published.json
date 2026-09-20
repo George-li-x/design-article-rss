@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.woshipm.com/ai/6466908.html",
+      "title": "开源个 Skill，帮你用代码低成本生成产品宣传片",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-20T04:49:08.207718+00:00",
+      "source_date": "2026-09-20T01:17:47+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/guadagnino-lynch-movie-directors-design-interior-spaces/",
+      "title": "瓜达尼诺、林奇和设计室内空间的电影导演",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-20T04:49:10.953416+00:00",
+      "source_date": "2026-09-19T20:35:24+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/local-stone-brick-terracotta-screens-three-story-gathering-space-indonesia-ins-studio-common-days/",
+      "title": "印度尼西亚当地的石头、砖块和赤土屏风覆盖在三层楼的聚会空间中",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-20T04:49:12.583351+00:00",
+      "source_date": "2026-09-19T02:10:53+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6466894.html",
+      "title": "多 Agent 协作的最大瓶颈不是模型，是你自己",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-20T04:49:12.583395+00:00",
+      "source_date": "2026-09-20T01:08:43+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/evaluating/6466946.html",
+      "title": "拆解 Perplexity：一个搜索框如何长成 200 亿美元的平台！",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-20T04:49:12.583423+00:00",
+      "source_date": "2026-09-20T03:36:23+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/frida-escobedo-studio-malba-underground-expansion-museo-arte-latinoamericano-buenos-aires-expansion/",
+      "title": "frida escobedo 工作室将 MALBA 带到地下并推出新的扩建项目",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-20T04:49:14.278809+00:00",
+      "source_date": "2026-09-18T15:33:11+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@kunaluxui/i-dont-think-product-designers-need-more-ai-tools-we-need-a-better-ai-workflow-ba2419fb72ac?source=rss------product_design-5",
+      "title": "我认为产品设计师不需要更多的人工智能工具。我们需要更好的人工智能工作流程。",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-09-20T04:49:17.529596+00:00",
+      "source_date": "2026-09-19T22:07:24+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6461673.html",
+      "title": "一文读懂 HarmonyOS 7.0 带来的十大重要升级（三）",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-20T04:49:17.529638+00:00",
+      "source_date": "2026-09-20T01:59:11+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1185405/cella-house-ihouse-estudio",
+      "title": "塞拉之家/iHouse 工作室",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-20T04:49:18.922335+00:00",
+      "source_date": "2026-09-19T16:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/lost-dog-or-lost-designer-d5de922e54d9?source=rss----138adf9c44c---4",
+      "title": "丢了狗——还是丢了设计师？",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-09-20T04:49:19.704658+00:00",
+      "source_date": "2026-09-17T04:31:32+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.archdaily.com/1185353/rshp-and-erre-selected-to-design-new-valencia-central-station-in-spain",
+      "title": "RSHP 和 ERRE 被选中设计西班牙新巴伦西亚中央火车站",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-20T04:49:21.167658+00:00",
+      "source_date": "2026-09-18T06:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1185407/cella-zhu-zhai-ihouse-estudio",
+      "title": "塞拉之家 / iHouse estudio",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-20T04:49:22.035095+00:00",
+      "source_date": "2026-09-19T16:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1185403/cayucos-ridge-barn-clayton-korte",
+      "title": "卡尤科斯山脊谷仓 / 克莱顿庭院",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-20T04:49:22.248297+00:00",
+      "source_date": "2026-09-19T11:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/situationists-spectators-participants/",
+      "title": "情境主义者如何将旁观者变成参与者",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-20T04:49:26.530274+00:00",
+      "source_date": "2026-09-18T10:50:44+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.nngroup.com/articles/designing-ai-study-guide/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "title": "设计人工智能产品和功能：学习指南",
       "source": "Nielsen Norman Group",
