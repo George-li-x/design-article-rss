@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.woshipm.com/pd/6467493.html",
+      "title": "从用户到角色网络：基于利益相关者视角的用户场景深度分析",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-21T04:49:34.208969+00:00",
+      "source_date": "2026-09-21T02:39:46+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/igarchitects-tokyo-house-field-structural-timber-walls/",
+      "title": "IGArchitects 用结构木墙建造东京住宅",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-21T04:49:38.017537+00:00",
+      "source_date": "2026-09-20T07:45:22+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1185419/la-grieta-pavilion-onda-pavilion-plus-weyes-estudio",
+      "title": "La Grieta 馆 / Onda 馆 + WEYES Studio",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-21T04:49:41.502991+00:00",
+      "source_date": "2026-09-20T16:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6467628.html",
+      "title": "B端AI设计工程化提效",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-21T04:49:41.503034+00:00",
+      "source_date": "2026-09-21T02:59:48+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/auruboros-golden-installation-plastique-fantastique-new-york-high-line/",
+      "title": "auruBOROS 金色装置由塑料梦幻般的螺旋横跨纽约高线",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-21T04:49:45.167235+00:00",
+      "source_date": "2026-09-20T20:35:14+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@obikasolomon/the-user-experience-and-4-qualities-of-a-good-product-26b2a65159d8?source=rss------user_experience-5",
+      "title": "用户体验和好产品的4个品质",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-09-21T04:49:48.203052+00:00",
+      "source_date": "2026-09-20T16:15:08+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/big-shakira-temporary-city-madrid-reusable-structures/",
+      "title": "BIG 在马德里为夏奇拉建造了一座临时城市，其结构可重复使用",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-21T04:49:49.793451+00:00",
+      "source_date": "2026-09-20T21:07:28+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@stanchiqa/if-ai-can-design-the-product-what-is-a-product-designer-for-5e87062dbb33?source=rss------product_design-5",
+      "title": "如果人工智能可以设计产品，那么产品设计师是做什么用的？",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-09-21T04:49:57.433092+00:00",
+      "source_date": "2026-09-20T19:35:58+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6467346.html",
+      "title": "20小时破百万美元，海外用户为何买Violoop？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-21T04:49:57.433132+00:00",
+      "source_date": "2026-09-21T03:42:11+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6467317.html",
+      "title": "一份接口文档，怎么变成一个能点的产品原型？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-21T04:49:57.433158+00:00",
+      "source_date": "2026-09-21T03:25:14+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1185300/niu-kou-da-lou-vavi-sheng-chan-she-shi-yu-zong-bu-mjolk-architekti",
+      "title": "纽扣大楼 - VAVI 生产设施与总部 / Mjölk architekti",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-21T04:49:57.433183+00:00",
+      "source_date": "2026-09-20T06:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1185421/lie-feng-zhan-ting-onda-pavilion-plus-weyes-estudio",
+      "title": "裂缝展厅 / Onda Pavilion + WEYES Estudio",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-21T04:49:57.433205+00:00",
+      "source_date": "2026-09-20T16:00:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.archdaily.com/1185083/technology-park-of-luanda",
+      "title": "罗安达科技园 / Typsa",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-21T04:49:59.521823+00:00",
+      "source_date": "2026-09-20T15:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1185255/the-button-vavi-manufacturing-facilities-and-headquarters-mjolk-architekti",
+      "title": "按钮 - VAVI 制造设施和总部 / Mjölk architekti",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-21T04:50:02.432608+00:00",
+      "source_date": "2026-09-20T06:00:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.woshipm.com/ai/6466908.html",
       "title": "开源个 Skill，帮你用代码低成本生成产品宣传片",
       "source": "人人都是产品经理",
