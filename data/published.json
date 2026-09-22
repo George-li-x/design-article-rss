@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/design/formafantasma-exhibition-design-interview/",
+      "title": "‘we are probably looking for the tension’: formafantasma on designing the exhibition space",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-22T04:48:47.186686+00:00",
+      "source_date": "2026-09-21T20:35:36+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6466957.html",
+      "title": "AI产品的发展趋势，正在把事情做的越来越完善",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-22T04:48:47.186753+00:00",
+      "source_date": "2026-09-22T02:23:09+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/sobo-paris-listening-restaurant-oak-vintage-furniture-acoustic-panels-studio-louis-morgan/",
+      "title": "SOBO wraps paris listening restaurant in oak, vintage furniture, and acoustic panels",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-22T04:48:48.909366+00:00",
+      "source_date": "2026-09-22T02:10:56+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/blue-spiral-staircase-erre-harbor-side-workspace-valencia-marina-de-empresas/",
+      "title": "blue spiral staircase anchors ERRE’s harbor-side workspace in valencia",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-22T04:48:50.593726+00:00",
+      "source_date": "2026-09-21T23:55:06+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/motsprak-plywood-painting-chair-peytil-eitil-arbenz-thoren/",
+      "title": "motspråk cuts plywood painting apart and rebuilds it as chair",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-22T04:48:51.642122+00:00",
+      "source_date": "2026-09-21T14:15:54+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/patricia-urquiola-effe-baluar-collection/",
+      "title": "patricia urquiola rewrites spa culture through effe’s bastion-inspired baluar collection",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-22T04:48:52.520640+00:00",
+      "source_date": "2026-09-21T07:00:51+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1185419/la-grieta-pavilion-centro-de-estudios-superiores-de-diseno-de-monterrey-cedim-plus-weyes-estudio",
+      "title": "La Grieta Pavilion / Centro de Estudios Superiores de Diseño de Monterrey, CEDIM + WEYES Estudio",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-22T04:48:53.898864+00:00",
+      "source_date": "2026-09-20T16:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1185425/haikou-workers-activity-center-workers-cultural-palace-cadg",
+      "title": "Haikou Workers’ Activity Center (Workers’ Cultural Palace) / CADG",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-22T04:48:55.275335+00:00",
+      "source_date": "2026-09-22T00:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6468132.html",
+      "title": "设计系统负责人的语义生长：从管”长什么样”到管”意味着什么”",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-22T04:48:55.275392+00:00",
+      "source_date": "2026-09-22T02:28:56+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6467386.html",
+      "title": "你天天喊“以客户为中心”，为什么团队永远做不到？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-22T04:48:55.275424+00:00",
+      "source_date": "2026-09-22T02:21:22+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6468054.html",
+      "title": "AI 接单平台选好了，新手怎么接到第一单？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-22T04:48:55.275459+00:00",
+      "source_date": "2026-09-22T03:09:30+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1185421/lie-feng-zhan-ting-centro-de-estudios-superiores-de-diseno-de-monterrey-cedim-plus-weyes-estudio",
+      "title": "裂缝展厅 / Centro de Estudios Superiores de Diseño de Monterrey, CEDIM + WEYES Estudio",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-22T04:48:55.275488+00:00",
+      "source_date": "2026-09-20T16:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1185476/cieno-house-tac-taller-alberto-calleja",
+      "title": "Cieno House / TAC Taller Alberto Calleja",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-22T04:48:56.271526+00:00",
+      "source_date": "2026-09-21T15:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/it/6468017.html",
+      "title": "为啥AI没有带来繁荣？因为它无法创造需求",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-22T04:48:56.271579+00:00",
+      "source_date": "2026-09-22T02:42:52+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.woshipm.com/pd/6467493.html",
       "title": "从用户到角色网络：基于利益相关者视角的用户场景深度分析",
       "source": "人人都是产品经理",
