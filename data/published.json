@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/architecture/gaetano-pesce-foundation-architect-practice/",
+      "title": "gaetano pesce 基金会成立，旨在保护和延续建筑师的实践",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-23T04:40:07.482674+00:00",
+      "source_date": "2026-09-22T09:25:10+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/oversized-flowers-terrazzo-pop-references-zyva-studio-paris-showroom/",
+      "title": "超大花朵、水磨石和流行元素装饰 zyva 工作室的巴黎展厅",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-23T04:40:09.207260+00:00",
+      "source_date": "2026-09-23T02:10:14+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/apple-music-venue-london-battersea-power-station/",
+      "title": "Apple 在伦敦巴特西发电站内开设可容纳 600 人的音乐厅",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-23T04:40:10.630024+00:00",
+      "source_date": "2026-09-22T20:11:48+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/technology/europes-largest-carbon-capture-facility-co2-netherlands-yara-norway/",
+      "title": "欧洲最大的碳捕获设施将二氧化碳从荷兰输送到挪威",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-23T04:40:11.917915+00:00",
+      "source_date": "2026-09-22T09:19:09+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/new-zealand-world-wearableart-wow-glo-wellington/",
+      "title": "新西兰的可穿戴艺术世界围绕被观看的行为设计艺术",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-23T04:40:13.660013+00:00",
+      "source_date": "2026-09-22T20:35:30+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/cast-aluminum-heart-forms-sculptural-furniture-love-collection-sami-savatli/",
+      "title": "铸铝将心形变成 LOVE 系列中的雕塑家具",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-23T04:40:14.503853+00:00",
+      "source_date": "2026-09-22T15:45:32+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/in-the-age-of-ai-the-ux-field-survives-on-leaders-who-cultivate-juniors-595c548f1d70?source=rss----138adf9c44c---4",
+      "title": "在人工智能时代，用户体验领域的生存依赖于培养后辈的领导者",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-09-23T04:40:15.143212+00:00",
+      "source_date": "2026-09-22T21:27:21+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.woshipm.com/it/6469004.html",
+      "title": "Dreamforce 2026：当 UI 不再是软件，什么才是软件？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-23T04:40:15.143269+00:00",
+      "source_date": "2026-09-23T03:56:24+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/mschf-bends-twists-lexus-cars-surreal-sculptures-new-york-motomorphosis/",
+      "title": "MSCHF 在纽约将雷克萨斯汽车弯曲成超现实的全尺寸雕塑",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-23T04:40:16.082651+00:00",
+      "source_date": "2026-09-22T14:07:54+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6468949.html",
+      "title": "“韩国猫厂”TREEPLLA再造10万美元日流水爆款，韩、美、中三国团队已开“抄”作业",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-23T04:40:16.082719+00:00",
+      "source_date": "2026-09-23T03:55:38+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/evaluating/6468918.html",
+      "title": "快速实测：腾讯 Hy Image3.5 preview 和阿里 Qwen-Image-2.1 的文生图表现",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-23T04:40:16.082761+00:00",
+      "source_date": "2026-09-23T03:21:50+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1185484/hua-lang-zhu-zhai-maden-architects",
+      "title": "画廊住宅 / Maden Architects",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-23T04:40:16.082790+00:00",
+      "source_date": "2026-09-22T10:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6468907.html",
+      "title": "智谱能过关吗？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-23T04:40:16.082820+00:00",
+      "source_date": "2026-09-23T03:12:59+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1185567/oris-day",
+      "title": "豪利时日",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-23T04:40:16.810544+00:00",
+      "source_date": "2026-09-22T09:25:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/design/formafantasma-exhibition-design-interview/",
       "title": "‘we are probably looking for the tension’: formafantasma on designing the exhibition space",
       "source": "designboom",
