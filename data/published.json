@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/design/designeuropa-next-generation-award-winner-maria-gil-interview/",
+      "title": "“强大的设计不断提出问题”下一代获胜者玛丽亚·吉尔谈工艺和身份",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-24T04:42:13.973991+00:00",
+      "source_date": "2026-09-23T08:30:27+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@uiuxbysamir/the-future-of-product-design-why-ui-ux-designers-need-to-think-beyond-screens-5969d84523a4?source=rss------product_design-5",
+      "title": "产品设计的未来：为什么 UI/UX 设计师需要超越屏幕进行思考",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-09-24T04:42:19.083604+00:00",
+      "source_date": "2026-09-23T23:56:42+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/seoul-design-award-2026-reveals-top-10-finalists/",
+      "title": "2026 年首尔设计奖公布前 10 名决赛入围者并启动公开大奖投票",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-24T04:42:20.050420+00:00",
+      "source_date": "2026-09-23T10:00:30+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1185041/architecture-on-water-what-living-at-sea-can-teach-us-about-space-and-materials",
+      "title": "水上建筑：海上生活可以教会我们关于空间和材料的知识",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-24T04:42:23.221957+00:00",
+      "source_date": "2026-09-23T06:45:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/jenny-holzer-truisms-power-public-art-screen/",
+      "title": "珍妮·霍尔泽的真理和公共银幕的力量",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-24T04:42:24.508047+00:00",
+      "source_date": "2026-09-23T10:50:42+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1185369/multidisciplinary-health-center-bordeaux-dunant-bartolo-plus-contre",
+      "title": "波尔多杜南多学科健康中心 / Bartolo+Contré",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-24T04:42:26.773662+00:00",
+      "source_date": "2026-09-23T10:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/evaluating/6469489.html",
+      "title": "通用Agent横评，到底谁更强？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-24T04:42:26.773700+00:00",
+      "source_date": "2026-09-24T01:57:45+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6469612.html",
+      "title": "教你搞懂WorkBuddy的项目功能",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-24T04:42:26.773722+00:00",
+      "source_date": "2026-09-24T03:01:08+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1185664/casa-mogno-rb-arquitetura",
+      "title": "莫格诺之家 / RB Arquitetura",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-24T04:42:28.689079+00:00",
+      "source_date": "2026-09-23T13:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1185506/casa-esteli-colar-colectivo-de-arquitectura",
+      "title": "埃斯特利住宅 / COLAR Architecture Collective",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-24T04:42:29.088620+00:00",
+      "source_date": "2026-09-23T07:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6467714.html",
+      "title": "企业花20万认证“市场销量第一”，到底值不值？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-24T04:42:29.088659+00:00",
+      "source_date": "2026-09-24T04:08:34+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1185480/shui-shang-jian-zhu-hai-shang-sheng-huo-neng-dai-gei-wo-men-na-xie-guan-yu-kong-jian-yu-cai-liao-de-qi-shi",
+      "title": "水上建筑：海上生活能带给我们哪些关于空间与材料的启示",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-24T04:42:29.088680+00:00",
+      "source_date": "2026-09-23T06:45:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/discarded-road-signs-monumental-land-art-installation-sardinian-shore-urban-pixel-chapter-i-last-wave-scoobafish-maurizio-sergiusti/",
+      "title": "废弃的路标变成了撒丁岛海岸上的纪念性大地艺术装置",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-24T04:42:30.264235+00:00",
+      "source_date": "2026-09-24T02:45:45+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/technology/lume-travelers-lightest-caravan-pull-out-kitchen-aluminum-shell-ranger/",
+      "title": "Lume Traveler 最轻的大篷车在其铝制外壳中隐藏了一个抽拉式厨房",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-24T04:42:30.929995+00:00",
+      "source_date": "2026-09-23T15:45:12+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/architecture/gaetano-pesce-foundation-architect-practice/",
       "title": "gaetano pesce 基金会成立，旨在保护和延续建筑师的实践",
       "source": "designboom",
