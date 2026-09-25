@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.designboom.com/architecture/mpnyc-manhattan-projects-new-york-city-former-port-warehouse-adaptable-cultural-space-piraeus-andreas-kostopoulos/",
+      "title": "MPNYC 将前港口仓库改造成比雷埃夫斯适应性文化空间",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-25T04:51:27.042864+00:00",
+      "source_date": "2026-09-24T07:45:54+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/technology/bentley-torcal-first-electric-car-vehicle/",
+      "title": "认识一下宾利 Torcal：该品牌的第一款电动汽车询问宾利应该是什么样的声音",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-25T04:51:30.262791+00:00",
+      "source_date": "2026-09-25T02:10:08+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6470044.html",
+      "title": "WorkBuddy，提个需求就能做产品了？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-25T04:51:30.262836+00:00",
+      "source_date": "2026-09-24T09:18:14+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/leaning-timber-frame-shrine-office-japanese-mountain-valley-sobokuya/",
+      "title": "倾斜的木框架固定在日本山谷的神社办公室",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-25T04:51:31.369632+00:00",
+      "source_date": "2026-09-24T15:15:09+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/renee-levi-transforms-hayward-gallery-facade-in-audemars-piguet-contemporary-commission/",
+      "title": "renée levi 将荧光绘画带到海沃德画廊的野兽派外观",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-25T04:51:33.038663+00:00",
+      "source_date": "2026-09-24T10:59:18+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/chuangye/6469811.html",
+      "title": "11个人、零融资、年入2亿美元：Midjourney如何用“美学”打败OpenAI",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-25T04:51:33.038709+00:00",
+      "source_date": "2026-09-25T03:23:30+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@heyaman/ai-can-generate-the-screen-experience-architecture-still-requires-judgment-1e9a11938f26?source=rss------user_experience-5",
+      "title": "AI可以生成屏幕。体验架构仍然需要判断",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-09-25T04:51:36.845493+00:00",
+      "source_date": "2026-09-24T17:08:06+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1185690/rang-star-nu-wei-er-she-ji-de-an-dao-er-la-querola-zhu-zhai-zao-yu-da-huo-yan-zhong-sun-hui",
+      "title": "让·努维尔设计的安道尔 La Querola 住宅遭遇大火严重损毁",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-25T04:51:36.845534+00:00",
+      "source_date": "2026-09-24T07:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@designerlifestyle/what-is-heat-mapping-and-how-does-it-help-ux-designers-0186e17fbb3c?source=rss------design-5",
+      "title": "什么是热图以及它如何帮助用户体验设计师？",
+      "source": "Medium · Design",
+      "language": "en",
+      "published_at": "2026-09-25T04:51:43.558863+00:00",
+      "source_date": "2026-09-25T02:41:22+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1185578/stroog-headquarters-mount-fuji-architects-studio",
+      "title": "STROOG 总部 / MOUNT FUJI ARCHITECTS STUDIO",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-25T04:51:45.079104+00:00",
+      "source_date": "2026-09-24T03:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1185735/berna-zhu-zhai-hiro-arquitectos",
+      "title": "伯尔尼住宅 / Hiro Arquitetos",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-25T04:51:47.751066+00:00",
+      "source_date": "2026-09-24T19:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1185532/arcipressi-zhu-zhai",
+      "title": "阿奇普拉西住房",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-25T04:51:50.186966+00:00",
+      "source_date": "2026-09-24T06:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1185492/jin-sha-sa-zan-duo-zhong-yang-shi-chang-think-tank-architecture",
+      "title": "金沙萨赞多中央市场 / THINK TANK architecture",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-25T04:51:50.187008+00:00",
+      "source_date": "2026-09-24T07:00:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.archdaily.com/1185629/the-iloominate-public-toilet-studio-10",
+      "title": "iLOOminate 公共厕所 / Studio 10",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-25T04:51:53.322490+00:00",
+      "source_date": "2026-09-24T00:00:00+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/design/designeuropa-next-generation-award-winner-maria-gil-interview/",
       "title": "“强大的设计不断提出问题”下一代获胜者玛丽亚·吉尔谈工艺和身份",
       "source": "designboom",
