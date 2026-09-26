@@ -2,6 +2,132 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.archdaily.com/1185777/tallinn-design-festival-2026-future-of-product-design",
+      "title": "2026 年塔林设计节：产品设计的未来",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-26T04:51:13.783563+00:00",
+      "source_date": "2026-09-25T09:25:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.com/1185764/interihotel",
+      "title": "因特尔酒店",
+      "source": "ArchDaily",
+      "language": "en",
+      "published_at": "2026-09-26T04:51:16.475475+00:00",
+      "source_date": "2026-09-25T09:10:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1185768/interihotel",
+      "title": "因特尔酒店",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-26T04:51:16.642092+00:00",
+      "source_date": "2026-09-25T09:10:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@SamerTallauze/ux-is-moving-beyond-screens-what-google-research-on-self-evolving-interfaces-means-for-designers-77ef308b11f4?source=rss------product_design-5",
+      "title": "用户体验正在超越屏幕：谷歌关于自我进化界面的研究对设计师意味着什么",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-09-26T04:51:23.241485+00:00",
+      "source_date": "2026-09-26T04:07:30+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@SamerTallauze/ux-is-moving-beyond-screens-what-google-research-on-self-evolving-interfaces-means-for-designers-77ef308b11f4?source=rss------user_experience-5",
+      "title": "用户体验正在超越屏幕：谷歌关于自我进化界面的研究对设计师意味着什么",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-09-26T04:51:24.264755+00:00",
+      "source_date": "2026-09-26T04:07:30+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/design/aluminum-bolted-steel-platform-bed-architectural-piece-paris-design-week-rik-frans-jansen-brut-studios/",
+      "title": "巴黎设计周上，铝和螺栓钢将平台床变成建筑作品",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-26T04:51:25.419896+00:00",
+      "source_date": "2026-09-25T15:35:41+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/architecture/flaneur-birth-modern-urban-spectator/",
+      "title": "闲逛者和现代城市观众的诞生",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-26T04:51:33.723882+00:00",
+      "source_date": "2026-09-25T10:50:29+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/readers/traditional-emirati-patterns-craft-al-maktoum-archives-interiors-dubai-kart-group/",
+      "title": "传统的阿联酋图案和工艺框架迪拜阿勒马克图姆档案馆的室内设计",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-26T04:51:35.532518+00:00",
+      "source_date": "2026-09-25T06:15:47+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.archdaily.cn/zh/1185780/2026nian-ta-lin-she-ji-jie-chan-pin-she-ji-de-wei-lai",
+      "title": "2026年塔林设计节：产品设计的未来",
+      "source": "ArchDaily 中文",
+      "language": "zh",
+      "published_at": "2026-09-26T04:51:35.532555+00:00",
+      "source_date": "2026-09-25T09:25:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6470225.html",
+      "title": "体验 PixVerse R2：世界模型的产品流程已经变了",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-26T04:51:35.532577+00:00",
+      "source_date": "2026-09-25T10:35:47+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.designboom.com/art/celeste-boursier-mougenot-floating-ceramic-orchestra-outdoors-athens-clinamen-onassis-mandra/",
+      "title": "céleste boursier-mougenot 将他的漂浮陶瓷乐团带到雅典户外",
+      "source": "designboom",
+      "language": "en",
+      "published_at": "2026-09-26T04:51:36.570517+00:00",
+      "source_date": "2026-09-25T07:45:25+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6469962.html",
+      "title": "做 Agent 半年才醒悟：对话框只是入口，真正的核心是任务闭环",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-26T04:51:36.570558+00:00",
+      "source_date": "2026-09-25T07:10:17+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/pd/6470196.html",
+      "title": "我所了解的机器视觉检测产品应用（4）：把算子做成产品，参数、公差、复检逻辑怎么设计",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-26T04:51:36.570581+00:00",
+      "source_date": "2026-09-26T00:42:12+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6470241.html",
+      "title": "豆包前负责人，又做了个AI",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-26T04:51:36.570598+00:00",
+      "source_date": "2026-09-25T08:55:22+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.designboom.com/architecture/mpnyc-manhattan-projects-new-york-city-former-port-warehouse-adaptable-cultural-space-piraeus-andreas-kostopoulos/",
       "title": "MPNYC 将前港口仓库改造成比雷埃夫斯适应性文化空间",
       "source": "designboom",
