@@ -12,11 +12,13 @@ import json
 import os
 import re
 import urllib.parse
+import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
+import time
 
 try:
     import trafilatura
@@ -32,21 +34,23 @@ USER_AGENT = "DesignDigestRSS/2.0 (+https://github.com/George-li-x/design-articl
 ARTICLES_PER_DAY = 20
 CHINESE_PER_DAY = 8
 UI_UX_TARGET_PER_DAY = 10
-UI_UX_MAX_PER_DAY = 10
-ARCHITECTURE_MAX_PER_DAY = 4
+PRODUCT_TARGET_PER_DAY = 10
 ARCHIVE_RETENTION_DAYS = 180
 MAX_TRANSLATION_CHARS = 3200
 MEDIUM_AUTHOR_FEEDS: dict[str, dict[str, str]] = {}
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
 OPENAI_TRANSLATION_MODEL = os.getenv("OPENAI_TRANSLATION_MODEL", "gpt-4.1-mini")
+OPENAI_MIN_INTERVAL_SECONDS = 4
+OPENAI_MAX_RETRIES = 3
+_last_openai_request_at = 0.0
 KEYWORDS = {
     "product": 9, "design": 7, "designer": 6, "ux": 10, "ui": 10,
     "user experience": 10, "interface": 8, "usability": 9, "research": 7,
-    "furniture": 9, "interior": 9, "architecture": 7, "industrial": 9,
+    "furniture": 9, "industrial": 9,
     "typography": 6, "visual": 5, "service design": 9, "accessibility": 9,
     "interaction": 8, "material": 5, "sustainab": 7, "innovation": 5,
     "产品": 9, "设计": 7, "用户体验": 10, "界面": 8, "交互": 8,
-    "家具": 9, "室内": 9, "建筑": 7, "无障碍": 9, "服务设计": 9,
+    "家具": 9, "无障碍": 9, "服务设计": 9,
     "可持续": 7, "调研": 7,
 }
 UI_UX_TERMS = {
@@ -56,7 +60,13 @@ UI_UX_TERMS = {
 }
 ARCHITECTURE_TERMS = {
     "architecture", "architect", "building", "pavilion", "facade", "interior",
-    "建筑", "建筑师", "展馆", "立面", "室内", "住宅", "公寓",
+    "residence", "residential", "apartment", "villa", "house tour", "floor plan",
+    "建筑", "建筑师", "展馆", "立面", "室内", "住宅", "公寓", "别墅", "改造项目",
+}
+PRODUCT_TERMS = {
+    "product", "industrial", "furniture", "material", "packaging", "hardware",
+    "wearable", "consumer tech", "physical product", "产品", "产品设计", "工业设计",
+    "家具", "材料", "包装", "硬件", "可穿戴",
 }
 CONTENT_NS = "http://purl.org/rss/1.0/modules/content/"
 MEDIA_NS = "http://search.yahoo.com/mrss/"
@@ -175,7 +185,7 @@ def translate_with_openai(value: str) -> str:
         "Translate the following design article content into natural, professional Simplified Chinese. "
         "Preserve every HTML tag, attribute, URL, image, list and heading exactly; translate only visible text. "
         "Do not summarize, omit, add commentary, or wrap the answer in Markdown fences. "
-        "Use established Chinese UX, UI, product-design and architecture terminology.\n\n"
+        "Use established Chinese UX, UI and product-design terminology.\n\n"
         f"CONTENT:\n{value}"
     )
     payload = json.dumps({
@@ -186,7 +196,13 @@ def translate_with_openai(value: str) -> str:
         ],
         "temperature": 0.1,
     }).encode("utf-8")
-    try:
+    global _last_openai_request_at
+    for attempt in range(OPENAI_MAX_RETRIES):
+        # Keep below common per-minute API limits. This is intentionally shared
+        # across every article and every HTML batch in a run.
+        delay = OPENAI_MIN_INTERVAL_SECONDS - (time.monotonic() - _last_openai_request_at)
+        if delay > 0:
+            time.sleep(delay)
         request = urllib.request.Request(
             "https://api.openai.com/v1/chat/completions",
             data=payload,
@@ -197,13 +213,28 @@ def translate_with_openai(value: str) -> str:
             },
             method="POST",
         )
-        with urllib.request.urlopen(request, timeout=45) as response:
-            result = json.loads(response.read().decode("utf-8"))
-        translated = result["choices"][0]["message"]["content"].strip()
-        return translated.replace("```html", "").replace("```", "").strip()
-    except Exception as error:
-        print(f"OpenAI translation unavailable; using fallback: {type(error).__name__}")
-        return ""
+        try:
+            _last_openai_request_at = time.monotonic()
+            with urllib.request.urlopen(request, timeout=45) as response:
+                result = json.loads(response.read().decode("utf-8"))
+            translated = result["choices"][0]["message"]["content"].strip()
+            return translated.replace("```html", "").replace("```", "").strip()
+        except urllib.error.HTTPError as error:
+            if error.code == 429 and attempt + 1 < OPENAI_MAX_RETRIES:
+                retry_after = error.headers.get("Retry-After", "")
+                try:
+                    wait_seconds = min(max(float(retry_after), 4), 30)
+                except ValueError:
+                    wait_seconds = 5 * (attempt + 1)
+                print(f"OpenAI rate limited; retrying in {wait_seconds:.0f}s")
+                time.sleep(wait_seconds)
+                continue
+            print(f"OpenAI translation unavailable; using fallback: HTTP {error.code}")
+            return ""
+        except Exception as error:
+            print(f"OpenAI translation unavailable; using fallback: {type(error).__name__}")
+            return ""
+    return ""
 
 
 def meta_value(page: str, property_name: str) -> str:
@@ -378,53 +409,47 @@ def paragraphs_from_text(value: str) -> str:
 def design_area(article: dict) -> str:
     """Classify articles for quota enforcement; article text beats source defaults."""
     haystack = (article["title"] + " " + article["summary"]).lower()
-    if any(term in haystack for term in UI_UX_TERMS):
-        return "ui_ux"
     if any(term in haystack for term in ARCHITECTURE_TERMS):
         return "architecture"
+    if any(term in haystack for term in UI_UX_TERMS):
+        return "ui_ux"
+    if any(term in haystack for term in PRODUCT_TERMS):
+        return "product"
     topics = set(article["source"].get("topics", []))
     if topics.intersection({"ux", "ui", "research", "web"}):
         return "ui_ux"
-    if topics.intersection({"architecture", "interior"}):
-        return "architecture"
-    return "other"
+    if topics.intersection({"product", "industrial", "furniture", "technology", "design", "graphic"}):
+        return "product"
+    return "product"
 
 
-def select_bucket(items: list[dict], quota: int, ui_ux_target: int, ui_ux_max: int, architecture_max: int) -> list[dict]:
-    """Select one language bucket while guaranteeing UI/UX and limiting architecture."""
+def select_bucket(items: list[dict], quota: int, ui_ux_target: int, product_target: int) -> list[dict]:
+    """Select one language bucket with a deliberate UI/UX-product balance."""
     selected = [item for item in items if design_area(item) == "ui_ux"][:ui_ux_target]
+    selected += [item for item in items if design_area(item) == "product" and item not in selected][:product_target]
     for item in items:
         if len(selected) >= quota:
             break
         if item in selected:
             continue
-        if design_area(item) == "ui_ux":
-            ui_ux_count = sum(design_area(chosen) == "ui_ux" for chosen in selected)
-            if ui_ux_count >= ui_ux_max:
-                continue
-        if design_area(item) == "architecture":
-            architecture_count = sum(design_area(chosen) == "architecture" for chosen in selected)
-            if architecture_count >= architecture_max:
-                continue
         selected.append(item)
     return selected
 
 
 def select_articles(candidates: list[dict]) -> list[dict]:
+    # Architecture and interiors are a hard exclusion, including during every
+    # fallback path. This service is intentionally for UI/UX and product design.
+    candidates = [item for item in candidates if design_area(item) != "architecture"]
     candidates.sort(key=score, reverse=True)
     chinese = [item for item in candidates if item["source"].get("language") == "zh" or is_chinese(item["title"])]
     international = [item for item in candidates if item not in chinese]
-    selected = select_bucket(chinese, CHINESE_PER_DAY, 4, 4, 2)
-    selected += select_bucket(international, ARTICLES_PER_DAY - CHINESE_PER_DAY, UI_UX_TARGET_PER_DAY - 4, 6, 2)
+    selected = select_bucket(chinese, CHINESE_PER_DAY, 4, 4)
+    selected += select_bucket(international, ARTICLES_PER_DAY - CHINESE_PER_DAY, UI_UX_TARGET_PER_DAY - 4, PRODUCT_TARGET_PER_DAY - 4)
     if len(selected) < ARTICLES_PER_DAY:
         for item in candidates:
             if len(selected) >= ARTICLES_PER_DAY:
                 break
             if item in selected:
-                continue
-            if design_area(item) == "ui_ux" and sum(design_area(chosen) == "ui_ux" for chosen in selected) >= UI_UX_MAX_PER_DAY:
-                continue
-            if design_area(item) == "architecture" and sum(design_area(chosen) == "architecture" for chosen in selected) >= ARCHITECTURE_MAX_PER_DAY:
                 continue
             selected.append(item)
     return sorted(selected, key=score, reverse=True)[:ARTICLES_PER_DAY]
@@ -501,8 +526,8 @@ def main() -> None:
     rejected = {article["link"] for article in selected if not has_usable_body(article)}
     if rejected:
         selected = [article for article in selected if article["link"] not in rejected]
-        selected += [article for article in candidates if article["link"] not in rejected and article not in selected and has_usable_body(article)][:ARTICLES_PER_DAY - len(selected)]
-        selected = sorted(selected, key=score, reverse=True)[:ARTICLES_PER_DAY]
+        replacement_pool = [article for article in candidates if article["link"] not in rejected and article not in selected and has_usable_body(article)]
+        selected = select_articles(selected + replacement_pool)
     if not selected:
         raise RuntimeError("No new articles found; RSS left unchanged.")
     selected = [fetch_full_article(article) for article in selected]
@@ -513,7 +538,7 @@ def main() -> None:
     channel = ET.SubElement(rss, "channel")
     ET.SubElement(channel, "title").text = "全球设计文章精选（中文全文版）"
     ET.SubElement(channel, "link").text = "https://george-li-x.github.io/design-article-rss/"
-    ET.SubElement(channel, "description").text = "每日 20 篇设计文章：8 篇中文社区文章、12 篇国际文章的中文全文版，保留正文排版、文内图片和原文链接。"
+    ET.SubElement(channel, "description").text = "每日 20 篇设计文章：8 篇中文社区文章、12 篇国际文章的中文全文版，聚焦 UI/UX 与产品设计，保留正文排版、文内图片和原文链接。"
     ET.SubElement(channel, "language").text = "zh-CN"
     ET.SubElement(channel, "lastBuildDate").text = email.utils.format_datetime(datetime.now(timezone.utc))
     manifest = [build_item(channel, article) for article in selected]
