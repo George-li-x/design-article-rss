@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.woshipm.com/ai/6470199.html",
+      "title": "豆包新版创意设计内测：Seedream 5.0 Flash 画得快，改得动，文字也更稳了",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-26T07:36:38.082724+00:00",
+      "source_date": "2026-09-26T05:44:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/09/25/the-gaming-controller-that-refuses-to-look-like-one/?utm_source=rss&utm_medium=rss&utm_campaign=the-gaming-controller-that-refuses-to-look-like-one",
+      "title": "拒绝看起来像一个游戏控制器",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-09-26T07:39:09.412459+00:00",
+      "source_date": "2026-09-25T16:20:25+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.nngroup.com/articles/disclose-ai-paced/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "你什么时候应该披露人工智能的使用？节奏框架",
+      "source": "Nielsen Norman Group",
+      "language": "en",
+      "published_at": "2026-09-26T07:41:24.810517+00:00",
+      "source_date": "2026-09-25T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/09/25/the-power-strip-that-actually-moves-with-your-desk/?utm_source=rss&utm_medium=rss&utm_campaign=the-power-strip-that-actually-moves-with-your-desk",
+      "title": "可随办公桌移动的电源板",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-09-26T07:43:38.857731+00:00",
+      "source_date": "2026-09-25T21:30:37+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/09/25/metmo-eddy-makes-gravity-look-like-it-changed-its-mind/?utm_source=rss&utm_medium=rss&utm_campaign=metmo-eddy-makes-gravity-look-like-it-changed-its-mind",
+      "title": "MetMo Eddy 让重力看起来像是改变了主意",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-09-26T07:46:12.454274+00:00",
+      "source_date": "2026-09-25T23:30:51+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6470286.html",
+      "title": "让 AI 帮你操作手机，这个 GitHub 开源项目支持安卓和 iPhone。",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-26T07:46:12.454314+00:00",
+      "source_date": "2026-09-26T06:46:31+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@cnl227/stretch-mobile-e-commerce-ux-ui-case-study-fbaeda3e9768?source=rss------user_experience-5",
+      "title": "Stretch：移动电子商务 UX/UI 案例研究",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-09-26T07:48:07.983347+00:00",
+      "source_date": "2026-09-26T04:06:52+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/09/25/this-rugged-9-8kg-laptop-folds-out-into-a-three-14-inch-screen-mobile-workstation/?utm_source=rss&utm_medium=rss&utm_campaign=this-rugged-9-8kg-laptop-folds-out-into-a-three-14-inch-screen-mobile-workstation",
+      "title": "这款坚固耐用的 9.8 公斤笔记本电脑可折叠成三个 14 英寸屏幕的移动工作站",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-09-26T07:49:44.860372+00:00",
+      "source_date": "2026-09-25T15:20:47+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6470240.html",
+      "title": "扎克伯格谈Muse：个人Agent必须从预训练开始设计，虚拟机、记忆和权限系统是巨头的全栈护城河",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-26T07:49:44.860408+00:00",
+      "source_date": "2026-09-25T08:45:25+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6470207.html",
+      "title": "8月全球吸金530万美元、母公司预计2028年上市，韩国短剧产品Vigloo将继续加大AI投入？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-26T07:49:44.860427+00:00",
+      "source_date": "2026-09-26T04:23:23+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6470242.html",
+      "title": "DeepSeek Harness客户端来了，AI办公又多了一个王者？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-26T07:49:44.860448+00:00",
+      "source_date": "2026-09-25T09:02:46+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6470284.html",
+      "title": "AI 时代的 App Store 时刻到了？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-26T07:49:44.860466+00:00",
+      "source_date": "2026-09-26T07:16:29+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6467720.html",
+      "title": "参加了几场AI营销沙龙之后，我无语了。。。",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-26T07:49:44.860484+00:00",
+      "source_date": "2026-09-26T03:08:35+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/chuangye/6468763.html",
+      "title": "3个人，把 AI 动漫做成了“短剧平台”：3亿播放，3000个创作者，每天生产 500集",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-09-26T07:49:44.860502+00:00",
+      "source_date": "2026-09-26T02:04:42+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@hoogopi01/330ml-sleek-can-mockup-bundle-the-ultimate-psd-kit-for-beverage-designers-f1b43f77b9ac?source=rss------design-5",
+      "title": "330 毫升时尚罐模型捆绑包 — 饮料设计师的终极 PSD 套件",
+      "source": "Medium · Design",
+      "language": "en",
+      "published_at": "2026-09-26T07:50:22.989920+00:00",
+      "source_date": "2026-09-26T07:16:52+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.theverge.com/tech/1000772/apple-code-leak-homepod-mini-2-ipad-mini-8-apple-tv-4k",
+      "title": "泄露的信息揭示了新的 Apple HomePod mini、iPad mini 和 Apple TV 4K",
+      "source": "The Verge Design",
+      "language": "en",
+      "published_at": "2026-09-26T07:51:20.556033+00:00",
+      "source_date": "2026-09-25T16:22:05+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
+      "title": "特斯拉的擎天柱机器人正在经历成长的阵痛",
+      "source": "The Verge Design",
+      "language": "en",
+      "published_at": "2026-09-26T07:51:58.846865+00:00",
+      "source_date": "2026-09-25T17:01:36+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.theverge.com/tech/1000729/moment-pro-blackmagic-camera-ii-ios-app-iphone-18-pro-max-aperature-camera",
+      "title": "这些相机应用程序可让您更好地控制 iPhone 18 Pro 的光圈",
+      "source": "The Verge Design",
+      "language": "en",
+      "published_at": "2026-09-26T07:52:37.344858+00:00",
+      "source_date": "2026-09-25T18:24:47+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.fastcompany.com/91574333/designing-for-the-edges-improves-the-center?utm_source=postup&utm_medium=email&utm_campaign=design&position=4&partner=newsletter&campaign_date=09262026",
+      "title": "边缘设计改善了中心",
+      "source": "Fast Company Design",
+      "language": "en",
+      "published_at": "2026-09-26T07:53:15.298132+00:00",
+      "source_date": "2026-07-17T12:00:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.fastcompany.com/91522993/this-outdoor-fireplace-costs-nearly-five-grand-and-it-might-just-be-worth-it?utm_source=postup&utm_medium=email&utm_campaign=design&position=14&partner=newsletter&campaign_date=09262026",
+      "title": "这个户外壁炉花费近 5 英镑——但也许物有所值",
+      "source": "Fast Company Design",
+      "language": "en",
+      "published_at": "2026-09-26T07:53:54.518408+00:00",
+      "source_date": "2026-04-09T10:00:00+00:00",
+      "full_text": false
+    },
+    {
       "url": "https://www.archdaily.com/1185777/tallinn-design-festival-2026-future-of-product-design",
       "title": "2026 年塔林设计节：产品设计的未来",
       "source": "ArchDaily",
