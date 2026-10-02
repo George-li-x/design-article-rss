@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.woshipm.com/pmd/6471544.html",
+      "title": "AI 时代产品经理的竞争力迭代：从方法论执行到经营判断力升维",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-02T05:29:16.312779+00:00",
+      "source_date": "2026-10-01T08:20:12+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/01/ressence-doesnt-want-your-watch-to-look-like-a-watch/?utm_source=rss&utm_medium=rss&utm_campaign=ressence-doesnt-want-your-watch-to-look-like-a-watch",
+      "title": "Ressence 不希望您的手表看起来像手表",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-02T05:31:30.679206+00:00",
+      "source_date": "2026-10-01T19:20:47+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/evaluating/6472859.html",
+      "title": "Muse 深度解析：当 AI 有了“一张脸”和“一台云端电脑”，Meta 把个人智能体做成了消费品",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-02T05:31:30.679252+00:00",
+      "source_date": "2026-10-02T02:37:22+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/01/would-you-pay-14000-for-an-iphone-duo-without-any-cameras/?utm_source=rss&utm_medium=rss&utm_campaign=would-you-pay-14000-for-an-iphone-duo-without-any-cameras",
+      "title": "你愿意花 14,000 美元购买一部没有摄像头的 iPhone Duo 吗？",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-02T05:32:48.546750+00:00",
+      "source_date": "2026-10-01T20:30:23+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/01/samsungs-tab-s12-includes-the-pen-apple-charges-you-extra-for/?utm_source=rss&utm_medium=rss&utm_campaign=samsungs-tab-s12-includes-the-pen-apple-charges-you-extra-for",
+      "title": "三星 Tab S12 包含 Apple 额外收费的笔",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-02T05:34:25.112906+00:00",
+      "source_date": "2026-10-01T09:15:40+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6472661.html",
+      "title": "谈 Agent 权限设定：点了“同意”，它会只做你允许的事吗？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-02T05:34:25.112949+00:00",
+      "source_date": "2026-10-02T02:16:46+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@uxcapsule.sknill/5-ways-sustainable-experience-changes-product-design-21c7690a2afb?source=rss------product_design-5",
+      "title": "可持续体验改变产品设计的 5 种方式",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-10-02T05:37:17.192729+00:00",
+      "source_date": "2026-10-02T03:16:12+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@uxcapsule.sknill/5-ways-sustainable-experience-changes-product-design-21c7690a2afb?source=rss------user_experience-5",
+      "title": "可持续体验改变产品设计的 5 种方式",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-10-02T05:40:09.580318+00:00",
+      "source_date": "2026-10-02T03:16:12+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/01/designers-already-prototype-hardware-now-theyre-prototyping-demand-too/?utm_source=rss&utm_medium=rss&utm_campaign=designers-already-prototype-hardware-now-theyre-prototyping-demand-too",
+      "title": "设计师已经制作了硬件原型 - 现在他们也在制作需求原型",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-02T05:42:06.127966+00:00",
+      "source_date": "2026-10-02T00:30:33+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6473179.html",
+      "title": "白宫把 2.9 万个政府网站，融合成了一个 AI",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-02T05:42:06.128009+00:00",
+      "source_date": "2026-10-02T01:25:58+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/pmd/6473224.html",
+      "title": "产品开发中，产品经理为什么特别重要？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-02T05:42:06.128037+00:00",
+      "source_date": "2026-10-02T02:54:12+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/chuangye/6471435.html",
+      "title": "把面试官和难缠的客户做成 AI，这家公司吸引了近百万人",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-02T05:42:06.128063+00:00",
+      "source_date": "2026-10-02T03:24:24+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/embodied/6473110.html",
+      "title": "具身智能最性感的生意，藏在“边角料”里？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-02T05:42:06.128087+00:00",
+      "source_date": "2026-10-02T05:13:49+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6473089.html",
+      "title": "月度/季度套娃图在数据可视化中的应用",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-02T05:42:06.128108+00:00",
+      "source_date": "2026-10-02T04:57:20+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/01/a-handmade-walnut-tray-thats-prettier-empty-than-most-are-full/?utm_source=rss&utm_medium=rss&utm_campaign=a-handmade-walnut-tray-thats-prettier-empty-than-most-are-full",
+      "title": "手工制作的核桃托盘，空的比满的还要漂亮",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-02T05:43:23.006617+00:00",
+      "source_date": "2026-10-01T14:20:54+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@hello_78425/the-most-expensive-part-of-design-might-not-be-the-design-50eb9100475a?source=rss------product_design-5",
+      "title": "设计中最昂贵的部分可能不是设计",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-10-02T05:44:40.014867+00:00",
+      "source_date": "2026-10-02T00:06:15+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@Momentum77/what-i-learned-this-week-about-material-design-3-3501fa365e80?source=rss------product_design-5",
+      "title": "本周我学到的有关 Material Design 3 的知识",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-10-02T05:46:15.766164+00:00",
+      "source_date": "2026-10-02T01:02:53+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/01/samsung-galaxy-buds-on-let-you-listen-to-music-without-blocking-your-ears/?utm_source=rss&utm_medium=rss&utm_campaign=samsung-galaxy-buds-on-let-you-listen-to-music-without-blocking-your-ears",
+      "title": "Samsung Galaxy Buds On 让您聆听音乐而不遮挡耳朵",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-02T05:47:51.422117+00:00",
+      "source_date": "2026-10-01T18:20:54+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.theverge.com/news/1003515/microsoft-ryan-roslansky-office-teams-linkedin-leaving",
+      "title": "微软 Office 和 Teams 负责人即将离职",
+      "source": "The Verge Design",
+      "language": "en",
+      "published_at": "2026-10-02T05:49:07.820301+00:00",
+      "source_date": "2026-10-01T16:09:35+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@uxferjvarela/hablemos-de-progressive-disclosure-cc208e823816?source=rss------user_experience-5",
+      "title": "我们来谈谈渐进式披露",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-10-02T05:50:06.406438+00:00",
+      "source_date": "2026-10-02T02:55:50+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://uxdesign.cc/headless-ai-will-make-every-product-a-platform-heres-what-to-consider-when-designing-for-this-f219c33245c7?source=rss----138adf9c44c---4",
       "title": "无头人工智能将使每个产品成为一个平台。以下是为此设计时要考虑的事项。",
       "source": "UX Collective",
