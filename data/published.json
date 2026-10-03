@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.yankodesign.com/2026/10/02/an-s-pen-for-the-iphone-duo-yes-please/?utm_source=rss&utm_medium=rss&utm_campaign=an-s-pen-for-the-iphone-duo-yes-please",
+      "title": "iPhone Duo 的 S-Pen？是的，请！",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-03T05:13:53.579777+00:00",
+      "source_date": "2026-10-02T20:30:23+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/02/improved-neurable-one-anc-headphones-actively-track-brain-activity-while-sounding-great/?utm_source=rss&utm_medium=rss&utm_campaign=improved-neurable-one-anc-headphones-actively-track-brain-activity-while-sounding-great",
+      "title": "改进的 Neurable One ANC 耳机可主动跟踪大脑活动，同时听起来很棒",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-03T05:15:29.490264+00:00",
+      "source_date": "2026-10-03T00:30:33+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/02/the-ripe-banana-g-shock-nobody-saw-coming-at-170/?utm_source=rss&utm_medium=rss&utm_campaign=the-ripe-banana-g-shock-nobody-saw-coming-at-170",
+      "title": "无人知晓的成熟香蕉 G-SHOCK 售价 170 美元",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-03T05:17:05.377151+00:00",
+      "source_date": "2026-10-02T19:20:35+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/02/huawei-matepad-pro-12-review-stunning-hardware-one-familiar-caveat/?utm_source=rss&utm_medium=rss&utm_campaign=huawei-matepad-pro-12-review-stunning-hardware-one-familiar-caveat",
+      "title": "华为 MatePad Pro 12 英寸评测：令人惊叹的硬件，一个熟悉的警告",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-03T05:20:36.408931+00:00",
+      "source_date": "2026-10-02T15:20:52+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6473390.html",
+      "title": "半年人工喂出来的AI客服：从0到1打磨生产级RAG系统，越用越聪明",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-03T05:20:36.408984+00:00",
+      "source_date": "2026-10-03T02:29:46+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/02/mobvoi-ticnote-smartwatch-has-one-button-and-its-built-to-remember-what-you-often-forget/?utm_source=rss&utm_medium=rss&utm_campaign=mobvoi-ticnote-smartwatch-has-one-button-and-its-built-to-remember-what-you-often-forget",
+      "title": "Mobvoi TicNote 智能手表只有一个按钮，可以记住您经常忘记的内容",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-03T05:22:11.732444+00:00",
+      "source_date": "2026-10-02T13:20:02+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/02/this-249-player-brings-back-the-ipod-wheel-and-with-it-the-lost-art-of-owning-your-music/?utm_source=rss&utm_medium=rss&utm_campaign=this-249-player-brings-back-the-ipod-wheel-and-with-it-the-lost-art-of-owning-your-music",
+      "title": "这款售价 249 美元的播放器带回了 iPod 滚轮，并随之带来了失落的拥有音乐的艺术",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-03T05:23:10.130477+00:00",
+      "source_date": "2026-10-02T18:20:50+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6473116.html",
+      "title": "我们盘点了30款出海的AI+游戏产品，发现钱都流向了生产管线",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-03T05:23:10.130527+00:00",
+      "source_date": "2026-10-02T08:57:27+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6473412.html",
+      "title": "从一句话需求到可运营网站：WorkBuddy 建站工作流实录",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-03T05:23:10.130555+00:00",
+      "source_date": "2026-10-03T04:43:37+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6473164.html",
+      "title": "字节「小豆」呼之欲出，腾讯三路推进，个人 Agent 已成大厂组织能力之战",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-03T05:23:10.130581+00:00",
+      "source_date": "2026-10-02T07:33:57+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6472126.html",
+      "title": "妈妈不愿写回忆录，他做了一本能听见父母声音的书",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-03T05:23:10.130606+00:00",
+      "source_date": "2026-10-03T01:12:54+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/02/you-can-buy-a-server-rack-plush-toy-that-actually-emits-data-center-noise-when-you-hug-it/?utm_source=rss&utm_medium=rss&utm_campaign=you-can-buy-a-server-rack-plush-toy-that-actually-emits-data-center-noise-when-you-hug-it",
+      "title": "您可以购买服务器机架毛绒玩具，当您拥抱它时，它实际上会发出数据中心噪音",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-03T05:24:26.156267+00:00",
+      "source_date": "2026-10-02T22:30:43+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@junaidmaniyar/stop-saying-i-like-it-how-to-master-the-art-of-productive-design-critique-deaf1e98d745?source=rss------user_experience-5",
+      "title": "别再说“我喜欢”：如何掌握产品设计批评的艺术",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-10-03T05:25:05.320658+00:00",
+      "source_date": "2026-10-02T14:14:20+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/02/googles-fix-for-one-handed-typing-is-a-rolling-belt-of-letters/?utm_source=rss&utm_medium=rss&utm_campaign=googles-fix-for-one-handed-typing-is-a-rolling-belt-of-letters",
+      "title": "谷歌对单手打字的解决方案是一条滚动的字母带",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-03T05:26:40.264463+00:00",
+      "source_date": "2026-10-02T09:15:21+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6473303.html",
+      "title": "Muse狂飙，龙虾退潮",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-03T05:26:40.264513+00:00",
+      "source_date": "2026-10-03T03:36:12+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6473406.html",
+      "title": "Higgsfield 创始人万字复盘：AI 应用死于自研模型的技术虚荣，控制流量路由才是真实护城河",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-03T05:26:40.264548+00:00",
+      "source_date": "2026-10-03T03:09:50+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6473404.html",
+      "title": "a16z 最新市场洞察：AI 拿走美国 VC 86% 的钱，toB 开始算 ROI，toC Agent 的入口机会……",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-03T05:26:40.264573+00:00",
+      "source_date": "2026-10-03T01:39:49+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@regular_sharper.00/a-chair-at-the-station-thats-how-it-starts-096188ad4d3e?source=rss------design-5",
+      "title": "车站的一把椅子。这就是它的开始。",
+      "source": "Medium · Design",
+      "language": "en",
+      "published_at": "2026-10-03T05:27:57.186856+00:00",
+      "source_date": "2026-10-03T04:01:01+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig",
+      "title": "Netflix 正在摆脱声望",
+      "source": "The Verge Design",
+      "language": "en",
+      "published_at": "2026-10-03T05:29:13.367926+00:00",
+      "source_date": "2026-10-02T20:30:26+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.fastcompany.com/91574333/designing-for-the-edges-improves-the-center?utm_source=postup&utm_medium=email&utm_campaign=design&position=4&partner=newsletter&campaign_date=10032026",
+      "title": "边缘设计改善了中心",
+      "source": "Fast Company Design",
+      "language": "en",
+      "published_at": "2026-10-03T05:29:51.545578+00:00",
+      "source_date": "2026-07-17T12:00:00+00:00",
+      "full_text": false
+    },
+    {
       "url": "https://www.woshipm.com/pmd/6471544.html",
       "title": "AI 时代产品经理的竞争力迭代：从方法论执行到经营判断力升维",
       "source": "人人都是产品经理",
