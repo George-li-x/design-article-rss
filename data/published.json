@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.woshipm.com/ai/6473822.html",
+      "title": "对话 Google Research 负责人：暴力堆卡已到尽头，下一代架构不在预训练里",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-06T06:14:08.862517+00:00",
+      "source_date": "2026-10-06T01:32:05+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/05/vosteeds-200-titanium-folder-is-slim-enough-to-forget-sharp-enough-to-remember/?utm_source=rss&utm_medium=rss&utm_campaign=vosteeds-200-titanium-folder-is-slim-enough-to-forget-sharp-enough-to-remember",
+      "title": "Vosteed 价值 200 美元的钛合金文件夹纤薄到令人忘记，锋利到足以记住",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-06T06:15:43.471662+00:00",
+      "source_date": "2026-10-06T01:45:50+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6473639.html",
+      "title": "我一行代码没写，DeepSeek Harness 自己组队给我造了个错题本插件",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-06T06:15:43.471708+00:00",
+      "source_date": "2026-10-05T07:12:01+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/prompt-as-self-portrait-de-slopifying-your-designs-the-strategic-designer-cf8162f43284?source=rss----138adf9c44c---4",
+      "title": "提示为自画像，消除设计的倾斜，战略设计师",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-10-06T06:16:22.060652+00:00",
+      "source_date": "2026-10-05T11:01:01+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/05/these-glass-vases-look-better-empty-and-nobody-questions-it/?utm_source=rss&utm_medium=rss&utm_campaign=these-glass-vases-look-better-empty-and-nobody-questions-it",
+      "title": "这些玻璃花瓶空着看起来更好，没有人质疑它",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-06T06:18:16.978139+00:00",
+      "source_date": "2026-10-05T14:20:14+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/evaluating/6473256.html",
+      "title": "万字拆解 DeepSeek Harness 桌面版：产品设计、任务实测与能力边界",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-06T06:18:16.978197+00:00",
+      "source_date": "2026-10-05T06:47:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/05/this-50000-brabus-electric-motorcycle-gives-urban-riders-a-rare-fragment-design-experience/?utm_source=rss&utm_medium=rss&utm_campaign=this-50000-brabus-electric-motorcycle-gives-urban-riders-a-rare-fragment-design-experience",
+      "title": "这款价值 5 万美元的 BRABUS 电动摩托车为城市骑手提供了难得的 Fragment 设计体验",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-06T06:20:12.389646+00:00",
+      "source_date": "2026-10-05T21:30:01+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/05/vollebak-built-a-50000-rock-jacket-out-of-54000-actual-wearable-slate-tiles/?utm_source=rss&utm_medium=rss&utm_campaign=vollebak-built-a-50000-rock-jacket-out-of-54000-actual-wearable-slate-tiles",
+      "title": "Vollebak 用 54,000 块实际可穿戴板岩砖打造了价值 50,000 美元的“Rock Jacket”",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-06T06:21:29.090690+00:00",
+      "source_date": "2026-10-05T18:20:27+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/05/nike-actually-made-sneakers-that-look-like-grandmas-couch/?utm_source=rss&utm_medium=rss&utm_campaign=nike-actually-made-sneakers-that-look-like-grandmas-couch",
+      "title": "耐克实际上制造了看起来像奶奶沙发的运动鞋",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-06T06:23:24.485887+00:00",
+      "source_date": "2026-10-05T09:15:25+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6473802.html",
+      "title": "AI 老和我抢网页，我给它配了个专用浏览器",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-06T06:23:24.485929+00:00",
+      "source_date": "2026-10-06T01:41:55+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@rimaaleksanyan2004/from-research-data-to-product-decisions-aee3b02417ab?source=rss------user_experience-5",
+      "title": "从研究数据到产品决策",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-10-06T06:24:02.583760+00:00",
+      "source_date": "2026-10-05T22:42:30+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/05/las-60-foot-light-sculpture-actually-makes-music-visible/?utm_source=rss&utm_medium=rss&utm_campaign=las-60-foot-light-sculpture-actually-makes-music-visible",
+      "title": "洛杉矶 60 英尺高的灯光雕塑让音乐变得可见",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-06T06:25:57.940429+00:00",
+      "source_date": "2026-10-05T19:20:02+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6473856.html",
+      "title": "我们盘点了半年数据，发现22万部AI短剧，播放量破亿的不到千分之五",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-06T06:25:57.940470+00:00",
+      "source_date": "2026-10-06T00:28:58+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6473810.html",
+      "title": "DeepSeek Harness 为什么要兼容 Claude Code Mods",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-06T06:25:57.940493+00:00",
+      "source_date": "2026-10-06T04:01:57+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6473814.html",
+      "title": "a16z：押注 AI 头部赢家，让增长跑赢估值",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-06T06:25:57.940515+00:00",
+      "source_date": "2026-10-06T02:13:58+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6473844.html",
+      "title": "什么是 AI Native，AI 原生团队如何搭建？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-06T06:25:57.940543+00:00",
+      "source_date": "2026-10-06T00:34:51+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.theverge.com/policy/1004926/matic-fcc-ban-waiver-conditional-approval",
+      "title": "Matic 是第一个获得 FCC 禁令豁免的机器人吸尘器，但并不是它需要它",
+      "source": "The Verge Design",
+      "language": "en",
+      "published_at": "2026-10-06T06:26:55.759394+00:00",
+      "source_date": "2026-10-06T06:03:46+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@syedrazayahoo1/why-do-some-homes-feel-expensive-without-expensive-furniture-8754102f22c1?source=rss------design-5",
+      "title": "为什么有些房子没有昂贵的家具却感觉很贵？",
+      "source": "Medium · Design",
+      "language": "en",
+      "published_at": "2026-10-06T06:28:51.046388+00:00",
+      "source_date": "2026-10-06T06:00:13+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@hello_94127/beyond-blank-walls-how-to-use-canvas-art-and-posters-to-define-your-homes-character-624bf57c644c?source=rss------design-5",
+      "title": "超越空白的墙壁：如何使用画布艺术和海报来定义您家的特色",
+      "source": "Medium · Design",
+      "language": "en",
+      "published_at": "2026-10-06T06:30:26.966379+00:00",
+      "source_date": "2026-10-06T05:11:32+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/05/wubens-prime-day-fall-2026-sale-has-a-different-light-for-every-kind-of-carry/?utm_source=rss&utm_medium=rss&utm_campaign=wubens-prime-day-fall-2026-sale-has-a-different-light-for-every-kind-of-carry",
+      "title": "Wuben 2026 年秋季 Prime Day 特卖为每种携带方式提供了不同的灯光",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-06T06:33:38.673450+00:00",
+      "source_date": "2026-10-05T23:30:08+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.yankodesign.com/2026/10/04/hilariously-practical-usb-c-cable-looks-exactly-like-a-construction-site-extension-cord/?utm_source=rss&utm_medium=rss&utm_campaign=hilariously-practical-usb-c-cable-looks-exactly-like-a-construction-site-extension-cord",
       "title": "搞笑实用的 USB-C 电缆看起来就像建筑工地的延长线",
       "source": "Yanko Design",
