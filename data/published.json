@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://uxdesign.cc/jev-how-to-use-it-for-better-faster-and-cheaper-user-decisions-in-ux-0e9907d2b6f7?source=rss----138adf9c44c---4",
+      "title": "Jev：如何使用它在用户体验中做出更好、更快、更便宜的用户决策",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-10-07T05:51:49.387730+00:00",
+      "source_date": "2026-10-06T23:35:43+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.woshipm.com/share/6473837.html",
+      "title": "我所了解的机器视觉检测产品应用（10）：一体机还是二次开发平台？差的不只是几十万",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-07T05:51:49.387782+00:00",
+      "source_date": "2026-10-07T03:50:48+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6473999.html",
+      "title": "设计系统负责人的语义生长：从追问1个Design Token开始",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-07T05:51:49.387812+00:00",
+      "source_date": "2026-10-07T00:23:27+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6473980.html",
+      "title": "科学广告奠基人×JWT掌舵人斯坦利·里索的28个广告信条",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-07T05:51:49.387840+00:00",
+      "source_date": "2026-10-07T00:47:59+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/pd/6473840.html",
+      "title": "IPMS 流程 toC的成长",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-07T05:51:49.387901+00:00",
+      "source_date": "2026-10-07T05:15:53+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/06/nobody-redesigned-the-allen-key-for-115-years-heres-the-fix/?utm_source=rss&utm_medium=rss&utm_campaign=nobody-redesigned-the-allen-key-for-115-years-heres-the-fix",
+      "title": "115 年来没有人重新设计内六角扳手。这是修复方法。",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-07T05:53:46.937550+00:00",
+      "source_date": "2026-10-06T10:07:13+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/06/the-7-tiny-home-upgrades-of-october-2026-that-dont-feel-like-a-compromise/?utm_source=rss&utm_medium=rss&utm_campaign=the-7-tiny-home-upgrades-of-october-2026-that-dont-feel-like-a-compromise",
+      "title": "2026 年 10 月的 7 项小型住宅升级，绝不妥协",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-07T05:56:38.791216+00:00",
+      "source_date": "2026-10-06T11:40:51+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/06/nike-quietly-dropped-the-glowiest-dunk-low-yet-for-halloween-2026/?utm_source=rss&utm_medium=rss&utm_campaign=nike-quietly-dropped-the-glowiest-dunk-low-yet-for-halloween-2026",
+      "title": "Nike 悄然推出 2026 年万圣节最闪亮 Dunk Low 低帮鞋款",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-07T05:57:56.364334+00:00",
+      "source_date": "2026-10-06T14:20:01+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/why-designers-need-to-stop-reporting-and-start-recommending-at-work-6fa861f58097?source=rss----138adf9c44c---4",
+      "title": "为什么设计师需要在工作中停止报告并开始推荐",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-10-07T05:58:34.778302+00:00",
+      "source_date": "2026-10-06T23:35:06+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://medium.com/@rajkanjariya2020/vibe-designing-is-killing-ux-and-nobody-is-talking-about-it-d43948377d81?source=rss------product_design-5",
+      "title": "氛围设计正在扼杀用户体验。没有人谈论它。",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-10-07T06:01:27.567524+00:00",
+      "source_date": "2026-10-07T02:41:01+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/operate/6473988.html",
+      "title": "产品指标怎么定？从业务结果倒推用户行为",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-07T06:01:27.567564+00:00",
+      "source_date": "2026-10-06T10:49:19+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6474232.html",
+      "title": "a16z 最新消费洞察：AI 的付费机会，藏在流量外",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-07T06:01:27.567591+00:00",
+      "source_date": "2026-10-07T01:52:50+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/evaluating/6473984.html",
+      "title": "红果凭什么让3.56亿人上头？通宵追剧后我知道了答案",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-07T06:01:27.567615+00:00",
+      "source_date": "2026-10-07T01:12:16+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6474119.html",
+      "title": "生鲜商城AI接待小助手，从意图识别到满意度（上）",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-07T06:01:27.567638+00:00",
+      "source_date": "2026-10-07T02:21:58+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@lizantai/im-leaving-product-design-for-data-analytics-and-i-m-taking-everything-with-me-6f121795eb4b?source=rss------product_design-5",
+      "title": "我将离开产品设计转向数据分析，我将带走一切",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-10-07T06:03:42.179212+00:00",
+      "source_date": "2026-10-06T20:31:53+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/06/lenovos-budget-brand-just-dropped-a-27-inch-all-in-one-pc-for-under-700/?utm_source=rss&utm_medium=rss&utm_campaign=lenovos-budget-brand-just-dropped-a-27-inch-all-in-one-pc-for-under-700",
+      "title": "联想的廉价品牌刚刚推出一款 27 英寸一体机，售价不到 700 美元",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-07T06:05:18.994563+00:00",
+      "source_date": "2026-10-06T21:30:42+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.theverge.com/gadgets/1006059/robot-vacuum-mop-roborock-qrevo-prime-day-deal-sale",
+      "title": "十月会员日期间最佳机器人吸尘器和拖把优惠",
+      "source": "The Verge Design",
+      "language": "en",
+      "published_at": "2026-10-07T06:08:50.216113+00:00",
+      "source_date": "2026-10-06T20:43:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@Upnishad/turning-spiras-onboarding-data-into-product-value-119bf6620721?source=rss------product_design-5",
+      "title": "将 Spira 的入职数据转化为产品价值",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-10-07T06:11:24.495066+00:00",
+      "source_date": "2026-10-07T04:06:38+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.theverge.com/news/1006238/apple-lg-homekit-rumor-fcc",
+      "title": "Apple 和 LG 合作开发新型智能家居设备，首先是锁、门铃和恒温器",
+      "source": "The Verge Design",
+      "language": "en",
+      "published_at": "2026-10-07T06:12:21.322506+00:00",
+      "source_date": "2026-10-06T21:54:26+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@Kelvin1ucheaga/product-psychology-how-mochi-uses-gamification-to-solve-the-saas-churn-problem-5c82bb248613?source=rss------user_experience-5",
+      "title": "产品心理学：Mochi 如何利用游戏化解决 SaaS 流失问题",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-10-07T06:13:19.176960+00:00",
+      "source_date": "2026-10-06T19:49:02+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.woshipm.com/ai/6473822.html",
       "title": "对话 Google Research 负责人：暴力堆卡已到尽头，下一代架构不在预训练里",
       "source": "人人都是产品经理",
