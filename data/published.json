@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.yankodesign.com/2026/10/08/this-vr-system-gets-bigger-so-it-doesnt-have-to-touch-your-face/?utm_source=rss&utm_medium=rss&utm_campaign=this-vr-system-gets-bigger-so-it-doesnt-have-to-touch-your-face",
+      "title": "这个 VR 系统变得更大，所以它不必触摸你的脸",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-09T06:03:55.294997+00:00",
+      "source_date": "2026-10-08T17:20:27+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/are-synthetic-users-really-the-future-of-ux-research-fd76fcb479ec?source=rss----138adf9c44c---4",
+      "title": "合成用户（真的）是用户体验研究的未来吗？",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-10-09T06:04:34.237157+00:00",
+      "source_date": "2026-10-08T23:16:42+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/08/the-8-tailgate-gadgets-of-october-2026-serious-fans-bring-before-kickoff/?utm_source=rss&utm_medium=rss&utm_campaign=the-8-tailgate-gadgets-of-october-2026-serious-fans-bring-before-kickoff",
+      "title": "2026 年 10 月忠实球迷在开球前带来的 8 个尾门小玩意",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-09T06:07:45.067346+00:00",
+      "source_date": "2026-10-08T23:30:40+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6475152.html",
+      "title": "3 个最近爆火的 Personal Agent ，在 GitHub 上有开源平替了。",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-09T06:07:45.067389+00:00",
+      "source_date": "2026-10-09T02:36:42+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6475120.html",
+      "title": "对话框不是Personal Agent的终局：Eazo让图形界面属于每个人",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-09T06:07:45.067417+00:00",
+      "source_date": "2026-10-09T01:14:19+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/08/this-30000-porsche-911-sofa-has-a-mini-bar-where-the-engine-should-be/?utm_source=rss&utm_medium=rss&utm_campaign=this-30000-porsche-911-sofa-has-a-mini-bar-where-the-engine-should-be",
+      "title": "这张价值 30,000 美元的保时捷 911 沙发有一个迷你吧，发动机应该在这个地方",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-09T06:09:21.404003+00:00",
+      "source_date": "2026-10-08T19:20:37+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@vishalwagh-designer/beyond-the-interface-how-i-think-about-ui-and-ux-in-greenaura-f879c52aa72e?source=rss------user_experience-5",
+      "title": "超越界面：我如何看待 GreenAura 中的 UI 和 UX",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-10-09T06:10:17.885665+00:00",
+      "source_date": "2026-10-08T18:11:54+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@naseebaashikh/design-that-guides-how-webpages-turn-visitors-into-customers-8f2474e6ed40?source=rss------user_experience-5",
+      "title": "指导性设计：网页如何将访问者变成客户",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-10-09T06:11:54.092761+00:00",
+      "source_date": "2026-10-09T04:30:11+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6475128.html",
+      "title": "AI 陪伴的下一步，会从恋爱游戏里走出来吗？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-09T06:11:54.092800+00:00",
+      "source_date": "2026-10-09T01:28:41+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6475143.html",
+      "title": "ChatGPT ：吞噬一切 App",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-09T06:11:54.092823+00:00",
+      "source_date": "2026-10-09T01:36:37+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/08/someone-fixed-jaguars-type-01-with-an-aggressive-sports-body-kit/?utm_source=rss&utm_medium=rss&utm_campaign=someone-fixed-jaguars-type-01-with-an-aggressive-sports-body-kit",
+      "title": "有人用激进的运动车身套件修复了捷豹的 Type 01",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-09T06:13:30.363669+00:00",
+      "source_date": "2026-10-09T00:30:27+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/evaluating/6475085.html",
+      "title": "医疗大模型在院内场景的落地路径与产品化难点",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-09T06:13:30.363720+00:00",
+      "source_date": "2026-10-09T04:05:35+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6475184.html",
+      "title": "奥格威导师罗必凯：22条“拒绝平凡”的创意哲学",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-09T06:13:30.363749+00:00",
+      "source_date": "2026-10-09T03:05:50+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6475158.html",
+      "title": "F型视觉模型和信息层级的可视化应用",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-09T06:13:30.363771+00:00",
+      "source_date": "2026-10-09T02:38:17+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6475122.html",
+      "title": "腾讯再出手，WorkBuddy 想做 AI 时代的 Office!",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-09T06:13:30.363793+00:00",
+      "source_date": "2026-10-09T01:16:49+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@sarathsai94/relay-ai-triage-copilot-for-support-teams-628479d80c84?source=rss------product_design-5",
+      "title": "RELAY — 支持团队的人工智能分诊副驾驶",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-10-09T06:16:03.857265+00:00",
+      "source_date": "2026-10-09T03:43:59+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/08/this-70-plate-is-for-people-who-refuse-to-let-fried-food-sit-in-its-own-oil/?utm_source=rss&utm_medium=rss&utm_campaign=this-70-plate-is-for-people-who-refuse-to-let-fried-food-sit-in-its-own-oil",
+      "title": "这个 70 美元的盘子是为那些拒绝让油炸食品放在自己的油中的人准备的",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-09T06:17:39.516590+00:00",
+      "source_date": "2026-10-08T11:40:34+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor",
+      "title": "据报道，苹果将在三周内推出首款触摸屏 MacBook",
+      "source": "The Verge Design",
+      "language": "en",
+      "published_at": "2026-10-09T06:18:17.804904+00:00",
+      "source_date": "2026-10-08T20:32:21+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.fastcompany.com/91574333/designing-for-the-edges-improves-the-center?utm_source=postup&utm_medium=email&utm_campaign=design&position=4&partner=newsletter&campaign_date=10092026",
+      "title": "边缘设计改善了中心",
+      "source": "Fast Company Design",
+      "language": "en",
+      "published_at": "2026-10-09T06:18:55.206281+00:00",
+      "source_date": "2026-07-17T12:00:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.fastcompany.com/91522993/this-outdoor-fireplace-costs-nearly-five-grand-and-it-might-just-be-worth-it?utm_source=postup&utm_medium=email&utm_campaign=design&position=14&partner=newsletter&campaign_date=10092026",
+      "title": "这个户外壁炉花费近 5 英镑——但也许物有所值",
+      "source": "Fast Company Design",
+      "language": "en",
+      "published_at": "2026-10-09T06:19:33.819994+00:00",
+      "source_date": "2026-04-09T10:00:00+00:00",
+      "full_text": false
+    },
+    {
       "url": "https://www.woshipm.com/share/6473545.html",
       "title": "硬件团队避坑指南：初创企业该如何选择最适配的质量体系？ ——从华为到创业团队的质量选型血泪史（中篇：实操操盘手册）",
       "source": "人人都是产品经理",
