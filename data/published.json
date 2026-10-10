@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.nngroup.com/articles/ai-assistant-context/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "新 Siri 的最大优势不是智能",
+      "source": "Nielsen Norman Group",
+      "language": "en",
+      "published_at": "2026-10-10T05:46:59.387748+00:00",
+      "source_date": "2026-10-09T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/09/this-plastic-stool-is-a-giant-esc-key-and-it-hides-your-clutter/?utm_source=rss&utm_medium=rss&utm_campaign=this-plastic-stool-is-a-giant-esc-key-and-it-hides-your-clutter",
+      "title": "这个塑料凳子是一个巨大的 Esc 键，它可以隐藏你的杂物",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-10T05:48:16.867270+00:00",
+      "source_date": "2026-10-09T18:20:51+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/09/8-best-gifts-for-men-who-have-everything-in-2026-2/?utm_source=rss&utm_medium=rss&utm_campaign=8-best-gifts-for-men-who-have-everything-in-2026-2",
+      "title": "2026 年送给拥有一切的男士的 8 件最佳礼物",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-10T05:51:29.990799+00:00",
+      "source_date": "2026-10-09T11:40:37+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/09/handy-quietly-makes-furniture-work-harder-in-small-spaces/?utm_source=rss&utm_medium=rss&utm_campaign=handy-quietly-makes-furniture-work-harder-in-small-spaces",
+      "title": "Handy 安静地让家具在狭小的空间里发挥更大作用",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-10T05:53:24.674531+00:00",
+      "source_date": "2026-10-09T10:07:08+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/09/the-eggshell-lamp-you-can-rearrange-so-you-never-buy-another/?utm_source=rss&utm_medium=rss&utm_campaign=the-eggshell-lamp-you-can-rearrange-so-you-never-buy-another",
+      "title": "你可以重新排列的蛋壳灯，这样你就再也不用买另一个了",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-10T05:55:00.721040+00:00",
+      "source_date": "2026-10-09T22:30:05+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6475592.html",
+      "title": "闪电仓赛道，为什么惠宜选要做自有品牌？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-10T05:55:00.721073+00:00",
+      "source_date": "2026-10-10T03:11:22+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6475563.html",
+      "title": "给客户装个Workbuddy就能搞定的事，为什么我还在搭工作流",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-10T05:55:00.721087+00:00",
+      "source_date": "2026-10-10T02:52:32+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6475567.html",
+      "title": "分享一个AI做视频提效10倍的方式",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-10T05:55:00.721100+00:00",
+      "source_date": "2026-10-10T02:53:55+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxplanet.org/i-tried-claude-with-figma-on-an-800-screen-project-it-never-reached-the-hard-part-7735b120f43a?source=rss----819cc2aaeee0---4",
+      "title": "我在一个超过 800 个屏幕的项目中尝试使用 Claude 和 Figma。它从未达到困难的部分",
+      "source": "UX Planet",
+      "language": "en",
+      "published_at": "2026-10-10T05:55:39.390058+00:00",
+      "source_date": "2026-10-09T10:17:51+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.woshipm.com/pmd/6475555.html",
+      "title": "功能是答案，问题是题目：AI 时代，产品经理唯一稀缺的产出",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-10T05:55:39.390095+00:00",
+      "source_date": "2026-10-10T02:48:29+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/ai-incidents-by-design-d4708a3dda9e?source=rss----138adf9c44c---4",
+      "title": "人工智能：设计事件",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-10-10T05:56:19.525243+00:00",
+      "source_date": "2026-10-08T09:20:37+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6475583.html",
+      "title": "我让豆包工作看了30个爆款AI封面，它总结出了八个规律",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-10T05:56:19.525282+00:00",
+      "source_date": "2026-10-10T05:03:52+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/operate/6475586.html",
+      "title": "当所有人都用AI写内容，你的个人IP靠什么胜出？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-10T05:56:19.525298+00:00",
+      "source_date": "2026-10-10T03:06:33+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@mishra.vishal361/designing-for-uncertainty-why-showing-people-where-they-stand-changes-everything-ba9bd4811c26?source=rss------product_design-5",
+      "title": "针对不确定性进行设计：为什么向人们展示他们的立场会改变一切",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-10-10T05:57:15.956526+00:00",
+      "source_date": "2026-10-10T04:34:15+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@alyezz005/beyond-mass-production-how-zorka-furniture-creates-a-unique-3d-model-for-every-custom-table-79cfe2cf0b58?source=rss------design-5",
+      "title": "超越批量生产：Zorka Furniture 如何为每张定制桌子创建独特的 3D 模型",
+      "source": "Medium · Design",
+      "language": "en",
+      "published_at": "2026-10-10T05:59:11.604644+00:00",
+      "source_date": "2026-10-09T22:51:04+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/09/amazons-new-alexa-tablets-fix-fires-biggest-limitation-with-google-play-and-alexa-support/?utm_source=rss&utm_medium=rss&utm_campaign=amazons-new-alexa-tablets-fix-fires-biggest-limitation-with-google-play-and-alexa-support",
+      "title": "亚马逊的新款 Alexa 平板电脑通过 Google Play 和 Alexa+ 支持解决了 Fire 的最大限制",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-10T06:00:47.729903+00:00",
+      "source_date": "2026-10-09T15:20:03+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/09/ikea-found-a-32-fix-for-the-reason-youre-still-awake-at-midnight/?utm_source=rss&utm_medium=rss&utm_campaign=ikea-found-a-32-fix-for-the-reason-youre-still-awake-at-midnight",
+      "title": "宜家为你半夜睡不着的原因找到了 32 美元的修复方案",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-10T06:02:24.281788+00:00",
+      "source_date": "2026-10-09T09:15:36+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.theverge.com/tech/1008833/amazon-kindle-light-leak",
+      "title": "亚马逊新款 Kindle 似乎存在漏光问题",
+      "source": "The Verge Design",
+      "language": "en",
+      "published_at": "2026-10-10T06:03:02.777492+00:00",
+      "source_date": "2026-10-09T19:00:21+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6475523.html",
+      "title": "跨境电商数据驾驶舱怎么搭？从0到1落地全指南",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-10T06:03:02.777529+00:00",
+      "source_date": "2026-10-10T02:47:54+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6475460.html",
+      "title": "Agent 落地核心：真正决定上限的是 Harness 闭环，不是模型",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-10T06:03:02.777545+00:00",
+      "source_date": "2026-10-10T02:34:23+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.yankodesign.com/2026/10/08/this-vr-system-gets-bigger-so-it-doesnt-have-to-touch-your-face/?utm_source=rss&utm_medium=rss&utm_campaign=this-vr-system-gets-bigger-so-it-doesnt-have-to-touch-your-face",
       "title": "这个 VR 系统变得更大，所以它不必触摸你的脸",
       "source": "Yanko Design",
