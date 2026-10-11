@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.yankodesign.com/2026/10/10/a-trash-bin-that-actually-belongs-in-your-living-room/?utm_source=rss&utm_medium=rss&utm_campaign=a-trash-bin-that-actually-belongs-in-your-living-room",
+      "title": "A Trash Bin That Actually Belongs in Your Living Room",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-11T05:41:32.226994+00:00",
+      "source_date": "2026-10-10T23:30:04+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/10/this-tiny-home-looks-like-a-coastal-cottage-and-lives-like-one-too/?utm_source=rss&utm_medium=rss&utm_campaign=this-tiny-home-looks-like-a-coastal-cottage-and-lives-like-one-too",
+      "title": "This Tiny Home Looks Like a Coastal Cottage and Lives Like One Too",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-11T05:42:48.926198+00:00",
+      "source_date": "2026-10-10T17:20:51+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@Vikasrajputusa/what-does-a-product-designer-do-a-complete-guide-for-2026-a5241268c7b9?source=rss------product_design-5",
+      "title": "What Does a Product Designer Do? A Complete Guide for 2026",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-10-11T05:44:05.322805+00:00",
+      "source_date": "2026-10-11T05:23:29+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@Vikasrajputusa/what-does-a-product-designer-do-a-complete-guide-for-2026-a5241268c7b9?source=rss------user_experience-5",
+      "title": "What Does a Product Designer Do? A Complete Guide for 2026",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-10-11T05:45:21.768394+00:00",
+      "source_date": "2026-10-11T05:23:29+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6476055.html",
+      "title": "做图总翻车？这两个开源生图Skill，把画风和排版直接编成了字典",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-11T05:45:21.768434+00:00",
+      "source_date": "2026-10-11T03:12:03+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6475495.html",
+      "title": "为什么 AI 产品需要体验评测",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-11T05:45:21.768459+00:00",
+      "source_date": "2026-10-10T07:31:40+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@Vikasrajputusa/what-does-a-product-designer-do-a-complete-guide-for-2026-a5241268c7b9?source=rss------design-5",
+      "title": "What Does a Product Designer Do? A Complete Guide for 2026",
+      "source": "Medium · Design",
+      "language": "en",
+      "published_at": "2026-10-11T05:46:38.562831+00:00",
+      "source_date": "2026-10-11T05:23:29+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/10/a-599-robot-dog-that-fits-on-your-desk-and-works-like-lego-technic/?utm_source=rss&utm_medium=rss&utm_campaign=a-599-robot-dog-that-fits-on-your-desk-and-works-like-lego-technic",
+      "title": "A $599 Robot Dog That Fits on Your Desk and Works Like LEGO Technic",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-11T05:48:14.541207+00:00",
+      "source_date": "2026-10-10T13:20:51+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6475868.html",
+      "title": "OPC企业容易陷入的三个增长误区",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-11T05:48:14.541248+00:00",
+      "source_date": "2026-10-10T07:27:30+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6475936.html",
+      "title": "实测一个月，我把手机里 20 多个常用 App 全删了，只留了一个豆包工作",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-11T05:48:14.541275+00:00",
+      "source_date": "2026-10-10T09:33:40+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6475925.html",
+      "title": "Stripe创始人：AI agent 将重写整个互联网",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-11T05:48:14.541316+00:00",
+      "source_date": "2026-10-10T09:30:10+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/pd/6475402.html",
+      "title": "客户说要一个功能，产品经理怎么找到真正的需求在那？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-11T05:48:14.541342+00:00",
+      "source_date": "2026-10-10T10:17:35+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6474292.html",
+      "title": "Claude、GPT“跨界”做视频，Seedance们的护城河还牢吗？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-11T05:48:14.541365+00:00",
+      "source_date": "2026-10-10T08:42:51+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6476270.html",
+      "title": "23岁00后押中AI风口，14人干到670亿",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-11T05:48:14.541387+00:00",
+      "source_date": "2026-10-11T01:05:56+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/10/the-corner-bound-notebook-without-the-wrist-digging-problem/?utm_source=rss&utm_medium=rss&utm_campaign=the-corner-bound-notebook-without-the-wrist-digging-problem",
+      "title": "The Corner-Bound Notebook Without the Wrist-Digging Problem",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-11T05:49:49.919010+00:00",
+      "source_date": "2026-10-10T19:15:19+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@jamathdoc/product-analysis-deltamath-cc1e3f9d8ba5?source=rss------user_experience-5",
+      "title": "Product Analysis: DeltaMath",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-10-11T05:50:47.396524+00:00",
+      "source_date": "2026-10-10T23:09:50+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.fastcompany.com/91574333/designing-for-the-edges-improves-the-center?utm_source=postup&utm_medium=email&utm_campaign=design&position=4&partner=newsletter&campaign_date=10112026",
+      "title": "Designing for the edges improves the center",
+      "source": "Fast Company Design",
+      "language": "en",
+      "published_at": "2026-10-11T05:51:25.684863+00:00",
+      "source_date": "2026-07-17T12:00:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.fastcompany.com/91522993/this-outdoor-fireplace-costs-nearly-five-grand-and-it-might-just-be-worth-it?utm_source=postup&utm_medium=email&utm_campaign=design&position=14&partner=newsletter&campaign_date=10112026",
+      "title": "This outdoor fireplace costs nearly 5 grand—and it might just be worth it",
+      "source": "Fast Company Design",
+      "language": "en",
+      "published_at": "2026-10-11T05:52:04.036346+00:00",
+      "source_date": "2026-04-09T10:00:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/09/oneplus-wants-to-stick-a-tiny-air-conditioner-on-the-back-of-its-gaming-phone/?utm_source=rss&utm_medium=rss&utm_campaign=oneplus-wants-to-stick-a-tiny-air-conditioner-on-the-back-of-its-gaming-phone",
+      "title": "OnePlus wants to stick a tiny air conditioner on the back of its gaming phone",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-11T05:53:39.433625+00:00",
+      "source_date": "2026-10-09T20:30:49+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.fastcompany.com/91535121/most-products-work-few-work-well?utm_source=postup&utm_medium=email&utm_campaign=design&position=12&partner=newsletter&campaign_date=10112026",
+      "title": "Most products work, few work well",
+      "source": "Fast Company Design",
+      "language": "en",
+      "published_at": "2026-10-11T05:54:17.606583+00:00",
+      "source_date": "2026-05-01T20:25:20+00:00",
+      "full_text": false
+    },
+    {
       "url": "https://www.nngroup.com/articles/ai-assistant-context/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "title": "新 Siri 的最大优势不是智能",
       "source": "Nielsen Norman Group",
@@ -17819,15 +17999,6 @@
       "language": "en",
       "published_at": "2026-06-23T16:44:38.573506+00:00",
       "source_date": "2026-06-22T07:30:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1042640/kurashiki-central-hospital-miwa-nursery-school-nikken-sekkei",
-      "title": "仓敷中央医院三和保育园 / Nikken Sekkei",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-06-23T16:44:39.704596+00:00",
-      "source_date": "2026-06-22T19:00:00+00:00",
       "full_text": true
     }
   ]
