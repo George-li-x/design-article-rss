@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.woshipm.com/share/6477994.html",
+      "title": "AIOS×快递100：智能终端触手可及的AI快递物流基础设施",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-14T04:47:02.378642+00:00",
+      "source_date": "2026-10-14T03:14:26+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/taste-is-not-a-design-methodology-e02b37aea148?source=rss----138adf9c44c---4",
+      "title": "品味不是一种设计方法",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-10-14T04:47:40.407753+00:00",
+      "source_date": "2026-10-13T22:27:46+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://medium.com/@mugundhanmd874/write-a-blog-for-medium-about-the-topic-ui-ux-handsoff-a6e390cdf8c1?source=rss------user_experience-5",
+      "title": "为媒体撰写关于 UI/UX handoff 主题的博客",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-10-14T04:49:15.651098+00:00",
+      "source_date": "2026-10-13T18:33:19+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/13/an-angled-public-bench-for-hanging-out-without-the-coffee-tab/?utm_source=rss&utm_medium=rss&utm_campaign=an-angled-public-bench-for-hanging-out-without-the-coffee-tab",
+      "title": "一个有角度的公共长凳，可以在没有咖啡的情况下闲逛",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-14T04:50:51.087516+00:00",
+      "source_date": "2026-10-13T22:30:30+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6477602.html",
+      "title": "终于，WorkBuddy上线到企微侧边栏，对话直接用",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-14T04:50:51.087557+00:00",
+      "source_date": "2026-10-14T01:16:12+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/13/google-fitbit-edge-lets-an-aging-battery-be-replaced-instead-of-the-tracker/?utm_source=rss&utm_medium=rss&utm_campaign=google-fitbit-edge-lets-an-aging-battery-be-replaced-instead-of-the-tracker",
+      "title": "Google Fitbit Edge 可更换老化电池而不是智能设备",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-14T04:52:26.750807+00:00",
+      "source_date": "2026-10-13T10:07:19+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/13/twelve-new-designs-in-six-weeks-why-i-love-the-new-apple-under-john-ternus/?utm_source=rss&utm_medium=rss&utm_campaign=twelve-new-designs-in-six-weeks-why-i-love-the-new-apple-under-john-ternus",
+      "title": "六周内十二个新设计：为什么我喜欢 John Ternus 领导下的新苹果",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-14T04:54:02.972559+00:00",
+      "source_date": "2026-10-13T20:30:20+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/13/meet-apple-homeview-a-weirdly-genius-combination-of-the-imac-watch-ipad-and-homepod/?utm_source=rss&utm_medium=rss&utm_campaign=meet-apple-homeview-a-weirdly-genius-combination-of-the-imac-watch-ipad-and-homepod",
+      "title": "来认识一下 Apple HomeView：iMac、Watch、iPad 和 HomePod 的奇特天才组合",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-14T04:55:38.937721+00:00",
+      "source_date": "2026-10-13T18:20:12+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6477606.html",
+      "title": "清华这场 AI 论坛，我看到了AI交互的下一条曲线",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-14T04:55:38.937806+00:00",
+      "source_date": "2026-10-14T01:56:26+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6477608.html",
+      "title": "当AI可以逆向一切的时候，我们还剩下些什么？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-14T04:55:38.937856+00:00",
+      "source_date": "2026-10-14T02:17:05+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6477610.html",
+      "title": "Meta 正式发布了新一代旗舰模型家族 Muse Wonder，智能水平仅落后Opus 5.5两分",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-14T04:55:38.937890+00:00",
+      "source_date": "2026-10-14T02:17:29+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6477756.html",
+      "title": "三万字长文：大语言模型从零入门",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-14T04:55:38.937921+00:00",
+      "source_date": "2026-10-14T01:54:12+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6477596.html",
+      "title": "日本 130 万中产，正在用 AI 疯狂婚外恋",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-14T04:55:38.937949+00:00",
+      "source_date": "2026-10-14T01:15:25+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6477958.html",
+      "title": "停车超时1分钟，是停车平台被低估的增长缝隙",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-14T04:55:38.937972+00:00",
+      "source_date": "2026-10-14T03:20:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/13/gelato-glass-candle-holder-keeps-its-swirl-while-the-candle-melts/?utm_source=rss&utm_medium=rss&utm_campaign=gelato-glass-candle-holder-keeps-its-swirl-while-the-candle-melts",
+      "title": "GELATO 玻璃烛台在蜡烛融化时保持漩涡",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-14T04:56:54.894477+00:00",
+      "source_date": "2026-10-13T14:20:30+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.theverge.com/gadgets/1010384/nothing-headphone-a-charli-xcx-deal-sale",
+      "title": "Nothing耳机A首次半价",
+      "source": "The Verge Design",
+      "language": "en",
+      "published_at": "2026-10-14T04:57:34.230618+00:00",
+      "source_date": "2026-10-13T18:33:14+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@abdussalamsalaudeen2018/reverse-engineer-teardown-opays-new-product-feature-d47ef58aa60b?source=rss------user_experience-5",
+      "title": "逆向工程/拆解：OPAY 的新产品功能。",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-10-14T04:58:12.364979+00:00",
+      "source_date": "2026-10-13T20:37:03+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+      "title": "Shopify 向更多 AI 代理开放目录",
+      "source": "The Verge Design",
+      "language": "en",
+      "published_at": "2026-10-14T04:58:51.200803+00:00",
+      "source_date": "2026-10-13T20:23:23+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.fastcompany.com/91574333/designing-for-the-edges-improves-the-center?utm_source=postup&utm_medium=email&utm_campaign=design&position=4&partner=newsletter&campaign_date=10142026",
+      "title": "边缘设计改善了中心",
+      "source": "Fast Company Design",
+      "language": "en",
+      "published_at": "2026-10-14T04:59:28.179565+00:00",
+      "source_date": "2026-07-17T12:00:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.fastcompany.com/91522993/this-outdoor-fireplace-costs-nearly-five-grand-and-it-might-just-be-worth-it?utm_source=postup&utm_medium=email&utm_campaign=design&position=14&partner=newsletter&campaign_date=10142026",
+      "title": "这个户外壁炉花费近 5 英镑——但也许物有所值",
+      "source": "Fast Company Design",
+      "language": "en",
+      "published_at": "2026-10-14T05:00:06.976056+00:00",
+      "source_date": "2026-04-09T10:00:00+00:00",
+      "full_text": false
+    },
+    {
       "url": "https://www.woshipm.com/ai/6477174.html",
       "title": "B端音视频SDK产品落地：产品经理要踩过的那些坑",
       "source": "人人都是产品经理",
@@ -17819,186 +17999,6 @@
       "language": "zh",
       "published_at": "2026-06-23T17:31:44.837055+00:00",
       "source_date": "2026-06-23T00:49:30+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://medium.com/@mounika.konidala/what-i-wish-i-knew-in-my-first-90-days-as-a-ux-designer-069663f8e549?source=rss------product_design-5",
-      "title": "我希望在作为 UX 设计师的头 90 天里我知道什么",
-      "source": "Medium · Product Design",
-      "language": "en",
-      "published_at": "2026-06-23T17:25:19.797787+00:00",
-      "source_date": "2026-06-23T16:30:07+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://medium.com/@uiuxgrowthlab/best-online-ui-ux-certification-program-for-job-seekers-07b8c481372e?source=rss------product_design-5",
-      "title": "面向求职者的最佳在线 UI UX 认证计划",
-      "source": "Medium · Product Design",
-      "language": "en",
-      "published_at": "2026-06-23T17:25:24.937454+00:00",
-      "source_date": "2026-06-23T15:09:09+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://medium.com/@Rythmuxdesigner/the-end-of-screens-how-ambient-ai-is-redefining-user-experience-aca96c0fdb1b?source=rss------user_experience-5",
-      "title": "屏幕的终结？环境人工智能如何重新定义用户体验",
-      "source": "Medium · User Experience",
-      "language": "en",
-      "published_at": "2026-06-23T17:25:26.902392+00:00",
-      "source_date": "2026-06-23T15:06:00+00:00",
-      "full_text": false
-    },
-    {
-      "url": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
-      "title": "用户体验研究中认知包容的好处",
-      "source": "Smashing Magazine",
-      "language": "en",
-      "published_at": "2026-06-23T17:25:36.419723+00:00",
-      "source_date": "2026-06-10T10:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/",
-      "title": "用户体验投资回报率的十大数据支持真相",
-      "source": "Smashing Magazine",
-      "language": "en",
-      "published_at": "2026-06-23T17:25:44.198311+00:00",
-      "source_date": "2026-05-15T10:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://smashingmagazine.com/2026/03/site-search-paradox-why-big-box-always-wins/",
-      "title": "站点搜索悖论：为什么大盒子总是获胜",
-      "source": "Smashing Magazine",
-      "language": "en",
-      "published_at": "2026-06-23T17:25:50.830454+00:00",
-      "source_date": "2026-03-26T10:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://smashingmagazine.com/2026/02/meet-smashingconf-amsterdam/",
-      "title": "说奶酪！认识阿姆斯特丹 SmashingConf 🇳🇱",
-      "source": "Smashing Magazine",
-      "language": "en",
-      "published_at": "2026-06-23T17:25:56.430172+00:00",
-      "source_date": "2026-02-26T11:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://smashingmagazine.com/2026/02/designer-guide-eco-friendly-interfaces/",
-      "title": "环保界面设计师指南",
-      "source": "Smashing Magazine",
-      "language": "en",
-      "published_at": "2026-06-23T17:26:03.912091+00:00",
-      "source_date": "2026-02-23T10:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://smashingmagazine.com/2026/02/designing-agentic-ai-practical-ux-patterns/",
-      "title": "代理人工智能设计：用于控制、同意和问责的实用用户体验模式",
-      "source": "Smashing Magazine",
-      "language": "en",
-      "published_at": "2026-06-23T17:26:16.182260+00:00",
-      "source_date": "2026-02-11T13:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://medium.com/@raphaelhdesign/durante-anos-meu-trabalho-terminava-cedo-demais-9c39a2ec293a?source=rss------product_design-5",
-      "title": "多年来，我的工作结束得太早",
-      "source": "Medium · Product Design",
-      "language": "en",
-      "published_at": "2026-06-23T17:26:24.932935+00:00",
-      "source_date": "2026-06-23T16:15:21+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/",
-      "title": "本地优先 Web 开发的架构",
-      "source": "Smashing Magazine",
-      "language": "en",
-      "published_at": "2026-06-23T17:26:44.887755+00:00",
-      "source_date": "2026-05-06T10:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.theverge.com/gadgets/952503/best-prime-day-deals-verge-favorites-2026",
-      "title": "以下是 Verge 员工最喜欢的 Prime Day 最佳优惠",
-      "source": "The Verge Design",
-      "language": "en",
-      "published_at": "2026-06-23T17:26:55.023584+00:00",
-      "source_date": "2026-06-23T16:25:24+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/cn/1042429/la-vallee-verte-mvrdv",
-      "title": "绿谷 / MVRDV",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-06-23T17:26:56.348869+00:00",
-      "source_date": "2026-06-22T15:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/cn/1042438/you-heatherwick-studio-yu-spparclian-he-she-ji-de-lun-dun-ao-lin-pi-ya-gai-zao-qi-xian-yi-jun-gong",
-      "title": "Heatherwick Studio+SPPARC “伦敦奥林匹亚改造一期”现已竣工",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-06-23T17:26:56.348922+00:00",
-      "source_date": "2026-06-22T11:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/share/6418431.html",
-      "title": "遇到“情绪巨婴”，别争辩别忍让，把烂摊子变“高光局”",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-06-23T17:26:56.348955+00:00",
-      "source_date": "2026-06-23T09:34:11+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/cn/1042513/yun-xi-gu-star-zhou-luo-shui-mu-yan-kong-jian-she-ji",
-      "title": "芸溪谷·周洛 / 水木言空间设计",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-06-23T17:26:56.348987+00:00",
-      "source_date": "2026-06-18T15:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/cn/1042637/song-shan-hu-zhan-yan-zhong-xin-zha",
-      "title": "松山湖展演中心 / ZHA",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-06-23T17:26:56.349016+00:00",
-      "source_date": "2026-06-23T17:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/cn/1041341/ge-luo-si-fei-er-de-xi-de-lang-gong-gong-you-yong-chi-illiz-architektur",
-      "title": "格罗斯费尔德西德朗公共游泳池 / Illiz Architektur",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-06-23T17:26:56.349047+00:00",
-      "source_date": "2026-06-19T11:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6418781.html",
-      "title": "为了女儿的英语启蒙，我用 Vibe Coding 把 B 站动画变成了专属绘本",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-06-23T17:26:56.349078+00:00",
-      "source_date": "2026-06-23T06:46:46+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/cn/1042474/tie-li-shi-shan-tian-xian-ta-gai-zao-herzog-and-de-meuron",
-      "title": "铁力士山天线塔改造 / Herzog & de Meuron",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-06-23T17:26:56.349103+00:00",
-      "source_date": "2026-06-22T13:00:00+00:00",
       "full_text": true
     }
   ]
