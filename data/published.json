@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.nngroup.com/articles/synthetic-users-vs-human-respondents/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "合成用户与人类受访者：相同的结论，更少的变化",
+      "source": "Nielsen Norman Group",
+      "language": "en",
+      "published_at": "2026-10-17T04:21:09.133992+00:00",
+      "source_date": "2026-10-16T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.nngroup.com/articles/ux-maps-glossary/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "用户体验地图：术语表",
+      "source": "Nielsen Norman Group",
+      "language": "en",
+      "published_at": "2026-10-17T04:23:42.875557+00:00",
+      "source_date": "2026-10-16T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@bhaavchitrak/redesigning-grindr-exploring-trust-authenticity-and-safety-through-ux-research-ea02fcbd7627?source=rss------product_design-5",
+      "title": "重新设计 Grindr：通过用户体验研究探索信任、真实性和安全性",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-10-17T04:29:47.327685+00:00",
+      "source_date": "2026-10-16T22:53:06+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@bhaavchitrak/redesigning-grindr-exploring-trust-authenticity-and-safety-through-ux-research-ea02fcbd7627?source=rss------user_experience-5",
+      "title": "重新设计 Grindr：通过用户体验研究探索信任、真实性和安全性",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-10-17T04:35:51.953342+00:00",
+      "source_date": "2026-10-16T22:53:06+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6479246.html",
+      "title": "99% 的人都不会用 Grok Bot！",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-17T04:35:51.953382+00:00",
+      "source_date": "2026-10-17T02:02:26+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@darkpiodos/designing-habita-a-modern-real-estate-ui-ux-concept-for-the-philippine-market-56f684ca27f9?source=rss------user_experience-5",
+      "title": "设计 Habita：菲律宾市场的现代房地产 UI/UX 概念",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-10-17T04:37:47.438807+00:00",
+      "source_date": "2026-10-17T04:01:01+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6474853.html",
+      "title": "AI威胁下，产品经理的生存之道",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-17T04:37:47.438848+00:00",
+      "source_date": "2026-10-17T02:26:02+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@manahil.shafiq/ui-ux-design-services-39cd51724f23?source=rss------user_experience-5",
+      "title": "用户界面用户体验设计服务",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-10-17T04:39:04.594024+00:00",
+      "source_date": "2026-10-16T13:16:17+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6479721.html",
+      "title": "Axure RP 逻辑组织方法——用伪事件模拟程序结构",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-17T04:39:04.594067+00:00",
+      "source_date": "2026-10-17T03:47:25+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6478480.html",
+      "title": "鸿蒙版本的电子书阅读APP开放源码啦",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-17T04:39:04.594092+00:00",
+      "source_date": "2026-10-17T03:46:21+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6478796.html",
+      "title": "Youkti 把数据免费、把判断收费——这一刀，砍在每个 ToB 公司身上",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-17T04:39:04.594120+00:00",
+      "source_date": "2026-10-17T01:58:21+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/it/6479673.html",
+      "title": "夹在字节缝隙中的AI融资明星们",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-17T04:39:04.594145+00:00",
+      "source_date": "2026-10-17T02:19:46+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6479631.html",
+      "title": "需求评审总是在吵架，如何避免？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-17T04:39:04.594168+00:00",
+      "source_date": "2026-10-17T01:42:14+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@aryasyaifullah21/fokus-pada-esensi-saat-produk-paham-apa-yang-paling-penting-bagi-user-341704e05c20?source=rss------product_design-5",
+      "title": "聚焦本质：当产品明白什么对用户最重要",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-10-17T04:40:02.360967+00:00",
+      "source_date": "2026-10-17T03:31:46+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6479683.html",
+      "title": "上下文争夺，为何成了办公AI新战场？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-17T04:40:02.361009+00:00",
+      "source_date": "2026-10-17T02:23:35+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@pixelsmark/skincare-logo-design-will-your-wordmark-still-read-on-a-small-label-979b32865e89?source=rss------product_design-5",
+      "title": "护肤标志设计：您的文字标记仍然会在小标签上阅读吗？",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-10-17T04:40:59.710032+00:00",
+      "source_date": "2026-10-16T21:01:41+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/16/aurelis-bag-concept-is-wearable-sculpture-without-a-solid-shell/?utm_source=rss&utm_medium=rss&utm_campaign=aurelis-bag-concept-is-wearable-sculpture-without-a-solid-shell",
+      "title": "Aurelis Bag 概念是没有坚固外壳的可穿戴雕塑",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-17T04:42:54.329866+00:00",
+      "source_date": "2026-10-16T14:20:55+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/16/this-origami-mouse-folds-flatter-not-smaller-in-every-direction/?utm_source=rss&utm_medium=rss&utm_campaign=this-origami-mouse-folds-flatter-not-smaller-in-every-direction",
+      "title": "这款折纸鼠标在各个方向上都折叠得更平，而不是更小",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-17T04:44:30.793155+00:00",
+      "source_date": "2026-10-16T23:30:21+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/16/elgato-wave-go-turns-a-tiny-clip-on-into-a-handheld-microphone/?utm_source=rss&utm_medium=rss&utm_campaign=elgato-wave-go-turns-a-tiny-clip-on-into-a-handheld-microphone",
+      "title": "Elgato Wave Go 将微型夹式麦克风变成手持式麦克风",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-17T04:46:05.739681+00:00",
+      "source_date": "2026-10-16T10:07:54+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@quocdunghoang65/gap-and-flush-the-two-numbers-that-decide-whether-a-product-looks-premium-91b8a99f127d?source=rss------product_design-5",
+      "title": "间隙和齐平：决定产品是否“优质”的两个数字",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-10-17T04:47:03.760495+00:00",
+      "source_date": "2026-10-17T00:51:46+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.woshipm.com/ai/6479135.html",
       "title": "如何用WorkBuddy搭建个人博客（实战篇）",
       "source": "人人都是产品经理",
@@ -17819,186 +17999,6 @@
       "language": "en",
       "published_at": "2026-06-24T04:23:36.555453+00:00",
       "source_date": "2026-06-23T02:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://uxdesign.cc/how-designops-roles-are-changing-with-new-priorities-c8db3a5bc1c3?source=rss----138adf9c44c---4",
-      "title": "DesignOps 角色如何随着新的优先事项而变化",
-      "source": "UX Collective",
-      "language": "en",
-      "published_at": "2026-06-24T02:55:23.438365+00:00",
-      "source_date": "2026-06-23T11:11:43+00:00",
-      "full_text": false
-    },
-    {
-      "url": "https://www.nngroup.com/articles/context-architecture/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "上下文架构",
-      "source": "Nielsen Norman Group",
-      "language": "en",
-      "published_at": "2026-06-24T02:55:37.576348+00:00",
-      "source_date": "2026-06-12T17:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/",
-      "title": "人形机器人对人类的影响",
-      "source": "Smashing Magazine",
-      "language": "en",
-      "published_at": "2026-06-24T02:55:45.242941+00:00",
-      "source_date": "2026-06-12T08:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://smashingmagazine.com/2026/04/session-timeouts-accessibility-barrier-authentication-design/",
-      "title": "会话超时：身份验证设计中被忽视的可访问性障碍",
-      "source": "Smashing Magazine",
-      "language": "en",
-      "published_at": "2026-06-24T02:55:50.847411+00:00",
-      "source_date": "2026-04-20T13:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
-      "title": "今年苹果产品的 Prime Day 优惠是我见过的最好的",
-      "source": "The Verge Design",
-      "language": "en",
-      "published_at": "2026-06-24T02:56:02.741480+00:00",
-      "source_date": "2026-06-23T23:58:13+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://uxdesign.cc/your-banking-app-is-lying-to-you-52959b075823?source=rss----138adf9c44c---4",
-      "title": "您的银行应用程序在向您撒谎",
-      "source": "UX Collective",
-      "language": "en",
-      "published_at": "2026-06-24T02:56:04.713114+00:00",
-      "source_date": "2026-06-23T11:09:13+00:00",
-      "full_text": false
-    },
-    {
-      "url": "https://uxdesign.cc/what-sits-on-the-engawa-46acaa876713?source=rss----138adf9c44c---4",
-      "title": "缘侧上坐着什么",
-      "source": "UX Collective",
-      "language": "en",
-      "published_at": "2026-06-24T02:56:06.098669+00:00",
-      "source_date": "2026-06-22T09:46:11+00:00",
-      "full_text": false
-    },
-    {
-      "url": "https://www.archdaily.com/1042659/building-taxing-and-financing-new-york-citys-recent-measures-to-tackle-the-housing-crisis",
-      "title": "建筑、税收和融资：纽约市近期应对住房危机的措施",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-06-24T02:56:12.262156+00:00",
-      "source_date": "2026-06-23T05:30:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/998801/not-ready-zhengzhou-liuzhuang-urban-development-museum-hyp-arch-consultants",
-      "title": "郑州刘庄城市发展博物馆 / HYP-ARCH CONSULTANTS",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-06-24T02:56:15.555423+00:00",
-      "source_date": "2026-06-23T00:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.nngroup.com/articles/vibe-architects/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "Vibe Architects：Agentic Vibe 编码员",
-      "source": "Nielsen Norman Group",
-      "language": "en",
-      "published_at": "2026-06-24T02:56:22.479459+00:00",
-      "source_date": "2026-06-19T17:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.fastcompany.com/91498159/the-biggest-barrier-to-accessibility-is-not-usability?utm_source=postup&utm_medium=email&utm_campaign=design&position=15&partner=newsletter&campaign_date=06242026",
-      "title": "可访问性的最大障碍不是可用性",
-      "source": "Fast Company Design",
-      "language": "en",
-      "published_at": "2026-06-24T02:56:23.800269+00:00",
-      "source_date": "2026-02-26T00:58:00+00:00",
-      "full_text": false
-    },
-    {
-      "url": "https://www.nngroup.com/articles/after-design-critique/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "闭环：设计批评结束后该做什么",
-      "source": "Nielsen Norman Group",
-      "language": "en",
-      "published_at": "2026-06-24T02:56:29.120672+00:00",
-      "source_date": "2026-05-22T17:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.nngroup.com/articles/information-seeking-china/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "中国的信息搜索：不同的生态系统，熟悉的行为",
-      "source": "Nielsen Norman Group",
-      "language": "en",
-      "published_at": "2026-06-24T02:56:39.397125+00:00",
-      "source_date": "2026-05-01T17:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/pd/6419147.html",
-      "title": "【工资】从申请到发放要经过7个审批节点，工资申报多角色协同流程拆解",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-06-24T02:56:39.397173+00:00",
-      "source_date": "2026-06-24T02:25:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/share/6419113.html",
-      "title": "当AI接管618，真人直播成为最硬的骨头？",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-06-24T02:56:39.397202+00:00",
-      "source_date": "2026-06-24T02:08:47+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/share/6419148.html",
-      "title": "小红书千帆推广精准投流实操分享",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-06-24T02:56:39.397231+00:00",
-      "source_date": "2026-06-24T02:34:45+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://sspai.com/post/111438",
-      "title": "派早报：新款理想 L8 换代上市、Meta 发布 Meta Glasses 智能眼镜等",
-      "source": "少数派",
-      "language": "zh",
-      "published_at": "2026-06-24T02:56:39.397259+00:00",
-      "source_date": "2026-06-23T23:49:32+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://sspai.com/post/111360",
-      "title": "派评 | 近期值得关注的 App",
-      "source": "少数派",
-      "language": "zh",
-      "published_at": "2026-06-24T02:56:39.397282+00:00",
-      "source_date": "2026-06-22T10:04:48+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://sspai.com/post/108899",
-      "title": "具透｜Android 17 正式版：大屏体验，先看 Google？",
-      "source": "少数派",
-      "language": "zh",
-      "published_at": "2026-06-24T02:56:39.397309+00:00",
-      "source_date": "2026-06-22T08:23:24+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://sspai.com/post/111081",
-      "title": "线索若隐若现：深入 Tim Cook 和 Nike 的商业连接",
-      "source": "少数派",
-      "language": "zh",
-      "published_at": "2026-06-24T02:56:39.397333+00:00",
-      "source_date": "2026-06-22T06:30:00+00:00",
       "full_text": true
     }
   ]
