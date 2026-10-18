@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.woshipm.com/ucd/6478923.html",
+      "title": "iPhone Duo：AI 时代硬件产品体验的 5 个趋势！",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-18T04:24:14.795502+00:00",
+      "source_date": "2026-10-18T03:40:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/17/atos-radio-inspired-ai-assistant-trades-touchscreens-for-a-button-and-knob/?utm_source=rss&utm_medium=rss&utm_campaign=atos-radio-inspired-ai-assistant-trades-touchscreens-for-a-button-and-knob",
+      "title": "Ato 的受无线电启发的人工智能助手将触摸屏换成了按钮和旋钮",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-18T04:25:50.755225+00:00",
+      "source_date": "2026-10-17T22:30:48+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/16/knot-stool-refuses-to-hide-its-rope-and-aluminum-joints/?utm_source=rss&utm_medium=rss&utm_campaign=knot-stool-refuses-to-hide-its-rope-and-aluminum-joints",
+      "title": "结凳拒绝隐藏其绳索和铝制接头",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-18T04:27:44.180589+00:00",
+      "source_date": "2026-10-16T22:30:52+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6478798.html",
+      "title": "PostNitro 的增长难题：让用户做完第一篇，还得让他回来做第二篇",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-18T04:27:44.180635+00:00",
+      "source_date": "2026-10-18T02:38:22+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6480007.html",
+      "title": "DeepSeek开始招产品经理了，但它想做的不是豆包",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-18T04:27:44.180661+00:00",
+      "source_date": "2026-10-17T07:03:49+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/16/this-2680-piece-lego-akai-tape-deck-is-my-kind-of-analog-nostalgia/?utm_source=rss&utm_medium=rss&utm_campaign=this-2680-piece-lego-akai-tape-deck-is-my-kind-of-analog-nostalgia",
+      "title": "这个由 2,680 块乐高 AKAI 组成的磁带盒是我的模拟怀旧之情",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-18T04:29:01.777583+00:00",
+      "source_date": "2026-10-16T21:30:21+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/16/teslas-new-roadster-employs-spacex-thrusters-to-perform-midair-flips-reach-60-mph-in-0-81-seconds/?utm_source=rss&utm_medium=rss&utm_campaign=teslas-new-roadster-employs-spacex-thrusters-to-perform-midair-flips-reach-60-mph-in-0-81-seconds",
+      "title": "特斯拉新款跑车采用 SpaceX 推进器进行空中翻转，0.81 秒内达到 60 英里/小时",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-18T04:30:37.588247+00:00",
+      "source_date": "2026-10-16T19:20:58+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/chuangye/6478970.html",
+      "title": "谁接孩子、谁倒垃圾，这块家庭日历屏把琐事做成了生意",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-18T04:30:37.588292+00:00",
+      "source_date": "2026-10-18T03:07:16+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/17/awekeys-rgb-neon-gives-metal-keycaps-two-ways-to-light-up/?utm_source=rss&utm_medium=rss&utm_campaign=awekeys-rgb-neon-gives-metal-keycaps-two-ways-to-light-up",
+      "title": "Awekeys RGB Neon 为金属键帽提供两种发光方式",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-18T04:32:32.390525+00:00",
+      "source_date": "2026-10-18T01:45:06+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/17/arcs-bracelet-concept-quietly-nudges-you-to-stop-scrolling/?utm_source=rss&utm_medium=rss&utm_campaign=arcs-bracelet-concept-quietly-nudges-you-to-stop-scrolling",
+      "title": "Arc 的手环概念悄悄地让你停止滚动",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-18T04:34:07.885285+00:00",
+      "source_date": "2026-10-17T13:20:16+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/17/pandora-lamp-reveals-a-hidden-glow-through-perforated-steel/?utm_source=rss&utm_medium=rss&utm_campaign=pandora-lamp-reveals-a-hidden-glow-through-perforated-steel",
+      "title": "潘多拉灯通过穿孔钢揭示隐藏的光芒",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-18T04:36:03.635848+00:00",
+      "source_date": "2026-10-17T19:15:14+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6479884.html",
+      "title": "从Burberry和优衣库，看品牌变革的契合力",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-18T04:36:03.635886+00:00",
+      "source_date": "2026-10-17T06:48:05+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6479393.html",
+      "title": "卖点越多越难卖？揭秘新品营销最大的”自杀式陷阱”",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-18T04:36:03.635911+00:00",
+      "source_date": "2026-10-18T02:21:45+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "title": "Meta 删除了可能允许其抓取新闻网站的语言",
+      "source": "The Verge Design",
+      "language": "en",
+      "published_at": "2026-10-18T04:36:41.722918+00:00",
+      "source_date": "2026-10-17T15:04:36+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6479895.html",
+      "title": "KOC的营销价值已经不高了",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-18T04:36:41.722960+00:00",
+      "source_date": "2026-10-17T06:48:47+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/pd/6476809.html",
+      "title": "产品定位、产品屋、产品矩阵、生命周期：产品策略四大核心模块与竞品分析方法",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-18T04:36:41.723035+00:00",
+      "source_date": "2026-10-18T01:36:31+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@shamlasherin222/what-makes-people-click-on-your-website-e8677dda1836?source=rss------user_experience-5",
+      "title": "是什么让人们点击您的网站？",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-10-18T04:37:39.904204+00:00",
+      "source_date": "2026-10-17T16:07:59+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.fastcompany.com/91574333/designing-for-the-edges-improves-the-center?utm_source=postup&utm_medium=email&utm_campaign=design&position=4&partner=newsletter&campaign_date=10182026",
+      "title": "边缘设计改善了中心",
+      "source": "Fast Company Design",
+      "language": "en",
+      "published_at": "2026-10-18T04:38:17.283559+00:00",
+      "source_date": "2026-07-17T12:00:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.fastcompany.com/91522993/this-outdoor-fireplace-costs-nearly-five-grand-and-it-might-just-be-worth-it?utm_source=postup&utm_medium=email&utm_campaign=design&position=14&partner=newsletter&campaign_date=10182026",
+      "title": "这个户外壁炉花费近 5 英镑——但也许物有所值",
+      "source": "Fast Company Design",
+      "language": "en",
+      "published_at": "2026-10-18T04:38:56.321494+00:00",
+      "source_date": "2026-04-09T10:00:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.fastcompany.com/91535121/most-products-work-few-work-well?utm_source=postup&utm_medium=email&utm_campaign=design&position=12&partner=newsletter&campaign_date=10182026",
+      "title": "大多数产品都有效，但很少有有效的产品",
+      "source": "Fast Company Design",
+      "language": "en",
+      "published_at": "2026-10-18T04:39:33.724958+00:00",
+      "source_date": "2026-05-01T20:25:20+00:00",
+      "full_text": false
+    },
+    {
       "url": "https://www.nngroup.com/articles/synthetic-users-vs-human-respondents/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "title": "合成用户与人类受访者：相同的结论，更少的变化",
       "source": "Nielsen Norman Group",
@@ -17819,186 +17999,6 @@
       "language": "zh",
       "published_at": "2026-06-25T04:22:30.298708+00:00",
       "source_date": "2026-06-25T03:28:04+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/share/6418896.html",
-      "title": "关于广告专业与AI产品职业的一些粗浅看法",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-06-24T04:22:52.348264+00:00",
-      "source_date": "2026-06-24T04:03:54+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/share/6419364.html",
-      "title": "为什么产品做大后，反而弄丢了核心用户？",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-06-24T04:22:52.348294+00:00",
-      "source_date": "2026-06-24T04:03:44+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6419229.html",
-      "title": "GPT-image2深度复盘：3000+次调用总结的生图经验！",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-06-24T04:22:52.348316+00:00",
-      "source_date": "2026-06-24T02:59:29+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/pmd/6419202.html",
-      "title": "内部产品经理：做好了没人夸，做坏了全是锅",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-06-24T04:22:52.348335+00:00",
-      "source_date": "2026-06-24T02:45:58+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/cn/1041601/zhong-fan-xin-yi-zhu-yun-dong-dang-dai-jiu-dian-kong-jian-zhong-de-gong-yi-wu-zhi-xing-yu-xi-jie",
-      "title": "重返新艺术运动：当代酒店空间中的工艺、物质性与细节",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-06-24T04:22:52.348355+00:00",
-      "source_date": "2026-06-24T11:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/share/6419291.html",
-      "title": "2026上半年 全球 YouTube AI短剧和漫剧市场深度洞察",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-06-24T04:22:52.348375+00:00",
-      "source_date": "2026-06-24T03:25:31+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://medium.com/@divinestocks/how-to-truly-understand-ux-design-learning-ux-through-real-life-observation-9801884c6fc4?source=rss------design-5",
-      "title": "如何真正理解用户体验设计：通过现实生活观察学习用户体验",
-      "source": "Medium · Design",
-      "language": "en",
-      "published_at": "2026-06-24T04:22:56.570395+00:00",
-      "source_date": "2026-06-24T04:01:03+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://medium.com/@thebankingexpertt/design-registration-in-india-protect-your-creative-designs-legally-8107449c0db9?source=rss------design-5",
-      "title": "印度的设计注册：合法保护您的创意设计",
-      "source": "Medium · Design",
-      "language": "en",
-      "published_at": "2026-06-24T04:22:58.533521+00:00",
-      "source_date": "2026-06-24T04:07:19+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/art/floating-rings-light-space-spy-kinetic-spatial-installation-cycles-n2/",
-      "title": "SpY 的动态空间装置中的浮动光环重绘空间",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-06-24T04:22:59.467655+00:00",
-      "source_date": "2026-06-24T03:30:43+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://medium.com/@brianpetersrg/the-journey-of-learning-to-adapt-b585109ae773?source=rss------product_design-5",
-      "title": "学习适应之旅",
-      "source": "Medium · Product Design",
-      "language": "en",
-      "published_at": "2026-06-24T04:23:02.718180+00:00",
-      "source_date": "2026-06-24T02:46:34+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6419384.html",
-      "title": "一人即军队：AI时代的组织成长，真正考验的是老板能不能让高密度人才长出来",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-06-24T04:23:02.718217+00:00",
-      "source_date": "2026-06-24T03:25:10+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://medium.com/@wazavee/there-are-plenty-of-timers-why-build-another-one-59b26b826fe5?source=rss------product_design-5",
-      "title": "有很多计时器。为什么要建造另一个？",
-      "source": "Medium · Product Design",
-      "language": "en",
-      "published_at": "2026-06-24T04:23:03.945977+00:00",
-      "source_date": "2026-06-24T02:48:51+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://medium.com/@brianpetersrg/the-journey-of-learning-to-adapt-b585109ae773?source=rss------design-5",
-      "title": "学习适应之旅",
-      "source": "Medium · Design",
-      "language": "en",
-      "published_at": "2026-06-24T04:23:04.406841+00:00",
-      "source_date": "2026-06-24T02:46:34+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1042650/pit-garden-in-passive-house-d-environmental-design-system-laboratory",
-      "title": "被动房坑式花园 / D环境设计系统实验室",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-06-24T04:23:05.860089+00:00",
-      "source_date": "2026-06-23T19:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://smashingmagazine.com/2026/02/designing-streak-system-ux-psychology/",
-      "title": "设计 Streak 系统：Streak 的用户体验和心理学",
-      "source": "Smashing Magazine",
-      "language": "en",
-      "published_at": "2026-06-24T04:23:14.888808+00:00",
-      "source_date": "2026-02-18T15:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
-      "title": "好莱坞向 OpenAI 屈服",
-      "source": "The Verge Design",
-      "language": "en",
-      "published_at": "2026-06-24T04:23:16.594666+00:00",
-      "source_date": "2026-06-23T22:03:18+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.theverge.com/gadgets/955139/xteink-x3-x4-e-ink-reader-amazon-prime-day-deal-sale",
-      "title": "Xteink 的小型电子阅读器在 Prime Day 享受 20% 的折扣",
-      "source": "The Verge Design",
-      "language": "en",
-      "published_at": "2026-06-24T04:23:19.123730+00:00",
-      "source_date": "2026-06-23T20:11:24+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://medium.com/@contact_31296/what-if-user-fatigue-is-not-a-bad-day-but-a-behavioral-drift-7457dda61e1c?source=rss------user_experience-5",
-      "title": "如果用户疲劳不是糟糕的一天，而是行为偏差怎么办？",
-      "source": "Medium · User Experience",
-      "language": "en",
-      "published_at": "2026-06-24T04:23:23.187437+00:00",
-      "source_date": "2026-06-23T16:47:20+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
-      "title": "算法主题引擎：使用“contrast-color()”构建自校正颜色系统",
-      "source": "Smashing Magazine",
-      "language": "en",
-      "published_at": "2026-06-24T04:23:33.665947+00:00",
-      "source_date": "2026-05-28T13:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1042641/aquatic-gallery-ini-design-studio",
-      "title": "水生画廊 / INI Design Studio",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-06-24T04:23:36.555453+00:00",
-      "source_date": "2026-06-23T02:00:00+00:00",
       "full_text": true
     }
   ]
