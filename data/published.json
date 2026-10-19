@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.woshipm.com/ai/6480297.html",
+      "title": "DeepSeek又升级了，这一次，产品经理该关注什么？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-19T04:32:59.625273+00:00",
+      "source_date": "2026-10-19T02:01:33+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6480428.html",
+      "title": "FDE 最难的问题：你凭什么认为，这样做就能赚钱？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-19T04:32:59.625301+00:00",
+      "source_date": "2026-10-19T03:07:54+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/18/the-hardest-part-of-moving-from-ux-to-hardware-is-committing/?utm_source=rss&utm_medium=rss&utm_campaign=the-hardest-part-of-moving-from-ux-to-hardware-is-committing",
+      "title": "The hardest part of moving from UX to hardware is committing",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-19T04:35:12.592941+00:00",
+      "source_date": "2026-10-18T19:15:57+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/18/this-japanese-doll-inspired-side-table-fits-two-contrasting-shapes-together-like-a-perfect-puzzle/?utm_source=rss&utm_medium=rss&utm_campaign=this-japanese-doll-inspired-side-table-fits-two-contrasting-shapes-together-like-a-perfect-puzzle",
+      "title": "This Japanese Doll-Inspired Side Table Fits Two Contrasting Shapes Together Like a Perfect Puzzle",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-19T04:36:48.585002+00:00",
+      "source_date": "2026-10-18T11:40:27+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/18/no-wood-no-ash-no-smoke-this-modular-propane-torch-turns-any-outdoor-space-into-a-gathering-spot/?utm_source=rss&utm_medium=rss&utm_campaign=no-wood-no-ash-no-smoke-this-modular-propane-torch-turns-any-outdoor-space-into-a-gathering-spot",
+      "title": "No Wood, No Ash, No Smoke: This Modular Propane Torch Turns Any Outdoor Space Into a Gathering Spot",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-19T04:38:24.862003+00:00",
+      "source_date": "2026-10-19T01:45:20+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6480372.html",
+      "title": "Claude Code 团队是如何进行代码审查的",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-19T04:38:24.862040+00:00",
+      "source_date": "2026-10-19T02:02:53+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6480354.html",
+      "title": "微信，你糊涂呀！居然为这事加了个开关",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-19T04:38:24.862055+00:00",
+      "source_date": "2026-10-19T01:39:35+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@darteq/i-built-a-running-tracker-around-numbers-then-i-started-thinking-about-the-words-be066bc8ed02?source=rss------user_experience-5",
+      "title": "I Built a Running Tracker Around Numbers. Then I Started Thinking About the Words.",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-10-19T04:39:41.599228+00:00",
+      "source_date": "2026-10-18T21:44:25+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/how-to-build-a-brand-foundation-with-ai-without-losing-your-craft-d616b05cb838?source=rss----138adf9c44c---4",
+      "title": "How to build a brand foundation with AI without losing your craft",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-10-19T04:40:20.264682+00:00",
+      "source_date": "2026-10-18T19:06:49+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6480395.html",
+      "title": "AI医疗的钱，为什么这么难赚？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-19T04:40:20.264722+00:00",
+      "source_date": "2026-10-19T02:54:36+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/evaluating/6476812.html",
+      "title": "从招股书、财报、电话会议到券商研报：行业分析的六大实操方法与信息源指南",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-19T04:40:20.264745+00:00",
+      "source_date": "2026-10-19T01:41:42+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/operate/6480168.html",
+      "title": "存量时代医美机构韩系医生IP运营的增长真相",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-19T04:40:20.264762+00:00",
+      "source_date": "2026-10-19T01:29:17+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/18/5-japanese-everyday-designs-that-fix-familiar-frustrations/?utm_source=rss&utm_medium=rss&utm_campaign=5-japanese-everyday-designs-that-fix-familiar-frustrations",
+      "title": "5 Japanese Everyday Designs That Fix Familiar Frustrations",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-19T04:42:34.476597+00:00",
+      "source_date": "2026-10-18T23:30:34+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@info_11978/custom-jewelry-packaging-what-jewelry-brands-should-consider-before-ordering-99970bd0e9e7?source=rss------product_design-5",
+      "title": "Custom Jewelry Packaging: What Jewelry Brands Should Consider Before Ordering",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-10-19T04:43:51.219301+00:00",
+      "source_date": "2026-10-19T03:03:35+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6478994.html",
+      "title": "产品功能架构图到底该怎么画",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-19T04:43:51.219333+00:00",
+      "source_date": "2026-10-19T01:22:27+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@ivaylostoyanov_42562/woman-under-rain-image-design-ai-file-format-cd7c51a71369?source=rss------design-5",
+      "title": "Woman Under Rain Image Design AI FIle Format",
+      "source": "Medium · Design",
+      "language": "en",
+      "published_at": "2026-10-19T04:44:48.962508+00:00",
+      "source_date": "2026-10-19T03:43:39+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@nilagao16/growing-globally-your-customers-culture-matters-7945ed800bd2?source=rss------product_design-5",
+      "title": "Growing globally? Your customers’ culture matters",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-10-19T04:45:46.372857+00:00",
+      "source_date": "2026-10-18T23:41:08+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@vinayanand2/from-idea-to-interactive-concept-turning-ideas-into-3d-you-can-take-apart-e6fd7c2db20f?source=rss------product_design-5",
+      "title": "From Idea to Interactive Concept: Turning Ideas Into 3D You Can Take Apart",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-10-19T04:47:22.467672+00:00",
+      "source_date": "2026-10-18T23:24:56+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.fastcompany.com/91574333/designing-for-the-edges-improves-the-center?utm_source=postup&utm_medium=email&utm_campaign=design&position=4&partner=newsletter&campaign_date=10192026",
+      "title": "Designing for the edges improves the center",
+      "source": "Fast Company Design",
+      "language": "en",
+      "published_at": "2026-10-19T04:48:00.979267+00:00",
+      "source_date": "2026-07-17T12:00:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.fastcompany.com/91522993/this-outdoor-fireplace-costs-nearly-five-grand-and-it-might-just-be-worth-it?utm_source=postup&utm_medium=email&utm_campaign=design&position=14&partner=newsletter&campaign_date=10192026",
+      "title": "This outdoor fireplace costs nearly 5 grand—and it might just be worth it",
+      "source": "Fast Company Design",
+      "language": "en",
+      "published_at": "2026-10-19T04:48:39.390724+00:00",
+      "source_date": "2026-04-09T10:00:00+00:00",
+      "full_text": false
+    },
+    {
       "url": "https://www.woshipm.com/ucd/6478923.html",
       "title": "iPhone Duo：AI 时代硬件产品体验的 5 个趋势！",
       "source": "人人都是产品经理",
@@ -17819,186 +17999,6 @@
       "language": "en",
       "published_at": "2026-06-26T04:38:17.935821+00:00",
       "source_date": "2026-06-25T20:18:47+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/design/we-plus-craft-digital-fabrication-material-intelligence-interview/",
-      "title": "we+ 通过材料智能探索工艺和数字制造",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-06-25T04:21:57.007953+00:00",
-      "source_date": "2026-06-24T10:50:34+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/art/student-exhibition-bratislava-home-memory-sound-projection-dwelling-architecture-design-stu/",
-      "title": "布拉迪斯拉发学生展览通过记忆、声音和投影重塑家园",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-06-25T04:22:00.937687+00:00",
-      "source_date": "2026-06-24T09:00:26+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/lithium-crystal-mirrored-pink-sauna-sweden-reclaimed-wasteland-bigert-bergstrom/",
-      "title": "瑞典开垦荒地上的镜面粉色桑拿浴室以锂晶体形式为灵感",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-06-25T04:22:03.326570+00:00",
-      "source_date": "2026-06-24T16:01:13+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/share/6419180.html",
-      "title": "当差异化设计只剩下了“差异”",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-06-25T04:22:03.326610+00:00",
-      "source_date": "2026-06-25T01:17:50+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/design/artificial-stone-recycled-textile-waste-furniture-collection-chromaterico-textile-objects-archeomaterico-chroma-composites/",
-      "title": "由回收纺织废料制成的人造石构成了家具系列",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-06-25T04:22:04.627065+00:00",
-      "source_date": "2026-06-25T03:30:34+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/amasa-estudio-patios-millwork-mid-century-home-mexico-city-casa-xoltic/",
-      "title": "amasa estudio 在墨西哥城的一座中世纪住宅中雕刻了露台和木制品",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-06-25T04:22:08.068064+00:00",
-      "source_date": "2026-06-24T14:30:06+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/design/crashing-wave-rolls-paris-pharrell-louis-vuitton-runway-coastline/",
-      "title": "Pharrell 将路易威登的秀场变成了海岸线，汹涌的海浪席卷巴黎",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-06-25T04:22:09.392815+00:00",
-      "source_date": "2026-06-24T08:30:59+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6419824.html",
-      "title": "为什么很多 AI 设计稿看起来不错，却很难落地？TRAE Work Design 给了一个新解法",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-06-25T04:22:09.392862+00:00",
-      "source_date": "2026-06-25T00:53:02+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/ai-ally-local-heritage-room-for-dreams-podcast/",
-      "title": "数字语言：将人工智能重新定义为当地遗产的意外盟友",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-06-25T04:22:11.567175+00:00",
-      "source_date": "2026-06-24T10:00:22+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://medium.com/@bhaweshsingawne29/typography-is-not-decoration-its-direction-3109166b928f?source=rss------user_experience-5",
-      "title": "版式不是装饰。这是方向。",
-      "source": "Medium · User Experience",
-      "language": "en",
-      "published_at": "2026-06-25T04:22:18.735502+00:00",
-      "source_date": "2026-06-24T17:45:52+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/design/tom-sachs-ceramic-failures-craft-salon-94-jj-peet-satan-furniture/",
-      "title": "汤姆·萨克斯 (Tom Sachs) 在 94 号沙龙中将陶瓷失败变成了一种工艺语言",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-06-25T04:22:19.720635+00:00",
-      "source_date": "2026-06-24T21:45:32+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1042276/paris-as-a-living-laboratory-proximity-inclusion-and-the-school-as-climate-and-social-infrastructure",
-      "title": "巴黎作为一个活的实验室：邻近性、包容性以及作为气候和社会基础设施的学校",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-06-25T04:22:23.190010+00:00",
-      "source_date": "2026-06-24T07:30:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/share/6419525.html",
-      "title": "AI Agent项目为什么大多都失败了？Deloitte报告给PM的3个警告",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-06-25T04:22:23.190054+00:00",
-      "source_date": "2026-06-24T08:36:09+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1042709/park-reimagines-the-interiors-of-milano-centrale-mussolinis-fascist-era-rail-monument",
-      "title": "公园重新构想米兰中央车站、墨索里尼法西斯时代铁路纪念碑的内部",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-06-25T04:22:27.320034+00:00",
-      "source_date": "2026-06-24T05:30:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6419721.html",
-      "title": "从几万授权费到几十块搞定：给产品加语音唤醒这一年的变化",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-06-25T04:22:27.320073+00:00",
-      "source_date": "2026-06-25T01:27:02+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://medium.com/@akrutimainwork/the-importance-of-user-experience-ux-in-modern-web-design-1eb88b4264cb?source=rss------user_experience-5",
-      "title": "用户体验 (UX) 在现代网页设计中的重要性",
-      "source": "Medium · User Experience",
-      "language": "en",
-      "published_at": "2026-06-25T04:22:30.298587+00:00",
-      "source_date": "2026-06-24T13:18:39+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6419937.html",
-      "title": "一个不懂代码的运营，10 分钟搭了个系统后，我重新思考了“需求落地”这件事",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-06-25T04:22:30.298631+00:00",
-      "source_date": "2026-06-25T03:29:28+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/pd/6419774.html",
-      "title": "被面试官嘲笑的“自动连播”，为什么小红书和抖音都悄悄上线了？",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-06-25T04:22:30.298660+00:00",
-      "source_date": "2026-06-25T01:37:43+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/share/6419324.html",
-      "title": "成本花在用户看不见的地方，产品再好也卖不上价",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-06-25T04:22:30.298684+00:00",
-      "source_date": "2026-06-24T09:49:18+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6419922.html",
-      "title": "左手专业版，右手AI打车，豆包Agent意欲何为？",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-06-25T04:22:30.298708+00:00",
-      "source_date": "2026-06-25T03:28:04+00:00",
       "full_text": true
     }
   ]
