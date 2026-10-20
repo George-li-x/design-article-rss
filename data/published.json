@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.yankodesign.com/2026/10/19/nothings-ear-open-should-have-been-a-cmf-product-all-along-heres-proof/?utm_source=rss&utm_medium=rss&utm_campaign=nothings-ear-open-should-have-been-a-cmf-product-all-along-heres-proof",
+      "title": "Nothing's Ear（开放式）本来就应该是 CMF 产品……证据如下",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-20T04:43:56.421068+00:00",
+      "source_date": "2026-10-20T00:30:02+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/19/these-retro-modern-headphones-put-audio-adjustments-on-physical-dials-and-tactile-switches/?utm_source=rss&utm_medium=rss&utm_campaign=these-retro-modern-headphones-put-audio-adjustments-on-physical-dials-and-tactile-switches",
+      "title": "这些复古现代耳机将音频调节放在物理拨盘和触觉开关上",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-20T04:45:11.589555+00:00",
+      "source_date": "2026-10-19T18:20:03+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/anthropic-october-2026-study-human-attention-is-the-new-old-bottleneck-d7bc4642668a?source=rss----138adf9c44c---4",
+      "title": "人类注意力是新旧瓶颈。我们必须为此进行更多设计。",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-10-20T04:45:50.129970+00:00",
+      "source_date": "2026-10-19T21:39:27+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6481069.html",
+      "title": "设计师与产品经理的语义养成：从画对界面到标对语义",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-20T04:45:50.130011+00:00",
+      "source_date": "2026-10-20T02:34:02+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/beyond-the-canvas-03fce0bcbf7b?source=rss----138adf9c44c---4",
+      "title": "超越画布",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-10-20T04:46:28.459814+00:00",
+      "source_date": "2026-10-19T09:29:20+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/19/this-minimalist-bamboo-coffee-table-hides-everyday-clutter-in-plain-sight/?utm_source=rss&utm_medium=rss&utm_campaign=this-minimalist-bamboo-coffee-table-hides-everyday-clutter-in-plain-sight",
+      "title": "这款极简竹制咖啡桌将日常杂乱隐藏在众目睽睽之下",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-20T04:48:05.388816+00:00",
+      "source_date": "2026-10-19T22:30:25+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/19/kojima-x-casetify-game-world-gear-you-can-actually-carry/?utm_source=rss&utm_medium=rss&utm_campaign=kojima-x-casetify-game-world-gear-you-can-actually-carry",
+      "title": "小岛 x CASETiFY：你可以随身携带的游戏世界装备",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-20T04:49:41.976080+00:00",
+      "source_date": "2026-10-19T14:20:44+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6480817.html",
+      "title": "毁掉一个品牌部，仅需四步就够了",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-20T04:49:41.976165+00:00",
+      "source_date": "2026-10-20T03:13:26+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/pd/6481143.html",
+      "title": "行政执法音视频留痕：别把SDK直接当业务系统用",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-20T04:49:41.976180+00:00",
+      "source_date": "2026-10-20T03:01:53+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6481110.html",
+      "title": "美团做了个大众点评版的Skill平台DeepSkill，收录超37万个技能工具",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-20T04:49:41.976193+00:00",
+      "source_date": "2026-10-20T03:35:33+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6479928.html",
+      "title": "产品经理和好的产品之间，隔着什么",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-20T04:49:41.976208+00:00",
+      "source_date": "2026-10-20T03:11:16+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@bayraak/honest-comparison-zakeke-vs-customily-5b48c380cbef?source=rss------product_design-5",
+      "title": "诚实的比较：Zakeke 与 Customly",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-10-20T04:50:58.350877+00:00",
+      "source_date": "2026-10-20T04:40:03+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6479398.html",
+      "title": "并非所有的产品都适用营销漏斗",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-20T04:50:58.350911+00:00",
+      "source_date": "2026-10-20T02:26:31+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/19/porsche-mission-s-ditches-the-center-screen-for-a-driver-focused-supercar-cockpit/?utm_source=rss&utm_medium=rss&utm_campaign=porsche-mission-s-ditches-the-center-screen-for-a-driver-focused-supercar-cockpit",
+      "title": "保时捷 Mission S 放弃了中央屏幕，转而以驾驶员为中心的超级跑车驾驶舱",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-20T04:52:33.833711+00:00",
+      "source_date": "2026-10-19T15:20:07+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6480789.html",
+      "title": "DeepSeek新模型升级，梁文锋正在为具身智能铺路？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-20T04:52:33.833744+00:00",
+      "source_date": "2026-10-20T03:08:33+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6481129.html",
+      "title": "在鸿蒙 PC 上用 CPF-Ionic 开发鸿蒙应用：一次把坑踩穿的完整实录",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-20T04:52:33.833763+00:00",
+      "source_date": "2026-10-20T03:37:37+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@junaidmaniyar/why-more-choice-is-killing-your-conversions-the-hidden-power-of-hicks-law-cf4921b2a176?source=rss------user_experience-5",
+      "title": "为什么更多的选择会扼杀你的转化：希克定律的隐藏力量",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-10-20T04:53:13.013788+00:00",
+      "source_date": "2026-10-20T03:28:23+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@sharp013579/how-to-remove-an-image-background-online-and-export-a-transparent-png-dafbe1c78ebc?source=rss------design-5",
+      "title": "如何在线删除图像背景并导出透明PNG",
+      "source": "Medium · Design",
+      "language": "en",
+      "published_at": "2026-10-20T04:54:10.199277+00:00",
+      "source_date": "2026-10-20T03:05:46+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/19/the-8-retro-inspired-gadgets-of-october-2026-that-bring-back-the-rituals-smartphones-replaced/?utm_source=rss&utm_medium=rss&utm_campaign=the-8-retro-inspired-gadgets-of-october-2026-that-bring-back-the-rituals-smartphones-replaced",
+      "title": "2026 年 10 月 8 款复古风格小玩意，让智能手机重新焕发新风采",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-20T04:57:22.540041+00:00",
+      "source_date": "2026-10-19T11:40:22+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement",
+      "title": "苹果预告下周 MacBook Pro 发布会",
+      "source": "The Verge Design",
+      "language": "en",
+      "published_at": "2026-10-20T04:58:00.906370+00:00",
+      "source_date": "2026-10-19T16:10:20+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.woshipm.com/ai/6480297.html",
       "title": "DeepSeek又升级了，这一次，产品经理该关注什么？",
       "source": "人人都是产品经理",
@@ -17819,186 +17999,6 @@
       "language": "zh",
       "published_at": "2026-06-27T04:14:54.646584+00:00",
       "source_date": "2026-06-24T17:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1042752/james-turrells-skyspace-and-the-opening-of-the-obama-presidential-center-this-weeks-review",
-      "title": "詹姆斯·特雷尔的天空空间和奥巴马总统中心的开幕：本周回顾",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-06-26T04:37:56.830933+00:00",
-      "source_date": "2026-06-25T05:30:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6419694.html",
-      "title": "拆解 Anthropic 万字创业指南：AI 原生公司其实是批量生产的炮灰，跑通四阶段是入场券，不是护身符。",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-06-26T04:37:56.830990+00:00",
-      "source_date": "2026-06-26T01:50:10+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6419885.html",
-      "title": "组件语义快照与模式诊断：AI 生成界面的第一道检查",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-06-26T04:37:56.831024+00:00",
-      "source_date": "2026-06-26T01:40:35+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://uxdesign.cc/rethinking-figma-in-an-ai-world-0facba587ba5?source=rss----138adf9c44c---4",
-      "title": "重新思考人工智能世界中的 Figma",
-      "source": "UX Collective",
-      "language": "en",
-      "published_at": "2026-06-26T04:37:58.096004+00:00",
-      "source_date": "2026-06-25T22:50:53+00:00",
-      "full_text": false
-    },
-    {
-      "url": "https://www.woshipm.com/share/6420124.html",
-      "title": "从 0-1 做 App，434 下载 $35 收入，我学到了什么",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-06-26T04:37:58.096055+00:00",
-      "source_date": "2026-06-25T09:38:36+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6420308.html",
-      "title": "一个好的客服Agent的架构需要怎么搭？",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-06-26T04:37:58.096082+00:00",
-      "source_date": "2026-06-26T01:40:41+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://medium.com/@areej1.tariq/canva-design-innovation-without-the-design-degree-module-8-202fd9a08f7f?source=rss------design-5",
-      "title": "Canva：没有设计学位的设计创新（模块 8）",
-      "source": "Medium · Design",
-      "language": "en",
-      "published_at": "2026-06-26T04:37:59.713798+00:00",
-      "source_date": "2026-06-26T00:44:22+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/918881/23-amazing-places-in-barcelonas-best-architecture-city-guide",
-      "title": "巴塞罗那建筑城市指南：从高迪至今的 30 座建筑和场所",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-06-26T04:38:01.853104+00:00",
-      "source_date": "2026-06-25T04:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/pmd/6420088.html",
-      "title": "功能的守门人、时间的守卫者、机会的追逐者：产品经理的三角困局",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-06-26T04:38:01.853149+00:00",
-      "source_date": "2026-06-25T09:35:11+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/pd/6420453.html",
-      "title": "杀死 App：下一代 AI 交互的定义权，也许握在一个按钮手里",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-06-26T04:38:01.853176+00:00",
-      "source_date": "2026-06-26T02:19:10+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1042708/i-dont-separate-architecture-and-infrastructure-interview-with-shohei-shigematsu-on-omas-new-museum-addition",
-      "title": "“我不会将建筑和基础设施分开”：重松翔平就 OMA 博物馆新扩建项目进行采访",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-06-26T04:38:04.089544+00:00",
-      "source_date": "2026-06-25T07:30:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/pd/6420019.html",
-      "title": "做国企财务决策支持系统四年，我踩过的四个坑",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-06-26T04:38:04.089592+00:00",
-      "source_date": "2026-06-26T02:17:52+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/share/6420395.html",
-      "title": "“崩老头”：社交产品里的情绪陪伴生意",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-06-26T04:38:04.089624+00:00",
-      "source_date": "2026-06-26T02:13:09+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1042731/ferruccio-laviani-designs-a-greek-theatre-inspired-stage-for-mara-at-salone-del-mobile-2026",
-      "title": "Ferruccio Laviani 在 2026 年米兰国际家具展上为 MARA 设计的希腊戏剧灵感舞台",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-06-26T04:38:08.377093+00:00",
-      "source_date": "2026-06-25T01:30:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/zhichang/6420343.html",
-      "title": "B端产品经理的防甩锅实战手册",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-06-26T04:38:08.377156+00:00",
-      "source_date": "2026-06-26T02:09:46+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6420350.html",
-      "title": "GPT、Claude、Gemini、豆包、DeepSeek，本质上不是同一种 AI 产品。",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-06-26T04:38:08.377184+00:00",
-      "source_date": "2026-06-26T01:46:31+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://medium.com/@elsaidyoussef91/visualizeai-review-is-this-ai-interior-design-tool-worth-it-2025-ccb4bd7d2f4d?source=rss------design-5",
-      "title": "VisualizeAI评论：这个AI室内设计工具值得吗？ (2026)",
-      "source": "Medium · Design",
-      "language": "en",
-      "published_at": "2026-06-26T04:38:10.511139+00:00",
-      "source_date": "2026-06-26T00:37:10+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1042758/foster-plus-partners-reveals-agricultural-city-master-plan-in-southern-oman",
-      "title": "福斯特建筑事务所公布阿曼南部农业城市总体规划",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-06-26T04:38:13.520472+00:00",
-      "source_date": "2026-06-25T06:30:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://medium.com/@clairelee227/designing-systems-for-people-not-just-products-afaab9ffe4ab?source=rss------design-5",
-      "title": "为人设计系统，而不仅仅是产品",
-      "source": "Medium · Design",
-      "language": "en",
-      "published_at": "2026-06-26T04:38:15.520991+00:00",
-      "source_date": "2026-06-26T04:05:53+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.theverge.com/gadgets/957170/xbox-series-s-x-prime-day-deal-sale",
-      "title": "在价格上涨之前购买打折的 Xbox 主机",
-      "source": "The Verge Design",
-      "language": "en",
-      "published_at": "2026-06-26T04:38:17.935821+00:00",
-      "source_date": "2026-06-25T20:18:47+00:00",
       "full_text": true
     }
   ]
