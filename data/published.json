@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.woshipm.com/ai/6482213.html",
+      "title": "实测ZCode办公模式，Workflow自动跑完10个UI竞品拆解，1h干完3天的活！",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-22T04:35:51.805991+00:00",
+      "source_date": "2026-10-22T02:34:20+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/it/6482432.html",
+      "title": "AI大厂抢人，已经等不到毕业了",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-22T04:35:51.806039+00:00",
+      "source_date": "2026-10-22T02:54:36+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/21/road-barriers-become-benches-without-losing-their-warning-stripes/?utm_source=rss&utm_medium=rss&utm_campaign=road-barriers-become-benches-without-losing-their-warning-stripes",
+      "title": "路障变成了长凳，但没有失去警告条纹",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-22T04:37:46.934440+00:00",
+      "source_date": "2026-10-21T09:15:10+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/21/a-coffee-bar-without-a-remodel-unitos-rolling-station/?utm_source=rss&utm_medium=rss&utm_campaign=a-coffee-bar-without-a-remodel-unitos-rolling-station",
+      "title": "无需改造的咖啡吧：UNITO 的滚动站",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-22T04:39:41.967274+00:00",
+      "source_date": "2026-10-21T08:15:22+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6482549.html",
+      "title": "设计师与产品经理的语义养成：在1个组件的2个场景上练习标注",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-22T04:39:41.967333+00:00",
+      "source_date": "2026-10-22T03:17:17+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@uxdesignerpro/ai-prototyping-recreating-an-uber-eats-manager-interface-in-figma-make-b2a2463353f2?source=rss------product_design-5",
+      "title": "AI 原型设计：在 Figma Make 中重新创建 Uber Eats 优食管理界面",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-10-22T04:40:58.537697+00:00",
+      "source_date": "2026-10-22T02:20:15+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/21/youtuber-built-a-bike-camper-from-scratch-and-took-it-to-burning-man/?utm_source=rss&utm_medium=rss&utm_campaign=youtuber-built-a-bike-camper-from-scratch-and-took-it-to-burning-man",
+      "title": "YouTuber 从头开始​​制作了一辆自行车露营车，并将其带到了火人节",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-22T04:42:14.892892+00:00",
+      "source_date": "2026-10-21T18:20:12+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/21/smartwatch-mobile-charger-hidden-in-a-hersheys-kiss-shaped-shell/?utm_source=rss&utm_medium=rss&utm_campaign=smartwatch-mobile-charger-hidden-in-a-hersheys-kiss-shaped-shell",
+      "title": "隐藏在好时吻形外壳中的智能手表移动充电器",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-22T04:43:50.148700+00:00",
+      "source_date": "2026-10-21T14:20:17+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/21/oppo-find-x10-pro-max-review-stunning-imaging-well-balanced-flagship-big-price/?utm_source=rss&utm_medium=rss&utm_campaign=oppo-find-x10-pro-max-review-stunning-imaging-well-balanced-flagship-big-price",
+      "title": "Oppo Find X10 Pro Max评测：令人惊叹的成像、均衡的旗舰、大价格",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-22T04:50:52.602499+00:00",
+      "source_date": "2026-10-21T15:00:31+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/21/a-stained-glass-caution-sign-youll-actually-stop-to-admire/?utm_source=rss&utm_medium=rss&utm_campaign=a-stained-glass-caution-sign-youll-actually-stop-to-admire",
+      "title": "一个让您停下来欣赏的彩色玻璃警告标志",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-22T04:52:46.731524+00:00",
+      "source_date": "2026-10-21T21:30:19+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6482460.html",
+      "title": "人力资源业这样用WorkBuddy就对了",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-22T04:52:46.731590+00:00",
+      "source_date": "2026-10-22T03:36:16+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6482165.html",
+      "title": "把找商机交给AI：WorkBuddy如何助力乳制品业绩增长",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-22T04:52:46.731635+00:00",
+      "source_date": "2026-10-22T02:34:26+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6482350.html",
+      "title": "一次临时授权，怎样在系统里真正生效？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-22T04:52:46.731668+00:00",
+      "source_date": "2026-10-22T02:51:52+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6482343.html",
+      "title": "运营和财务天天吵架的原因：主数据没统一",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-22T04:52:46.731700+00:00",
+      "source_date": "2026-10-22T02:40:53+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/operate/6482351.html",
+      "title": "一个电商直播项目，运营成功主要靠的是什么？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-22T04:52:46.731731+00:00",
+      "source_date": "2026-10-22T03:55:41+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@mingmingcodes/b2b-product-discovery-search-intent-283f0bf008c6?source=rss------user_experience-5",
+      "title": "在推荐产品之前：B2B 搜索实验对访问者意图的启发",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-10-22T04:54:41.547258+00:00",
+      "source_date": "2026-10-21T14:51:39+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@filiphanasz/we-asked-claude-to-design-real-hardware-it-got-to-a-priced-parts-order-in-a-week-3dd203c729ee?source=rss------product_design-5",
+      "title": "我们要求克劳德设计真正的硬件。一周内就收到了定价零件订单。",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-10-22T04:56:17.460891+00:00",
+      "source_date": "2026-10-22T00:57:06+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.fastcompany.com/91574333/designing-for-the-edges-improves-the-center?utm_source=postup&utm_medium=email&utm_campaign=design&position=4&partner=newsletter&campaign_date=10222026",
+      "title": "边缘设计改善了中心",
+      "source": "Fast Company Design",
+      "language": "en",
+      "published_at": "2026-10-22T04:56:55.911894+00:00",
+      "source_date": "2026-07-17T12:00:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.fastcompany.com/91522993/this-outdoor-fireplace-costs-nearly-five-grand-and-it-might-just-be-worth-it?utm_source=postup&utm_medium=email&utm_campaign=design&position=14&partner=newsletter&campaign_date=10222026",
+      "title": "这个户外壁炉花费近 5 英镑——但也许物有所值",
+      "source": "Fast Company Design",
+      "language": "en",
+      "published_at": "2026-10-22T04:57:33.936171+00:00",
+      "source_date": "2026-04-09T10:00:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.fastcompany.com/91535121/most-products-work-few-work-well?utm_source=postup&utm_medium=email&utm_campaign=design&position=12&partner=newsletter&campaign_date=10222026",
+      "title": "大多数产品都有效，但很少有有效的产品",
+      "source": "Fast Company Design",
+      "language": "en",
+      "published_at": "2026-10-22T04:58:12.592807+00:00",
+      "source_date": "2026-05-01T20:25:20+00:00",
+      "full_text": false
+    },
+    {
       "url": "https://uxplanet.org/claude-haiku-5-5-vs-sonnet-5-5-vs-opus-5-5-which-model-should-you-use-for-which-task-558e2b26cb3c?source=rss----819cc2aaeee0---4",
       "title": "Claude Haiku 5.5 vs Sonnet 5.5 vs Opus 5.5：您应该使用哪种模型来执行哪个任务？",
       "source": "UX Planet",
@@ -17819,186 +17999,6 @@
       "language": "zh",
       "published_at": "2026-06-29T04:58:17.514848+00:00",
       "source_date": "2026-06-29T01:34:33+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/design/hand-bent-3d-printing-oberdoerfer-krebs-digital-fabrication-bend-chair-ukurant-3daysofdesign/",
-      "title": "3D 打印后手工弯曲，oberdoerfer & krebs 的座椅重新思考数字制造",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-06-28T04:47:39.190850+00:00",
-      "source_date": "2026-06-27T19:45:36+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/it/6421133.html",
-      "title": "AI产品经理成长实战：如何从0-1落地一款AI产品！",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-06-28T04:47:39.190899+00:00",
-      "source_date": "2026-06-27T02:44:07+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/vertical-white-pillars-rhythmic-facade-primary-school-italy-parma-aaa-office/",
-      "title": "垂直的白色柱子构成了意大利小学的有节奏的立面",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-06-28T04:47:42.582250+00:00",
-      "source_date": "2026-06-28T02:50:19+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6421251.html",
-      "title": "我用AI写PRD踩过的所有坑，都帮你总结好了",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-06-28T04:47:42.582299+00:00",
-      "source_date": "2026-06-28T04:28:06+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/share/6421100.html",
-      "title": "情绪价值的正确打开方式",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-06-28T04:47:42.582327+00:00",
-      "source_date": "2026-06-28T01:23:02+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://uxdesign.cc/someone-designed-this-2d48482b64df?source=rss----138adf9c44c---4",
-      "title": "有人设计了这个",
-      "source": "UX Collective",
-      "language": "en",
-      "published_at": "2026-06-28T04:47:43.887839+00:00",
-      "source_date": "2026-06-26T11:09:43+00:00",
-      "full_text": false
-    },
-    {
-      "url": "https://www.designboom.com/architecture/stuffed-animal-shrine-kyoto-visitors-cherished-plush-companions/",
-      "title": "京都的毛绒动物神社邀请游客向珍贵的毛绒伴侣致敬",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-06-28T04:47:44.550350+00:00",
-      "source_date": "2026-06-27T14:35:36+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6420865.html",
-      "title": "踩了10个坑后，我弄清了Vibe Motion的真实玩法",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-06-28T04:47:44.550394+00:00",
-      "source_date": "2026-06-27T06:21:11+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.nngroup.com/articles/establishing-baselines/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "您的新用户体验习惯：建立影响基准",
-      "source": "Nielsen Norman Group",
-      "language": "en",
-      "published_at": "2026-06-28T04:47:48.036690+00:00",
-      "source_date": "2026-06-26T17:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6421231.html",
-      "title": "AI互联网日报：OpenAI 开启 GPT-5.6 限量预览；DeepSeek 扩招、豆包进特斯拉车机；京东欧洲推机器人维修服务",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-06-28T04:47:48.036735+00:00",
-      "source_date": "2026-06-27T09:57:47+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1042738/rewilding-the-city-6-unbuilt-projects-from-the-archdaily-community",
-      "title": "重建城市：ArchDaily 社区的 6 个未建项目",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-06-28T04:47:56.755674+00:00",
-      "source_date": "2026-06-26T07:30:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1042779/snohetta-reimagines-aino-and-alvar-aaltos-paimio-sanatorium-as-a-wellness-and-cultural-destination",
-      "title": "Snøhetta 将 Aino 和 Alvar Aalto 的 Paimio 疗养院重新构想为健康和文化目的地",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-06-28T04:48:01.713510+00:00",
-      "source_date": "2026-06-26T05:30:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://medium.com/@uroobaS/ux-is-human-work-why-ai-will-assist-not-replace-designers-ababbc99ec5b?source=rss------user_experience-5",
-      "title": "用户体验是人类的工作：为什么人工智能会帮助而不是取代设计师",
-      "source": "Medium · User Experience",
-      "language": "en",
-      "published_at": "2026-06-28T04:48:07.878606+00:00",
-      "source_date": "2026-06-27T19:36:35+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/pd/6421173.html",
-      "title": "用产品迭代思维做家装：持续优化居住方案，拉长客户生命周期价值",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-06-28T04:48:07.878650+00:00",
-      "source_date": "2026-06-27T05:46:12+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6420927.html",
-      "title": "AI写小说的”三十章魔咒”：当上下文窗口不够用，工具在往哪里走",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-06-28T04:48:07.878677+00:00",
-      "source_date": "2026-06-27T03:18:45+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://uxdesign.cc/why-your-claude-code-needs-a-design-stack-46dccbced6e5?source=rss----138adf9c44c---4",
-      "title": "为什么您的克劳德代码需要设计堆栈",
-      "source": "UX Collective",
-      "language": "en",
-      "published_at": "2026-06-28T04:48:08.368346+00:00",
-      "source_date": "2026-06-27T16:45:31+00:00",
-      "full_text": false
-    },
-    {
-      "url": "https://www.nngroup.com/articles/survey-bots/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "将机器人从您的调查数据中剔除",
-      "source": "Nielsen Norman Group",
-      "language": "en",
-      "published_at": "2026-06-28T04:48:11.882118+00:00",
-      "source_date": "2026-06-26T17:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1042536/building-public-life-how-bogota-and-mexico-city-addressed-urban-inequality",
-      "title": "建设公共生活：波哥大和墨西哥城如何解决城市不平等问题",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-06-28T04:48:17.286933+00:00",
-      "source_date": "2026-06-27T07:30:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://medium.com/@raulbp1/el-mito-de-la-fricci%C3%B3n-cero-por-qu%C3%A9-el-dise%C3%B1o-ux-de-silicon-valley-es-un-peligro-en-el-software-44bd430362de?source=rss------product_design-5",
-      "title": "“零摩擦”的神话：为什么硅谷用户体验设计是软件中的危险……",
-      "source": "Medium · Product Design",
-      "language": "en",
-      "published_at": "2026-06-28T04:48:26.655663+00:00",
-      "source_date": "2026-06-27T18:33:16+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/cn/1042543/shui-ku-zhu-zhai-obranegra-arquitectos",
-      "title": "水库住宅 / Obranegra Arquitectos",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-06-28T04:48:26.655700+00:00",
-      "source_date": "2026-06-28T11:00:00+00:00",
       "full_text": true
     }
   ]
