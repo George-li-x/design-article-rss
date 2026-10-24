@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.yankodesign.com/2026/10/23/filaloom-weaves-yarn-into-3d-prints-without-extra-motors/?utm_source=rss&utm_medium=rss&utm_campaign=filaloom-weaves-yarn-into-3d-prints-without-extra-motors",
+      "title": "FilaLoom 无需额外电机即可将纱线编织成 3D 打印件",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-24T04:31:29.542001+00:00",
+      "source_date": "2026-10-23T10:07:12+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/23/a-hidden-mechanism-turns-the-scissor-chair-into-a-lounger/?utm_source=rss&utm_medium=rss&utm_campaign=a-hidden-mechanism-turns-the-scissor-chair-into-a-lounger",
+      "title": "隐藏的机制将剪刀椅变成躺椅",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-24T04:33:05.952635+00:00",
+      "source_date": "2026-10-23T21:30:43+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6483623.html",
+      "title": "ChatGPT与Codex负责人：ChatGPT、Codex终将合流，下一张王牌不是模型，而是Dots",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-24T04:33:05.952677+00:00",
+      "source_date": "2026-10-24T01:21:36+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/23/teenage-engineerings-ep-35-amp-has-a-hidden-cable-compartment/?utm_source=rss&utm_medium=rss&utm_campaign=teenage-engineerings-ep-35-amp-has-a-hidden-cable-compartment",
+      "title": "Teenage Engineering 的 EP-35 Amp 有一个隐藏的电缆室",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-24T04:34:41.369905+00:00",
+      "source_date": "2026-10-23T13:20:28+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/23/the-8-best-audio-designs-for-people-who-want-to-own-their-music/?utm_source=rss&utm_medium=rss&utm_campaign=the-8-best-audio-designs-for-people-who-want-to-own-their-music",
+      "title": "8 款适合想要拥有自己音乐的人的最佳音频设计",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-24T04:37:53.360153+00:00",
+      "source_date": "2026-10-23T11:40:57+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/23/aerys-office-chair-offers-a-fit-you-can-actually-fine-tune/?utm_source=rss&utm_medium=rss&utm_campaign=aerys-office-chair-offers-a-fit-you-can-actually-fine-tune",
+      "title": "Aery 的办公椅提供可实际微调的舒适度",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-24T04:39:47.835591+00:00",
+      "source_date": "2026-10-23T08:15:11+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/entering-atomic-design-from-the-screen-bae744ecc288?source=rss----138adf9c44c---4",
+      "title": "从屏幕进入原子设计",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-10-24T04:40:26.572845+00:00",
+      "source_date": "2026-10-23T11:16:30+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6483631.html",
+      "title": "这些动画，都是 AI 写代码画出来的：我实测了 4 种风格",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-24T04:40:26.572892+00:00",
+      "source_date": "2026-10-24T01:58:41+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6483646.html",
+      "title": "别再争谁是“中国版Muse”了，卖铲子的ICT厂商先赚到了钱",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-24T04:40:26.572918+00:00",
+      "source_date": "2026-10-24T02:31:04+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/operate/6479431.html",
+      "title": "SOP直接抄：从0到1海外社媒运营",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-24T04:40:26.572941+00:00",
+      "source_date": "2026-10-24T00:46:37+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6483681.html",
+      "title": "企业上AI项目，FDE到底在做什么？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-24T04:40:26.572962+00:00",
+      "source_date": "2026-10-24T04:06:46+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6483667.html",
+      "title": "广告界教务长韦伯·扬：23条“旧元素新组合”的创意生成法则",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-24T04:40:26.572985+00:00",
+      "source_date": "2026-10-24T03:41:09+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@obikasolomon/designing-for-real-impact-the-power-of-the-5-step-design-thinking-process-657e5ff87889?source=rss------user_experience-5",
+      "title": "为真正的影响而设计 5 步设计思维过程的力量",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-10-24T04:41:24.366980+00:00",
+      "source_date": "2026-10-24T04:17:22+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/embodied/6483693.html",
+      "title": "机器人领域的OpenAI，来了？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-24T04:41:24.367018+00:00",
+      "source_date": "2026-10-24T03:37:16+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@obikasolomon/designing-for-real-impact-the-power-of-the-5-step-design-thinking-process-657e5ff87889?source=rss------design-5",
+      "title": "为真正的影响而设计 5 步设计思维过程的力量",
+      "source": "Medium · Design",
+      "language": "en",
+      "published_at": "2026-10-24T04:42:21.465718+00:00",
+      "source_date": "2026-10-24T04:17:22+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6483439.html",
+      "title": "跟车一周我才看清：押运数字化卡住的不是技术，是三本旧账",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-24T04:42:21.465758+00:00",
+      "source_date": "2026-10-24T03:53:36+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/23/ayn-odin-3-portal-handheld-pairs-a-flat-glass-front-with-sculpted-grips/?utm_source=rss&utm_medium=rss&utm_campaign=ayn-odin-3-portal-handheld-pairs-a-flat-glass-front-with-sculpted-grips",
+      "title": "AYN Odin 3 Portal 手持设备配有平面玻璃正面和雕刻手柄",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-24T04:43:57.843879+00:00",
+      "source_date": "2026-10-23T14:20:23+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@srutee.bhut/why-agent-collaboration-is-harder-than-human-collaboration-bca513156e50?source=rss------product_design-5",
+      "title": "为什么代理协作比人类协作更难",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-10-24T04:44:36.508602+00:00",
+      "source_date": "2026-10-23T18:23:02+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
+      "title": "iPhone Duo 应该是 iPad",
+      "source": "The Verge Design",
+      "language": "en",
+      "published_at": "2026-10-24T04:45:14.506014+00:00",
+      "source_date": "2026-10-23T17:00:18+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.fastcompany.com/91574333/designing-for-the-edges-improves-the-center?utm_source=postup&utm_medium=email&utm_campaign=design&position=4&partner=newsletter&campaign_date=10242026",
+      "title": "边缘设计改善了中心",
+      "source": "Fast Company Design",
+      "language": "en",
+      "published_at": "2026-10-24T04:45:52.581322+00:00",
+      "source_date": "2026-07-17T12:00:00+00:00",
+      "full_text": false
+    },
+    {
       "url": "https://www.yankodesign.com/2026/10/22/diy-modded-game-boy-color-has-an-oled-screen-usb-c-and-wireless-charging/?utm_source=rss&utm_medium=rss&utm_campaign=diy-modded-game-boy-color-has-an-oled-screen-usb-c-and-wireless-charging",
       "title": "DIY Modded Game Boy Color 配备 OLED 屏幕、USB-C 和无线充电",
       "source": "Yanko Design",
@@ -17819,186 +17999,6 @@
       "language": "zh",
       "published_at": "2026-07-01T04:52:23.772578+00:00",
       "source_date": "2026-07-01T03:04:36+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/technology/oxman-growing-color-bacterial-pigmentation-synthetic-dyes/",
-      "title": "OXMAN 探索通过细菌色素沉着代替合成染料来增加颜色",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-06-30T04:22:48.639637+00:00",
-      "source_date": "2026-06-29T10:45:16+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/design/2147-voice-future-reclaimed-payphone-ai-interface-divina-machina-qs-ventures-sonar-d/",
-      "title": "2147：来自未来的声音将回收的公用电话转变为人工智能界面",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-06-30T04:22:49.514408+00:00",
-      "source_date": "2026-06-29T10:00:48+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/design/world-design-capital-2026-open-week-regional-design-look-behind-the-scenes/",
-      "title": "WDC 2026 开放周将设计节重新构想为一个区域平台",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-06-30T04:22:50.582783+00:00",
-      "source_date": "2026-06-29T09:30:08+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/adaptive-legacies-sustainability-room-for-dreams-podcast/",
-      "title": "适应性遗产：为什么可持续发展的最终形式意味着尽可能少地建造",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-06-30T04:22:51.268877+00:00",
-      "source_date": "2026-06-29T10:20:57+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/design/open-call-pli-office-paris-design-week-2026/",
-      "title": "公开征集：PLI 办公室邀请新兴创意人士参加 2026 年巴黎设计周",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-06-30T04:22:52.629436+00:00",
-      "source_date": "2026-06-29T15:30:46+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/art/crochet-structures-choi-shine-intricate-group-made-stitches-craft/",
-      "title": "choi+shine 设计的巨大钩针结构始于复杂的集体缝制",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-06-30T04:22:53.557533+00:00",
-      "source_date": "2026-06-30T01:30:45+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1042737/architectural-decisions-planetary-implications-interview-with-uia-2026-barcelona-curatorial-team",
-      "title": "建筑决策，对地球的影响：UIA 2026 巴塞罗那策展团队访谈",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-06-30T04:22:54.882510+00:00",
-      "source_date": "2026-06-29T07:30:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1042829/uia-world-congress-of-architecture-2026-opens-in-barcelona-under-the-theme-architectures-for-a-planet-in-transition",
-      "title": "2026 年 UIA 世界建筑大会在巴塞罗那开幕，主题为“转型中的星球的建筑”",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-06-30T04:23:00.968576+00:00",
-      "source_date": "2026-06-29T05:30:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://medium.com/@divinestocks/why-ai-is-becoming-essential-for-ux-designers-in-2026-the-future-of-user-experience-design-067a8ecced80?source=rss------design-5",
-      "title": "为什么人工智能在 2026 年将成为用户体验设计师的必需品：用户体验设计的未来",
-      "source": "Medium · Design",
-      "language": "en",
-      "published_at": "2026-06-30T04:23:04.183203+00:00",
-      "source_date": "2026-06-30T02:45:48+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/reclaimed-stone-timber-basque-farmhouse-contemporary-living-zu-studio/",
-      "title": "回收的石头和木材重塑了一座适合现代生活的巴斯克农舍",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-06-30T04:23:05.982027+00:00",
-      "source_date": "2026-06-29T14:00:44+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6422241.html",
-      "title": "产品经理工作流融合 AI 实战：从需求收集到开发上线全流程",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-06-30T04:23:05.982073+00:00",
-      "source_date": "2026-06-30T01:35:16+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://uxdesign.cc/rethinking-figma-the-cost-of-low-taste-your-banking-app-is-lying-to-you-20f2ec172f03?source=rss----138adf9c44c---4",
-      "title": "重新思考Figma，低品味的代价，你的银行应用程序在骗你",
-      "source": "UX Collective",
-      "language": "en",
-      "published_at": "2026-06-30T04:23:06.507809+00:00",
-      "source_date": "2026-06-29T11:10:21+00:00",
-      "full_text": false
-    },
-    {
-      "url": "https://medium.com/@ednawalkiriahb/config-2026-what-it-feels-like-to-be-in-the-room-365d4c56739c?source=rss------product_design-5",
-      "title": "Config 2026：在房间里的感觉",
-      "source": "Medium · Product Design",
-      "language": "en",
-      "published_at": "2026-06-30T04:23:10.810545+00:00",
-      "source_date": "2026-06-29T22:50:17+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6422432.html",
-      "title": "618给AI上了一课：Agent不是万能解药",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-06-30T04:23:10.810586+00:00",
-      "source_date": "2026-06-30T02:17:14+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/share/6422326.html",
-      "title": "回顾：如何从零搭建自己的AI+小红书工作流",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-06-30T04:23:10.810612+00:00",
-      "source_date": "2026-06-30T02:10:17+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6422308.html",
-      "title": "AI时代改变学习顺序能让你的学习效率大大提高",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-06-30T04:23:10.810636+00:00",
-      "source_date": "2026-06-30T01:41:11+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/zhichang/6422228.html",
-      "title": "家装设计师复盘思维：为什么越做越稳的设计师，都在做项目闭环沉淀",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-06-30T04:23:10.810661+00:00",
-      "source_date": "2026-06-30T01:34:18+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6422086.html",
-      "title": "拆解具身智能系统（软件）",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-06-30T04:23:10.810686+00:00",
-      "source_date": "2026-06-30T01:32:43+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/it/6422576.html",
-      "title": "三只羊卖课！失败者，割“成功学”韭菜？",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-06-30T04:23:10.810707+00:00",
-      "source_date": "2026-06-30T04:01:26+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/zhichang/6422546.html",
-      "title": "都说 AI 时代最稀缺的是定义问题，什么才叫会定义问题？",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-06-30T04:23:10.810731+00:00",
-      "source_date": "2026-06-30T03:38:29+00:00",
       "full_text": true
     }
   ]
