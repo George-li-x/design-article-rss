@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://uxplanet.org/deel-vs-rippling-for-contractor-management-which-platform-gets-the-user-experience-right-275775f329d8?source=rss----819cc2aaeee0---4",
+      "title": "Deel 与 Rippling 的承包商管理：哪个平台能提供正确的用户体验？",
+      "source": "UX Planet",
+      "language": "en",
+      "published_at": "2026-10-25T04:35:04.224967+00:00",
+      "source_date": "2026-10-24T11:35:41+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/24/brevilles-spiral-luxe-automates-pour-over-coffee-with-a-sliding-dripper/?utm_source=rss&utm_medium=rss&utm_campaign=brevilles-spiral-luxe-automates-pour-over-coffee-with-a-sliding-dripper",
+      "title": "Breville 的 Spiral Luxe 使用滑动滴头自动冲泡咖啡",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-25T04:36:39.850238+00:00",
+      "source_date": "2026-10-24T17:20:15+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/24/byredos-steel-spheres-reveal-hidden-landscapes-inspired-by-scent/?utm_source=rss&utm_medium=rss&utm_campaign=byredos-steel-spheres-reveal-hidden-landscapes-inspired-by-scent",
+      "title": "BYREDO 的钢球揭示了受气味启发的隐藏景观",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-25T04:38:16.555527+00:00",
+      "source_date": "2026-10-24T13:20:58+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/evaluating/6483248.html",
+      "title": "闲鱼用户交易痛点分析与改进思路",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-25T04:38:16.555564+00:00",
+      "source_date": "2026-10-24T04:23:55+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxplanet.org/can-claude-code-design-professional-ui-animations-i-tested-3-approaches-b6a855f0eadf?source=rss----819cc2aaeee0---4",
+      "title": "Claude Code能设计专业的UI动画吗？我测试了3种方法",
+      "source": "UX Planet",
+      "language": "en",
+      "published_at": "2026-10-25T04:38:54.597041+00:00",
+      "source_date": "2026-10-23T13:21:50+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/23/mori-the-mushroom-robot-offers-company-without-saying-a-word/?utm_source=rss&utm_medium=rss&utm_campaign=mori-the-mushroom-robot-offers-company-without-saying-a-word",
+      "title": "蘑菇机器人森一言不发地提供陪伴",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-25T04:40:30.345268+00:00",
+      "source_date": "2026-10-23T18:20:20+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@hochuzhrrat/how-i-design-for-trust-a7c733df3892?source=rss------product_design-5",
+      "title": "我如何为信任而设计",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-10-25T04:44:01.696403+00:00",
+      "source_date": "2026-10-25T01:20:10+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6483437.html",
+      "title": "靠 AI 赚钱的人，赚的到底是谁的钱",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-25T04:44:01.696436+00:00",
+      "source_date": "2026-10-25T02:16:48+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/chuangye/6483400.html",
+      "title": "一条视频 1160万播放，为什么几乎没人下载 App？191个创业者的增长复盘",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-25T04:44:01.696457+00:00",
+      "source_date": "2026-10-25T03:57:13+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@Chawlaneha/influence-is-the-skill-ai-cant-automate-a-product-designer-s-notes-from-a-toronto-panel-c00020028ca3?source=rss------product_design-5",
+      "title": "影响力是人工智能无法自动化的技能：来自多伦多小组的产品设计师的笔记",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-10-25T04:45:57.190270+00:00",
+      "source_date": "2026-10-24T20:39:43+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6479433.html",
+      "title": "AI让市场调研效率提升300%",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-25T04:45:57.190306+00:00",
+      "source_date": "2026-10-24T06:46:39+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@chooosely/why-the-era-of-generic-product-reviews-is-over-824f485abf30?source=rss------product_design-5",
+      "title": "为什么通用产品评论的时代已经结束",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-10-25T04:46:54.784406+00:00",
+      "source_date": "2026-10-24T17:53:44+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/operate/6483720.html",
+      "title": "业财产品实战-对账中心0-1产品设计",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-25T04:46:54.784440+00:00",
+      "source_date": "2026-10-25T02:36:59+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/embodied/6483697.html",
+      "title": "狂揽千亿融资之后，DeepSeek 具身投资版图浮出水面",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-25T04:46:54.784462+00:00",
+      "source_date": "2026-10-24T08:01:13+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/24/8-gadgets-that-bring-back-features-we-never-wanted-to-lose/?utm_source=rss&utm_medium=rss&utm_campaign=8-gadgets-that-bring-back-features-we-never-wanted-to-lose",
+      "title": "8 个小工具，带回我们不想失去的功能",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-25T04:50:06.588318+00:00",
+      "source_date": "2026-10-24T11:40:36+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/zhichang/6479439.html",
+      "title": "50条血的教训：培养错了人，比招错人更可怕",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-25T04:50:06.588358+00:00",
+      "source_date": "2026-10-25T01:12:40+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.fastcompany.com/91574333/designing-for-the-edges-improves-the-center?utm_source=postup&utm_medium=email&utm_campaign=design&position=4&partner=newsletter&campaign_date=10252026",
+      "title": "边缘设计改善了中心",
+      "source": "Fast Company Design",
+      "language": "en",
+      "published_at": "2026-10-25T04:50:44.453584+00:00",
+      "source_date": "2026-07-17T12:00:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.fastcompany.com/91522993/this-outdoor-fireplace-costs-nearly-five-grand-and-it-might-just-be-worth-it?utm_source=postup&utm_medium=email&utm_campaign=design&position=14&partner=newsletter&campaign_date=10252026",
+      "title": "这个户外壁炉花费近 5 英镑——但也许物有所值",
+      "source": "Fast Company Design",
+      "language": "en",
+      "published_at": "2026-10-25T04:51:23.090723+00:00",
+      "source_date": "2026-04-09T10:00:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://sspai.com/post/116128",
+      "title": "在硅谷，遇见个人计算机历史",
+      "source": "少数派",
+      "language": "zh",
+      "published_at": "2026-10-25T04:51:23.090766+00:00",
+      "source_date": "2026-10-24T08:26:02+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.fastcompany.com/91535121/most-products-work-few-work-well?utm_source=postup&utm_medium=email&utm_campaign=design&position=12&partner=newsletter&campaign_date=10252026",
+      "title": "大多数产品都有效，但很少有有效的产品",
+      "source": "Fast Company Design",
+      "language": "en",
+      "published_at": "2026-10-25T04:52:01.323061+00:00",
+      "source_date": "2026-05-01T20:25:20+00:00",
+      "full_text": false
+    },
+    {
       "url": "https://www.yankodesign.com/2026/10/23/filaloom-weaves-yarn-into-3d-prints-without-extra-motors/?utm_source=rss&utm_medium=rss&utm_campaign=filaloom-weaves-yarn-into-3d-prints-without-extra-motors",
       "title": "FilaLoom 无需额外电机即可将纱线编织成 3D 打印件",
       "source": "Yanko Design",
@@ -17819,186 +17999,6 @@
       "language": "zh",
       "published_at": "2026-07-02T04:20:00.907997+00:00",
       "source_date": "2026-07-02T01:34:22+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/art/noema-craft-prize-exhibition-evolving-language-greek-craft-athens/",
-      "title": "nóema 工艺奖展览探讨了雅典希腊工艺语言的演变",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-01T04:51:47.187754+00:00",
-      "source_date": "2026-06-30T21:00:08+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/art/colorful-printed-textile-installation-historic-laundry-building-facade-switzerland-studio-hug-rachele-monti/",
-      "title": "色彩缤纷的印花纺织品装置重新构想了瑞士历史悠久的洗衣房建筑立面",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-01T04:51:50.097444+00:00",
-      "source_date": "2026-06-30T09:30:33+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/design/kinetic-watch-dial-timekeeping-layered-colored-star-hands-the-trio-of-time-anicorn-raw-color/",
-      "title": "动感表盘通过分层彩色星形指针重新构想计时",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-01T04:51:53.072725+00:00",
-      "source_date": "2026-06-30T06:30:43+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6423018.html",
-      "title": "一个不懂设计的PM，在AIGC时代的认知重塑",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-01T04:51:53.072764+00:00",
-      "source_date": "2026-07-01T02:35:47+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/diagonal-timber-wall-installation-furniture-shelter-landscape-frame-spain-a-coruna-cesuga-erazo-pugliese/",
-      "title": "对角木墙装置成为西班牙的家具、住所和景观框架",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-01T04:51:56.880225+00:00",
-      "source_date": "2026-06-30T13:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/design/niko-june-industrial-fragments-bouquet-collectible-objects/",
-      "title": "NIKO JUNE 让工业碎片绽放成一束收藏品",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-01T04:52:00.691536+00:00",
-      "source_date": "2026-06-30T10:45:54+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6422965.html",
-      "title": "从语义快照到结构化诊断：三层判定模型与模式匹配机制",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-01T04:52:00.691575+00:00",
-      "source_date": "2026-07-01T03:00:08+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://uxdesign.cc/39-principles-for-designing-human-ai-interaction-87be5fabdbbe?source=rss----138adf9c44c---4",
-      "title": "设计人机交互的 39 条原则",
-      "source": "UX Collective",
-      "language": "en",
-      "published_at": "2026-07-01T04:52:02.678530+00:00",
-      "source_date": "2026-06-30T22:04:22+00:00",
-      "full_text": false
-    },
-    {
-      "url": "https://uxdesign.cc/game-ux-the-cursor-that-wasnt-supposed-to-be-there-f9369dafc451?source=rss----138adf9c44c---4",
-      "title": "游戏用户体验：不应该存在的光标",
-      "source": "UX Collective",
-      "language": "en",
-      "published_at": "2026-07-01T04:52:05.030368+00:00",
-      "source_date": "2026-06-30T22:02:49+00:00",
-      "full_text": false
-    },
-    {
-      "url": "https://www.designboom.com/architecture/acne-studios-pink-library-tokyo-three-decades-fashion-art-publishing-autoportrait/",
-      "title": "Acne Studios 位于东京的粉色图书馆庆祝时尚、艺术和出版业三十周年",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-01T04:52:07.440629+00:00",
-      "source_date": "2026-06-30T08:30:21+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/hoshino-hotel-openshistoric-radiating-japan-former-nara-prison/",
-      "title": "星野酒店在日本前奈良监狱历史悠久的辐射结构内开业",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-01T04:52:09.614928+00:00",
-      "source_date": "2026-06-30T19:00:46+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/",
-      "title": "为什么可访问性是一种操作能力，而不是一种功能",
-      "source": "Smashing Magazine",
-      "language": "en",
-      "published_at": "2026-07-01T04:52:16.850771+00:00",
-      "source_date": "2026-06-30T12:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://uxdesign.cc/why-systems-thinking-is-becoming-the-most-important-ux-skill-688136ed1ce2?source=rss----138adf9c44c---4",
-      "title": "为什么系统思维正在成为最重要的用户体验技能",
-      "source": "UX Collective",
-      "language": "en",
-      "published_at": "2026-07-01T04:52:19.385593+00:00",
-      "source_date": "2026-06-30T21:57:45+00:00",
-      "full_text": false
-    },
-    {
-      "url": "https://medium.com/@designerlifestyle/how-to-standardize-ui-elements-in-a-design-system-a-complete-guide-for-ux-and-product-designers-73b4a875c6e3?source=rss------design-5",
-      "title": "如何标准化设计系统中的 UI 元素：UX 和产品设计师的完整指南",
-      "source": "Medium · Design",
-      "language": "en",
-      "published_at": "2026-07-01T04:52:23.772416+00:00",
-      "source_date": "2026-07-01T03:20:51+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/share/6422927.html",
-      "title": "从产品视角看智能排线：快消SFA的效率杠杆在哪里",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-01T04:52:23.772450+00:00",
-      "source_date": "2026-07-01T03:01:30+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/evaluating/6421609.html",
-      "title": "豆包专业版深度解读：操作电脑+Office+应用开发，68元/月值不值？",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-01T04:52:23.772472+00:00",
-      "source_date": "2026-07-01T02:18:31+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/operate/6423000.html",
-      "title": "「营销不是换皮肤做交互」——先拆清诉求、目标和链路",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-01T04:52:23.772524+00:00",
-      "source_date": "2026-07-01T02:26:36+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/marketing/6422832.html",
-      "title": "不找董宇辉，凭什么他的产品也可以大卖？",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-01T04:52:23.772544+00:00",
-      "source_date": "2026-07-01T01:58:59+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/pmd/6422841.html",
-      "title": "写PRD画原型时代结束，聊聊AI抢不走的3个产品经理底层能力",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-01T04:52:23.772561+00:00",
-      "source_date": "2026-07-01T01:42:40+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/share/6422830.html",
-      "title": "AI 浪潮下，请保持你的 Old School 产品基本功",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-01T04:52:23.772578+00:00",
-      "source_date": "2026-07-01T03:04:36+00:00",
       "full_text": true
     }
   ]
