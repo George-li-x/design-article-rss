@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://medium.com/@ascendrixtech/ai-made-ux-work-faster-so-why-arent-designers-happier-d88df231de4a?source=rss------product_design-5",
+      "title": "人工智能让用户体验工作得更快。那么为什么设计师不快乐呢？",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-10-27T04:58:02.223966+00:00",
+      "source_date": "2026-10-27T04:31:04+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/26/nus-researchers-turn-electronic-threads-into-a-touchscreen-sleeve/?utm_source=rss&utm_medium=rss&utm_campaign=nus-researchers-turn-electronic-threads-into-a-touchscreen-sleeve",
+      "title": "新加坡国立大学研究人员将电子线变成触摸屏套",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-27T04:59:37.820469+00:00",
+      "source_date": "2026-10-26T14:20:53+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/operate/6484516.html",
+      "title": "【全球视野篇05】北美 CPSC 与 UL 抽检风暴：防护类与硬件产品的安全风控“最高机密”",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-27T04:59:37.820511+00:00",
+      "source_date": "2026-10-27T01:26:25+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6484441.html",
+      "title": "用AI做3D交互教学，沉浸式学习有了新的打开方式",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-27T04:59:37.820538+00:00",
+      "source_date": "2026-10-27T01:11:17+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/26/this-28-foot-tiny-home-fits-a-living-room-into-its-staircase/?utm_source=rss&utm_medium=rss&utm_campaign=this-28-foot-tiny-home-fits-a-living-room-into-its-staircase",
+      "title": "这座 28 英尺的小房子在楼梯中容纳了一个客厅",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-27T05:00:53.973004+00:00",
+      "source_date": "2026-10-26T19:20:06+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/26/dewalts-tool-batteries-can-charge-laptops-without-an-outlet/?utm_source=rss&utm_medium=rss&utm_campaign=dewalts-tool-batteries-can-charge-laptops-without-an-outlet",
+      "title": "得伟的工具电池无需插座即可为笔记本电脑充电",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-27T05:02:30.501544+00:00",
+      "source_date": "2026-10-26T13:20:41+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/26/logitech-pebble-up-mouse-transforms-into-a-vertical-configuration-for-power-users/?utm_source=rss&utm_medium=rss&utm_campaign=logitech-pebble-up-mouse-transforms-into-a-vertical-configuration-for-power-users",
+      "title": "罗技 Pebble Up 鼠标转变为适合高级用户的垂直配置",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-27T05:03:47.561681+00:00",
+      "source_date": "2026-10-26T15:20:43+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/26/awol-valerion-pairs-big-screen-nfl-viewing-with-more-picture-control/?utm_source=rss&utm_medium=rss&utm_campaign=awol-valerion-pairs-big-screen-nfl-viewing-with-more-picture-control",
+      "title": "擅离职守 Valerion 将大屏幕 NFL 观看与更多图像控制结合起来",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-27T05:05:42.450675+00:00",
+      "source_date": "2026-10-26T23:30:32+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6483405.html",
+      "title": "Anthropic 内部报告分享：比起学会多少个 AI 工具，更重要的是换一种工作方式",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-27T05:05:42.450719+00:00",
+      "source_date": "2026-10-27T01:42:15+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6484437.html",
+      "title": "腾讯上线Nomas，一个交互式世界模型",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-27T05:05:42.450745+00:00",
+      "source_date": "2026-10-27T01:08:19+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6484455.html",
+      "title": "让公司员工测试新品，是我见过最蠢的市场调研",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-27T05:05:42.450771+00:00",
+      "source_date": "2026-10-27T02:39:26+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/26/apples-new-699-ipad-mini-makes-the-1999-iphone-duo-a-harder-sell/?utm_source=rss&utm_medium=rss&utm_campaign=apples-new-699-ipad-mini-makes-the-1999-iphone-duo-a-harder-sell",
+      "title": "苹果售价 699 美元的新款 iPad mini 使得售价 1,999 美元的 iPhone Duo 更难销售",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-27T05:07:17.268517+00:00",
+      "source_date": "2026-10-26T20:30:31+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6484672.html",
+      "title": "快手上线“互动内容世界”，互动内容迎来大厂争夺战",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-27T05:07:17.268609+00:00",
+      "source_date": "2026-10-27T02:09:50+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6484669.html",
+      "title": "从医疗IT转做商协会系统，我把私有化部署改成了SaaS",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-27T05:07:17.268654+00:00",
+      "source_date": "2026-10-27T03:16:36+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@romyvelasquez.orellana/the-theory-of-emotional-design-4503ad90fabf?source=rss------design-5",
+      "title": "情感化设计理论",
+      "source": "Medium · Design",
+      "language": "en",
+      "published_at": "2026-10-27T05:08:15.678260+00:00",
+      "source_date": "2026-10-27T02:44:16+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/26/duramobis-underwater-speaker-turns-your-pool-into-a-sound-system/?utm_source=rss&utm_medium=rss&utm_campaign=duramobis-underwater-speaker-turns-your-pool-into-a-sound-system",
+      "title": "Duramobi 的水下扬声器将您的泳池变成音响系统",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-27T05:10:10.252077+00:00",
+      "source_date": "2026-10-27T01:45:09+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6484576.html",
+      "title": "拼多多新店如何冷启动",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-27T05:10:10.252119+00:00",
+      "source_date": "2026-10-27T01:59:15+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@khushbooagnihotri/what-the-pm-venn-diagram-leaves-out-52f9e0f9c999?source=rss------user_experience-5",
+      "title": "PM 维恩图遗漏了什么",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-10-27T05:13:02.372392+00:00",
+      "source_date": "2026-10-26T20:19:04+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.fastcompany.com/91574333/designing-for-the-edges-improves-the-center?utm_source=postup&utm_medium=email&utm_campaign=design&position=4&partner=newsletter&campaign_date=10272026",
+      "title": "边缘设计改善了中心",
+      "source": "Fast Company Design",
+      "language": "en",
+      "published_at": "2026-10-27T05:13:41.899321+00:00",
+      "source_date": "2026-07-17T12:00:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.fastcompany.com/91522993/this-outdoor-fireplace-costs-nearly-five-grand-and-it-might-just-be-worth-it?utm_source=postup&utm_medium=email&utm_campaign=design&position=14&partner=newsletter&campaign_date=10272026",
+      "title": "这个户外壁炉花费近 5 英镑——但也许物有所值",
+      "source": "Fast Company Design",
+      "language": "en",
+      "published_at": "2026-10-27T05:14:20.045892+00:00",
+      "source_date": "2026-04-09T10:00:00+00:00",
+      "full_text": false
+    },
+    {
       "url": "https://www.woshipm.com/ai/6483918.html",
       "title": "把 GitHub 网址改几个字母，再庞大的开源项目也能看懂",
       "source": "人人都是产品经理",
@@ -17819,186 +17999,6 @@
       "language": "zh",
       "published_at": "2026-07-04T03:59:42.578226+00:00",
       "source_date": "2026-07-03T13:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/kengo-kuma-craftsmanship-architecture-connection-place-interview/",
-      "title": "隈研吾谈为什么工艺仍然是建筑与地方的联系",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-03T04:05:28.497546+00:00",
-      "source_date": "2026-07-02T10:45:43+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/share/6424340.html",
-      "title": "营销，如何强化信任感？",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-03T04:05:28.497601+00:00",
-      "source_date": "2026-07-03T02:57:55+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6424194.html",
-      "title": "AI 让一人公司变轻，但真正难的是跑通产品闭环",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-03T04:05:28.497629+00:00",
-      "source_date": "2026-07-03T01:35:05+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/garden-ring-carlo-ratti-hospital-future-park-associati-brescia-italy/",
-      "title": "公里长的花园环塑造了 Carlo Ratti Associati 的“未来医院”",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-03T04:05:31.316912+00:00",
-      "source_date": "2026-07-02T16:34:59+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/operate/6423878.html",
-      "title": "下一个10年，从“增长黑客”到“信任复利”",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-03T04:05:31.316961+00:00",
-      "source_date": "2026-07-03T01:26:59+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/technology/layer-modular-chargers-everyday-power-playful-display-objects-node-and-loft-daily-objects/",
-      "title": "LAYER 的模块化充电器将日常电力变成有趣的展示物品",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-03T04:05:33.444271+00:00",
-      "source_date": "2026-07-02T12:30:24+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/big-bjarke-ingels-group-dymak-headquarters-full-scale-showcase-natural-materials-denmark/",
-      "title": "BIG 完成了 dymak 总部的建设，作为丹麦天然材料的全面展示",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-03T04:05:36.179029+00:00",
-      "source_date": "2026-07-02T10:31:52+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/design/toto-washlet-progetto-bathroom-sensory-experience/",
-      "title": "TOTO 卫洗丽® 的热舒适性如何重新思考浴室的感官体验",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-03T04:05:38.398928+00:00",
-      "source_date": "2026-07-02T10:00:12+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/monolithic-brick-volumes-weekend-house-courtyards-argentina-plug-arquitectura/",
-      "title": "阿根廷，巨大的砖块体量将周末别墅包裹在一系列庭院周围",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-03T04:05:40.759241+00:00",
-      "source_date": "2026-07-02T09:30:26+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1042955/uia-world-congress-2026-and-henning-larsens-new-environmental-analysis-platform-this-weeks-review",
-      "title": "UIA 2026 世界大会和 Henning Larsen 的新环境分析平台：本周回顾",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-03T04:05:46.984941+00:00",
-      "source_date": "2026-07-02T06:30:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/",
-      "title": "将人工智能模式与用户意图相匹配：设计正确的界面",
-      "source": "Smashing Magazine",
-      "language": "en",
-      "published_at": "2026-07-03T04:06:03.486464+00:00",
-      "source_date": "2026-07-02T10:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6424154.html",
-      "title": "Claude Fable 5 重新上线：AI 产品经理该看的不是模型参数，而是能力边界如何被产品化",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-03T04:06:03.486520+00:00",
-      "source_date": "2026-07-03T01:30:39+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/cn/1042077/jia-na-da-jian-zhu-zhong-xin-cca-qi-dong-guan-yu-zhong-guo-xian-dai-jian-zhu-de-zong-he-yan-jiu-ji-hua-yu-zhan-lan",
-      "title": "加拿大建筑中心（CCA）启动关于中国现代建筑的综合研究计划与展览",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-03T04:06:03.486550+00:00",
-      "source_date": "2026-07-02T17:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://medium.com/@fahimbinomar/trends-in-ux-design-for-2026-creating-products-that-seem-effortless-human-and-intelligent-55db89f71c69?source=rss------user_experience-5",
-      "title": "2026 年用户体验设计趋势：创造看似轻松、人性化和智能的产品。",
-      "source": "Medium · User Experience",
-      "language": "en",
-      "published_at": "2026-07-03T04:06:15.711315+00:00",
-      "source_date": "2026-07-02T21:16:55+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://uxdesign.cc/ai-personality-is-a-design-problem-58fbc7926a3d?source=rss----138adf9c44c---4",
-      "title": "AI个性是一个设计问题",
-      "source": "UX Collective",
-      "language": "en",
-      "published_at": "2026-07-03T04:06:17.284276+00:00",
-      "source_date": "2026-07-02T05:09:06+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/share/6424121.html",
-      "title": "车机同质化困局下，我们如何用“情绪旅伴”构建品牌护城河？",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-03T04:06:17.284320+00:00",
-      "source_date": "2026-07-03T01:31:31+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/technology/bugatti-hand-paints-digital-linework-w16-mistral-blanc-eternel-car/",
-      "title": "布加迪在 W16 米斯特拉尔“blanc éternel”上手绘数字线条",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-03T04:06:21.256302+00:00",
-      "source_date": "2026-07-02T15:38:28+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/design/face-first-swerv-electric-trike-riders-skim-pavement-maximum-thrills/",
-      "title": "最大的刺激：swerv 的电动三轮车让骑手可以面朝前掠过人行道",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-03T04:06:22.135601+00:00",
-      "source_date": "2026-07-02T10:40:10+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6424317.html",
-      "title": "WorkBuddy VS 钉钉悟空 VS 字节 Aily：桌面 Agent 的工程设计",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-03T04:06:22.135703+00:00",
-      "source_date": "2026-07-03T02:53:36+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/pd/6424167.html",
-      "title": "万字复盘：从 0 到 1 设计游戏中台监控系统",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-03T04:06:22.135735+00:00",
-      "source_date": "2026-07-03T01:59:31+00:00",
       "full_text": true
     }
   ]
