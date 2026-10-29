@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.woshipm.com/ai/6486111.html",
+      "title": "AI产品接下来的革命方向：Personal Agent",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-29T05:40:09.317679+00:00",
+      "source_date": "2026-10-29T03:45:41+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/the-ai-reckoning-in-ux-was-20-years-in-the-making-ecd7e36185de?source=rss----138adf9c44c---4",
+      "title": "用户体验中的人工智能计算已经酝酿了 20 年",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-10-29T05:40:46.192552+00:00",
+      "source_date": "2026-10-28T23:22:26+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/28/otter-keeps-newborns-warm-without-a-reliable-power-supply/?utm_source=rss&utm_medium=rss&utm_campaign=otter-keeps-newborns-warm-without-a-reliable-power-supply",
+      "title": "水獭在没有可靠电源的情况下为新生儿保暖",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-29T05:42:41.933077+00:00",
+      "source_date": "2026-10-29T00:30:36+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/28/this-palm-sized-robot-dog-has-a-nokia-battery-and-a-customizable-lego-compatible-back/?utm_source=rss&utm_medium=rss&utm_campaign=this-palm-sized-robot-dog-has-a-nokia-battery-and-a-customizable-lego-compatible-back",
+      "title": "这款手掌大小的机器狗配有诺基亚电池和可定制的乐高兼容背部",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-29T05:44:17.761940+00:00",
+      "source_date": "2026-10-28T18:20:15+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6486020.html",
+      "title": "Workbuddy 实战案例分享：英语课堂实时互动教学动画与小游戏开发",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-29T05:44:17.761970+00:00",
+      "source_date": "2026-10-29T02:37:24+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/28/rays-3d-print-scraper-concept-refuses-to-be-another-rectangle/?utm_source=rss&utm_medium=rss&utm_campaign=rays-3d-print-scraper-concept-refuses-to-be-another-rectangle",
+      "title": "RAY 的 3D 打印刮刀概念拒绝成为另一个矩形",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-29T05:45:54.645992+00:00",
+      "source_date": "2026-10-28T09:15:15+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/28/instax-mini-evo-2-brings-retro-fun-without-giving-up-digital/?utm_source=rss&utm_medium=rss&utm_campaign=instax-mini-evo-2-brings-retro-fun-without-giving-up-digital",
+      "title": "Instax Mini Evo 2 带来复古乐趣而不放弃数码",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-29T05:47:30.454216+00:00",
+      "source_date": "2026-10-28T14:20:51+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/designing-for-ai-deep-research-lessons-from-google-perplexity-and-microsoft-b32fa2f21e7e?source=rss----138adf9c44c---4",
+      "title": "人工智能深度研究设计：Google、Perplexity 和 Microsoft 的经验教训",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-10-29T05:48:08.629206+00:00",
+      "source_date": "2026-10-28T23:23:05+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.woshipm.com/evaluating/6486055.html",
+      "title": "AI 浏览器都在抢大脑，ego lite 偏偏只做「手脚」",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-29T05:48:08.629242+00:00",
+      "source_date": "2026-10-29T03:07:02+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6469939.html",
+      "title": "一台服务器撑起三千人：我在内网做AI云工作台，踩过的坑和想明白的事",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-29T05:48:08.629260+00:00",
+      "source_date": "2026-10-29T01:58:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6486051.html",
+      "title": "工业设备的产品逻辑如何重做：客户租的不是除湿机。而是不延期的工期",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-29T05:48:08.629277+00:00",
+      "source_date": "2026-10-29T03:26:58+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/28/apple-revived-the-glowing-logo-and-turned-it-into-the-ultimate-status-symbol/?utm_source=rss&utm_medium=rss&utm_campaign=apple-revived-the-glowing-logo-and-turned-it-into-the-ultimate-status-symbol",
+      "title": "苹果复活了发光标志，并将其变成终极身份象征",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-29T05:49:44.629481+00:00",
+      "source_date": "2026-10-28T22:30:51+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/28/corteiz-x-nike-shox-r419-game-royal-first-look-releasing-late-2026-for-190/?utm_source=rss&utm_medium=rss&utm_campaign=corteiz-x-nike-shox-r419-game-royal-first-look-releasing-late-2026-for-190",
+      "title": "Corteiz x Nike Shox R419“Game Royal”抢先亮相，将于 2026 年末发售，售价 190 美元",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-29T05:51:20.914561+00:00",
+      "source_date": "2026-10-28T19:20:24+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6486021.html",
+      "title": "刚刚，GPT-6.1 Terra 骨折价发布，Agent 时代的打工模型来了",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-29T05:51:20.914597+00:00",
+      "source_date": "2026-10-29T02:54:50+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@mathieu.nisen/the-bible-of-articles-about-product-design-4th-quarter-2026-40b6e5009838?source=rss------product_design-5",
+      "title": "产品设计文章圣经（2026年第4季度）",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-10-29T05:51:59.398785+00:00",
+      "source_date": "2026-10-29T05:27:49+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/28/the-8-best-halloween-designs-for-a-delightfully-spooky-october/?utm_source=rss&utm_medium=rss&utm_campaign=the-8-best-halloween-designs-for-a-delightfully-spooky-october",
+      "title": "8 个最佳万圣节设计，打造令人愉快的恐怖十月",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-29T05:55:10.775762+00:00",
+      "source_date": "2026-10-28T11:40:20+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/28/apples-first-touchscreen-macbook-leaves-the-ipad-with-an-identity-crisis/?utm_source=rss&utm_medium=rss&utm_campaign=apples-first-touchscreen-macbook-leaves-the-ipad-with-an-identity-crisis",
+      "title": "苹果首款触摸屏 MacBook 给 iPad 留下了身份危机",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-29T05:57:25.336694+00:00",
+      "source_date": "2026-10-28T21:31:33+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/28/strapsicles-ipad-cases-trade-gripping-the-edges-for-a-silicone-hand-strap/?utm_source=rss&utm_medium=rss&utm_campaign=strapsicles-ipad-cases-trade-gripping-the-edges-for-a-silicone-hand-strap",
+      "title": "Strapsicle 的 iPad 保护壳将边缘抓握改为硅胶手带",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-29T05:59:01.078979+00:00",
+      "source_date": "2026-10-28T15:20:09+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6486014.html",
+      "title": "腾讯王炸！BuddyOne打通旗下AI全家桶，这次领先行业半年",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-29T05:59:01.079011+00:00",
+      "source_date": "2026-10-29T02:48:30+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6486012.html",
+      "title": "MiniCPM-OCR 开源：把 “Jev” 用在文字识别",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-29T05:59:01.079026+00:00",
+      "source_date": "2026-10-29T02:45:38+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.woshipm.com/ai/6485240.html",
       "title": "按住 Ctrl 拖一下就转完：狂揽近 1.4 万星，它可能是目前最好最全的格式转换器",
       "source": "人人都是产品经理",
@@ -17819,186 +17999,6 @@
       "language": "en",
       "published_at": "2026-07-06T04:37:03.977787+00:00",
       "source_date": "2026-07-06T00:56:49+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/design/intelligent-hand-moves-everything-alberto-cavalli-homo-faber-2026-future-craft-interview/",
-      "title": "“智能手推动一切”：阿尔贝托·卡瓦利 (Alberto Cavalli) 谈 homo faber 和工艺的未来",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-05T04:18:08.893636+00:00",
-      "source_date": "2026-07-04T10:09:18+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/bookstore-cobe-copenhagen-material-library-architecture-cities-ideas/",
-      "title": "科比哥本哈根内的一家书店：建筑、城市和思想的材料图书馆",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-05T04:18:09.978134+00:00",
-      "source_date": "2026-07-05T02:50:54+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/copper-shingles-curving-concert-hall-la-source-vive-evian-france-philippe-chiambaretta/",
-      "title": "法国埃维昂的铜瓦包裹着弧形音乐厅“la source vive”",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-05T04:18:11.433131+00:00",
-      "source_date": "2026-07-04T14:35:26+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6424770.html",
-      "title": "WorkBuddy专家团提示词全曝光：多Agent协作原来是这样产品化的",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-05T04:18:11.433155+00:00",
-      "source_date": "2026-07-04T01:58:18+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://medium.com/@mysocialmail608/lessons-every-designer-learns-after-writing-no-code-frontend-54402e9e0be4?source=rss------product_design-5",
-      "title": "每个设计师在编写无代码前端后学到的教训",
-      "source": "Medium · Product Design",
-      "language": "en",
-      "published_at": "2026-07-05T04:18:13.294904+00:00",
-      "source_date": "2026-07-04T19:17:02+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://medium.com/@helenmarouli/the-next-big-ux-trend-isnt-ai-it-s-giving-people-their-time-back-f5d52b1f389f?source=rss------product_design-5",
-      "title": "下一个用户体验大趋势不是人工智能。它让人们重新获得时间。",
-      "source": "Medium · Product Design",
-      "language": "en",
-      "published_at": "2026-07-05T04:18:18.737641+00:00",
-      "source_date": "2026-07-04T15:44:31+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/technology/soft-robot-fold-laundry-weave-robotics-isaac-1/",
-      "title": "这个软机器人想要叠衣服而不假装人类",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-05T04:18:19.866455+00:00",
-      "source_date": "2026-07-03T21:00:49+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://uxdesign.cc/never-mind-the-prompts-heres-the-thinking-f4af4b92155f?source=rss----138adf9c44c---4",
-      "title": "别管提示，这就是想法",
-      "source": "UX Collective",
-      "language": "en",
-      "published_at": "2026-07-05T04:18:27.366866+00:00",
-      "source_date": "2026-07-04T16:37:02+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/marketing/6424778.html",
-      "title": "为什么好产品卖不动？iPod之父的3个阶段与1个真相",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-05T04:18:27.366893+00:00",
-      "source_date": "2026-07-04T02:16:37+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.nngroup.com/articles/crafting-ai-explanations/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "为企业中的每个角色制定人工智能解释",
-      "source": "Nielsen Norman Group",
-      "language": "en",
-      "published_at": "2026-07-05T04:18:37.431775+00:00",
-      "source_date": "2026-07-03T17:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/art/otherworldly-ken-prices-solo-exhibition-pomo-norway/",
-      "title": "ken Price 在挪威 PoMo 举办的超凡脱俗的个展",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-05T04:18:38.963266+00:00",
-      "source_date": "2026-07-04T19:45:45+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/3484456.html",
-      "title": "从参数竞赛到商业落地：国内AI市场进入价值验证期",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-05T04:18:38.963291+00:00",
-      "source_date": "2026-07-05T01:31:48+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1041242/paraiso-office-building-plus-industrial-warehouse-tec-taller-ec",
-      "title": "PARAISO办公楼+工业仓库 / TEC Taller EC",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-05T04:18:40.712992+00:00",
-      "source_date": "2026-07-04T15:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6424768.html",
-      "title": "甲方斥资百万的AI CRM为什么没人用？从纷享销客拆解真正原因",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-05T04:18:40.713014+00:00",
-      "source_date": "2026-07-04T01:57:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6424682.html",
-      "title": "企业知识图谱的真相：MongoDB + Milvus + ES + NebulaGraph 混合架构实战",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-05T04:18:40.713028+00:00",
-      "source_date": "2026-07-05T00:28:06+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1042710/building-forward-how-vernacular-knowledge-is-shaping-contemporary-architecture",
-      "title": "向前发展：乡土知识如何塑造当代建筑",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-05T04:18:43.242195+00:00",
-      "source_date": "2026-07-04T07:30:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://uxdesign.cc/you-design-it-then-what-a-clear-map-of-the-figma-to-code-ai-mess-954a4084175f?source=rss----138adf9c44c---4",
-      "title": "你设计它。然后呢？ Figma 到代码 AI 混乱的清晰地图",
-      "source": "UX Collective",
-      "language": "en",
-      "published_at": "2026-07-05T04:18:51.250604+00:00",
-      "source_date": "2026-07-03T11:17:14+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/share/6424781.html",
-      "title": "私域运营的底层逻辑：不是社群，而是信任和组织",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-05T04:18:51.250645+00:00",
-      "source_date": "2026-07-04T02:22:49+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/cn/1042757/hu-die-da-sha-yu-di-jin-xin-hui-jiao-tang-zong-he-ti-revery-architecture",
-      "title": "蝴蝶大厦与第一浸信会教堂综合体 / Revery Architecture",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-05T04:18:51.250661+00:00",
-      "source_date": "2026-07-04T11:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6424344.html",
-      "title": "从下载到弃用再到上手：一个 Obsidian + LLM Wiki 的真实使用记录",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-05T04:18:51.250674+00:00",
-      "source_date": "2026-07-04T07:11:42+00:00",
       "full_text": true
     }
   ]
