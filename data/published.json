@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.nngroup.com/articles/ux-vs-experience-design/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "Experience Design: Dropping the “User” from “User Experience”",
+      "source": "Nielsen Norman Group",
+      "language": "en",
+      "published_at": "2026-10-31T05:31:45.632838+00:00",
+      "source_date": "2026-10-30T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/30/evolias-sculptural-bracelet-tracks-wellness-without-a-screen/?utm_source=rss&utm_medium=rss&utm_campaign=evolias-sculptural-bracelet-tracks-wellness-without-a-screen",
+      "title": "EVOLIA’s Sculptural Bracelet Tracks Wellness Without a Screen",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-31T05:33:21.335033+00:00",
+      "source_date": "2026-10-30T20:30:31+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/the-people-using-ai-should-set-its-strategy-473c7f2ebb94?source=rss----138adf9c44c---4",
+      "title": "The people using AI should set its strategy",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-10-31T05:33:59.618146+00:00",
+      "source_date": "2026-10-30T07:06:26+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/30/old-chairs-get-a-resin-shell-without-hiding-their-scars/?utm_source=rss&utm_medium=rss&utm_campaign=old-chairs-get-a-resin-shell-without-hiding-their-scars",
+      "title": "Old Chairs Get a Resin Shell Without Hiding Their Scars",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-31T05:35:35.184569+00:00",
+      "source_date": "2026-10-30T17:20:36+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/30/compath-imagines-dementia-navigation-without-a-touchscreen/?utm_source=rss&utm_medium=rss&utm_campaign=compath-imagines-dementia-navigation-without-a-touchscreen",
+      "title": "Compath Imagines Dementia Navigation Without a Touchscreen",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-31T05:37:30.046316+00:00",
+      "source_date": "2026-10-30T14:20:02+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/30/kord-and-bark-give-a-power-strip-a-wooden-case-worth-leaving-on-display/?utm_source=rss&utm_medium=rss&utm_campaign=kord-and-bark-give-a-power-strip-a-wooden-case-worth-leaving-on-display",
+      "title": "Kord and Bark Give a Power Strip a Wooden Case Worth Leaving on Display",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-31T05:39:05.716830+00:00",
+      "source_date": "2026-10-30T13:20:05+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/it/6487063.html",
+      "title": "上亿独居年轻人，为什么诞生不了一门“大生意”",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-31T05:39:05.716866+00:00",
+      "source_date": "2026-10-31T02:10:16+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6487045.html",
+      "title": "别把视觉只当“画皮”！手搓 Axure 坦克大战，我提炼了高阶原型的“六维架构”",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-31T05:39:05.716889+00:00",
+      "source_date": "2026-10-31T02:05:08+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ucd/6486807.html",
+      "title": "Vibe 技巧：别再只跟 AI 说“弹出弹窗”了！",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-31T05:39:05.716908+00:00",
+      "source_date": "2026-10-30T08:21:45+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/evaluating/6486887.html",
+      "title": "Hermes产品分析：一个开源 Agent 如何把「能力」变成「可被拥有的基础设施」",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-31T05:39:05.716930+00:00",
+      "source_date": "2026-10-31T01:56:26+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/marketing/6487081.html",
+      "title": "下一个商业浪潮：用户买的不是体验，是“自我转型”",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-31T05:39:05.716950+00:00",
+      "source_date": "2026-10-31T03:03:39+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6486912.html",
+      "title": "WorkBuddy悄悄上线「手动安装插件」，丝滑操控浏览器",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-31T05:39:05.717014+00:00",
+      "source_date": "2026-10-30T08:48:21+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6487185.html",
+      "title": "你的航班信息，是通过哪些渠道贩卖出去的？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-31T05:39:05.717040+00:00",
+      "source_date": "2026-10-31T03:34:35+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6487009.html",
+      "title": "养大肥鱼只是开始，DeepSeek这10组插件值得装上",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-10-31T05:39:05.717061+00:00",
+      "source_date": "2026-10-31T02:45:39+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@sepideh.sarafzadeh/im-new-to-product-design-but-i-m-not-new-to-design-443e17eaf13b?source=rss------product_design-5",
+      "title": "I’m New to Product Design, but I’m Not New to Design",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-10-31T05:40:02.988666+00:00",
+      "source_date": "2026-10-30T20:05:26+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/30/this-printer-shaped-chair-has-receipts-literally/?utm_source=rss&utm_medium=rss&utm_campaign=this-printer-shaped-chair-has-receipts-literally",
+      "title": "This Printer-shaped Chair Has Receipts… Literally!",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-31T05:41:19.634327+00:00",
+      "source_date": "2026-10-30T22:30:38+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/10/30/myglamper-mounts-on-your-suv-hitch-and-inflates-into-a-large-12-person-tent-at-the-campsite/?utm_source=rss&utm_medium=rss&utm_campaign=myglamper-mounts-on-your-suv-hitch-and-inflates-into-a-large-12-person-tent-at-the-campsite",
+      "title": "MyGlamper mounts on your SUV hitch and inflates into a large, 12-person tent at the campsite",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-10-31T05:42:55.406735+00:00",
+      "source_date": "2026-10-30T15:20:30+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets",
+      "title": "The delightfully messy state of Apple gadgets",
+      "source": "The Verge Design",
+      "language": "en",
+      "published_at": "2026-10-31T05:43:33.600995+00:00",
+      "source_date": "2026-10-30T17:25:20+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.fastcompany.com/91574333/designing-for-the-edges-improves-the-center?utm_source=postup&utm_medium=email&utm_campaign=design&position=5&partner=newsletter&campaign_date=10312026",
+      "title": "Designing for the edges improves the center",
+      "source": "Fast Company Design",
+      "language": "en",
+      "published_at": "2026-10-31T05:44:12.026847+00:00",
+      "source_date": "2026-07-17T12:00:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.fastcompany.com/91522993/this-outdoor-fireplace-costs-nearly-five-grand-and-it-might-just-be-worth-it?utm_source=postup&utm_medium=email&utm_campaign=design&position=15&partner=newsletter&campaign_date=10312026",
+      "title": "This outdoor fireplace costs nearly 5 grand—and it might just be worth it",
+      "source": "Fast Company Design",
+      "language": "en",
+      "published_at": "2026-10-31T05:44:50.407526+00:00",
+      "source_date": "2026-04-09T10:00:00+00:00",
+      "full_text": false
+    },
+    {
       "url": "https://www.woshipm.com/ai/6486512.html",
       "title": "刚刚发现！百度网盘居然有了官方 Skill，GitHub 星数令人难以置信！",
       "source": "人人都是产品经理",
@@ -17819,186 +17999,6 @@
       "language": "zh",
       "published_at": "2026-07-08T03:41:01.430807+00:00",
       "source_date": "2026-07-08T01:02:41+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6425536.html",
-      "title": "AI设计提效应用案例及工作流",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-07T04:15:40.892683+00:00",
-      "source_date": "2026-07-07T01:04:53+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/mold-architects-five-stone-retreats-serifos-island-greece/",
-      "title": "MOLD 建筑师在塞里福斯岛的岩石斜坡上下沉了五个石头静修处",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-07T04:15:44.129013+00:00",
-      "source_date": "2026-07-06T17:31:49+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/four-inclined-metal-planes-bridge-place-leaning-drawing-observing-easel-bridge-xbtw-office/",
-      "title": "四个倾斜的平面将这座桥变成了一个倾斜、绘画和观察的地方",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-07T04:15:46.246500+00:00",
-      "source_date": "2026-07-06T14:00:35+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/design/sophie-lou-jacobsen-italy-crystals-blown-glass-craftsmanship/",
-      "title": "sophie lou jacobsen 谈意大利、水晶和吹制玻璃工艺",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-07T04:15:48.176614+00:00",
-      "source_date": "2026-07-06T10:45:31+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/local-identity-versus-universal-style-room-for-dreams-podcast/",
-      "title": "新的全球游牧者：我们是否正在用通用的建筑风格取代当地的身份？",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-07T04:15:49.208005+00:00",
-      "source_date": "2026-07-06T10:20:42+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/design/soft-monolithic-forms-modular-furniture-collection-nubuck-alpaca-oak-mouvement-ed-berrios-objet-mobilier/",
-      "title": "柔软的整体形式塑造了磨砂皮、羊驼毛和橡木的模块化家具系列",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-07T04:15:51.328951+00:00",
-      "source_date": "2026-07-06T09:30:07+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6425999.html",
-      "title": "上线一个多月获160万下载，老玩法20年后再度走红，“宝宝预测”迎来升级版本",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-07T04:15:51.328997+00:00",
-      "source_date": "2026-07-07T03:35:40+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6425774.html",
-      "title": "AI产品思考（一）从社交本质出发，AI会如何参与社交？",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-07T04:15:51.329021+00:00",
-      "source_date": "2026-07-07T02:11:36+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/it/6424699.html",
-      "title": "八年跨越AI两个时代：一个产品经理的五条核心判断",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-07T04:15:51.329045+00:00",
-      "source_date": "2026-07-07T01:06:16+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1042691/the-shape-of-water-20-aquatic-centers-building-collective-landscapes",
-      "title": "水形物语：20个水上运动中心打造集体景观",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-07T04:15:55.579227+00:00",
-      "source_date": "2026-07-06T04:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/design/teresa-van-dongen-designing-living-systems-essay/",
-      "title": "teresa van dongen 谈生命系统设计",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-07T04:16:07.706994+00:00",
-      "source_date": "2026-07-07T01:30:26+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1042030/expanding-the-meaning-of-accessibility-designing-for-assisted-care-in-public",
-      "title": "扩展无障碍的含义：公共辅助护理设计",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-07T04:16:12.707302+00:00",
-      "source_date": "2026-07-06T06:45:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/art/fujiko-nakaya-mies-van-der-rohe-berlin-sculpture-garden-landscape-fog-neue-nationalgalerie/",
-      "title": "中谷藤子将密斯·凡德罗的柏林雕塑花园变成雾景",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-07T04:16:13.628774+00:00",
-      "source_date": "2026-07-06T08:30:19+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/marketing/6425344.html",
-      "title": "同一件商品，为什么在A平台卖爆，在B平台无人问津？",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-07T04:16:13.628812+00:00",
-      "source_date": "2026-07-07T03:33:22+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6425854.html",
-      "title": "别再神化 OpenClaw，聊天框做不出好产品",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-07T04:16:13.628836+00:00",
-      "source_date": "2026-07-07T02:06:09+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1043000/wildsumaco-research-pavilion-caa-pora-arquitectura",
-      "title": "WildSumaco 研究馆 / Caá Porá Arquitectura",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-07T04:16:17.380346+00:00",
-      "source_date": "2026-07-06T15:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/pmd/6425789.html",
-      "title": "当实现不再稀缺，AI PM 靠什么活下去？",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-07T04:16:17.380387+00:00",
-      "source_date": "2026-07-07T01:29:20+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6425718.html",
-      "title": "7·15新规落地后，情感AI的未成年人保护，不能只靠一个弹窗了",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-07T04:16:17.380413+00:00",
-      "source_date": "2026-07-07T01:07:43+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1042924/new-life-for-old-spaces-buildner-reveals-re-form-winners-as-edition-3-opens",
-      "title": "旧空间的新生命：随着第 3 版的开放，建筑商公布了改造获胜者",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-07T04:16:29.503747+00:00",
-      "source_date": "2026-07-06T06:45:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.theverge.com/gadgets/961895/hoto-pixeldrive-screwdriver-deal-sale",
-      "title": "Hoto 的 PixelDrive 螺丝刀降至 60 美元，符合最优惠价格",
-      "source": "The Verge Design",
-      "language": "en",
-      "published_at": "2026-07-07T04:16:31.802404+00:00",
-      "source_date": "2026-07-06T20:24:28+00:00",
       "full_text": true
     }
   ]
