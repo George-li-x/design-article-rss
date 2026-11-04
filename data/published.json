@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.woshipm.com/ai/6488632.html",
+      "title": "开源我积累了3年、数百个项目的AI产品经理知识库",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-04T06:07:43.882089+00:00",
+      "source_date": "2026-11-04T01:38:54+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@vaisakhmv/designing-for-everyone-why-accessibility-matters-in-ux-ui-and-the-age-of-ai-5bda9192b95a?source=rss------user_experience-5",
+      "title": "Designing for Everyone: Why Accessibility Matters in UX, UI and the Age of AI",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-11-04T06:10:53.846364+00:00",
+      "source_date": "2026-11-04T05:48:18+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6488680.html",
+      "title": "语义快照的模板：用6个字段，把”我觉得不对”变成机器能查的证据",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-04T06:10:53.846414+00:00",
+      "source_date": "2026-11-04T01:55:21+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/evaluating/6488662.html",
+      "title": "团餐产品体验笔记：如何快速理解企业团餐这个行业？（1）",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-04T06:10:53.846447+00:00",
+      "source_date": "2026-11-04T01:13:16+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/03/the-8-best-tech-gadgets-of-november-2026/?utm_source=rss&utm_medium=rss&utm_campaign=the-8-best-tech-gadgets-of-november-2026",
+      "title": "The 8 Best Tech Gadgets of November 2026",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-04T06:14:05.670872+00:00",
+      "source_date": "2026-11-03T12:40:31+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/agents-struggle-with-the-same-bad-ux-we-do-98415f2b8981?source=rss----138adf9c44c---4",
+      "title": "Agents struggle with the same bad UX we do",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-11-04T06:14:43.908866+00:00",
+      "source_date": "2026-11-03T22:36:33+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/03/a-bamboo-armchair-glows-after-dark-without-electricity/?utm_source=rss&utm_medium=rss&utm_campaign=a-bamboo-armchair-glows-after-dark-without-electricity",
+      "title": "A Bamboo Armchair Glows After Dark Without Electricity",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-04T06:16:19.985423+00:00",
+      "source_date": "2026-11-03T23:30:44+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/03/navigation-without-looking-down-aegis-riders-ar-helmet/?utm_source=rss&utm_medium=rss&utm_campaign=navigation-without-looking-down-aegis-riders-ar-helmet",
+      "title": "Navigation Without Looking Down: Aegis Rider’s AR Helmet",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-04T06:18:15.033461+00:00",
+      "source_date": "2026-11-03T15:20:26+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@padshalaaditi/accessibility-and-wcag-designing-products-everyone-can-use-7e9045561207?source=rss------product_design-5",
+      "title": "Accessibility and WCAG: designing products everyone can use",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-11-04T06:19:31.900089+00:00",
+      "source_date": "2026-11-04T04:36:40+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/03/razers-evangelion-eva-01-collection-turns-your-gaming-setup-into-an-anime-inspired-battle-station/?utm_source=rss&utm_medium=rss&utm_campaign=razers-evangelion-eva-01-collection-turns-your-gaming-setup-into-an-anime-inspired-battle-station",
+      "title": "Razer’s EVANGELION EVA-01 Collection turns your gaming setup into an anime-inspired battle station",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-04T06:21:08.177424+00:00",
+      "source_date": "2026-11-03T16:20:01+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/what-do-you-do-when-a-design-solution-is-already-pre-built-85d20edba31f?source=rss----138adf9c44c---4",
+      "title": "What do you do when a design solution is already pre-built?",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-11-04T06:21:46.315445+00:00",
+      "source_date": "2026-11-03T22:36:49+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.woshipm.com/share/6487999.html",
+      "title": "HarmonyOS7更新亮点实录5：AR Engine 深度实践，3D高斯模型与外部传感器空间解算",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-04T06:21:46.315500+00:00",
+      "source_date": "2026-11-03T15:08:36+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/03/the-desktop-95-watch-is-a-love-letter-to-the-greatest-windows-os-of-all-time/?utm_source=rss&utm_medium=rss&utm_campaign=the-desktop-95-watch-is-a-love-letter-to-the-greatest-windows-os-of-all-time",
+      "title": "The “Desktop 95” Watch is a love-letter to the greatest Windows OS of all time",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-04T06:23:21.961412+00:00",
+      "source_date": "2026-11-03T19:20:49+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/chuangye/6486502.html",
+      "title": "学了6年日语，他把语言学习 App 做成了 TikTok",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-04T06:23:21.961457+00:00",
+      "source_date": "2026-11-04T02:48:01+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/03/buy-the-printer-make-the-presents-snapmakers-u1-drops-to-699-for-black-friday/?utm_source=rss&utm_medium=rss&utm_campaign=buy-the-printer-make-the-presents-snapmakers-u1-drops-to-699-for-black-friday",
+      "title": "Buy the printer, make the presents: Snapmaker’s U1 drops to $699 for Black Friday",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-04T06:24:58.042458+00:00",
+      "source_date": "2026-11-04T02:45:58+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6488773.html",
+      "title": "为什么大家都学腾讯，把对手的模型请进来？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-04T06:24:58.042508+00:00",
+      "source_date": "2026-11-04T02:39:14+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/embodied/6488623.html",
+      "title": "a16z谈机器人：先让它去工厂干活，数据和智能才会跟着来",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-04T06:24:58.042609+00:00",
+      "source_date": "2026-11-04T01:16:08+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6488760.html",
+      "title": "从治病到减脂，CGM 究竟在卖什么？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-04T06:24:58.042658+00:00",
+      "source_date": "2026-11-04T02:40:34+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@sara.johanssons/beyond-the-product-why-solving-problems-comes-before-innovation-5d40bf861e1a?source=rss------product_design-5",
+      "title": "Beyond the Product, Why Solving Problems Comes Before Innovation",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-11-04T06:25:55.629832+00:00",
+      "source_date": "2026-11-04T05:03:49+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@tangobao800/what-makes-a-garden-tool-more-sustainable-four-questions-for-buyers-e63065a653cd?source=rss------product_design-5",
+      "title": "What Makes a Garden Tool More Sustainable? Four Questions for Buyers",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-11-04T06:27:12.928209+00:00",
+      "source_date": "2026-11-04T05:09:51+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://uxdesign.cc/sparkle-buttons-autonomy-by-design-ai-reckoning-in-ux-figma-with-mcp-c93e38fa36e3?source=rss----138adf9c44c---4",
       "title": "闪亮的按钮、自主设计、UX 中的 AI 计算、Figma 与 MCP",
       "source": "UX Collective",
@@ -17819,186 +17999,6 @@
       "language": "en",
       "published_at": "2026-07-10T04:10:49.527419+00:00",
       "source_date": "2026-07-08T10:52:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1035492/yano-house-peninsula-arquitetura",
-      "title": "矢野屋 / Peninsula Arquitetura",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-09T10:13:59.678891+00:00",
-      "source_date": "2026-07-08T17:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://uxdesign.cc/the-promotion-that-didnt-take-adb678a7ec74?source=rss----138adf9c44c---4",
-      "title": "未采取的促销活动",
-      "source": "UX Collective",
-      "language": "en",
-      "published_at": "2026-07-09T10:14:06.104387+00:00",
-      "source_date": "2026-07-06T22:09:40+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1054052/amonti-chalets-architekt-andreas-gruber",
-      "title": "阿蒙蒂小屋 / Architekt Andreas Gruber",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-09T10:14:08.178570+00:00",
-      "source_date": "2026-07-08T10:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1054059/munich-kinderoase-kindergarten-kere-architecture-plus-hk-architekten-hermann-kaufmann-plus-partner-zt",
-      "title": "慕尼黑工业大学 Kinderoase 日托中心 / Kéré Architecture + HK Architekten",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-09T10:14:11.384076+00:00",
-      "source_date": "2026-07-08T07:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1055217/casaluna-anarquitectura",
-      "title": "卡萨卢纳/无建筑学",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-09T10:14:13.430044+00:00",
-      "source_date": "2026-07-08T06:30:24+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1054066/art-museum-of-ahua-tjad-plus-dca",
-      "title": "AHUA 美术馆 / TJAD + DCA",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-09T10:14:14.088749+00:00",
-      "source_date": "2026-07-09T00:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://medium.com/@sujithsreenivasan77/15-ui-ux-design-mistakes-beginners-make-and-how-to-avoid-them-6f5ab5116962?source=rss------design-5",
-      "title": "初学者常犯的 15 个 UI/UX 设计错误（以及如何避免这些错误）",
-      "source": "Medium · Design",
-      "language": "en",
-      "published_at": "2026-07-09T10:14:16.323798+00:00",
-      "source_date": "2026-07-09T09:55:38+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1041093/midea-science-center-atelier-ma-biad",
-      "title": "美的科学中心 / 马工作室_BIAD",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-09T10:14:18.111394+00:00",
-      "source_date": "2026-07-08T18:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
-      "title": "ChatGPT升级语音模式更能闭嘴",
-      "source": "The Verge Design",
-      "language": "en",
-      "published_at": "2026-07-09T10:14:20.246149+00:00",
-      "source_date": "2026-07-08T17:21:35+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://medium.com/@andrewjypark/design-system-creating-a-color-system-ad71c4e11e6f?source=rss------user_experience-5",
-      "title": "设计系统——创建色彩系统",
-      "source": "Medium · User Experience",
-      "language": "en",
-      "published_at": "2026-07-09T10:14:23.539929+00:00",
-      "source_date": "2026-07-09T03:45:46+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1042938/from-homes-to-coffee-shops-adaptive-reuse-projects-transforming-domestic-history",
-      "title": "从住宅到咖啡店：适应性再利用项目改变国内历史",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-09T10:14:26.182413+00:00",
-      "source_date": "2026-07-08T07:30:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1042944/ecc-creative-a-parallel-architecture",
-      "title": "ECC创意/并行架构",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-09T10:14:27.507809+00:00",
-      "source_date": "2026-07-08T12:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1034573/pukara-house-el-sindicato-arquitectura",
-      "title": "普卡拉住宅 / El Sindicato Arquitectura",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-09T10:14:31.095065+00:00",
-      "source_date": "2026-07-08T19:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/art/lara-tabet-bacteria-living-images-bmw-rencontres-arles-le-corps-vitre-vitreous-body-exhibition-yasmine-chemali/",
-      "title": "lara tabet 在宝马阿尔勒展览上与细菌合作制作活生生的图像",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-09T10:14:41.485837+00:00",
-      "source_date": "2026-07-08T16:30:30+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/share/6408170.html",
-      "title": "停下脚步，不是为了偷懒，而是为了看清自己搭过的台阶",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-09T10:14:41.485883+00:00",
-      "source_date": "2026-07-09T01:21:33+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/cn/1056612/an-hui-yi-zhu-xue-yuan-mei-zhu-guan-tong-ji-da-xue-jian-zhu-she-ji-yan-jiu-yuan-plus-dao-chen-jian-zhu",
-      "title": "安徽艺术学院美术馆 / 同济大学建筑设计研究院 + 道辰建筑",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-09T10:14:41.485911+00:00",
-      "source_date": "2026-07-09T09:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/share/6427257.html",
-      "title": "年度王牌方法论！“结构分析法”搞定九成分析场景",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-09T10:14:41.485934+00:00",
-      "source_date": "2026-07-09T07:16:30+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/cn/1054547/liu-bian-zhong-de-20shi-ji-she-ji-archdailywu-yue-zhuan-ti",
-      "title": "流变中的20世纪设计：ArchDaily五月专题",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-09T10:14:41.485957+00:00",
-      "source_date": "2026-07-08T22:21:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/share/6427237.html",
-      "title": "又有人来教微信怎么做产品了",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-09T10:14:41.485978+00:00",
-      "source_date": "2026-07-09T07:04:49+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/share/6427120.html",
-      "title": "数据换数据：数据流通的五种新玩法",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-09T10:14:41.486040+00:00",
-      "source_date": "2026-07-09T03:29:30+00:00",
       "full_text": true
     }
   ]
