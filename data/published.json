@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.woshipm.com/ai/6489415.html",
+      "title": "字节：翻译翻译，什么叫 Personal Agent？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-05T06:37:01.248715+00:00",
+      "source_date": "2026-11-05T03:33:48+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/04/from-a-huggable-panda-to-a-bird-shaped-chime-5-designs-for-slower-living/?utm_source=rss&utm_medium=rss&utm_campaign=from-a-huggable-panda-to-a-bird-shaped-chime-5-designs-for-slower-living",
+      "title": "从令人怀念的熊猫到鸟形编钟：慢生活的 5 种设计",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-05T06:40:51.338748+00:00",
+      "source_date": "2026-11-04T18:20:31+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6489520.html",
+      "title": "“破解”热潮背后，Efflora 在为 AI 搭建安全训练场",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-05T06:40:51.338791+00:00",
+      "source_date": "2026-11-05T06:21:36+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/04/this-airpods-open-concept-puts-apples-famous-stem-behind-your-ear/?utm_source=rss&utm_medium=rss&utm_campaign=this-airpods-open-concept-puts-apples-famous-stem-behind-your-ear",
+      "title": "这款 AirPods Open 概念将苹果著名的耳机柄置于耳后",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-05T06:42:27.725910+00:00",
+      "source_date": "2026-11-04T23:30:37+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6489389.html",
+      "title": "豆包想接管手机，微信和淘宝为什么不答应？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-05T06:42:27.725950+00:00",
+      "source_date": "2026-11-05T02:35:08+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6489307.html",
+      "title": "Agent记忆系统的设计实践：一张表、一个索引、三套淘汰策略",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-05T06:42:27.725973+00:00",
+      "source_date": "2026-11-05T06:19:25+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/chuangye/6486504.html",
+      "title": "玩游戏不用手柄，只要站在电视前蹦蹦跳跳：这台游戏机卖出了 100万台",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-05T06:42:27.725995+00:00",
+      "source_date": "2026-11-05T03:48:02+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6489375.html",
+      "title": "Claude已编写超90%的代码：Anthropic警告递归自我改进AI或将到来",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-05T06:42:27.726015+00:00",
+      "source_date": "2026-11-05T01:48:31+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/04/aurzen-zip-pro-puts-a-foldable-projector-and-basquiat-art-on-your-holiday-gift-list/?utm_source=rss&utm_medium=rss&utm_campaign=aurzen-zip-pro-puts-a-foldable-projector-and-basquiat-art-on-your-holiday-gift-list",
+      "title": "Aurzen ZIP Pro 将可折叠投影仪和巴斯奎特艺术作品列入您的节日礼物清单",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-05T06:44:43.040351+00:00",
+      "source_date": "2026-11-05T02:45:49+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/04/legos-biggest-ever-godzilla-build-hits-the-shelves-defeating-even-the-sagrada-familia-in-size/?utm_source=rss&utm_medium=rss&utm_campaign=legos-biggest-ever-godzilla-build-hits-the-shelves-defeating-even-the-sagrada-familia-in-size",
+      "title": "乐高有史以来最大的“哥斯拉”模型上架，尺寸甚至击败了圣家族大教堂",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-05T06:46:19.323983+00:00",
+      "source_date": "2026-11-05T01:30:24+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/04/da1-camera-prints-photos-to-give-away-without-a-screen-or-app/?utm_source=rss&utm_medium=rss&utm_campaign=da1-camera-prints-photos-to-give-away-without-a-screen-or-app",
+      "title": "DA1 相机无需屏幕或应用程序即可打印照片并赠送",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-05T06:47:55.596958+00:00",
+      "source_date": "2026-11-04T19:20:52+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/04/peak-designs-charging-station-folds-flat-to-charge-two-phones/?utm_source=rss&utm_medium=rss&utm_campaign=peak-designs-charging-station-folds-flat-to-charge-two-phones",
+      "title": "Peak Design 的充电站可折叠平放，可为两部手机充电",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-05T06:49:13.108074+00:00",
+      "source_date": "2026-11-04T15:20:51+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/04/xbox-put-a-working-series-x-inside-a-giant-fake-alligator/?utm_source=rss&utm_medium=rss&utm_campaign=xbox-put-a-working-series-x-inside-a-giant-fake-alligator",
+      "title": "Xbox 将正在运行的 Series X 放入巨型假鳄鱼内",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-05T06:50:48.649037+00:00",
+      "source_date": "2026-11-04T14:20:30+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/04/razers-limited-edition-ps5-controller-combines-magnesium-alloy-frame-with-pro-level-precision/?utm_source=rss&utm_medium=rss&utm_campaign=razers-limited-edition-ps5-controller-combines-magnesium-alloy-frame-with-pro-level-precision",
+      "title": "Razer 限量版 PS5 控制器将镁合金框架与专业级精度相结合",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-05T06:52:25.038093+00:00",
+      "source_date": "2026-11-04T20:20:01+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/04/mtpeak-one-all-is-a-limited-edition-trike-sports-car-with-a-turbo-engine-and-carbon-fiber-body/?utm_source=rss&utm_medium=rss&utm_campaign=mtpeak-one-all-is-a-limited-edition-trike-sports-car-with-a-turbo-engine-and-carbon-fiber-body",
+      "title": "MTPEAK One-All 是一款限量版三轮跑车，配备涡轮发动机和碳纤维车​​身",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-05T06:54:01.533805+00:00",
+      "source_date": "2026-11-04T16:20:10+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6489392.html",
+      "title": "百度上线模型交易平台“词元所”，汇集42款大模型",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-05T06:54:01.533844+00:00",
+      "source_date": "2026-11-05T02:36:03+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6489379.html",
+      "title": "一下午、三毛钱，我用代码给自己做了条个人介绍视频",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-05T06:54:01.533867+00:00",
+      "source_date": "2026-11-05T02:34:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+      "title": "Gemini for Home 现已接入 AT&T 的智能安全系统",
+      "source": "The Verge Design",
+      "language": "en",
+      "published_at": "2026-11-05T06:54:39.979154+00:00",
+      "source_date": "2026-11-04T20:23:24+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.fastcompany.com/91574333/designing-for-the-edges-improves-the-center?utm_source=postup&utm_medium=email&utm_campaign=design&position=6&partner=newsletter&campaign_date=11052026",
+      "title": "边缘设计改善了中心",
+      "source": "Fast Company Design",
+      "language": "en",
+      "published_at": "2026-11-05T06:55:18.653793+00:00",
+      "source_date": "2026-07-17T12:00:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.fastcompany.com/91535121/most-products-work-few-work-well?utm_source=postup&utm_medium=email&utm_campaign=design&position=14&partner=newsletter&campaign_date=11052026",
+      "title": "大多数产品都有效，但很少有有效的产品",
+      "source": "Fast Company Design",
+      "language": "en",
+      "published_at": "2026-11-05T06:55:57.247939+00:00",
+      "source_date": "2026-05-01T20:25:20+00:00",
+      "full_text": false
+    },
+    {
       "url": "https://www.woshipm.com/ai/6488632.html",
       "title": "开源我积累了3年、数百个项目的AI产品经理知识库",
       "source": "人人都是产品经理",
@@ -17819,186 +17999,6 @@
       "language": "en",
       "published_at": "2026-07-11T03:38:33.133519+00:00",
       "source_date": "2026-07-10T13:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6427836.html",
-      "title": "OpenAI 这次把 GPT-5.6 和 Codex 重新组合成一个可落地的产品底座",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-11T03:38:33.133565+00:00",
-      "source_date": "2026-07-11T02:55:19+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1092336/alva-zhu-zhai-felipe-caboclo-arquitetura",
-      "title": "阿尔瓦住宅 / Felipe Caboclo Arquitetura",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-11T03:38:34.646939+00:00",
-      "source_date": "2026-07-09T17:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/share/6427758.html",
-      "title": "阿里全面禁用Claude改用千问：为什么”吃自己的狗粮”是产品破局的唯一捷径？",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-11T03:38:34.646988+00:00",
-      "source_date": "2026-07-11T00:20:07+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1092333/growing-knowledge-in-wood-10-timber-pavilion-experiments-from-the-classroom",
-      "title": "增长木材知识：课堂上的 10 个木亭实验",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-11T03:38:37.600080+00:00",
-      "source_date": "2026-07-10T07:30:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1054004/ba-xian-shan-zi-ran-gong-ce-protoplain-architects",
-      "title": "八仙山自然公厕 / 元象建筑",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-11T03:38:37.600126+00:00",
-      "source_date": "2026-07-10T11:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1092432/zhong-shi-jian-zhu-de-zai-di-zhi-sheng",
-      "title": "重拾建筑的在地之声",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-11T03:38:37.600149+00:00",
-      "source_date": "2026-07-10T01:30:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/bright-orange-perforated-metal-sheets-modular-fitness-center-madrid-canobardin-moof-fitness-studio/",
-      "title": "明亮的橙色穿孔金属板塑造了马德里的模块化健身中心",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-10T04:10:38.103521+00:00",
-      "source_date": "2026-07-10T03:30:02+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/design/mycelium-algae-digital-archive-sustainable-materials-creative-practices/",
-      "title": "从菌丝体到藻类，这个数字档案馆收集可持续材料用于创意实践",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-10T04:10:38.759879+00:00",
-      "source_date": "2026-07-09T16:10:19+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/",
-      "title": "为苦恼的用户设计：为什么心理健康应用程序不应该遵循所有的 UI 时尚",
-      "source": "Smashing Magazine",
-      "language": "en",
-      "published_at": "2026-07-10T04:10:45.819562+00:00",
-      "source_date": "2026-07-09T15:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/design/transparent-turntable-vinyl-sungwoo-choi/",
-      "title": "这个未来派的转盘概念让黑胶唱片超越了怀旧",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-10T04:10:46.262881+00:00",
-      "source_date": "2026-07-09T16:30:12+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/lagoa-de-pataias-sculptural-museum-proposal-portugal-lakeshore-lp-alexander-velgan/",
-      "title": "这个雕塑博物馆方案沿着 lagoa de pataias 蜿蜒，沿着葡萄牙的湖岸",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-10T04:10:47.170022+00:00",
-      "source_date": "2026-07-09T10:30:45+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/share/6427529.html",
-      "title": "在求职中，如果你能表现出“在分歧中寻找共识”，那将是顶级能力",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-10T04:10:47.170074+00:00",
-      "source_date": "2026-07-10T02:46:08+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/art/where-folded-canvas-carries-the-memory-of-the-hand-susan-maddux/",
-      "title": "折叠的画布承载着手的记忆：susan maddux",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-10T04:10:47.886785+00:00",
-      "source_date": "2026-07-09T10:58:46+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/share/6427552.html",
-      "title": "聊聊支付宝AI：阿宝",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-10T04:10:47.886832+00:00",
-      "source_date": "2026-07-10T03:31:47+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6427501.html",
-      "title": "YAML契约格式：理解了语义规范体系后怎么写语义规则",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-10T04:10:47.886863+00:00",
-      "source_date": "2026-07-10T02:41:52+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6427377.html",
-      "title": "AI 到底新在哪儿。",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-10T04:10:47.886888+00:00",
-      "source_date": "2026-07-10T01:36:08+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1092389/yi-zhu-zhi-jia-spaces-architects-at-ka",
-      "title": "艺术之家 / Spaces Architects@ka",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-10T04:10:47.886916+00:00",
-      "source_date": "2026-07-10T03:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1092227/kosmalt-zhu-zhai-gai-zao-atrium-architekti",
-      "title": "KOSMALT 住宅改造 / Atrium Architekti",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-10T04:10:47.886977+00:00",
-      "source_date": "2026-07-09T10:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1092232/villa-crocodile-localarchitecture",
-      "title": "鳄鱼别墅 / 当地建筑",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-10T04:10:48.698000+00:00",
-      "source_date": "2026-07-10T07:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1092408/call-for-papers-siitua-iii-international-seminar-on-research-in-territory-urbanism-and-architecture",
-      "title": "征文：SIITUA III（地域、城市化和建筑研究国际研讨会）",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-10T04:10:49.527419+00:00",
-      "source_date": "2026-07-08T10:52:00+00:00",
       "full_text": true
     }
   ]
