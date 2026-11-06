@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.woshipm.com/ai/6489920.html",
+      "title": "我还没看到 AI 社交的天花板",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-06T06:32:17.290787+00:00",
+      "source_date": "2026-11-06T03:47:42+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6489769.html",
+      "title": "一家教育起家的中国公司出海做AI情绪疗愈：不卖课，改“渡人”了？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-06T06:32:17.290815+00:00",
+      "source_date": "2026-11-06T02:17:56+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/berrypicking-still-beats-the-single-answer-for-search-even-in-the-world-of-ai-6d7174099500?source=rss----138adf9c44c---4",
+      "title": "Berrypicking still beats the single answer for search, even in the world of AI",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-11-06T06:32:53.973264+00:00",
+      "source_date": "2026-11-06T04:13:24+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://uxdesign.cc/design-by-numbers-is-ai-ruining-ux-or-just-pouring-gasoline-on-the-fire-24164d49e422?source=rss----138adf9c44c---4",
+      "title": "Design by numbers: is AI ruining UX or just pouring gasoline on the fire?",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-11-06T06:33:32.905620+00:00",
+      "source_date": "2026-11-05T10:49:10+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/05/redmagic-12-pro-review-gaming-hardware-without-the-visual-overload/?utm_source=rss&utm_medium=rss&utm_campaign=redmagic-12-pro-review-gaming-hardware-without-the-visual-overload",
+      "title": "REDMAGIC 12 Pro Review: Gaming Hardware Without the Visual Overload",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-06T06:37:23.629588+00:00",
+      "source_date": "2026-11-05T16:20:46+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/native-is-a-floor-not-a-ceiling-09bc4f27ddce?source=rss----138adf9c44c---4",
+      "title": "Native is a floor, not a ceiling",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-11-06T06:38:02.139130+00:00",
+      "source_date": "2026-11-06T04:12:29+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/05/mixo-ai-companion-concept-gives-an-ai-a-detachable-face/?utm_source=rss&utm_medium=rss&utm_campaign=mixo-ai-companion-concept-gives-an-ai-a-detachable-face",
+      "title": "MIXO AI Companion Concept Gives an AI a Detachable Face",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-06T06:39:38.904483+00:00",
+      "source_date": "2026-11-05T14:20:48+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/everyones-got-a-quick-question-374a736ff7cb?source=rss----138adf9c44c---4",
+      "title": "Everyone’s got a quick question",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-11-06T06:40:17.121611+00:00",
+      "source_date": "2026-11-05T10:47:24+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.woshipm.com/pmd/6490019.html",
+      "title": "AI产品经理转型指南：六大方向与能力模型",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-06T06:40:17.121782+00:00",
+      "source_date": "2026-11-06T04:43:14+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/evaluating/6489815.html",
+      "title": "豆包工作产品分析：组织级 Agent 的产品拆解",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-06T06:40:17.121813+00:00",
+      "source_date": "2026-11-06T02:31:52+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6489822.html",
+      "title": "GPT-6 Cyber 发布：允许写攻击程序",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-06T06:40:17.121886+00:00",
+      "source_date": "2026-11-06T02:22:21+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/it/6489865.html",
+      "title": "从口红到Token，AI厂商挤进双十一",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-06T06:40:17.121982+00:00",
+      "source_date": "2026-11-06T02:43:37+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6489852.html",
+      "title": "豆包开始帮商家投广告，AI不只是聊天了",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-06T06:40:17.122004+00:00",
+      "source_date": "2026-11-06T02:33:14+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@glorialodesign/7-years-at-canva-as-a-product-designer-e0d8ecb8a1d2?source=rss------product_design-5",
+      "title": "7 years at Canva as a Product Designer",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-11-06T06:41:33.865051+00:00",
+      "source_date": "2026-11-06T00:03:49+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/marketing/6489773.html",
+      "title": "品牌的自然法则：从“博眼球”到“对眼神”",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-06T06:41:33.865086+00:00",
+      "source_date": "2026-11-06T02:14:03+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/05/camp-snaps-screen-free-camcorder-for-kids-records-without-wi-fi-and-has-a-tiktok-setting/?utm_source=rss&utm_medium=rss&utm_campaign=camp-snaps-screen-free-camcorder-for-kids-records-without-wi-fi-and-has-a-tiktok-setting",
+      "title": "Camp Snap’s screen-free camcorder for kids records without Wi-Fi, and has a ‘TikTok’ setting",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-06T06:43:10.070614+00:00",
+      "source_date": "2026-11-05T20:20:52+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/05/lawas-gradient-watch-uses-rotating-discs-instead-of-hands/?utm_source=rss&utm_medium=rss&utm_campaign=lawas-gradient-watch-uses-rotating-discs-instead-of-hands",
+      "title": "LAWA’s Gradient Watch Uses Rotating Discs Instead of Hands",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-06T06:44:26.726874+00:00",
+      "source_date": "2026-11-05T10:15:19+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@jingsourcing.com/fb-custom-pattern-printing-3fe4e589767a?source=rss------product_design-5",
+      "title": "Recent Custom Orders: Wedding Gifts & Laser-Engraved Jeans",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-11-06T06:47:58.809507+00:00",
+      "source_date": "2026-11-06T06:12:54+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@antonewhite/why-silk-sleepwear-costs-what-it-costs-3d3ae59fcb0a?source=rss------design-5",
+      "title": "Why Silk Sleepwear Costs What It Costs",
+      "source": "Medium · Design",
+      "language": "en",
+      "published_at": "2026-11-06T06:48:37.139826+00:00",
+      "source_date": "2026-11-06T04:44:01+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.fastcompany.com/91574333/designing-for-the-edges-improves-the-center?utm_source=postup&utm_medium=email&utm_campaign=design&position=6&partner=newsletter&campaign_date=11062026",
+      "title": "Designing for the edges improves the center",
+      "source": "Fast Company Design",
+      "language": "en",
+      "published_at": "2026-11-06T06:49:15.866728+00:00",
+      "source_date": "2026-07-17T12:00:00+00:00",
+      "full_text": false
+    },
+    {
       "url": "https://www.woshipm.com/ai/6489415.html",
       "title": "字节：翻译翻译，什么叫 Personal Agent？",
       "source": "人人都是产品经理",
@@ -17819,186 +17999,6 @@
       "language": "zh",
       "published_at": "2026-07-12T03:53:02.539109+00:00",
       "source_date": "2026-07-11T03:41:40+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1092552/muxarabi-zhu-zhai-ana-sawaia-arquitetura",
-      "title": "Muxarabi 住宅 / Ana Sawaia Architecture",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-12T03:53:04.367689+00:00",
-      "source_date": "2026-07-11T13:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1042916/architecture-in-the-andes-how-altitude-shapes-design-decisions",
-      "title": "安第斯山脉的建筑：海拔如何影响设计决策",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-12T03:53:07.750897+00:00",
-      "source_date": "2026-07-11T07:30:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1092349/design-hotels-hq-rho",
-      "title": "设计酒店总部/RHO",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-12T03:53:10.327326+00:00",
-      "source_date": "2026-07-10T06:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6427785.html",
-      "title": "AI 录音产品复盘：AI 协同落地的真实办公场景",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-12T03:53:10.327408+00:00",
-      "source_date": "2026-07-12T03:21:49+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.nngroup.com/articles/dimensions-of-ai-chatbots/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "特定站点人工智能聊天机器人的 5 个品质",
-      "source": "Nielsen Norman Group",
-      "language": "en",
-      "published_at": "2026-07-12T03:53:28.390843+00:00",
-      "source_date": "2026-07-10T17:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/share/6427886.html",
-      "title": "家装设计师竞品思维：摆脱同质化内卷，用差异化定位拿到优质客户",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-12T03:53:28.390888+00:00",
-      "source_date": "2026-07-12T00:59:48+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/contemporary-propylaea-twin-timber-gateways-open-air-architectural-park-russia-cube-plus-creative-collective-protivo-stoyanie-counter-standing/",
-      "title": "作为当代的 Progoaea，双木门构成了这个露天建筑公园",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-12T03:53:31.447075+00:00",
-      "source_date": "2026-07-11T00:30:29+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1042503/ma-ti-xiao-wu-alma-de-arquitectos",
-      "title": "马蹄小屋 / ALMA de Arquitectos",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-12T03:53:31.447124+00:00",
-      "source_date": "2026-07-10T09:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://medium.com/@omniview3d.com/the-legacy-of-the-file-attachment-51b76447ab2a?source=rss------product_design-5",
-      "title": "文件附件的遗产",
-      "source": "Medium · Product Design",
-      "language": "en",
-      "published_at": "2026-07-12T03:53:36.308813+00:00",
-      "source_date": "2026-07-11T20:26:58+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/share/6427919.html",
-      "title": "传统PLM已死，新一代PLM由谁定义？",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-12T03:53:36.308859+00:00",
-      "source_date": "2026-07-11T05:54:12+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1054049/how-architects-can-simplify-project-workflows-beyond-cad-and-bim",
-      "title": "建筑师如何简化 CAD 和 BIM 之外的项目工作流程",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-12T03:53:42.751095+00:00",
-      "source_date": "2026-07-10T06:45:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1092405/nachan-na-shan-gu-yuan-jiu-dian-pava-architects",
-      "title": "Nachan 纳禅古院酒店 / PAVA architects",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-12T03:53:42.751137+00:00",
-      "source_date": "2026-07-11T17:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/design/oorvi-sharma-craftsmanship-key-resilient-futures-essay/",
-      "title": "奥尔维·夏尔马 (oorvi sharma) 认为，工艺是打造弹性未来的关键",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-11T03:38:00.321831+00:00",
-      "source_date": "2026-07-10T17:00:44+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/design/stilfold-curved-folding-metal-interview/",
-      "title": "“设计不再受制于工具”：STILFOLD 用扁平金属创造工业折纸",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-11T03:38:08.242823+00:00",
-      "source_date": "2026-07-10T09:30:13+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/design/living-plants-perforated-aluminum-climate-installation-new-york-botanical-garden-demael-zimmerer-greenhouse-prototype-2/",
-      "title": "纽约植物园的穿孔铝气候装置上生长着活植物",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-11T03:38:09.151863+00:00",
-      "source_date": "2026-07-10T14:30:47+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1092499/design-week-calgary-2026",
-      "title": "2026 年卡尔加里设计周",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-11T03:38:10.826016+00:00",
-      "source_date": "2026-07-10T09:05:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6427586.html",
-      "title": "模型已经会工作了，为什么还要继续升级？",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-11T03:38:10.826068+00:00",
-      "source_date": "2026-07-11T01:36:34+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/technology/miniature-oled-display-matrix-cascading-green-code-signet-ring-daniel-idle/",
-      "title": "微型 OLED 显示屏在图章环内循环矩阵的级联绿色代码",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-11T03:38:11.752310+00:00",
-      "source_date": "2026-07-10T09:00:16+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/design/heritage-archive-gunia-ukraine-craft-material-traditions-interview/",
-      "title": "“遗产不是静态档案”：GUNIA 重塑乌克兰的工艺和材料传统",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-11T03:38:25.576825+00:00",
-      "source_date": "2026-07-10T10:50:50+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/",
-      "title": "从启动到第一个概念：如何将品牌策略转化为视觉方向",
-      "source": "Smashing Magazine",
-      "language": "en",
-      "published_at": "2026-07-11T03:38:33.133519+00:00",
-      "source_date": "2026-07-10T13:00:00+00:00",
       "full_text": true
     }
   ]
