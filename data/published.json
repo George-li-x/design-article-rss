@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.yankodesign.com/2026/11/06/mideas-award-winning-blender-concept-can-both-heat-and-cool-your-mixture-down/?utm_source=rss&utm_medium=rss&utm_campaign=mideas-award-winning-blender-concept-can-both-heat-and-cool-your-mixture-down",
+      "title": "美的屡获殊荣的搅拌机概念可以加热和冷却您的混合物",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-07T05:52:55.830067+00:00",
+      "source_date": "2026-11-06T20:20:56+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/",
+      "title": "内部用户体验人员的新社区",
+      "source": "Smashing Magazine",
+      "language": "en",
+      "published_at": "2026-11-07T05:53:53.030011+00:00",
+      "source_date": "2026-11-06T08:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.nngroup.com/training/january/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "UX 会议 1 月宣布（1 月 19 日 - 2 月 1 日）",
+      "source": "Nielsen Norman Group",
+      "language": "en",
+      "published_at": "2026-11-07T05:56:26.581109+00:00",
+      "source_date": "2026-11-06T04:34:21+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/06/story-mfg-s-plaid-asics-go-outdoors-without-the-tactical-look/?utm_source=rss&utm_medium=rss&utm_campaign=story-mfg-s-plaid-asics-go-outdoors-without-the-tactical-look",
+      "title": "Story mfg. 的格子 ASICS 户外运动鞋不带战术外观",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-07T05:58:21.302700+00:00",
+      "source_date": "2026-11-06T22:30:53+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/06/raven-prism-smart-glasses-put-a-linux-computer-in-the-corner-of-your-eye/?utm_source=rss&utm_medium=rss&utm_campaign=raven-prism-smart-glasses-put-a-linux-computer-in-the-corner-of-your-eye",
+      "title": "Raven Prism 智能眼镜让 Linux 电脑就在你的眼角",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-07T05:59:56.988506+00:00",
+      "source_date": "2026-11-06T18:20:02+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6490157.html",
+      "title": "腾讯阿里字节，又要被DeepSeek吊打了？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-07T05:59:56.988542+00:00",
+      "source_date": "2026-11-06T08:22:43+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.nngroup.com/articles/usability-101-introduction-to-usability/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "可用性 101：可用性简介",
+      "source": "Nielsen Norman Group",
+      "language": "en",
+      "published_at": "2026-11-07T06:01:51.375044+00:00",
+      "source_date": "2026-11-06T18:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@anna_ceo/how-i-turned-my-breast-cancer-journey-into-a-healthtech-product-the-story-behind-ribo-f30073dbf30a?source=rss------product_design-5",
+      "title": "我如何将乳腺癌之旅变成健康科技产品：Ribo 背后的故事",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-11-07T06:04:25.815590+00:00",
+      "source_date": "2026-11-07T01:34:14+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6490339.html",
+      "title": "给孩子讲不清狼人杀规则，我用Fotor Agent把它直接做成了MG动画视频",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-07T06:04:25.815627+00:00",
+      "source_date": "2026-11-07T02:29:27+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/ai-can-generate-the-interface-what-makes-it-worth-caring-about-a5f3a3e81986?source=rss----138adf9c44c---4",
+      "title": "AI可以生成界面。是什么让它值得关心？",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-11-07T06:05:04.069863+00:00",
+      "source_date": "2026-11-04T22:12:46+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.woshipm.com/marketing/6490349.html",
+      "title": "欧洲广告之王塞盖拉：27条“广告不应告知，而要神话化”传播学",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-07T06:05:04.069907+00:00",
+      "source_date": "2026-11-07T02:31:38+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6490033.html",
+      "title": "MiniMax Code 实测，这是一个很有性格的 Agent。",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-07T06:05:04.069929+00:00",
+      "source_date": "2026-11-06T06:49:19+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6490040.html",
+      "title": "Claude Duet主动运行后，企业Agent要把四个边界写进Runtime",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-07T06:05:04.069946+00:00",
+      "source_date": "2026-11-06T07:04:18+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6490335.html",
+      "title": "我把腾讯 5 个办公 App 连成了一个",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-07T06:05:04.069963+00:00",
+      "source_date": "2026-11-07T01:18:49+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@seems.legit/designing-for-people-who-arent-technical-as-someone-who-is-2b0a4c1b1a54?source=rss------product_design-5",
+      "title": "为非技术人员设计，就像为技术人员设计一样",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-11-07T06:06:00.883552+00:00",
+      "source_date": "2026-11-07T03:31:01+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6490347.html",
+      "title": "微信公众号“留言区”支持语音评论，苹果和安卓手机都可以用",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-07T06:06:00.883587+00:00",
+      "source_date": "2026-11-07T03:18:56+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@sanjaysen/an-agent-panel-doesnt-make-your-product-agentic-c40e42f5e8ee?source=rss------user_experience-5",
+      "title": "代理面板并不能让你的产品具有代理性",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-11-07T06:06:58.101832+00:00",
+      "source_date": "2026-11-06T22:34:19+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6489983.html",
+      "title": "腾讯微视App，靠短剧换了种活法",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-07T06:06:58.101866+00:00",
+      "source_date": "2026-11-06T06:47:33+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.fastcompany.com/91574333/designing-for-the-edges-improves-the-center?utm_source=postup&utm_medium=email&utm_campaign=design&position=7&partner=newsletter&campaign_date=11072026",
+      "title": "边缘设计改善了中心",
+      "source": "Fast Company Design",
+      "language": "en",
+      "published_at": "2026-11-07T06:07:37.116975+00:00",
+      "source_date": "2026-07-17T12:00:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.fastcompany.com/91535121/most-products-work-few-work-well?utm_source=postup&utm_medium=email&utm_campaign=design&position=15&partner=newsletter&campaign_date=11072026",
+      "title": "大多数产品都有效，但很少有有效的产品",
+      "source": "Fast Company Design",
+      "language": "en",
+      "published_at": "2026-11-07T06:08:14.802780+00:00",
+      "source_date": "2026-05-01T20:25:20+00:00",
+      "full_text": false
+    },
+    {
       "url": "https://www.woshipm.com/ai/6489920.html",
       "title": "我还没看到 AI 社交的天花板",
       "source": "人人都是产品经理",
@@ -17819,186 +17999,6 @@
       "language": "zh",
       "published_at": "2026-07-13T03:55:24.010692+00:00",
       "source_date": "2026-07-13T02:54:57+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://medium.com/@arafatulalam/the-future-of-product-design-where-ai-ux-and-business-strategy-meet-01ed2476c463?source=rss------product_design-5",
-      "title": "产品设计的未来：人工智能、用户体验和业务策略的相遇",
-      "source": "Medium · Product Design",
-      "language": "en",
-      "published_at": "2026-07-13T03:55:27.168590+00:00",
-      "source_date": "2026-07-13T02:01:02+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://uxdesign.cc/the-interface-has-left-the-building-8fdb558d33a9?source=rss----138adf9c44c---4",
-      "title": "界面已离开建筑物",
-      "source": "UX Collective",
-      "language": "en",
-      "published_at": "2026-07-13T03:55:32.690851+00:00",
-      "source_date": "2026-07-12T09:30:16+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/technology/love-hulten-pink-floyds-prism-playable-synthesizer-guitar/",
-      "title": "Love Hultén 将 Pink Floyd 的 Prism 改造成可演奏的合成器吉他",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-13T03:55:33.512450+00:00",
-      "source_date": "2026-07-12T20:00:12+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://uxdesign.cc/taste-cannot-be-delegated-1706847a0b4b?source=rss----138adf9c44c---4",
-      "title": "品味不能被委托",
-      "source": "UX Collective",
-      "language": "en",
-      "published_at": "2026-07-13T03:55:36.497445+00:00",
-      "source_date": "2026-07-12T21:32:06+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6428077.html",
-      "title": "OpenAI 正在重写 ChatGPT：从聊天工具到 AI 工作台",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-13T03:55:36.497496+00:00",
-      "source_date": "2026-07-13T01:42:49+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/design/nicolas-nielsen-self-driving-hyve-beehive-pollinate-cities/",
-      "title": "尼古拉斯·尼尔森设计自动驾驶 HYVE 蜂箱为城市授粉",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-13T03:55:37.592514+00:00",
-      "source_date": "2026-07-12T10:50:13+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6428321.html",
-      "title": "FDE真正要交付的，是个能持续运行的项目",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-13T03:55:37.592560+00:00",
-      "source_date": "2026-07-13T03:22:35+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1092516/qia-si-kai-shi-si-hu-zhu-zhai-gong-yu-humberto-conde-arquitectos",
-      "title": "卡斯凯什四户住宅公寓 / Humberto Conde Arquitectos",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-13T03:55:37.592587+00:00",
-      "source_date": "2026-07-12T13:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1054048/tai-di-shan-zhu-zhai-a-parallel-architecture",
-      "title": "台地山住宅 / A Parallel Architecture",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-13T03:55:37.592612+00:00",
-      "source_date": "2026-07-12T13:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1092542/antara-zhu-zhai-ark-architecture-studio",
-      "title": "安塔拉住宅 / Ark Architecture Studio",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-13T03:55:38.487142+00:00",
-      "source_date": "2026-07-13T02:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/art/interview-absurdist-basket-maker-lewis-prosser/",
-      "title": "“摆脱功能性的制作方法”：荒诞派篮子制造者刘易斯·普罗瑟",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-13T03:55:39.457007+00:00",
-      "source_date": "2026-07-11T10:30:40+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/art/mirrored-water-drop-installation-landscape-sayram-lake-china-zhide/",
-      "title": "镜面水滴装置反映了中国赛里木湖的景观",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-13T03:55:40.465342+00:00",
-      "source_date": "2026-07-11T20:30:12+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/share/6427930.html",
-      "title": "从濒临破产、到获a16z领投的280万美元：一个AI开发工具如何打开普通人的产品创造力",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-12T03:52:44.638024+00:00",
-      "source_date": "2026-07-11T06:21:55+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/coil-kazuteru-matumura-architects-hidden-timber-outbuildings-shared-kitchen-osaka-ichizu/",
-      "title": "Coil Kazuteru Matumura 将大阪隐藏的木质附属建筑改造成共用厨房",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-12T03:52:46.803725+00:00",
-      "source_date": "2026-07-12T03:30:28+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1042712/muxarabi-house-ana-sawaia-arquitetura",
-      "title": "Muxarabi 住宅 / Ana Sawaia Arquitetura",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-12T03:52:51.380812+00:00",
-      "source_date": "2026-07-11T13:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6427947.html",
-      "title": "实测GPT5.6，分享三个超实用Prompt，跟Fable5分工合作",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-12T03:52:51.380863+00:00",
-      "source_date": "2026-07-11T07:08:49+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6427900.html",
-      "title": "如何用AI“蒸馏”自己：把零散经验，变成可复用的个人核心资产",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-12T03:52:51.380899+00:00",
-      "source_date": "2026-07-11T04:07:30+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1092538/2026nian-qia-er-jia-li-she-ji-zhou",
-      "title": "2026年卡尔加里设计周",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-12T03:52:51.380927+00:00",
-      "source_date": "2026-07-10T09:05:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.nngroup.com/articles/design-system-maturity/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "设计系统成熟度：六维框架",
-      "source": "Nielsen Norman Group",
-      "language": "en",
-      "published_at": "2026-07-12T03:53:02.539066+00:00",
-      "source_date": "2026-07-10T17:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6427888.html",
-      "title": "AI 将如何重塑市场与用户洞察行业",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-12T03:53:02.539109+00:00",
-      "source_date": "2026-07-11T03:41:40+00:00",
       "full_text": true
     }
   ]
