@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.woshipm.com/share/6490979.html",
+      "title": "微信小程序开发上架详细全流程",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-09T06:14:23.404719+00:00",
+      "source_date": "2026-11-09T05:32:47+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6490907.html",
+      "title": "Gemini 产品负责人谈怎么做前沿模型：模型没法完全预测，产品经理要先读懂它，再去塑造它",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-09T06:14:23.404750+00:00",
+      "source_date": "2026-11-09T03:33:03+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/08/embrus-patio-chair-can-get-a-new-seat-without-a-new-frame/?utm_source=rss&utm_medium=rss&utm_campaign=embrus-patio-chair-can-get-a-new-seat-without-a-new-frame",
+      "title": "Embru’s Patio Chair Can Get a New Seat Without a New Frame",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-09T06:15:57.599843+00:00",
+      "source_date": "2026-11-08T12:40:53+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6490911.html",
+      "title": "AI产品经理技能4：提示词 3.0 开头别再写「你是一个 XX 专家」",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-09T06:15:57.599883+00:00",
+      "source_date": "2026-11-09T03:43:44+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/08/this-lego-fujifilm-quicksnap-is-a-11-tribute-to-the-camera-on-its-40th-anniversary-box-included/?utm_source=rss&utm_medium=rss&utm_campaign=this-lego-fujifilm-quicksnap-is-a-11-tribute-to-the-camera-on-its-40th-anniversary-box-included",
+      "title": "This LEGO Fujifilm Quicksnap is a 1:1 tribute to the camera on its 40th anniversary (box included!)",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-09T06:17:33.505509+00:00",
+      "source_date": "2026-11-08T16:20:56+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6490748.html",
+      "title": "教你私有化部署开源企业级Agent平台",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-09T06:17:33.505549+00:00",
+      "source_date": "2026-11-09T02:36:59+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/08/this-cactus-inspired-coffee-machine-looks-more-like-a-sculpture-than-a-kitchen-appliance/?utm_source=rss&utm_medium=rss&utm_campaign=this-cactus-inspired-coffee-machine-looks-more-like-a-sculpture-than-a-kitchen-appliance",
+      "title": "This Cactus-Inspired Coffee Machine Looks More Like a Sculpture Than a Kitchen Appliance",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-09T06:19:09.546320+00:00",
+      "source_date": "2026-11-08T23:30:24+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@usabilitycounts/november-2-november-8-round-up-ais-impact-on-ux-hands-on-design-leadership-figma-in-the-ai-1a80e6c324bd?source=rss------user_experience-5",
+      "title": "November 2 — November 8 Round Up: AI’s Impact on UX, Hands-On Design Leadership, Figma in the AI…",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-11-09T06:20:45.579081+00:00",
+      "source_date": "2026-11-08T19:11:01+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/08/volkswagens-new-2027-california-campervan-models-with-smarter-features-and-prices-starting-at-72000/?utm_source=rss&utm_medium=rss&utm_campaign=volkswagens-new-2027-california-campervan-models-with-smarter-features-and-prices-starting-at-72000",
+      "title": "Volkswagen’s new 2027 California Campervan models with smarter features and prices starting at $72,000",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-09T06:22:02.055036+00:00",
+      "source_date": "2026-11-08T14:20:44+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/08/a-20-paper-calendar-holds-three-months-without-a-separate-stand/?utm_source=rss&utm_medium=rss&utm_campaign=a-20-paper-calendar-holds-three-months-without-a-separate-stand",
+      "title": "A $20 Paper Calendar Holds Three Months Without a Separate Stand",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-09T06:23:38.155452+00:00",
+      "source_date": "2026-11-09T00:30:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6490903.html",
+      "title": "IPD重量级团队PDT的责权与协同",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-09T06:23:38.155492+00:00",
+      "source_date": "2026-11-09T03:18:02+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6490750.html",
+      "title": "“不做总统，就做广告人”的拉斯克：14条“纸上推销术”法则",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-09T06:23:38.155514+00:00",
+      "source_date": "2026-11-09T02:58:21+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6490917.html",
+      "title": "从0-1教你做一部AI短剧，这是属于我们普通人的创作时代",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-09T06:23:38.155537+00:00",
+      "source_date": "2026-11-09T03:46:34+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
+      "title": "Making Immersive LLM Chat Experiences More Accessible",
+      "source": "Smashing Magazine",
+      "language": "en",
+      "published_at": "2026-11-09T06:29:42.515514+00:00",
+      "source_date": "2026-11-05T13:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxplanet.org/5-new-github-repos-for-claude-code-worth-trying-for-product-design-8d2ca0914487?source=rss----819cc2aaeee0---4",
+      "title": "5 NEW GitHub Repos for Claude Code Worth Trying for Product Design",
+      "source": "UX Planet",
+      "language": "en",
+      "published_at": "2026-11-09T06:30:20.778851+00:00",
+      "source_date": "2026-11-05T12:40:07+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://uxdesign.cc/after-the-ai-bubble-a-manifesto-2e3157387662?source=rss----138adf9c44c---4",
+      "title": "After the AI bubble: a manifesto",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-11-09T06:30:58.974823+00:00",
+      "source_date": "2026-11-06T22:42:58+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://sspai.com/post/118612",
+      "title": "双十一好物精选：Sonos Play 85 折送充电套装，CD 机加赠透明面盖",
+      "source": "少数派",
+      "language": "zh",
+      "published_at": "2026-11-09T06:30:58.974867+00:00",
+      "source_date": "2026-11-09T03:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@darteq/i-want-my-race-history-to-help-me-choose-the-next-start-line-0c0916614a56?source=rss------product_design-5",
+      "title": "I Want My Race History to Help Me Choose the Next Start Line",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-11-09T06:31:56.666013+00:00",
+      "source_date": "2026-11-08T21:11:02+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.fastcompany.com/91574333/designing-for-the-edges-improves-the-center?utm_source=postup&utm_medium=email&utm_campaign=design&position=7&partner=newsletter&campaign_date=11092026",
+      "title": "Designing for the edges improves the center",
+      "source": "Fast Company Design",
+      "language": "en",
+      "published_at": "2026-11-09T06:32:35.038424+00:00",
+      "source_date": "2026-07-17T12:00:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.fastcompany.com/91535121/most-products-work-few-work-well?utm_source=postup&utm_medium=email&utm_campaign=design&position=15&partner=newsletter&campaign_date=11092026",
+      "title": "Most products work, few work well",
+      "source": "Fast Company Design",
+      "language": "en",
+      "published_at": "2026-11-09T06:33:13.292213+00:00",
+      "source_date": "2026-05-01T20:25:20+00:00",
+      "full_text": false
+    },
+    {
       "url": "https://uxdesign.cc/otherwise-youre-just-a-machine-a9d3b21179b5?source=rss----138adf9c44c---4",
       "title": "Otherwise you’re just a machine",
       "source": "UX Collective",
@@ -17819,186 +17999,6 @@
       "language": "en",
       "published_at": "2026-07-16T03:32:52.260704+00:00",
       "source_date": "2026-07-15T01:30:08+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1148765/jardim-zhu-zhai-gai-zao-baixo-impacto-arquiteturaof",
-      "title": "Jardim 住宅改造 / Baixo Impacto Arquiteturaof_",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-16T03:32:52.260751+00:00",
-      "source_date": "2026-07-15T17:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1148666/bo-zi-nan-jezyce-he-xin-qu-gong-yu-lbwa",
-      "title": "波兹南 Jeżyce 核心区公寓 / LBWA",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-16T03:32:52.260776+00:00",
-      "source_date": "2026-07-15T12:00:00+00:00",
-      "full_text": false
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1148694/studio-libeskind-she-ji-shou-er-quan-xin-gao-mi-du-zhu-zhai-ta-lou",
-      "title": "Studio Libeskind 设计首尔全新高密度住宅塔楼",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-16T03:32:52.260799+00:00",
-      "source_date": "2026-07-15T05:30:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/art/mestiz-vibrant-world-flowers-curious-creatures-hermes-windows-mexico/",
-      "title": "MESTIZ 为爱马仕橱窗编织了一个充满活力的花朵和好奇生物的世界",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-16T03:32:53.092189+00:00",
-      "source_date": "2026-07-15T21:00:27+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1148634/enter-the-25th-andreu-world-international-design-competition",
-      "title": "参加第25届安德鲁世界国际设计大赛",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-15T03:29:03.293242+00:00",
-      "source_date": "2026-07-14T08:55:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/terraced-timber-pavilion-circular-construction-austria-gabonsa-music-festival-students-kaiserslautern/",
-      "title": "梯田木亭为奥地利加蓬萨音乐节探索圆形建筑",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-15T03:29:04.463334+00:00",
-      "source_date": "2026-07-14T14:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6429208.html",
-      "title": "【全球视野篇01】别再用肉型扒差评了：如何搭建一个 24小时为你打工的“AI 选品 Agent”？",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-15T03:29:04.463386+00:00",
-      "source_date": "2026-07-15T01:40:57+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/design/architecture-permission-thoughtful-public-design-inner-child/",
-      "title": "许可的架构或深思熟虑的公共设计如何激活我们内心的孩子",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-15T03:29:11.174987+00:00",
-      "source_date": "2026-07-14T10:50:12+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/design/play-form-resistance-lea-mestres-imagination-freer-world-interview/",
-      "title": "“玩耍是我小小的抵抗形式”：léa mestres 谈想象力和设计一个更自由的世界",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-15T03:29:12.700530+00:00",
-      "source_date": "2026-07-14T10:50:07+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/realizing-the-dream-crafting-from-confluence-culture-room-for-dreams-podcast/",
-      "title": "实现梦想：从文化融合中打造新的设计语言",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-15T03:29:13.267187+00:00",
-      "source_date": "2026-07-14T09:30:40+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/exposed-brick-and-blue-metal-transform-a-1930s-brazilian-house-into-a-cultural-art-hub/",
-      "title": "裸露的砖块和蓝色金属将 1930 年代的巴西房屋改造成文化艺术中心",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-15T03:29:14.584436+00:00",
-      "source_date": "2026-07-14T06:30:38+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6429618.html",
-      "title": "我用 WorkBuddy + ima，搭了一套提效的互金运营工作流",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-15T03:29:14.584481+00:00",
-      "source_date": "2026-07-15T02:19:40+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6429434.html",
-      "title": "AI到底能不能取代产品经理？我拿自己做了半年实验",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-15T03:29:14.584510+00:00",
-      "source_date": "2026-07-15T01:49:38+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6429089.html",
-      "title": "AI时代最大的幻觉：技术正在解决一切问题，但真正的问题是没人理解业务",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-15T03:29:14.584539+00:00",
-      "source_date": "2026-07-15T01:40:20+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1148636/can-jia-di-25jie-andreu-worldguo-ji-she-ji-da-sai",
-      "title": "参加第25届Andreu World国际设计大赛",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-15T03:29:14.584564+00:00",
-      "source_date": "2026-07-14T08:55:00+00:00",
-      "full_text": false
-    },
-    {
-      "url": "https://www.designboom.com/design/surfboard-offcuts-furniture-objects-hall5/",
-      "title": "这对创意二人组将冲浪板废料变成家具和日常用品",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-15T03:29:15.669196+00:00",
-      "source_date": "2026-07-14T21:03:40+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1092510/da-jiao-tang-zhi-jia-jak-architecture",
-      "title": "大教堂之家 / JAK Architecture",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-15T03:29:15.669239+00:00",
-      "source_date": "2026-07-15T07:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1092504/dyes-inlet-house-shed-architecture-and-design",
-      "title": "染料入口屋 / SHED Architecture & Design",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-15T03:29:16.794245+00:00",
-      "source_date": "2026-07-13T12:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/design/what-we-learned-crafting-the-future/",
-      "title": "我们学到了什么：创造未来",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-14T03:29:43.748735+00:00",
-      "source_date": "2026-07-13T10:50:01+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/design/century-old-japanese-cedar-flat-pack-furniture-collection-flat-form-satoshi-itasaka-h220430/",
-      "title": "百年日本雪松成为平板家具系列，FLAT/FORM",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-14T03:29:45.110183+00:00",
-      "source_date": "2026-07-13T10:00:00+00:00",
       "full_text": true
     }
   ]
