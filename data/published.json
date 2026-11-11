@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://medium.com/@kanishkumar5555/ux-research-for-beginners-a-practical-guide-to-understanding-users-1fdaa9b767eb?source=rss------product_design-5",
+      "title": "UX Research for Beginners: A Practical Guide to Understanding Users",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-11-11T06:06:18.947915+00:00",
+      "source_date": "2026-11-10T21:16:49+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@kanishkumar5555/ux-research-for-beginners-a-practical-guide-to-understanding-users-1fdaa9b767eb?source=rss------user_experience-5",
+      "title": "UX Research for Beginners: A Practical Guide to Understanding Users",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-11-11T06:08:32.933019+00:00",
+      "source_date": "2026-11-10T21:16:49+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxplanet.org/3-ux-design-courses-worth-taking-if-youve-already-mastered-the-basics-956a5b2b0a36?source=rss----819cc2aaeee0---4",
+      "title": "3 UX Design Courses Worth Taking If You’ve Already Mastered the Basics",
+      "source": "UX Planet",
+      "language": "en",
+      "published_at": "2026-11-11T06:09:11.018222+00:00",
+      "source_date": "2026-11-10T22:50:39+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/10/this-tiny-house-trades-a-sleeping-loft-for-a-ground-floor-bedroom/?utm_source=rss&utm_medium=rss&utm_campaign=this-tiny-house-trades-a-sleeping-loft-for-a-ground-floor-bedroom",
+      "title": "This Tiny House Trades a Sleeping Loft for a Ground-Floor Bedroom",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-11T06:10:47.068320+00:00",
+      "source_date": "2026-11-11T00:30:17+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/10/new-playstation-portal-adds-storage-but-still-cant-download-ps5-games/?utm_source=rss&utm_medium=rss&utm_campaign=new-playstation-portal-adds-storage-but-still-cant-download-ps5-games",
+      "title": "New PlayStation Portal Adds Storage but Still Can’t Download PS5 Games",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-11T06:12:23.079493+00:00",
+      "source_date": "2026-11-10T09:15:51+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6491979.html",
+      "title": "前端与AI工程师的产物到达：从”复制粘贴”到”自动抵达”",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-11T06:12:23.079530+00:00",
+      "source_date": "2026-11-11T01:10:44+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/ai-prototyping-inside-your-design-system-a-hands-on-guide-for-design-product-teams-44825904c08d?source=rss----138adf9c44c---4",
+      "title": "AI Prototyping inside your design system. A hands-on guide for design & product teams.",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-11-11T06:13:01.259869+00:00",
+      "source_date": "2026-11-10T23:34:58+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6492091.html",
+      "title": "交互智能背后，一批年轻研究者正在走到台前",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-11T06:13:01.259913+00:00",
+      "source_date": "2026-11-11T03:06:05+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ucd/6492207.html",
+      "title": "闪购 Agent 情感设计探索",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-11T06:13:01.259935+00:00",
+      "source_date": "2026-11-11T03:52:41+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/10/the-coolest-thing-about-polestars-futuristic-concept-might-be-its-physical-button-dashboard/?utm_source=rss&utm_medium=rss&utm_campaign=the-coolest-thing-about-polestars-futuristic-concept-might-be-its-physical-button-dashboard",
+      "title": "The coolest thing about Polestar’s futuristic concept might be its physical button dashboard",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-11T06:14:56.236136+00:00",
+      "source_date": "2026-11-10T20:20:29+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6492118.html",
+      "title": "Claude Fable 5.2证明了，AI可以靠代码吞噬一切。",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-11T06:14:56.236178+00:00",
+      "source_date": "2026-11-11T03:44:49+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/10/seaweeds-hidden-beauty-takes-shape-in-alien-like-sculptures/?utm_source=rss&utm_medium=rss&utm_campaign=seaweeds-hidden-beauty-takes-shape-in-alien-like-sculptures",
+      "title": "Seaweed’s Hidden Beauty Takes Shape in Alien-Like Sculptures",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-11T06:16:31.919160+00:00",
+      "source_date": "2026-11-10T14:20:44+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/10/this-wearable-heat-patch-is-designed-to-bring-relief-to-menstrual-cramps-and-muscle-pain/?utm_source=rss&utm_medium=rss&utm_campaign=this-wearable-heat-patch-is-designed-to-bring-relief-to-menstrual-cramps-and-muscle-pain",
+      "title": "This wearable heat patch is designed to bring relief to menstrual cramps and muscle pain",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-11T06:18:07.820328+00:00",
+      "source_date": "2026-11-10T16:20:38+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6491904.html",
+      "title": "教你用WorkBuddy生成3D互动课件",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-11T06:18:07.820364+00:00",
+      "source_date": "2026-11-11T01:43:17+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6492126.html",
+      "title": "AI产品经理技能5：30 秒搞懂Agent 的定义与 L1 到 L4 能力分层",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-11T06:18:07.820428+00:00",
+      "source_date": "2026-11-11T03:24:17+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6492109.html",
+      "title": "腾讯上线LoopForge，一个云端 AI 研发平台，实测惊艳",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-11T06:18:07.820452+00:00",
+      "source_date": "2026-11-11T03:04:47+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@inbox.artarta/support-first-product-design-for-high-stakes-journeys-dd9a568fbd6b?source=rss------user_experience-5",
+      "title": "Support-first product design for high-stakes journeys",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-11-11T06:19:24.412852+00:00",
+      "source_date": "2026-11-10T22:06:01+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://sspai.com/post/118458",
+      "title": "RetroSweeper Go：复古外观、更有手感的扫雷游戏",
+      "source": "少数派",
+      "language": "zh",
+      "published_at": "2026-11-11T06:19:24.412888+00:00",
+      "source_date": "2026-11-11T03:13:04+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/10/casios-tiny-ring-watch-keeps-time-without-a-wrist-strap/?utm_source=rss&utm_medium=rss&utm_campaign=casios-tiny-ring-watch-keeps-time-without-a-wrist-strap",
+      "title": "Casio’s Tiny Ring Watch Keeps Time Without a Wrist Strap",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-11T06:21:19.357439+00:00",
+      "source_date": "2026-11-10T11:07:07+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@seebi5684/modren-furniture-ideas-to-make-your-home-more-beautiful-comfortable-b9b77eb81739?source=rss------design-5",
+      "title": "MODREN FURNITURE IDEAS TO MAKE YOUR HOME MORE BEAUTIFUL COMFORTABLE",
+      "source": "Medium · Design",
+      "language": "en",
+      "published_at": "2026-11-11T06:21:57.886145+00:00",
+      "source_date": "2026-11-11T05:58:41+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://uxdesign.cc/design-by-numbers-teaching-ai-prototyping-context-is-the-new-ui-c88a432a8df8?source=rss----138adf9c44c---4",
       "title": "Design by numbers, Teaching AI prototyping, Context is the new UI",
       "source": "UX Collective",
@@ -17819,186 +17999,6 @@
       "language": "zh",
       "published_at": "2026-07-19T03:48:42.176922+00:00",
       "source_date": "2026-07-17T13:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1148846/ferro-offices-group-a",
-      "title": "Ferro 办事处 / A 组",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-19T03:48:42.289459+00:00",
-      "source_date": "2026-07-17T10:00:00+00:00",
-      "full_text": false
-    },
-    {
-      "url": "https://www.archdaily.com/1148556/former-printing-press-refurbishment",
-      "title": "前印刷厂翻新 / Bastidas Architecture",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-19T03:48:43.284425+00:00",
-      "source_date": "2026-07-18T09:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/art/tomas-saraceno-haus-der-kunst-multispecies-landscape-ancestral-futures/",
-      "title": "托马斯·萨拉切诺 (Tomás Saraceno) 德国有史以来最大的展览以多物种景观开幕",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-18T03:27:27.701659+00:00",
-      "source_date": "2026-07-17T06:30:49+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1041959/ferro-offices-group-a",
-      "title": "Ferro 办事处 / A 组",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-18T03:27:28.558174+00:00",
-      "source_date": "2026-07-17T10:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6431564.html",
-      "title": "OpenAI合并Codex背后，AI体验的硬仗才刚刚开始",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-18T03:27:28.558229+00:00",
-      "source_date": "2026-07-17T08:21:27+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/luxury-craft-analog-slow-living-room-for-dreams-podcast/",
-      "title": "奢华的目的：通过工艺和模拟慢生活重新定义独特性",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-18T03:27:29.940924+00:00",
-      "source_date": "2026-07-17T10:30:46+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/design/origami-inspired-helix-pot-self-waters-twists-grows-plants-grow-potr/",
-      "title": "受折纸启发的螺旋花盆会随着植物的生长而自动浇水、扭曲和生长",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-18T03:27:30.598454+00:00",
-      "source_date": "2026-07-17T07:00:54+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.nngroup.com/articles/human-led-research-still-matters/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "不要外包学习：为什么人类主导的研究在人工智能时代仍然很重要",
-      "source": "Nielsen Norman Group",
-      "language": "en",
-      "published_at": "2026-07-18T03:27:36.416684+00:00",
-      "source_date": "2026-07-17T17:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1148908/warming-huts-competition-arts-plus-architecture-competition-on-ice",
-      "title": "温暖小屋竞赛：冰上艺术+建筑竞赛",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-18T03:27:37.296713+00:00",
-      "source_date": "2026-07-17T09:05:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ucd/6431586.html",
-      "title": "UX、DX、AX：重新定义设计“对象”",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-18T03:27:37.296751+00:00",
-      "source_date": "2026-07-18T02:25:53+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/share/6431526.html",
-      "title": "用户操作是否越简单越好？",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-18T03:27:37.296778+00:00",
-      "source_date": "2026-07-17T07:22:33+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://medium.com/@prishitameshram/the-four-titles-of-ui-ux-design-a-beginners-guide-to-knowing-which-one-you-are-77a6c71a07d7?source=rss------product_design-5",
-      "title": "UI/UX 设计的四个标题：了解您属于哪一个的初学者指南",
-      "source": "Medium · Product Design",
-      "language": "en",
-      "published_at": "2026-07-18T03:27:42.925625+00:00",
-      "source_date": "2026-07-17T19:18:33+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6431683.html",
-      "title": "Claude Cowork 用不了没关系，学会这套Agent工作流思路就够了",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-18T03:27:42.925683+00:00",
-      "source_date": "2026-07-17T09:42:26+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/technology/harvard-smart-knitted-textiles-stable-shapes-switch-sense-kausalya-mahadevan-katia-bertoldi-seas/",
-      "title": "哈佛大学开发出智能针织纺织品，可以在稳定的形状之间快速切换和感知",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-18T03:27:43.582065+00:00",
-      "source_date": "2026-07-17T08:30:39+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1148909/warming-huts-jing-sai-bing-shang-yi-zhu-yu-jian-zhu-jing-sai",
-      "title": "Warming Huts 竞赛：冰上艺术与建筑竞赛",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-18T03:27:43.582101+00:00",
-      "source_date": "2026-07-17T09:05:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1040629/gong-kong-jian-gui-shui-suo-you-su-zao-ou-zhou-yu-niu-yue-cheng-shi-gong-xiang-zi-yuan-de-san-chong-zhu-dong-guan-li-mo-shi",
-      "title": "公共空间归谁所有？塑造欧洲与纽约城市公地的三种活跃共管模式",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-18T03:27:43.582129+00:00",
-      "source_date": "2026-07-17T09:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/michele-de-lucchi-appointed-creative-director-triennale-milano/",
-      "title": "米歇尔·德卢基 (Michele de lucchi) 被任命为米兰三年展创意总监",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-17T03:33:24.030096+00:00",
-      "source_date": "2026-07-16T14:33:06+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/urban-soul-project-hospitality-design-spatial-experience/",
-      "title": "城市灵魂项目酒店设计将当地叙事转化为空间体验",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-17T03:33:25.584095+00:00",
-      "source_date": "2026-07-16T10:30:47+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1148808/join-the-25th-andreu-world-international-design-contest",
-      "title": "参加第25届安德鲁世界国际设计大赛",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-17T03:33:27.605957+00:00",
-      "source_date": "2026-07-16T09:10:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1054055/designing-for-deconstruction-a-path-toward-post-waste-architecture",
-      "title": "解构设计：通往后废弃建筑的道路",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-17T03:33:33.330508+00:00",
-      "source_date": "2026-07-16T01:30:00+00:00",
       "full_text": true
     }
   ]
