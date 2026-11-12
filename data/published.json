@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://uxdesign.cc/every-click-has-a-price-now-who-designs-how-that-feels-e3f00b6cabb8?source=rss----138adf9c44c---4",
+      "title": "现在每次点击都有价格。谁设计了“感觉”？",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-11-12T07:04:04.082213+00:00",
+      "source_date": "2026-11-11T22:15:19+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6492523.html",
+      "title": "腾讯混元Hy4去同福客栈打工，干得怎么样？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-12T07:04:04.082257+00:00",
+      "source_date": "2026-11-12T03:04:02+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/11/this-folding-ai-handheld-concept-opens-into-a-wildlife-field-guide/?utm_source=rss&utm_medium=rss&utm_campaign=this-folding-ai-handheld-concept-opens-into-a-wildlife-field-guide",
+      "title": "这款折叠式人工智能手持概念开启了野生动物领域指南",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-12T07:05:21.322986+00:00",
+      "source_date": "2026-11-11T16:20:24+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/11/interstellars-ranger-is-actually-becoming-an-official-lego-set/?utm_source=rss&utm_medium=rss&utm_campaign=interstellars-ranger-is-actually-becoming-an-official-lego-set",
+      "title": "《星际穿越》的游骑兵实际上正在成为官方乐高套装",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-12T07:06:57.500906+00:00",
+      "source_date": "2026-11-11T15:20:18+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/11/aceiilabs-robotic-tennis-ball-machine-has-cameras-wheels-and-fits-in-your-cars-trunk/?utm_source=rss&utm_medium=rss&utm_campaign=aceiilabs-robotic-tennis-ball-machine-has-cameras-wheels-and-fits-in-your-cars-trunk",
+      "title": "AceiiLab 的机器人网球发球机配有摄像头、轮子，可安装在汽车后备箱中",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-12T07:08:14.705960+00:00",
+      "source_date": "2026-11-12T02:45:31+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/11/slashvibe-gives-ai-work-a-dedicated-screen-and-a-detachable-voice-controller/?utm_source=rss&utm_medium=rss&utm_campaign=slashvibe-gives-ai-work-a-dedicated-screen-and-a-detachable-voice-controller",
+      "title": "SlashVibe 为 AI Work 提供专用屏幕和可拆卸语音控制器",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-12T07:10:09.733057+00:00",
+      "source_date": "2026-11-12T00:30:31+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/in-system-design-from-code-to-figma-and-back-prototyping-in-your-real-design-system-7372b128de9a?source=rss----138adf9c44c---4",
+      "title": "系统内设计：从代码到 Figma 并返回。在真实的设计系统中进行原型设计",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-11-12T07:10:48.235991+00:00",
+      "source_date": "2026-11-11T22:08:32+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://uxdesign.cc/the-bathroom-flaws-that-infuriate-every-designer-a26d50145d47?source=rss----138adf9c44c---4",
+      "title": "令每个设计师愤怒的浴室缺陷",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-11-12T07:11:27.067589+00:00",
+      "source_date": "2026-11-11T22:10:34+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/11/natural-objet-concept-gives-a-car-key-a-stone-like-cover/?utm_source=rss&utm_medium=rss&utm_campaign=natural-objet-concept-gives-a-car-key-a-stone-like-cover",
+      "title": "Natural Objet 概念为汽车钥匙提供了石头般的外壳",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-12T07:13:02.962370+00:00",
+      "source_date": "2026-11-11T17:20:54+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6492666.html",
+      "title": "手把手教你用 Fable 5.2 做个精致的 HTML 的 3D 动作游戏",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-12T07:13:02.962401+00:00",
+      "source_date": "2026-11-12T03:24:10+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6492636.html",
+      "title": "从小学到高中，12 年教材被做成了一张能追溯知识断层的地图",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-12T07:13:02.962418+00:00",
+      "source_date": "2026-11-12T03:15:39+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6492777.html",
+      "title": "百万点赞的猫IP，赢在每集都是同一只猫",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-12T07:13:02.962433+00:00",
+      "source_date": "2026-11-12T06:24:44+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6492660.html",
+      "title": "中国华电共享中心多主体治理架构",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-12T07:13:02.962445+00:00",
+      "source_date": "2026-11-12T03:22:31+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6492582.html",
+      "title": "企业内部FDE的培养：从建立AI能力认证机制开始",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-12T07:13:02.962459+00:00",
+      "source_date": "2026-11-12T02:47:07+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6492789.html",
+      "title": "日GMV从1万降到2K，压垮独立站的竟是2条物流差评？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-12T07:13:02.962472+00:00",
+      "source_date": "2026-11-12T06:27:10+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6492663.html",
+      "title": "千问办公换上Qwen4，WorkBuddy慌不慌？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-12T07:13:02.962485+00:00",
+      "source_date": "2026-11-12T03:25:25+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/11/loupe-light-concept-lets-diners-borrow-a-magnifier-from-the-table-lamp/?utm_source=rss&utm_medium=rss&utm_campaign=loupe-light-concept-lets-diners-borrow-a-magnifier-from-the-table-lamp",
+      "title": "放大镜灯概念让食客可以从台灯借用放大镜",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-12T07:14:38.822105+00:00",
+      "source_date": "2026-11-11T18:20:34+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@yidoosmart/why-useful-ai-products-can-still-be-hard-to-adopt-21cc6b6a0e16?source=rss------user_experience-5",
+      "title": "为什么有用的人工智能产品仍然难以采用",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-11-12T07:15:55.774584+00:00",
+      "source_date": "2026-11-12T03:27:26+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.fastcompany.com/91574333/designing-for-the-edges-improves-the-center?utm_source=postup&utm_medium=email&utm_campaign=design&position=7&partner=newsletter&campaign_date=11122026",
+      "title": "边缘设计改善了中心",
+      "source": "Fast Company Design",
+      "language": "en",
+      "published_at": "2026-11-12T07:16:34.056006+00:00",
+      "source_date": "2026-07-17T12:00:00+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.fastcompany.com/91535121/most-products-work-few-work-well?utm_source=postup&utm_medium=email&utm_campaign=design&position=15&partner=newsletter&campaign_date=11122026",
+      "title": "大多数产品都有效，但很少有有效的产品",
+      "source": "Fast Company Design",
+      "language": "en",
+      "published_at": "2026-11-12T07:17:12.469232+00:00",
+      "source_date": "2026-05-01T20:25:20+00:00",
+      "full_text": false
+    },
+    {
       "url": "https://medium.com/@kanishkumar5555/ux-research-for-beginners-a-practical-guide-to-understanding-users-1fdaa9b767eb?source=rss------product_design-5",
       "title": "UX Research for Beginners: A Practical Guide to Understanding Users",
       "source": "Medium · Product Design",
@@ -17819,186 +17999,6 @@
       "language": "en",
       "published_at": "2026-07-20T04:00:04.923196+00:00",
       "source_date": "2026-07-18T11:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://uxdesign.cc/the-mocked-then-loved-airpods-effect-65ec25feeb3a?source=rss----138adf9c44c---4",
-      "title": "AirPods 的“先被嘲笑，后被喜爱”效应",
-      "source": "UX Collective",
-      "language": "en",
-      "published_at": "2026-07-20T04:00:07.716938+00:00",
-      "source_date": "2026-07-17T21:22:37+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1043020/hotel-nobis-palma-jordi-herrero-arquitecto",
-      "title": "帕尔马酒店 / Jordi Herrero Arquitecto",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-20T04:00:10.136632+00:00",
-      "source_date": "2026-07-19T09:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6432491.html",
-      "title": "AI产品的需求文档和传统PRD有什么不同？附一份B端AI产品PRD模板",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-20T04:00:10.136679+00:00",
-      "source_date": "2026-07-20T03:10:01+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6432227.html",
-      "title": "语义字典：设计系统组件的语义覆盖层",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-20T04:00:10.136709+00:00",
-      "source_date": "2026-07-20T02:09:17+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1148546/tiansong-headquarters-ziad",
-      "title": "天送总部 / ZIAD",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-20T04:00:11.754570+00:00",
-      "source_date": "2026-07-19T02:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1148906/humaita-ding-ceng-gong-yu-huma-arquitetura",
-      "title": "Humaitá 顶层公寓 / Huma Arquitetura",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-20T04:00:11.754617+00:00",
-      "source_date": "2026-07-19T13:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/zhichang/6429827.html",
-      "title": "离开大厂，坚定往前走",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-20T04:00:11.754645+00:00",
-      "source_date": "2026-07-20T01:36:26+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1148897/urban-egg-mixed-use-facility-uga-architects",
-      "title": "城市鸡蛋混合用途设施 / U.GA Architects",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-20T04:00:14.511123+00:00",
-      "source_date": "2026-07-19T21:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/bigx-super-sports-playground-digital-landscape-steel-light-color-fun-connection-design-funconn/",
-      "title": "BIGX超级运动游乐场通过钢铁、光线和色彩塑造数字景观",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-19T03:48:29.020172+00:00",
-      "source_date": "2026-07-18T20:30:07+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/technology/fierce-shark-shy-tiger-tattoos-etattoos-health-paint-on/",
-      "title": "电子纹身：如果凶猛的鲨鱼和害羞的老虎可以监控你的健康状况会怎样？",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-19T03:48:29.623813+00:00",
-      "source_date": "2026-07-18T09:11:47+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.nngroup.com/articles/dropdown-list/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "您的表单真的需要下拉列表吗？",
-      "source": "Nielsen Norman Group",
-      "language": "en",
-      "published_at": "2026-07-19T03:48:33.639466+00:00",
-      "source_date": "2026-07-17T17:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://medium.com/@saisaround/when-a-ux-ui-designer-becomes-a-system-analyst-and-almost-breaks-e32b8aeb428d?source=rss------user_experience-5",
-      "title": "当 UX/UI 设计师成为系统分析师（并且几乎崩溃）时",
-      "source": "Medium · User Experience",
-      "language": "en",
-      "published_at": "2026-07-19T03:48:35.729304+00:00",
-      "source_date": "2026-07-18T15:38:14+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6430061.html",
-      "title": "你动嘴，AI干活：这就是Vibe Coding！",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-19T03:48:35.729348+00:00",
-      "source_date": "2026-07-18T08:43:04+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1148912/marmotta-pasta-bar-tadu-arquitetura",
-      "title": "Marmotta 意大利面吧 / Tadu Arquitetura",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-19T03:48:36.259793+00:00",
-      "source_date": "2026-07-17T13:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.nngroup.com/training/october/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "UX 会议 10 月宣布（10 月 5 日 - 10 月 16 日）",
-      "source": "Nielsen Norman Group",
-      "language": "en",
-      "published_at": "2026-07-19T03:48:40.488975+00:00",
-      "source_date": "2026-07-15T06:59:07+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1148875/umbral-xian-hua-zhan-ting-cerron-arquitectos",
-      "title": "Umbral 鲜花展厅 / Cerron Arquitectos",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-19T03:48:40.489017+00:00",
-      "source_date": "2026-07-18T16:00:00+00:00",
-      "full_text": false
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1148903/veredas-gong-yu-novais-arquitetura",
-      "title": "Veredas 公寓 / Novais Arquitetura",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-19T03:48:41.520900+00:00",
-      "source_date": "2026-07-18T13:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/folded-yellow-volume-genova-apartment-interiors-tetris-bump-studio/",
-      "title": "折叠的黄色体量像俄罗斯方块游戏一样重新组织了热那亚公寓的内部",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-19T03:48:42.176845+00:00",
-      "source_date": "2026-07-17T14:00:02+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1148551/tian-song-zong-bu-da-sha-zhe-jiang-sheng-jian-zhu-she-ji-yan-jiu-yuan-you-xian-gong-si",
-      "title": "天颂总部大厦 / 浙江省建筑设计研究院有限公司",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-19T03:48:42.176895+00:00",
-      "source_date": "2026-07-19T02:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1056613/mu-ni-hei-kinderoase-you-er-yuan-kere-architecture-plus-hk-architekten",
-      "title": "慕尼黑 Kinderoase 幼儿园 / Kéré Architecture + HK Architekten",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-19T03:48:42.176922+00:00",
-      "source_date": "2026-07-17T13:00:00+00:00",
       "full_text": true
     }
   ]
