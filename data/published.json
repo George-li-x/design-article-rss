@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
+      "title": "你真的应该添加人工智能吗？针对产品团队的四个问题审核",
+      "source": "Smashing Magazine",
+      "language": "en",
+      "published_at": "2026-11-13T06:35:50.764009+00:00",
+      "source_date": "2026-11-12T10:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6493281.html",
+      "title": "小红书内测“搭搭”App，能找活人感AI搭子，还支持群聊",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-13T06:35:50.764051+00:00",
+      "source_date": "2026-11-13T03:15:36+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/the-ai-mind-tax-that-afflicts-those-who-use-ai-best-3eb67ff167d0?source=rss----138adf9c44c---4",
+      "title": "人工智能思维税困扰着那些最擅长使用人工智能的人",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-11-13T06:36:30.099930+00:00",
+      "source_date": "2026-11-12T11:14:40+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/12/pongbot-aura-tennis-and-pickleball-practice-without-a-partner/?utm_source=rss&utm_medium=rss&utm_campaign=pongbot-aura-tennis-and-pickleball-practice-without-a-partner",
+      "title": "Pongbot Aura：没有搭档的网球和匹克球练习",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-13T06:38:05.544784+00:00",
+      "source_date": "2026-11-12T10:15:42+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/12/japanese-artist-takashi-murakami-ventures-into-high-end-watchmaking-with-skull-flowers-jumping-hour-tourbillon/?utm_source=rss&utm_medium=rss&utm_campaign=japanese-artist-takashi-murakami-ventures-into-high-end-watchmaking-with-skull-flowers-jumping-hour-tourbillon",
+      "title": "日本艺术家村上隆凭借骷髅花跳时陀飞轮进军高端制表业",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-13T06:39:41.833069+00:00",
+      "source_date": "2026-11-12T21:30:50+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/12/this-nothing-qwerty-phone-concept-is-the-blackberry-revival-i-desperately-want/?utm_source=rss&utm_medium=rss&utm_campaign=this-nothing-qwerty-phone-concept-is-the-blackberry-revival-i-desperately-want",
+      "title": "This Nothing QWERTY phone concept is the BlackBerry revival I desperately want",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-13T06:40:58.958634+00:00",
+      "source_date": "2026-11-12T20:20:16+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/12/motorola-ma2-adds-a-phone-switching-button-to-wireless-android-auto/?utm_source=rss&utm_medium=rss&utm_campaign=motorola-ma2-adds-a-phone-switching-button-to-wireless-android-auto",
+      "title": "Motorola MA2 Adds a Phone-Switching Button to Wireless Android Auto",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-13T06:42:34.891796+00:00",
+      "source_date": "2026-11-12T11:07:23+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6493254.html",
+      "title": "黄仁勋的八卦刷屏了，马化腾、张一鸣、李彦宏却在重新设计公司",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-13T06:42:34.891829+00:00",
+      "source_date": "2026-11-13T03:09:06+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/it/6493242.html",
+      "title": "本地生活：搜索产生竞争，竞争带来付费",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-13T06:42:34.891845+00:00",
+      "source_date": "2026-11-13T03:02:52+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/12/morningblues-record-r1-makes-holiday-gifting-personal-for-music-lovers/?utm_source=rss&utm_medium=rss&utm_campaign=morningblues-record-r1-makes-holiday-gifting-personal-for-music-lovers",
+      "title": "MorningBlues Record R1 Makes Holiday Gifting Personal for Music Lovers",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-13T06:45:08.836662+00:00",
+      "source_date": "2026-11-13T02:45:50+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@malinovskyaldridge157/mushroom-interlocking-fasteners-for-removable-components-how-to-choose-the-right-industrial-be9c8afbbbf5?source=rss------product_design-5",
+      "title": "Mushroom Interlocking Fasteners for Removable Components: How to Choose the Right Industrial…",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-11-13T06:48:21.317202+00:00",
+      "source_date": "2026-11-13T01:50:24+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6493421.html",
+      "title": "走向智能组织，百度搭子为什么选择开放？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-13T06:48:21.317236+00:00",
+      "source_date": "2026-11-13T04:01:01+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@seems.legit/read-the-backend-before-you-design-the-screen-2a885eb96937?source=rss------product_design-5",
+      "title": "Read the backend before you design the screen",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-11-13T06:49:19.141970+00:00",
+      "source_date": "2026-11-13T03:31:02+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/12/tesla-cybertruck-rc-racer-shines-with-replaceable-body-independent-suspension-system/?utm_source=rss&utm_medium=rss&utm_campaign=tesla-cybertruck-rc-racer-shines-with-replaceable-body-independent-suspension-system",
+      "title": "Tesla Cybertruck RC Racer shines with replaceable body, independent suspension system",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-13T06:50:36.700666+00:00",
+      "source_date": "2026-11-12T16:20:36+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6493297.html",
+      "title": "做小红书电商，千万别忽略了电商基本功！",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-13T06:50:36.700699+00:00",
+      "source_date": "2026-11-13T03:41:54+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6486147.html",
+      "title": "学了再多IPD依然推不动？十年IPD咨询复盘",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-13T06:50:36.700714+00:00",
+      "source_date": "2026-11-13T02:58:01+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/12/nikes-air-force-1-goes-furry-without-losing-its-shape/?utm_source=rss&utm_medium=rss&utm_campaign=nikes-air-force-1-goes-furry-without-losing-its-shape",
+      "title": "Nike’s Air Force 1 Goes Furry Without Losing Its Shape",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-13T06:52:32.809717+00:00",
+      "source_date": "2026-11-12T22:30:18+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6493233.html",
+      "title": "为什么没有身份的 Personal Agent，无法进入商业世界？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-13T06:52:32.809747+00:00",
+      "source_date": "2026-11-13T03:05:26+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6493200.html",
+      "title": "教你用WorkBuddy本地部署MiniMax-H3-Image开源生图模型",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-13T06:52:32.809763+00:00",
+      "source_date": "2026-11-13T03:03:39+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@build3drender/3d-product-rendering-in-australia-catalogue-and-website-images-without-a-photoshoot-68db3e47f0d5?source=rss------product_design-5",
+      "title": "3D Product Rendering in Australia: Catalogue and Website Images Without a Photoshoot",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-11-13T06:53:49.519141+00:00",
+      "source_date": "2026-11-13T05:29:59+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://uxdesign.cc/every-click-has-a-price-now-who-designs-how-that-feels-e3f00b6cabb8?source=rss----138adf9c44c---4",
       "title": "现在每次点击都有价格。谁设计了“感觉”？",
       "source": "UX Collective",
@@ -17819,186 +17999,6 @@
       "language": "zh",
       "published_at": "2026-07-22T03:40:58.341365+00:00",
       "source_date": "2026-07-22T06:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1148941/selldorf-architects-unveils-design-for-clark-art-institute-extension-in-massachusetts",
-      "title": "Selldorf Architects 公布马萨诸塞州克拉克艺术学院扩建项目的设计",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-21T03:39:53.444411+00:00",
-      "source_date": "2026-07-20T05:30:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1042188/architecture-is-not-jewelry-xing-ruan-on-building-for-time-not-perfection",
-      "title": "“建筑不是珠宝”：阮星谈建筑是为了时间而不是完美",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-21T03:39:54.470151+00:00",
-      "source_date": "2026-07-20T04:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/design/jello-lamp-freezes-the-soft-wobble-of-gelatin-desserts-into-3d-printed-sculptural-table-light/",
-      "title": "果冻灯将明胶甜点的柔和晃动冻结成 3D 打印的雕塑台灯",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-21T03:39:56.309387+00:00",
-      "source_date": "2026-07-20T21:30:23+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/timber-curves-crafted-details-dhaus-spatial-narrative-nanjing-townhouse-mendong/",
-      "title": "木材、曲线和精心制作的细节塑造了 DHaus 在南京联排别墅内的空间叙事",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-21T03:39:57.013451+00:00",
-      "source_date": "2026-07-20T14:00:59+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/readers/colorful-furnishings-raw-textures-flower-shop-moscow/",
-      "title": "色彩缤纷的家具和原始的纹理使开放式花店充满活力",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-21T03:39:57.696315+00:00",
-      "source_date": "2026-07-20T09:59:06+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/technology/cork-canvas-lunar-rover-electric-beach-buggy-amble-one/",
-      "title": "软木、帆布和月球车线索塑造了这款电动沙滩车“amble one”",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-21T03:39:58.254579+00:00",
-      "source_date": "2026-07-20T07:30:16+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/gabled-timber-volumes-sanctum-cabin-retreat-lithuanian-forest-studio-arches/",
-      "title": "山墙木体量将圣所小屋隐匿于立陶宛森林之中",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-21T03:39:58.713267+00:00",
-      "source_date": "2026-07-20T03:30:46+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6433167.html",
-      "title": "AI互联网日报：腾讯15亿美元洽购SuperPlay、智谱启用国产芯片数据中心、Google研发Frozen v2专用芯片",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-21T03:39:58.713315+00:00",
-      "source_date": "2026-07-21T02:41:41+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1181286/jiang-yi-neng-fou-zhong-xin-ding-yi-she-hua",
-      "title": "匠艺能否重新定义奢华？",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-21T03:39:58.713340+00:00",
-      "source_date": "2026-07-21T01:30:00+00:00",
-      "full_text": false
-    },
-    {
-      "url": "https://www.woshipm.com/share/6432875.html",
-      "title": "7·15新规长效合规：情感AI企业全生命周期风控治理顶层架构设计",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-21T03:39:58.713365+00:00",
-      "source_date": "2026-07-21T02:07:57+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1181282/kul-nosara-zhu-zhai-qbo3-arquitectos",
-      "title": "库尔诺萨拉大厦 / QBO3 Architects",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-21T03:40:00.175401+00:00",
-      "source_date": "2026-07-20T15:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1181276/engawa-ti-yu-she-shi-fakt-office-for-architecture",
-      "title": "Engawa 体育设施 / FAKT – Office for Architecture",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-21T03:40:00.175450+00:00",
-      "source_date": "2026-07-21T06:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/share/6425326.html",
-      "title": "【乙方视角】当你洞察客户时，是在洞察什么-银行客户",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-21T03:40:00.175484+00:00",
-      "source_date": "2026-07-21T01:31:57+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1181304/threshold-house-david-macias",
-      "title": "门槛屋 / David Macias",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-21T03:40:00.641682+00:00",
-      "source_date": "2026-07-20T19:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://medium.com/@nehathakkar3008/user-experience-design-how-to-create-meaningful-experiences-that-matter-cde455ebcdfd?source=rss------user_experience-5",
-      "title": "用户体验设计：如何创造重要的有意义的体验",
-      "source": "Medium · User Experience",
-      "language": "en",
-      "published_at": "2026-07-20T03:59:59.796758+00:00",
-      "source_date": "2026-07-19T17:15:42+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1148952/selldorf-architects-gong-bu-ma-sa-zhu-sai-zhou-ke-la-ke-yi-zhu-xue-yuan-kuo-jian-xiang-mu-she-ji",
-      "title": "Selldorf Architects 公布马萨诸塞州克拉克艺术学院扩建项目设计",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-20T03:59:59.796804+00:00",
-      "source_date": "2026-07-20T05:30:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6432131.html",
-      "title": "给浏览器 Agent 设计一间办公室：一次 Browser Use 改造里的权限、焦点与可观察性",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-20T03:59:59.796835+00:00",
-      "source_date": "2026-07-20T01:51:24+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1148649/fire-station-and-community-hall-motz-imgang-architekten",
-      "title": "莫茨消防站和社区大厅 / Imgang Architects",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-20T04:00:03.292155+00:00",
-      "source_date": "2026-07-19T11:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/circular-roof-opening-sunlight-casa-oculo-ohlab-palma/",
-      "title": "圆形屋顶开口将阳光引入 OHLAB 位于帕尔马的 casa óculo",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-20T04:00:03.981425+00:00",
-      "source_date": "2026-07-19T20:30:13+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1042941/halcom-offices-kip",
-      "title": "Halcom 办公室 / KIP 建筑事务所",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-20T04:00:04.923196+00:00",
-      "source_date": "2026-07-18T11:00:00+00:00",
       "full_text": true
     }
   ]
