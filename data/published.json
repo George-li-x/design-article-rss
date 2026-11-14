@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.woshipm.com/share/6493688.html",
+      "title": "熊本熊之父水野学：23条从“卖”到“大卖”的设计和品牌逻辑",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-14T06:11:12.994970+00:00",
+      "source_date": "2026-11-14T02:12:10+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6493002.html",
+      "title": "家具行业这么难做，源氏木语凭什么10年开出1600家门店，现在还敢持续扩张开大店？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-14T06:11:12.995007+00:00",
+      "source_date": "2026-11-14T02:59:35+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6493831.html",
+      "title": "一词一画，点亮星海：近期最惊艳的开源英语项目，连带 3.7 万+份音画数据全免费开放",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-14T06:11:12.995033+00:00",
+      "source_date": "2026-11-14T02:53:49+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@sikandar.dev.business/7-free-100-client-side-color-design-tools-for-developers-zero-uploads-997d16d2da2e?source=rss------design-5",
+      "title": "7 Free, 100% Client-Side Color & Design Tools for Developers (Zero Uploads)",
+      "source": "Medium · Design",
+      "language": "en",
+      "published_at": "2026-11-14T06:12:28.029891+00:00",
+      "source_date": "2026-11-14T05:58:30+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6493838.html",
+      "title": "Qwen4-Max Preview实测：4800万条数据26分钟跑完，强！",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-14T06:12:28.029931+00:00",
+      "source_date": "2026-11-14T03:11:16+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/13/7-black-friday-edc-knife-picks-that-range-from-genuinely-practical-to-delightfully-unnecessary/?utm_source=rss&utm_medium=rss&utm_campaign=7-black-friday-edc-knife-picks-that-range-from-genuinely-practical-to-delightfully-unnecessary",
+      "title": "7 Black Friday EDC knife picks that range from genuinely practical to delightfully unnecessary",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-14T06:15:40.376392+00:00",
+      "source_date": "2026-11-14T02:45:22+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6493828.html",
+      "title": "教你用WorkBuddy本地部署MiniMax H3开源生视频模型",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-14T06:15:40.376442+00:00",
+      "source_date": "2026-11-14T02:48:47+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "source": "The Verge Design",
+      "language": "en",
+      "published_at": "2026-11-14T06:16:18.634488+00:00",
+      "source_date": "2026-11-13T23:49:11+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/13/5-thoughtful-gifts-for-men-who-appreciate-great-design/?utm_source=rss&utm_medium=rss&utm_campaign=5-thoughtful-gifts-for-men-who-appreciate-great-design",
+      "title": "5 Thoughtful Gifts for Men Who Appreciate Great Design",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-14T06:18:33.559652+00:00",
+      "source_date": "2026-11-13T12:40:41+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/13/infinixs-145-android-tablet-is-a-reminder-that-cheap-tablets-were-never-impossible/?utm_source=rss&utm_medium=rss&utm_campaign=infinixs-145-android-tablet-is-a-reminder-that-cheap-tablets-were-never-impossible",
+      "title": "Infinix’s $145 Android tablet is a reminder that cheap tablets were never impossible",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-14T06:20:09.474846+00:00",
+      "source_date": "2026-11-13T23:30:55+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.nngroup.com/articles/journey-mapping-101/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "Journey Mapping 101",
+      "source": "Nielsen Norman Group",
+      "language": "en",
+      "published_at": "2026-11-14T06:23:02.265771+00:00",
+      "source_date": "2026-11-13T18:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6493813.html",
+      "title": "WorkBuddy像极了活字印刷术",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-14T06:23:02.265822+00:00",
+      "source_date": "2026-11-14T02:44:05+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/pd/6493736.html",
+      "title": "AI 落地前的活儿，比 AI 本身多：一个用户反馈闭环的实操拆解",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-14T06:23:02.265854+00:00",
+      "source_date": "2026-11-14T02:09:23+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxplanet.org/can-claude-fable-5-2-replace-product-designers-8f0bd3554d12?source=rss----819cc2aaeee0---4",
+      "title": "Can Claude Fable 5.2 Replace Product Designers?",
+      "source": "UX Planet",
+      "language": "en",
+      "published_at": "2026-11-14T06:23:40.854794+00:00",
+      "source_date": "2026-11-10T14:15:13+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/13/samsungs-gemini-smart-glasses-come-in-nine-frame-styles-from-395/?utm_source=rss&utm_medium=rss&utm_campaign=samsungs-gemini-smart-glasses-come-in-nine-frame-styles-from-395",
+      "title": "Samsung’s Gemini Smart Glasses Come in Nine Frame Styles From $395",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-14T06:25:17.110902+00:00",
+      "source_date": "2026-11-13T11:07:04+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/13/keychron-t1-he-wireless-mouse-lets-you-bring-the-trackball-closer-to-your-thumb/?utm_source=rss&utm_medium=rss&utm_campaign=keychron-t1-he-wireless-mouse-lets-you-bring-the-trackball-closer-to-your-thumb",
+      "title": "Keychron T1 HE Wireless Mouse Lets You Bring the Trackball Closer to Your Thumb",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-14T06:26:52.701740+00:00",
+      "source_date": "2026-11-13T14:20:39+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6493746.html",
+      "title": "搞 AI 人工智能，有必要生个孩子养",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-14T06:26:52.701781+00:00",
+      "source_date": "2026-11-14T02:08:28+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@naturalindomebel/toko-furniture-online-terbaik-9237e2635667?source=rss------design-5",
+      "title": "Toko Furniture Online Terbaik",
+      "source": "Medium · Design",
+      "language": "en",
+      "published_at": "2026-11-14T06:28:48.105723+00:00",
+      "source_date": "2026-11-14T04:50:06+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
+      "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
+      "source": "The Verge Design",
+      "language": "en",
+      "published_at": "2026-11-14T06:30:05.064905+00:00",
+      "source_date": "2026-11-13T21:13:20+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error",
+      "title": "The new Apple TV has a YouTube problem",
+      "source": "The Verge Design",
+      "language": "en",
+      "published_at": "2026-11-14T06:30:43.375407+00:00",
+      "source_date": "2026-11-13T16:55:57+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
       "title": "你真的应该添加人工智能吗？针对产品团队的四个问题审核",
       "source": "Smashing Magazine",
@@ -17819,186 +17999,6 @@
       "language": "en",
       "published_at": "2026-07-23T03:40:39.768855+00:00",
       "source_date": "2026-07-22T05:30:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1181459/ambroise-croizat-kong-jian-tautem-architecture",
-      "title": "Ambroise Croizat 空间 / TAUTEM Architecture",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-23T03:40:39.864524+00:00",
-      "source_date": "2026-07-22T12:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/share/6433991.html",
-      "title": "让AI从零做完一个系统，这几条避坑铁律我建议你先看再动手",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-23T03:40:39.864569+00:00",
-      "source_date": "2026-07-22T08:32:36+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1181438/design-is-inseparable-from-activism-in-conversation-with-andres-jaque-at-the-uia-world-congress-of-architects-2026",
-      "title": "“设计与行动主义密不可分”：在 2026 年 UIA 世界建筑师大会上与 Andrés Jaque 的对话",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-23T03:40:41.807298+00:00",
-      "source_date": "2026-07-22T06:30:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/technology/light-flip-reimagines-dumbphone-with-clamshell-design-and-no-social-media/",
-      "title": "light 的怀旧翻盖手机“旨在尽可能少地使用”",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-23T03:40:42.723264+00:00",
-      "source_date": "2026-07-22T13:54:08+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1181388/dak-coffee-roasters-barde-plus-vanvoltt",
-      "title": "DAK 咖啡烘焙机 / Barde + vanVoltt",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-23T03:40:43.809338+00:00",
-      "source_date": "2026-07-23T10:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1181480/le-guan-de-ze-ren",
-      "title": "乐观的责任",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-23T03:40:43.809380+00:00",
-      "source_date": "2026-07-23T01:30:00+00:00",
-      "full_text": false
-    },
-    {
-      "url": "https://www.designboom.com/technology/cipherx-painless-permanent-tattoos-dissolving-microneedle-patches/",
-      "title": "cipherX 通过溶解微针贴片应用无痛永久纹身",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-22T03:40:47.667625+00:00",
-      "source_date": "2026-07-21T18:15:34+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/design/care-play-design-pediatric-healthcare/",
-      "title": "当护理学会玩耍：设计如何重塑儿科医疗保健",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-22T03:40:52.479341+00:00",
-      "source_date": "2026-07-21T06:00:05+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/ida-billy-hong-kong-campus-modernism-dormitory-gridded-facades-choi-kai-yau/",
-      "title": "ida & billy 通过宿舍的网格立面重新诠释香港校园现代主义",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-22T03:40:53.079686+00:00",
-      "source_date": "2026-07-21T07:00:41+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://uxdesign.cc/i-handed-a-ux-review-over-to-ai-heres-what-happened-0511e73e4ffe?source=rss----138adf9c44c---4",
-      "title": "我将用户体验审核交给了 AI。这就是发生的事情。",
-      "source": "UX Collective",
-      "language": "en",
-      "published_at": "2026-07-22T03:40:55.387136+00:00",
-      "source_date": "2026-07-21T21:36:57+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1181353/fine-design-a-studio-guide-to-remixing-design-art-craft-and-industry",
-      "title": "精美设计：重新混合设计、艺术、工艺和工业的工作室指南",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-22T03:40:56.324428+00:00",
-      "source_date": "2026-07-21T09:05:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/sliding-timber-frames-reused-materials-reversible-pavilion-swiss-meadow-piertzovanis-toews/",
-      "title": "滑动木框架和重复使用的材料在瑞士草地上塑造了可翻转的凉亭",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-22T03:40:57.061718+00:00",
-      "source_date": "2026-07-21T20:30:24+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6356975.html",
-      "title": "AI不仅拯救了阿尔茨海默病，也为产品经理带来了机遇",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-22T03:40:57.061772+00:00",
-      "source_date": "2026-07-22T01:21:15+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6433773.html",
-      "title": "理解 AHA：两个 Agent，如何一起办事？",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-22T03:40:57.061806+00:00",
-      "source_date": "2026-07-22T02:53:39+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1148895/liang-shen-ding-zhi-he-er-zuo-ge-yu-de-mei-long-jia-ju-she-ji-de-jian-zhu-xue-fang-fa",
-      "title": "量身定制：赫尔佐格与德梅隆家具设计的建筑学方法",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-22T03:40:57.061838+00:00",
-      "source_date": "2026-07-22T01:30:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/pd/6433609.html",
-      "title": "7·15新规下，第三方大模型API接入情感AI权责与全链路改造方案",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-22T03:40:57.061871+00:00",
-      "source_date": "2026-07-22T01:45:49+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/it/6433783.html",
-      "title": "AI落地，最难的根本不是数据",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-22T03:40:57.061901+00:00",
-      "source_date": "2026-07-22T03:11:23+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/art/land-art-greek-beach-scene-ancient-hunters-modern-extraction-the-krank-the-hunt/",
-      "title": "大地艺术将希腊海滩变成了古代猎人和现代提取的场景",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-22T03:40:57.749117+00:00",
-      "source_date": "2026-07-22T01:15:40+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/art/malta-pavilion-at-venice-art-biennale-2026/",
-      "title": "爱与革命的实验占据了 2026 年威尼斯艺术双年展的马耳他馆",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-22T03:40:58.341324+00:00",
-      "source_date": "2026-07-21T10:30:45+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1181371/urban-revivo-san-li-tun-qi-jian-dian-mvrdv",
-      "title": "Urban Revivo 三里屯旗舰店 / MVRDV",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-22T03:40:58.341365+00:00",
-      "source_date": "2026-07-22T06:00:00+00:00",
       "full_text": true
     }
   ]
