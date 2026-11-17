@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.woshipm.com/ai/6495113.html",
+      "title": "我给 AI 装了个专业 Logo 设计 Skill，原来做高质感 Logo 可以这么简单！",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-17T07:48:06.580050+00:00",
+      "source_date": "2026-11-17T03:26:18+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/16/from-walnut-furniture-to-a-sao-paulo-tower-5-takes-on-pixelated-design/?utm_source=rss&utm_medium=rss&utm_campaign=from-walnut-furniture-to-a-sao-paulo-tower-5-takes-on-pixelated-design",
+      "title": "From Walnut Furniture to a São Paulo Tower: 5 Takes on Pixelated Design",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-17T07:51:56.556565+00:00",
+      "source_date": "2026-11-16T15:20:17+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6495151.html",
+      "title": "时隔3年，我重新入职淘宝当了一天设计师，也看见了这个行业最真实的进化。",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-17T07:51:56.556611+00:00",
+      "source_date": "2026-11-17T07:15:04+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/16/purism-librem-5-v2-keeps-its-old-shape-for-repairs-and-future-upgrades/?utm_source=rss&utm_medium=rss&utm_campaign=purism-librem-5-v2-keeps-its-old-shape-for-repairs-and-future-upgrades",
+      "title": "Purism Librem 5 v2 Keeps Its Old Shape for Repairs and Future Upgrades",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-17T07:53:32.902665+00:00",
+      "source_date": "2026-11-16T17:20:15+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6495119.html",
+      "title": "GenUI：生成式 AI 界面的 3 种设计范式！",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-17T07:53:32.902705+00:00",
+      "source_date": "2026-11-17T07:05:19+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/16/a-nightstand-without-glue-designed-to-come-apart/?utm_source=rss&utm_medium=rss&utm_campaign=a-nightstand-without-glue-designed-to-come-apart",
+      "title": "A Nightstand Without Glue, Designed to Come Apart",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-17T07:55:28.333958+00:00",
+      "source_date": "2026-11-16T21:30:35+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6495155.html",
+      "title": "“网易天马”App上线，网易旗下首个互动内容App成色几何？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-17T07:55:28.333995+00:00",
+      "source_date": "2026-11-17T07:13:45+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/16/giant-glowing-eggs-revive-a-shipyard-mast-without-hiding-its-past/?utm_source=rss&utm_medium=rss&utm_campaign=giant-glowing-eggs-revive-a-shipyard-mast-without-hiding-its-past",
+      "title": "Giant Glowing Eggs Revive a Shipyard Mast Without Hiding Its Past",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-17T07:57:04.616652+00:00",
+      "source_date": "2026-11-16T14:20:10+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/before-you-ship-your-wrapped-schr%C3%B6dingers-nvidia-infinite-tokens-64a9160bd2eb?source=rss----138adf9c44c---4",
+      "title": "Before you ship your Wrapped, Schrödinger’s Nvidia, Infinite tokens",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-11-17T07:57:43.205221+00:00",
+      "source_date": "2026-11-16T12:17:08+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/16/lung-trees-offers-an-honest-look-at-nature-on-life-support/?utm_source=rss&utm_medium=rss&utm_campaign=lung-trees-offers-an-honest-look-at-nature-on-life-support",
+      "title": "Lung Trees Offers an Honest Look at Nature on Life Support",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-17T07:59:19.438687+00:00",
+      "source_date": "2026-11-16T23:30:57+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@iamgandhimahaaan/how-3d-cad-software-is-transforming-the-future-of-manufacturing-c718e2e6f1a1?source=rss------product_design-5",
+      "title": "How 3D CAD Software Is Transforming the Future of Manufacturing",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-11-17T08:00:55.702355+00:00",
+      "source_date": "2026-11-17T06:07:04+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/16/this-folding-nap-pillow-concept-doubles-as-a-tablet-stand/?utm_source=rss&utm_medium=rss&utm_campaign=this-folding-nap-pillow-concept-doubles-as-a-tablet-stand",
+      "title": "This Folding Nap Pillow Concept Doubles as a Tablet Stand",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-17T08:02:31.959930+00:00",
+      "source_date": "2026-11-16T13:50:54+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxplanet.org/information-visualization-6-essential-rules-every-designer-should-know-b1a13ddd4b66?source=rss----819cc2aaeee0---4",
+      "title": "Information Visualization: 6 Essential Rules Every Designer Should Know",
+      "source": "UX Planet",
+      "language": "en",
+      "published_at": "2026-11-17T08:03:10.349082+00:00",
+      "source_date": "2026-11-16T20:32:11+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.woshipm.com/share/6495182.html",
+      "title": "教人赚钱，永远都是一个好生意",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-17T08:03:10.349123+00:00",
+      "source_date": "2026-11-17T07:15:48+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6495194.html",
+      "title": "越被封越注册，Claude 凭啥？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-17T08:03:10.349142+00:00",
+      "source_date": "2026-11-17T03:55:19+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/16/casio-g-shock-gm-6900xg-8-morphs-xgs-identity-into-a-tattoo-inspired-wristwatch/?utm_source=rss&utm_medium=rss&utm_campaign=casio-g-shock-gm-6900xg-8-morphs-xgs-identity-into-a-tattoo-inspired-wristwatch",
+      "title": "Casio G-SHOCK GM-6900XG-8 morphs XG’s identity into a tattoo-inspired wristwatch",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-17T08:04:27.200481+00:00",
+      "source_date": "2026-11-16T22:30:05+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@deborahprecious48/five-ai-products-five-ways-to-show-uncertainty-only-some-tell-you-where-to-look-332c504a94b3?source=rss------product_design-5",
+      "title": "Five AI Products, Five Ways to Show Uncertainty. Only Some Tell You Where to Look.",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-11-17T08:06:03.640110+00:00",
+      "source_date": "2026-11-17T07:08:03+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/16/esr-x-craig-karls-pocket-full-of-joy-accessories-give-your-iphone-more-personality-than-your-wallpaper/?utm_source=rss&utm_medium=rss&utm_campaign=esr-x-craig-karls-pocket-full-of-joy-accessories-give-your-iphone-more-personality-than-your-wallpaper",
+      "title": "ESR x Craig & Karl’s “Pocket Full of Joy” accessories give your iPhone more personality than your wallpaper",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-17T08:07:59.243124+00:00",
+      "source_date": "2026-11-17T02:45:30+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6494845.html",
+      "title": "实测 Hy4 flash：WorkBuddy 限免，比旗舰便宜 20 倍的办公利器",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-17T08:07:59.243165+00:00",
+      "source_date": "2026-11-17T03:33:43+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://sspai.com/post/118276",
+      "title": "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA",
+      "source": "少数派",
+      "language": "zh",
+      "published_at": "2026-11-17T08:07:59.243189+00:00",
+      "source_date": "2026-11-14T07:40:21+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.yankodesign.com/2026/11/15/your-next-ai-interface-might-just-be-a-button-says-plauds-human-computer-interaction-designer/?utm_source=rss&utm_medium=rss&utm_campaign=your-next-ai-interface-might-just-be-a-button-says-plauds-human-computer-interaction-designer",
       "title": "Your next AI interface might just be a button, says PLAUD’s Human-Computer Interaction Designer",
       "source": "Yanko Design",
@@ -17819,186 +17999,6 @@
       "language": "en",
       "published_at": "2026-07-26T03:51:46.862530+00:00",
       "source_date": "2026-07-25T16:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1181495/bo-zi-nan-lazarz-qu-gong-yu-shi-nei-de-se-cai-you-xi-lbwa",
-      "title": "波兹南 Łazarz 区公寓室内设计 / LBWA",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-26T03:51:46.862572+00:00",
-      "source_date": "2026-07-26T09:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1181474/gabonsa-zhan-ting-kai-ze-si-lao-teng-ying-yong-ji-zhu-da-xue",
-      "title": "Gabonsa 展亭 / 凯泽斯劳滕应用技术大学",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-26T03:51:46.862596+00:00",
-      "source_date": "2026-07-26T06:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/share/6435209.html",
-      "title": "微信更新，导航栏和阅读模式大改版",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-26T03:51:46.862621+00:00",
-      "source_date": "2026-07-26T03:25:40+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1181310/sanduteca-sandwich-library-estudio-cajalima",
-      "title": "Sanduteca – 三明治图书馆 / Estúdio Cajalima",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-26T03:51:47.566348+00:00",
-      "source_date": "2026-07-25T13:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1181312/sanduteca-san-ming-zhi-tu-shu-guan-estudio-cajalima",
-      "title": "Sanduteca – 三明治图书馆 / Estúdio Cajalima",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-26T03:51:47.566390+00:00",
-      "source_date": "2026-07-25T13:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1181345/when-mobility-becomes-the-ground-architecture-adaptation-and-the-search-for-continuity",
-      "title": "当移动性成为基础：架构、适应和对连续性的追求",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-26T03:51:50.211398+00:00",
-      "source_date": "2026-07-24T07:30:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1181580/ma-qi-duo-kou-dai-gong-yuan-out-architecture",
-      "title": "玛奇朵口袋公园 / OUT Architecture",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-26T03:51:50.211446+00:00",
-      "source_date": "2026-07-26T06:00:00+00:00",
-      "full_text": false
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1181433/23-living-plan-b-arquitectos",
-      "title": "23 生活 / 计划:b 建筑师",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-26T03:51:50.294928+00:00",
-      "source_date": "2026-07-24T15:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6435295.html",
-      "title": "a16z 最新一批 AI 项目：AI 创业，开始往脏活、累活里卷了",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-26T03:51:50.294964+00:00",
-      "source_date": "2026-07-26T02:48:32+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6435128.html",
-      "title": "Agent工具调用，PM该管什么",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-26T03:51:50.294988+00:00",
-      "source_date": "2026-07-25T05:51:18+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://medium.com/@mateogcervantes/scan-here-to-rent-a-basketball-and-be-annoyed-9d4c5981dcbf?source=rss------user_experience-5",
-      "title": "扫描这里租一个篮球（并且很恼火）",
-      "source": "Medium · User Experience",
-      "language": "en",
-      "published_at": "2026-07-26T03:51:56.675642+00:00",
-      "source_date": "2026-07-26T02:17:44+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6435274.html",
-      "title": "“中国版Mythos”：比得上吗，来得及吗？",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-26T03:51:56.675688+00:00",
-      "source_date": "2026-07-25T04:36:59+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.nngroup.com/articles/ux-context-design/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "用户体验情境设计：利用用户体验知识为人工智能生成的设计提供信息",
-      "source": "Nielsen Norman Group",
-      "language": "en",
-      "published_at": "2026-07-25T03:34:16.925328+00:00",
-      "source_date": "2026-07-24T17:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/cnc-timber-modules-saga-space-summerhouse-denmark/",
-      "title": "CNC 切割木材模块塑造了 SAGA 在丹麦的紧凑型避暑别墅",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-25T03:34:17.451831+00:00",
-      "source_date": "2026-07-24T16:15:32+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/the-right-to-play/",
-      "title": "谁有权利玩？",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-25T03:34:22.258665+00:00",
-      "source_date": "2026-07-24T14:15:42+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/red-microcement-onyx-marble-brutalist-barcelona-duplex-lobb-studio/",
-      "title": "红色微水泥与缟玛瑙大理石搭配，重塑巴塞罗那野兽派复式公寓",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-25T03:34:22.573976+00:00",
-      "source_date": "2026-07-25T00:35:12+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.nngroup.com/articles/product-sense-definition/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "“产品意识”的具体定义（以及如何构建它）",
-      "source": "Nielsen Norman Group",
-      "language": "en",
-      "published_at": "2026-07-25T03:34:25.014971+00:00",
-      "source_date": "2026-07-24T17:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/design/ifda-2027-timber-wood-furniture-competition/",
-      "title": "IFDA 2027呼吁全球设计师回归木材本源",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-25T03:34:25.506799+00:00",
-      "source_date": "2026-07-24T10:05:33+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6435047.html",
-      "title": "AI时代ToB产品的“七步法”：当智能线索评分取代人工经验，销售效能如何重构？",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-25T03:34:25.506849+00:00",
-      "source_date": "2026-07-25T02:36:18+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6434832.html",
-      "title": "19大场景实测Qwen-Image-3.0，GPT Image2不再是生图的唯一选择了",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-25T03:34:25.506880+00:00",
-      "source_date": "2026-07-24T07:55:45+00:00",
       "full_text": true
     }
   ]
