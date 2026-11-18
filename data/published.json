@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/",
+      "title": "AI Sped Up The Build: How Can Accessibility Testing Keep Up?",
+      "source": "Smashing Magazine",
+      "language": "en",
+      "published_at": "2026-11-18T07:19:29.588933+00:00",
+      "source_date": "2026-11-17T08:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/17/ponygo-is-a-minimalist-rocking-horse-for-the-ikea-era/?utm_source=rss&utm_medium=rss&utm_campaign=ponygo-is-a-minimalist-rocking-horse-for-the-ikea-era",
+      "title": "PonyGo is a minimalist rocking horse for the IKEA era",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-18T07:20:26.897298+00:00",
+      "source_date": "2026-11-17T23:00:21+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/17/rolls-royces-backgammon-set-puts-hidden-storage-in-motion/?utm_source=rss&utm_medium=rss&utm_campaign=rolls-royces-backgammon-set-puts-hidden-storage-in-motion",
+      "title": "Rolls-Royce’s Backgammon Set Puts Hidden Storage in Motion",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-18T07:22:02.529704+00:00",
+      "source_date": "2026-11-17T23:30:34+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/17/rec-dial-voice-recorder-concept-gives-voice-notes-a-turn-and-press-interface/?utm_source=rss&utm_medium=rss&utm_campaign=rec-dial-voice-recorder-concept-gives-voice-notes-a-turn-and-press-interface",
+      "title": "REC DIAL Voice Recorder Concept Gives Voice Notes a Turn-and-Press Interface",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-18T07:23:38.373284+00:00",
+      "source_date": "2026-11-17T18:20:05+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6495764.html",
+      "title": "百度的产品你可以不用，但李彦宏的战略你一定要听！",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-18T07:23:38.373325+00:00",
+      "source_date": "2026-11-18T06:59:06+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6495696.html",
+      "title": "从63家AI硬件创业公司，我看到了这两个变化",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-18T07:23:38.373342+00:00",
+      "source_date": "2026-11-18T06:44:49+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6495632.html",
+      "title": "自媒体涨粉新利器！Opus出圈的Vibe知识大赏风格，国产方案来了，而且还能支持深度编辑",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-18T07:23:38.373360+00:00",
+      "source_date": "2026-11-18T03:07:13+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/17/5-transparent-tech-designs-gen-z-actually-wants-to-own-right-now/?utm_source=rss&utm_medium=rss&utm_campaign=5-transparent-tech-designs-gen-z-actually-wants-to-own-right-now",
+      "title": "5 Transparent Tech Designs Gen Z Actually Wants to Own Right Now",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-18T07:25:52.239773+00:00",
+      "source_date": "2026-11-18T00:30:24+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@syedmustafahaider2005/graphic-design-vs-ui-ux-design-differences-skills-and-career-paths-72a95826940a?source=rss------design-5",
+      "title": "Graphic Design vs UI/UX Design: Differences, Skills and Career Paths",
+      "source": "Medium · Design",
+      "language": "en",
+      "published_at": "2026-11-18T07:26:49.642895+00:00",
+      "source_date": "2026-11-18T04:42:13+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/17/xiaomi-18-pro-and-18-pro-max-review-flagships-like-no-other/?utm_source=rss&utm_medium=rss&utm_campaign=xiaomi-18-pro-and-18-pro-max-review-flagships-like-no-other",
+      "title": "Xiaomi 18 Pro and 18 Pro Max Review: Flagships Like No Other",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-18T07:33:32.106620+00:00",
+      "source_date": "2026-11-17T14:30:58+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/17/the-lomo72-is-a-79-half-frame-film-camera-for-people-stuck-between-a-kodak-and-a-pentax/?utm_source=rss&utm_medium=rss&utm_campaign=the-lomo72-is-a-79-half-frame-film-camera-for-people-stuck-between-a-kodak-and-a-pentax",
+      "title": "The Lomo72 is a $79 half-frame film camera for people stuck between a Kodak and a Pentax",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-18T07:35:07.878025+00:00",
+      "source_date": "2026-11-17T21:30:50+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/17/huaweis-watch-air-leak-shows-a-6-9mm-titanium-smartwatch-that-makes-the-apple-watch-look-chunky/?utm_source=rss&utm_medium=rss&utm_campaign=huaweis-watch-air-leak-shows-a-6-9mm-titanium-smartwatch-that-makes-the-apple-watch-look-chunky",
+      "title": "Huawei’s Watch Air leak shows a 6.9mm titanium smartwatch that makes the Apple Watch look chunky",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-18T07:36:43.922135+00:00",
+      "source_date": "2026-11-17T20:20:20+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/what-is-a-researchers-worth-ea14c95c6d12?source=rss----138adf9c44c---4",
+      "title": "What is a researcher’s worth?",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-11-18T07:37:22.121320+00:00",
+      "source_date": "2026-11-17T23:26:24+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/17/clinks-bottle-opener-gets-a-curved-grip-without-custom-tooling/?utm_source=rss&utm_medium=rss&utm_campaign=clinks-bottle-opener-gets-a-curved-grip-without-custom-tooling",
+      "title": "Clink’s Bottle Opener Gets a Curved Grip Without Custom Tooling",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-18T07:38:57.759745+00:00",
+      "source_date": "2026-11-17T11:40:50+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6495766.html",
+      "title": "Claude Fable5.2杀疯了！分享4个神仙玩法（附稳定使用方案）",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-18T07:38:57.759788+00:00",
+      "source_date": "2026-11-18T07:00:33+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6495756.html",
+      "title": "继豆包后，千问办公也接入多模型，硬刚WorkBuddy",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-18T07:38:57.759808+00:00",
+      "source_date": "2026-11-18T06:57:06+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6495666.html",
+      "title": "对谈 MiniMax Code 负责人：什么是有价值的 Personal Agent？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-18T07:38:57.759825+00:00",
+      "source_date": "2026-11-18T06:30:26+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6495754.html",
+      "title": "拆解投标用户的完整旅程：从找项目到中标，产品该在哪些节点介入？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-18T07:38:57.759841+00:00",
+      "source_date": "2026-11-18T06:16:20+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6495629.html",
+      "title": "特朗普力挺，黄仁勋愿重返CEO：中国算力真正的危机才刚刚开始",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-18T07:38:57.759857+00:00",
+      "source_date": "2026-11-18T03:06:25+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.fastcompany.com/91574333/designing-for-the-edges-improves-the-center?utm_source=postup&utm_medium=email&utm_campaign=design&position=8&partner=newsletter&campaign_date=11182026",
+      "title": "Designing for the edges improves the center",
+      "source": "Fast Company Design",
+      "language": "en",
+      "published_at": "2026-11-18T07:39:36.020711+00:00",
+      "source_date": "2026-07-17T12:00:00+00:00",
+      "full_text": false
+    },
+    {
       "url": "https://www.woshipm.com/ai/6495113.html",
       "title": "我给 AI 装了个专业 Logo 设计 Skill，原来做高质感 Logo 可以这么简单！",
       "source": "人人都是产品经理",
@@ -17819,186 +17999,6 @@
       "language": "en",
       "published_at": "2026-07-27T03:58:39.164993+00:00",
       "source_date": "2026-07-26T01:55:04+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://uxdesign.cc/your-website-is-boring-but-that-might-just-set-it-free-f2b13863e22c?source=rss----138adf9c44c---4",
-      "title": "你的网站很无聊（但这可能会让它自由）",
-      "source": "UX Collective",
-      "language": "en",
-      "published_at": "2026-07-27T03:58:41.053646+00:00",
-      "source_date": "2026-07-26T14:19:22+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/technology/mouse-augmental-mouthpad-tongue-control/",
-      "title": "忘记鼠标：augmental 的口垫让舌头控制光标",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-27T03:58:41.929838+00:00",
-      "source_date": "2026-07-26T16:00:45+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6435717.html",
-      "title": "create-an-asset ：从客户信息到品牌化交付物，一个 Skill 串起整个售前流程",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-27T03:58:41.929882+00:00",
-      "source_date": "2026-07-26T14:33:32+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1181627/mimado-restaurant-garcia-de-alba-plus-ponce-arquitectos",
-      "title": "Mimado 餐厅 / García de Alba + Ponce Arquitectos",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-27T03:58:44.505427+00:00",
-      "source_date": "2026-07-26T16:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1148723/a-play-of-color-in-an-apartment-interior-within-poznans-lazarz-district-lbwa",
-      "title": "波兹南 Łazarz 区公寓内部 / LBWA",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-27T03:58:45.672051+00:00",
-      "source_date": "2026-07-26T09:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1181629/mimado-can-ting-garcia-de-alba-plus-ponce-arquitectos",
-      "title": "奢华餐厅 / García de Alba + Ponce Arquitectos",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-27T03:58:46.199473+00:00",
-      "source_date": "2026-07-26T16:00:00+00:00",
-      "full_text": false
-    },
-    {
-      "url": "https://www.woshipm.com/share/6434060.html",
-      "title": "你的产品，在关闭好奇窗口还是保护它？",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-27T03:58:46.199523+00:00",
-      "source_date": "2026-07-27T03:22:57+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6435133.html",
-      "title": "Agent跑完任务算成功？PM必须建的3层评估体系",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-27T03:58:46.199556+00:00",
-      "source_date": "2026-07-26T05:52:08+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1181499/ma-li-ha-zhi-wu-house-malija-raketa-plus-tria-studio",
-      "title": "Malija 住宅 / Raketa + Tria Studio",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-27T03:58:47.110048+00:00",
-      "source_date": "2026-07-27T03:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1181546/ruan-mu-xiao-wu-polysmiths",
-      "title": "软木小屋 / Polysmiths",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-27T03:58:47.110097+00:00",
-      "source_date": "2026-07-27T06:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1181461/macchiato-pocket-park-out-architecture",
-      "title": "玛奇朵袖珍公园 / OUT Architecture",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-27T03:58:47.864495+00:00",
-      "source_date": "2026-07-26T06:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1181253/mami-dan-temple-of-toligbe-cultural-center-maison-bignon-sossou",
-      "title": "托利贝文化中心玛米丹神庙 / Maison Bignon Sossou",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-27T03:58:50.174176+00:00",
-      "source_date": "2026-07-26T17:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/design/rummy-card-game-playful-sculptural-furniture-collection-ramino-series-atelier-arunika/",
-      "title": "拉米纸牌游戏激发了俏皮的雕塑家具系列的灵感",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-26T03:51:40.844300+00:00",
-      "source_date": "2026-07-25T15:35:22+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/design/game-philippe-starck-iconic-lemon-squeezer-juicy-salif-alessi/",
-      "title": "“第一个心理锻炼和游戏”：斯塔克标志性的柠檬榨汁机如何打破陈规",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-26T03:51:41.952916+00:00",
-      "source_date": "2026-07-25T10:00:08+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/design/gridtype-vol-1-digital-tools-new-typographic-forms-slanted-publishers/",
-      "title": "GridType vol.—1 探讨数字工具如何生成新的印刷形式",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-26T03:51:42.713605+00:00",
-      "source_date": "2026-07-26T01:15:32+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/art/six-disassembled-facade-fragments-playable-open-ended-stage-lake-forest-front-of-house-gluten/",
-      "title": "六个拆卸的立面碎片变成了湖森林中可玩的开放式舞台",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-26T03:51:44.450949+00:00",
-      "source_date": "2026-07-24T10:50:40+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/technology/bandit9-hand-brushed-aluminum-carbon-fiber-ducati-821-sculptural-motorcycle/",
-      "title": "bandit9 在杜卡迪 821 摩托车中结合了手工拉丝铝和碳纤维",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-26T03:51:44.998805+00:00",
-      "source_date": "2026-07-24T16:45:34+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/arches-oda-completed-post-tower-rotterdam-netherlands/",
-      "title": "拱门网格包裹着 ODA 在鹿特丹新落成的 POST 塔",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-26T03:51:45.638698+00:00",
-      "source_date": "2026-07-25T06:45:40+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1181605/pan-african-biennale-open-call-short-film",
-      "title": "泛非双年展 - 公开征集：短片",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-26T03:51:46.400105+00:00",
-      "source_date": "2026-07-24T09:30:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1181636/o-house-yes-architects",
-      "title": "哦房子/是的！建筑师",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-26T03:51:46.862530+00:00",
-      "source_date": "2026-07-25T16:00:00+00:00",
       "full_text": true
     }
   ]
