@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.yankodesign.com/2026/11/19/this-removable-tiny-home-turns-a-utility-trailer-into-a-camper-without-giving-up-its-day-job/?utm_source=rss&utm_medium=rss&utm_campaign=this-removable-tiny-home-turns-a-utility-trailer-into-a-camper-without-giving-up-its-day-job",
+      "title": "This Removable Tiny Home Turns a Utility Trailer Into a Camper Without Giving Up Its Day Job",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-20T07:05:54.423706+00:00",
+      "source_date": "2026-11-19T22:30:19+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.nngroup.com/training/february/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "UX Conference February Announced (Feb 22 - Feb 26)",
+      "source": "Nielsen Norman Group",
+      "language": "en",
+      "published_at": "2026-11-20T07:08:27.525320+00:00",
+      "source_date": "2026-11-20T03:16:44+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@thedadapeace/good-ui-is-not-enough-why-digital-products-need-better-product-thinking-4db634606175?source=rss------user_experience-5",
+      "title": "Good UI Is Not Enough: Why Digital Products Need Better Product Thinking",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-11-20T07:10:03.168037+00:00",
+      "source_date": "2026-11-19T21:41:15+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/19/8bitdo-gc-bluetooth-gamepad-revives-the-nintendo-gamecube-controller-back-with-modern-wireless-tech/?utm_source=rss&utm_medium=rss&utm_campaign=8bitdo-gc-bluetooth-gamepad-revives-the-nintendo-gamecube-controller-back-with-modern-wireless-tech",
+      "title": "8BitDo GC Bluetooth gamepad revives the Nintendo GameCube controller back with modern wireless tech",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-20T07:11:38.889358+00:00",
+      "source_date": "2026-11-19T16:20:50+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/send-the-firefighters-to-the-fires-6cd7b1893ae7?source=rss----138adf9c44c---4",
+      "title": "Send the Firefighters to the Fires",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-11-20T07:12:17.193986+00:00",
+      "source_date": "2026-11-19T12:54:05+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/19/sharps-aquos-sense11-signals-calls-and-notifications-with-its-screen-face-down/?utm_source=rss&utm_medium=rss&utm_campaign=sharps-aquos-sense11-signals-calls-and-notifications-with-its-screen-face-down",
+      "title": "Sharp’s AQUOS sense11 Signals Calls and Notifications With Its Screen Face Down",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-20T07:13:52.599768+00:00",
+      "source_date": "2026-11-19T18:20:50+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/19/leica-m-a-and-m11-p-get-a-new-textured-hammertone-finish/?utm_source=rss&utm_medium=rss&utm_campaign=leica-m-a-and-m11-p-get-a-new-textured-hammertone-finish",
+      "title": "Leica M-A and M11-P Get a New Textured Hammertone Finish",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-20T07:15:28.331578+00:00",
+      "source_date": "2026-11-19T13:50:55+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/zhichang/6496940.html",
+      "title": "工作5年，求职AI 产品经理该怎么准备？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-20T07:15:28.331615+00:00",
+      "source_date": "2026-11-20T06:14:47+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/19/nikes-pink-nocta-air-modmax-refuses-to-hide-its-six-air-pods/?utm_source=rss&utm_medium=rss&utm_campaign=nikes-pink-nocta-air-modmax-refuses-to-hide-its-six-air-pods",
+      "title": "Nike’s Pink NOCTA Air Modmax Refuses to Hide Its Six Air Pods",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-20T07:17:04.077726+00:00",
+      "source_date": "2026-11-19T19:20:16+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6497156.html",
+      "title": "DeepSeek Harness发布100天了，想跟你分享这13个好用的插件玩法。",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-20T07:17:04.077766+00:00",
+      "source_date": "2026-11-20T06:22:47+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6497141.html",
+      "title": "微信再放大招，内测「做个小工具」Agent，一句话做个应用",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-20T07:17:04.077786+00:00",
+      "source_date": "2026-11-20T05:39:21+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6496899.html",
+      "title": "给业务方演示产品Demo，哪些话千万别说？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-20T07:17:04.077804+00:00",
+      "source_date": "2026-11-20T03:05:23+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6497275.html",
+      "title": "FDE 看现场：用户说的和做的，为什么总是不一样",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-20T07:17:04.077819+00:00",
+      "source_date": "2026-11-20T05:46:55+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6497132.html",
+      "title": "谷歌的 Gemini 4 Neon，综合能力到底强不强？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-20T07:17:04.077837+00:00",
+      "source_date": "2026-11-20T03:42:39+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6497117.html",
+      "title": "DeepSeek限额：免费用户成了AGI的“拦路虎”？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-20T07:17:04.077853+00:00",
+      "source_date": "2026-11-20T03:20:04+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@balqisandi00/vendra-ai-crm-merancang-crm-berbasis-ai-untuk-umkm-cokelat-lokal-product-case-study-e9654ae37f9a?source=rss------product_design-5",
+      "title": "Vendra AI CRM: Merancang CRM Berbasis AI untuk UMKM Cokelat Lokal | PRODUCT CASE STUDY",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-11-20T07:19:17.933426+00:00",
+      "source_date": "2026-11-20T03:51:24+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/19/rimowa-x-rockstar-games-gta-vi-case-features-custom-ps5-console-its-controllers-and-the-game-inside/?utm_source=rss&utm_medium=rss&utm_campaign=rimowa-x-rockstar-games-gta-vi-case-features-custom-ps5-console-its-controllers-and-the-game-inside",
+      "title": "RIMOWA x Rockstar Games GTA VI case features custom PS5 console, its controllers and the game inside",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-20T07:20:53.780350+00:00",
+      "source_date": "2026-11-19T21:30:28+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6497266.html",
+      "title": "张一鸣的社交梦，藏在豆包里？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-20T07:20:53.780388+00:00",
+      "source_date": "2026-11-20T05:44:56+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@itcroc/packaging-is-often-the-first-physical-experience-of-your-brand-5e053223e101?source=rss------product_design-5",
+      "title": "Packaging Is Often the First Physical Experience of Your Brand",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-11-20T07:22:10.300407+00:00",
+      "source_date": "2026-11-20T03:35:44+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+      "title": "Google is putting AI chats right on the homepage",
+      "source": "The Verge Design",
+      "language": "en",
+      "published_at": "2026-11-20T07:22:48.616712+00:00",
+      "source_date": "2026-11-19T20:14:34+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.yankodesign.com/2026/11/18/kettals-area-tables-hide-office-wiring-inside-sculptural-legs/?utm_source=rss&utm_medium=rss&utm_campaign=kettals-area-tables-hide-office-wiring-inside-sculptural-legs",
       "title": "Kettal 的区域桌将办公室布线隐藏在雕塑腿内",
       "source": "Yanko Design",
@@ -17819,186 +17999,6 @@
       "language": "en",
       "published_at": "2026-07-30T03:23:41.869985+00:00",
       "source_date": "2026-07-29T10:00:14+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://uxdesign.cc/the-ux-of-contrast-what-indika-taught-me-about-designing-intentional-contradiction-c880e9eaf084?source=rss----138adf9c44c---4",
-      "title": "对比的用户体验：Indika 游戏设计的经验教训",
-      "source": "UX Collective",
-      "language": "en",
-      "published_at": "2026-07-30T03:23:45.629188+00:00",
-      "source_date": "2026-07-29T21:57:08+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/share/6437181.html",
-      "title": "Anthropic 第一个技术型 PM 最新访谈：现在真正管用的东西叫 evals",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-30T03:23:45.629237+00:00",
-      "source_date": "2026-07-29T14:17:58+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
-      "title": "人工智能时代数字设计的牛市与熊市案例",
-      "source": "Smashing Magazine",
-      "language": "en",
-      "published_at": "2026-07-30T03:23:48.465947+00:00",
-      "source_date": "2026-07-29T13:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/share/6436634.html",
-      "title": "当“人”在算法中消失：从携程51.79亿重罚，看产品体验的“失温”与“重塑”",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-30T03:23:48.466028+00:00",
-      "source_date": "2026-07-30T01:31:09+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6436717.html",
-      "title": "搭建工作大脑：我是如何把产品工作托管给AI的",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-30T03:23:48.466055+00:00",
-      "source_date": "2026-07-30T01:49:13+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1181849/caju-gong-yu-coda-arquitetura",
-      "title": "Caju 公寓 / CODA Arquitetura",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-30T03:23:49.051024+00:00",
-      "source_date": "2026-07-29T17:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1181666/wpp-headquarters-mizal-eller-plus-eller-architekten-gmbh",
-      "title": "WPP 总部 Mizal / Eller + Eller Architekten GmbH",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-30T03:23:50.850821+00:00",
-      "source_date": "2026-07-29T10:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1181785/shenzhen-natural-history-museum-designed-by-3xn-b-plus-h-architects-and-zhubo-opens-in-china",
-      "title": "由 3XN、B+H Architects 和 Zhubo 设计的深圳自然历史博物馆在中国开幕",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-30T03:23:53.002239+00:00",
-      "source_date": "2026-07-29T04:30:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1181750/redhill-early-learning-centre-hubo-studio",
-      "title": "红山早教中心 / Hubo Studio",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-30T03:23:53.224398+00:00",
-      "source_date": "2026-07-30T07:00:00+00:00",
-      "full_text": false
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1181802/ju-chi-wu-francesco-pierazzi-architects",
-      "title": "锯齿屋 / Francesco Pierazzi Architects",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-30T03:23:53.224444+00:00",
-      "source_date": "2026-07-30T06:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/design/sutyo-smart-sunglasses/",
-      "title": "Sutyo 的外形第一太阳镜只需轻轻一划即可改变镜片颜色和色调",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-29T03:33:46.520023+00:00",
-      "source_date": "2026-07-28T10:00:23+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6435731.html",
-      "title": "设计师与产品经理：AI界面语义走查指南",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-29T03:33:46.520068+00:00",
-      "source_date": "2026-07-29T00:48:12+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/readers/pollennav-mobile-app-city-routes-allergies-yani-shi/",
-      "title": "PollenNav 移动应用程序根据您可以呼吸的内容绘制城市地图，而不仅仅是您可以步行的地方",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-29T03:33:49.019479+00:00",
-      "source_date": "2026-07-28T22:20:19+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/black-asphalt-birch-plywood-compact-retreat-czech-barn-facha-architekti/",
-      "title": "捷克谷仓内的黑色沥青和桦木胶合板形状紧凑的撤退",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-29T03:33:49.888401+00:00",
-      "source_date": "2026-07-28T23:55:47+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6436539.html",
-      "title": "上线3个月、1200万DAU，WorkBuddy是怎么炼成的？",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-29T03:33:49.888444+00:00",
-      "source_date": "2026-07-28T11:08:22+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/bagel-inspired-details-flexible-furniture-seoul-bakery-open-interior-jojoworkshop-achime-bagel/",
-      "title": "受百吉饼启发的细节和灵活的家具塑造了首尔面包店的开放式内部空间",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-29T03:33:52.139210+00:00",
-      "source_date": "2026-07-28T15:45:07+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/design/fiberglass-shells-bronze-skeletal-forms-sculptural-light-furniture-collection-salina-federico-stefanovich/",
-      "title": "玻璃纤维贝壳和青铜骨架塑造雕塑灯光和家具系列",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-29T03:33:53.467216+00:00",
-      "source_date": "2026-07-29T02:10:52+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1181682/architecture-as-an-ongoing-conversation",
-      "title": "建筑作为一种持续的对话",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-07-29T03:33:55.090441+00:00",
-      "source_date": "2026-07-28T01:30:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6436318.html",
-      "title": "B 端系统接了大模型，却被真实业务疯狂打脸？复盘我的 3 个“反直觉”设计",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-29T03:33:55.090482+00:00",
-      "source_date": "2026-07-29T02:55:22+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1181707/zhi-ji-zhu-zhai-casa-tear-felipe-caboclo-arquitetura",
-      "title": "织机住宅 (Casa Tear) / Felipe Caboclo Arquitetura",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-29T03:33:55.090500+00:00",
-      "source_date": "2026-07-28T17:00:00+00:00",
       "full_text": true
     }
   ]
