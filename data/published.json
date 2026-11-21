@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.nngroup.com/articles/qual-research-methods/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "Qualitative User-Research Methods: An Overview",
+      "source": "Nielsen Norman Group",
+      "language": "en",
+      "published_at": "2026-11-21T07:01:48.987640+00:00",
+      "source_date": "2026-11-20T18:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@ilyasparag/ui-ux-design-trends-2027-ac6081aa7883?source=rss------product_design-5",
+      "title": "10 UI/UX Design Trends in 2027 Every Designer Must Know",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-11-21T07:03:06.009070+00:00",
+      "source_date": "2026-11-21T04:52:03+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.nngroup.com/articles/raw-data-vs-synthesized-data/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "Can AI Generate Good Designs from Raw User Data?",
+      "source": "Nielsen Norman Group",
+      "language": "en",
+      "published_at": "2026-11-21T07:05:01.339308+00:00",
+      "source_date": "2026-11-20T18:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6497702.html",
+      "title": "7 个小时 21 元，用 DeepSeek Harness 操控手机，复刻所有 APP！",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-21T07:05:01.339350+00:00",
+      "source_date": "2026-11-21T02:26:48+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/20/an-outdoor-gym-without-the-industrial-look-3d-printed-from-waste/?utm_source=rss&utm_medium=rss&utm_campaign=an-outdoor-gym-without-the-industrial-look-3d-printed-from-waste",
+      "title": "An Outdoor Gym Without the Industrial Look, 3D-Printed From Waste",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-21T07:06:37.845143+00:00",
+      "source_date": "2026-11-21T01:30:46+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/chuangye/6497541.html",
+      "title": "麦肯锡年度报告：32%的企业不买软件了？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-21T07:06:37.845179+00:00",
+      "source_date": "2026-11-20T09:07:40+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/20/the-7-best-designs-for-off-grid-luxury-living/?utm_source=rss&utm_medium=rss&utm_campaign=the-7-best-designs-for-off-grid-luxury-living",
+      "title": "The 7 Best Designs for Off-Grid Luxury Living",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-21T07:09:31.017709+00:00",
+      "source_date": "2026-11-20T12:40:59+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/20/ikeas-2027-color-of-the-year-adds-drama-without-a-full-makeover/?utm_source=rss&utm_medium=rss&utm_campaign=ikeas-2027-color-of-the-year-adds-drama-without-a-full-makeover",
+      "title": "IKEA’s 2027 Color of the Year Adds Drama Without a Full Makeover",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-21T07:11:07.381073+00:00",
+      "source_date": "2026-11-20T11:40:30+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6495024.html",
+      "title": "《悦嫂坊》，我专门为月嫂阿姨们开发了一款小程序",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-21T07:11:07.381120+00:00",
+      "source_date": "2026-11-21T03:12:07+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6497655.html",
+      "title": "微信又上线一个创作Agent，公众号文章可一键转视频",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-21T07:11:07.381148+00:00",
+      "source_date": "2026-11-21T01:51:04+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@aktapaneri/embrace-the-blur-ac6cfa6e4470?source=rss------product_design-5",
+      "title": "Embrace the Blur",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-11-21T07:12:04.653494+00:00",
+      "source_date": "2026-11-21T03:01:03+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/it/6496528.html",
+      "title": "《万妖》进影院，红果布局电视端，AI视频的下一站是大屏？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-21T07:12:04.653531+00:00",
+      "source_date": "2026-11-21T02:39:45+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/20/herbreath-makes-an-incense-stick-without-the-bamboo-skewer/?utm_source=rss&utm_medium=rss&utm_campaign=herbreath-makes-an-incense-stick-without-the-bamboo-skewer",
+      "title": "Herbreath Makes an Incense Stick Without the Bamboo Skewer",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-21T07:13:41.342022+00:00",
+      "source_date": "2026-11-20T15:20:22+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/20/insta360-toast-a-pocket-photo-frame-without-the-screen-glow/?utm_source=rss&utm_medium=rss&utm_campaign=insta360-toast-a-pocket-photo-frame-without-the-screen-glow",
+      "title": "Insta360 Toast: A Pocket Photo Frame Without the Screen Glow",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-21T07:15:17.419736+00:00",
+      "source_date": "2026-11-20T14:20:30+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6497657.html",
+      "title": "BBDO创始人布鲁斯·巴顿：22条“赋予品牌以灵魂”的布道法则",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-21T07:15:17.419774+00:00",
+      "source_date": "2026-11-21T06:14:15+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.theverge.com/tech/1038692/teenage-engineering-ep-bc-1-cd-compact-disc-player-broadcast-series-bluetooth",
+      "title": "Teenage Engineering’s first CD player puts the spinning disc on display",
+      "source": "The Verge Design",
+      "language": "en",
+      "published_at": "2026-11-21T07:15:55.874339+00:00",
+      "source_date": "2026-11-20T17:10:15+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@fsaint/a-product-just-for-one-you-or-me-1328fe90ccef?source=rss------product_design-5",
+      "title": "A Product Just for One (you or me)",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-11-21T07:17:12.910568+00:00",
+      "source_date": "2026-11-21T02:27:50+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6497514.html",
+      "title": "ChatGPT商家后台上线，要抢谁的饭碗？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-21T07:17:12.910603+00:00",
+      "source_date": "2026-11-20T09:06:08+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6497675.html",
+      "title": "京东把服务摆上货架，做的什么打算？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-21T07:17:12.910623+00:00",
+      "source_date": "2026-11-21T01:27:51+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@tinyterrorstoys/digitoonz-unveils-next-gen-global-animation-cgi-production-hub-in-noida-3610ed8ac787?source=rss------design-5",
+      "title": "Digitoonz Unveils Next-Gen Global Animation & CGI Production Hub in Noida",
+      "source": "Medium · Design",
+      "language": "en",
+      "published_at": "2026-11-21T07:17:51.310190+00:00",
+      "source_date": "2026-11-21T06:09:52+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.yankodesign.com/2026/11/19/this-removable-tiny-home-turns-a-utility-trailer-into-a-camper-without-giving-up-its-day-job/?utm_source=rss&utm_medium=rss&utm_campaign=this-removable-tiny-home-turns-a-utility-trailer-into-a-camper-without-giving-up-its-day-job",
       "title": "This Removable Tiny Home Turns a Utility Trailer Into a Camper Without Giving Up Its Day Job",
       "source": "Yanko Design",
@@ -17819,186 +17999,6 @@
       "language": "zh",
       "published_at": "2026-08-01T03:46:50.824168+00:00",
       "source_date": "2026-07-31T06:30:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1181872/mac-casa-cta-creative-architects",
-      "title": "Mac Casa / CTA |创意建筑师",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-08-01T03:46:52.073383+00:00",
-      "source_date": "2026-07-31T03:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1181483/the-avli-houses-ona-i-ona-architecture-and-design",
-      "title": "Avlí 住宅 / Ona i Ona Architecture and Design",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-08-01T03:46:52.851662+00:00",
-      "source_date": "2026-07-31T06:00:00+00:00",
-      "full_text": false
-    },
-    {
-      "url": "https://www.designboom.com/architecture/lantern-pavilion-recycled-brick-bar-bangkok-house-arvie-restaurant-pachapasa-studio/",
-      "title": "灯笼式凉亭和回收砖吧将曼谷房屋改造成 arvie 餐厅",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-31T03:47:21.013693+00:00",
-      "source_date": "2026-07-31T02:10:21+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/technology/3d-printed-cloak-infrared-cameras-redirected-heat/",
-      "title": "3D打印斗篷通过仔细重定向热量来欺骗红外相机",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-31T03:47:22.775698+00:00",
-      "source_date": "2026-07-30T20:45:12+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/art/studio-frank-havermans-500-year-old-dutch-house-timber-scaffolding-structures-besiendershuis-nijmegen/",
-      "title": "Frank Havermans工作室用木脚手架结构建造了一座拥有500年历史的荷兰房屋",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-31T03:47:33.931722+00:00",
-      "source_date": "2026-07-30T18:15:28+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/design/addi-saute-pan-geometry-octagonal-raw-aluminum-form-steka-mozambique/",
-      "title": "ADDI 通过经久耐用的八角形原铝形式重新思考炒锅的几何形状",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-31T03:47:36.154139+00:00",
-      "source_date": "2026-07-30T17:55:24+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/subconscious-spaces-invisible-energy-room-for-dreams-podcast/",
-      "title": "潜意识空间：追踪赋予建筑灵魂的无形能量",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-31T03:47:37.224841+00:00",
-      "source_date": "2026-07-30T10:00:16+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/rhythmic-timber-glass-pavilion-pecan-tree-canopy-argentina-pabellon-los-troncos-galetto-estudio/",
-      "title": "有节奏的木材和玻璃展馆在阿根廷山核桃树冠下展开",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-31T03:47:38.769203+00:00",
-      "source_date": "2026-07-30T20:35:57+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/share/6437617.html",
-      "title": "难用到令人发指的网站，是存心跟用户过不去吗？",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-31T03:47:38.769297+00:00",
-      "source_date": "2026-07-31T03:31:25+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/art/dan-ortiz-leizman-strings-monobloc-chair-playable-instrument-interview/",
-      "title": "dan ortiz leizman 在整体椅子上添加了琴弦，将其变成了可演奏的乐器",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-31T03:47:46.168348+00:00",
-      "source_date": "2026-07-30T10:50:30+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/share/6436690.html",
-      "title": "智能体的万维网：下一代网络生态的终局预言与人本回归",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-31T03:47:46.168395+00:00",
-      "source_date": "2026-07-31T01:48:45+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6435160.html",
-      "title": "Agent全自动是个坑，人工介入设计才是产品落地的关键",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-31T03:47:46.168424+00:00",
-      "source_date": "2026-07-31T01:04:05+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/share/6437924.html",
-      "title": "当 AI 把原型画完，产品经理的工作才刚开始",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-07-31T03:47:46.168452+00:00",
-      "source_date": "2026-07-30T15:04:19+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/art/plastic-400-year-ice-cream-contrasting-timelines-fleeting-pleasure-material-decay-joll/",
-      "title": "塑料冰淇淋追溯了转瞬即逝的快乐和物质腐烂的对比时间线",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-31T03:47:47.431474+00:00",
-      "source_date": "2026-07-30T07:45:20+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1181819/yi-hun-ning-tu-zhu-jiu-rui-shi-wan-biao-ke-la-ke-jian-she-ji-tuan-tan-lacma-da-wei-star-ge-fen-zhan-ting",
-      "title": "混凝土如何拥有“瑞士腕表”的精度？Clark Construction 解读 LACMA 大卫·格芬展馆的建造挑战",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-31T03:47:47.431521+00:00",
-      "source_date": "2026-07-30T07:30:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1181827/shi-yao-shi-yuan-xian-dai-zhu-yi-jian-zhu-jie-yu-hou-xian-dai-fan-feng-yu-xin-zhen-cheng-zhi-jian",
-      "title": "什么是元现代主义建筑 Metamodern Architecture？",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-07-31T03:47:47.431549+00:00",
-      "source_date": "2026-07-30T04:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/perforated-terracotta-screens-naq-architecture-breezy-vinh-long-house-vietnam/",
-      "title": "穿孔的赤土屏风为 NAQ 建筑事务所的通风长屋带来凉爽",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-30T03:23:39.287720+00:00",
-      "source_date": "2026-07-29T22:10:25+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/technology/vollebak-yellow-trench-coat-protective-rubber-fwahbl-jacket/",
-      "title": "vollebak 用防护橡胶制成的黄色风衣为末日做准备",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-30T03:23:40.325512+00:00",
-      "source_date": "2026-07-29T15:30:42+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/curved-curtain-modular-furniture-shanghai-interior-workshop-pop-up-atelier-siyu/",
-      "title": "弧形窗帘和模块化家具重塑上海室内工作室和快闪店",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-30T03:23:40.972545+00:00",
-      "source_date": "2026-07-29T14:15:34+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/design/habits-design-light-bites-tableware-synchronized-performance/",
-      "title": "习惯设计将用餐转变为同步灯光表演",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-07-30T03:23:41.869985+00:00",
-      "source_date": "2026-07-29T10:00:14+00:00",
       "full_text": true
     }
   ]
