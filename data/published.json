@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.woshipm.com/ai/6497881.html",
+      "title": "5大场景实测Kling Image 4.0，一句话直出电商长图+原生8K",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-22T06:38:11.397769+00:00",
+      "source_date": "2026-11-22T00:44:31+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/21/razers-carbon-fiber-mice-get-lighter-without-changing-shape/?utm_source=rss&utm_medium=rss&utm_campaign=razers-carbon-fiber-mice-get-lighter-without-changing-shape",
+      "title": "Razer’s Carbon Fiber Mice Get Lighter Without Changing Shape",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-22T06:39:26.208393+00:00",
+      "source_date": "2026-11-21T14:20:42+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/21/neewers-100w-ring-light-can-light-your-face-as-well-as-charge-up-to-3-phones/?utm_source=rss&utm_medium=rss&utm_campaign=neewers-100w-ring-light-can-light-your-face-as-well-as-charge-up-to-3-phones",
+      "title": "Neewer’s 100W ring light can light your face as well as charge up to 3 phones",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-22T06:41:01.953260+00:00",
+      "source_date": "2026-11-22T02:45:15+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@miwak.work/notes-on-kind-ux-from-a-solo-walk-in-calgary-c94eedfa5da8?source=rss------user_experience-5",
+      "title": "Notes on Kind UX from a Solo Walk in Calgary",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-11-22T06:43:34.930056+00:00",
+      "source_date": "2026-11-22T03:38:28+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@gloriaojo./stop-selling-ui-ux-design-start-communicating-the-problems-you-solve-a0294b810437?source=rss------product_design-5",
+      "title": "Stop Selling UI/UX Design. Start Communicating the Problems You Solve.",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-11-22T06:44:32.452116+00:00",
+      "source_date": "2026-11-21T16:30:59+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6497998.html",
+      "title": "实测即梦 AI 三大工作室：不会拍片？没关系，你也是导演了",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-22T06:44:32.452183+00:00",
+      "source_date": "2026-11-22T02:26:56+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/21/5-best-japanese-kitchen-designs-that-make-serving-dinner-part-of-the-experience/?utm_source=rss&utm_medium=rss&utm_campaign=5-best-japanese-kitchen-designs-that-make-serving-dinner-part-of-the-experience",
+      "title": "5 Best Japanese Kitchen Designs That Make Serving Dinner Part of the Experience",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-22T06:46:46.178676+00:00",
+      "source_date": "2026-11-22T00:30:34+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/chuangye/6497546.html",
+      "title": "三个月做出20万条广告，这家华人 AI 公司开始替商家管广告投放了",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-22T06:46:46.178716+00:00",
+      "source_date": "2026-11-22T05:32:13+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/21/this-handmade-bluetooth-speaker-hides-a-deadpan-face-behind-its-grille/?utm_source=rss&utm_medium=rss&utm_campaign=this-handmade-bluetooth-speaker-hides-a-deadpan-face-behind-its-grille",
+      "title": "This Handmade Bluetooth Speaker Hides a Deadpan Face Behind its Grille",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-22T06:48:21.802199+00:00",
+      "source_date": "2026-11-21T23:30:56+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6497894.html",
+      "title": "Grok Bot 就像 AI 版的企业微信：我一个人，带着一个 AI 运营部",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-22T06:48:21.802238+00:00",
+      "source_date": "2026-11-22T02:44:34+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@ikilic/latency-is-a-product-decision-9840e52e89f0?source=rss------product_design-5",
+      "title": "Latency Is a Product Decision",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-11-22T06:49:57.658969+00:00",
+      "source_date": "2026-11-21T18:07:14+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/21/this-magnetic-clipboard-gives-loose-notes-a-hardcover/?utm_source=rss&utm_medium=rss&utm_campaign=this-magnetic-clipboard-gives-loose-notes-a-hardcover",
+      "title": "This Magnetic Clipboard Gives Loose Notes a Hardcover",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-22T06:51:14.166762+00:00",
+      "source_date": "2026-11-21T18:20:27+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6497696.html",
+      "title": "左手AI创业、右手清华课业，WorkBuddy新功能帮了大忙",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-22T06:51:14.166800+00:00",
+      "source_date": "2026-11-21T08:23:21+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@123554124/why-i-stopped-rolling-ai-poster-typography-inside-the-prompt-and-how-to-budget-multi-model-68c15a47f000?source=rss------design-5",
+      "title": "Why I Stopped Rolling AI Poster Typography Inside the Prompt (and How to Budget Multi-Model…",
+      "source": "Medium · Design",
+      "language": "en",
+      "published_at": "2026-11-22T06:52:30.372266+00:00",
+      "source_date": "2026-11-22T06:04:09+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/21/easysmxs-x20-pro-controller-charges-through-its-usb-receiver/?utm_source=rss&utm_medium=rss&utm_campaign=easysmxs-x20-pro-controller-charges-through-its-usb-receiver",
+      "title": "EasySMX’s X20 Pro Controller Charges Through Its USB Receiver",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-22T06:54:06.021797+00:00",
+      "source_date": "2026-11-21T20:15:45+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6498018.html",
+      "title": "AI来了，人还剩什么：12条不完整关于工作、价值、品牌和商业思考",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-22T06:54:06.021834+00:00",
+      "source_date": "2026-11-22T04:17:09+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/21/8-travel-gadgets-that-make-being-stuck-at-the-airport-less-miserable/?utm_source=rss&utm_medium=rss&utm_campaign=8-travel-gadgets-that-make-being-stuck-at-the-airport-less-miserable",
+      "title": "8 Travel Gadgets That Make Being Stuck at the Airport Less Miserable",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-22T06:57:17.600192+00:00",
+      "source_date": "2026-11-21T12:40:47+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6497898.html",
+      "title": "AI 硬件的牛市结束了",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-22T06:57:17.600236+00:00",
+      "source_date": "2026-11-22T03:44:35+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://sspai.com/post/119191",
+      "title": "给 Apple 的 2026 年打分，请你一起参与",
+      "source": "少数派",
+      "language": "zh",
+      "published_at": "2026-11-22T06:57:17.600255+00:00",
+      "source_date": "2026-11-19T10:25:05+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.fastcompany.com/91574333/designing-for-the-edges-improves-the-center?utm_source=postup&utm_medium=email&utm_campaign=design&position=10&partner=newsletter&campaign_date=11222026",
+      "title": "Designing for the edges improves the center",
+      "source": "Fast Company Design",
+      "language": "en",
+      "published_at": "2026-11-22T06:57:55.615068+00:00",
+      "source_date": "2026-07-17T12:00:00+00:00",
+      "full_text": false
+    },
+    {
       "url": "https://www.nngroup.com/articles/qual-research-methods/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
       "title": "Qualitative User-Research Methods: An Overview",
       "source": "Nielsen Norman Group",
@@ -17819,186 +17999,6 @@
       "language": "en",
       "published_at": "2026-08-02T03:50:01.416785+00:00",
       "source_date": "2026-07-31T23:55:22+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://medium.com/@ayushramawat29/the-product-design-skill-most-ai-builders-skip-designing-what-happens-next-c32708e94569?source=rss------product_design-5",
-      "title": "大多数人工智能构建者都会跳过的产品设计技能：设计接下来会发生什么",
-      "source": "Medium · Product Design",
-      "language": "en",
-      "published_at": "2026-08-02T03:50:06.170191+00:00",
-      "source_date": "2026-08-01T21:06:53+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://medium.com/@ayushramawat29/the-product-design-skill-most-ai-builders-skip-designing-what-happens-next-c32708e94569?source=rss------user_experience-5",
-      "title": "大多数人工智能构建者都会跳过的产品设计技能：设计接下来会发生什么",
-      "source": "Medium · User Experience",
-      "language": "en",
-      "published_at": "2026-08-02T03:50:07.234814+00:00",
-      "source_date": "2026-08-01T21:06:53+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1182031/ma-li-mo-yi-liao-da-lou-asnow-design-and-construct",
-      "title": "马里万医疗大楼 / AsNow Design & Construct",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-08-02T03:50:07.234845+00:00",
-      "source_date": "2026-08-01T21:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/share/6438539.html",
-      "title": "2026 开源鸿蒙进入下半场，最大机遇：嵌入式 AI 硬件开发",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-08-02T03:50:07.234868+00:00",
-      "source_date": "2026-08-01T05:53:07+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1181555/where-is-the-border-the-role-of-architecture-in-controlling-mobility",
-      "title": "边界在哪里？架构如何控制和重新构想移动性",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-08-02T03:50:17.470527+00:00",
-      "source_date": "2026-08-01T07:30:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1181895/n-plus-ka-pei-ting-horibe-associates",
-      "title": "N+ 咖啡厅 / Horibe Associates",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-08-02T03:50:17.470575+00:00",
-      "source_date": "2026-08-01T17:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1181891/mac-casa-zhu-zhai-cta-creative-architects",
-      "title": "Mac Home 住宅 / CTA |创意建筑师",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-08-02T03:50:18.433010+00:00",
-      "source_date": "2026-07-31T03:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1181746/casa-mezcal-barde-plus-vanvoltt",
-      "title": "梅斯卡尔之家 / Barde + vanVoltt",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-08-02T03:50:20.100498+00:00",
-      "source_date": "2026-07-31T19:00:00+00:00",
-      "full_text": false
-    },
-    {
-      "url": "https://www.nngroup.com/articles/no-new-name-ux/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "没有新名称取代“UX”",
-      "source": "Nielsen Norman Group",
-      "language": "en",
-      "published_at": "2026-08-01T03:46:38.144027+00:00",
-      "source_date": "2026-07-31T17:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.nngroup.com/articles/mentorship/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "为什么需要指导以及如何正确实施",
-      "source": "Nielsen Norman Group",
-      "language": "en",
-      "published_at": "2026-08-01T03:46:42.398425+00:00",
-      "source_date": "2026-07-31T17:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/readers/2s-design-horse-inhalation-mask-veterinary-technology-natural-form-language-equihero/",
-      "title": "2s.design 的马吸入面罩将兽医技术与自然形式语言融为一体",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-08-01T03:46:43.240541+00:00",
-      "source_date": "2026-08-01T02:10:30+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/ukyo-x-cafe-listening-bar-co-working-restored-historic-interior-romania-in-still/",
-      "title": "ukyo X 在罗马尼亚经过修复的历史悠久的内部空间中融合了咖啡馆、聆听酒吧和联合办公空间",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-08-01T03:46:44.153293+00:00",
-      "source_date": "2026-07-31T20:15:54+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/it/6438353.html",
-      "title": "起薪30K的高薪AI产品经理，0经验如何快速转型入行？",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-08-01T03:46:44.153342+00:00",
-      "source_date": "2026-08-01T01:08:40+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1181936/latin-america-in-focus-this-month-in-architecture-cultural-institutions-heritage-and-resilience",
-      "title": "拉丁美洲聚焦：本月建筑、文化机构、遗产和复原力",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-08-01T03:46:46.926074+00:00",
-      "source_date": "2026-07-31T06:30:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://uxdesign.cc/creative-technologists-are-moving-from-the-margins-to-the-center-4fcfaa3cf2f6?source=rss----138adf9c44c---4",
-      "title": "创意技术人员正在从边缘走向中心",
-      "source": "UX Collective",
-      "language": "en",
-      "published_at": "2026-08-01T03:46:50.824024+00:00",
-      "source_date": "2026-08-01T02:44:37+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/share/6438503.html",
-      "title": "Cursor零代码做页面，设计入门：从盲说改错到100%还原",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-08-01T03:46:50.824072+00:00",
-      "source_date": "2026-08-01T03:11:25+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6437579.html",
-      "title": "模型一开源，你的 AI 产品可能一夜之间没有壁垒",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-08-01T03:46:50.824097+00:00",
-      "source_date": "2026-08-01T02:28:03+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6436781.html",
-      "title": "拆了腾讯WorkBuddy，我发现了AI产品三个值得抄的设计",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-08-01T03:46:50.824121+00:00",
-      "source_date": "2026-07-31T08:48:54+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1181991/coastal-mhk-2009-2014nian-jian-zhu-zuo-pin",
-      "title": "Coastal MHK 2009-2014年建筑作品",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-08-01T03:46:50.824144+00:00",
-      "source_date": "2026-07-31T09:10:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1181948/ju-jiao-la-ding-mei-zhou-ben-yue-jian-zhu-wen-hua-ji-gou-yi-chan-yu-ren-xing",
-      "title": "聚焦拉丁美洲：本月建筑、文化机构、遗产与韧性",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-08-01T03:46:50.824168+00:00",
-      "source_date": "2026-07-31T06:30:00+00:00",
       "full_text": true
     }
   ]
