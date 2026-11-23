@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://uxdesign.cc/the-attack-of-the-giant-ai-design-slop-monster-a-survivors-guide-55f5918f78f4?source=rss----138adf9c44c---4",
+      "title": "The attack of the giant AI design slop monster: a survivor’s guide",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-11-23T07:27:24.196655+00:00",
+      "source_date": "2026-11-22T11:36:59+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/22/espresso-without-a-plug-the-wind-up-coffee-juicer-concept/?utm_source=rss&utm_medium=rss&utm_campaign=espresso-without-a-plug-the-wind-up-coffee-juicer-concept",
+      "title": "Espresso Without a Plug: The Wind-Up Coffee Juicer Concept",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-23T07:29:00.454807+00:00",
+      "source_date": "2026-11-22T20:15:18+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6498539.html",
+      "title": "产品经理的 2026 年度总结，怎样写得有价值",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-23T07:29:00.454847+00:00",
+      "source_date": "2026-11-23T07:04:40+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/22/vw-id-buzz-beach-sleeps-two-without-a-permanent-conversion/?utm_source=rss&utm_medium=rss&utm_campaign=vw-id-buzz-beach-sleeps-two-without-a-permanent-conversion",
+      "title": "大众汽车 ID。巴斯海滩 (Buzz Beach) 可供两人入住，无需永久改建",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-23T07:30:36.088989+00:00",
+      "source_date": "2026-11-22T18:20:59+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@vaisakhmv/the-laws-of-ux-every-designer-should-know-d779b3140478?source=rss------product_design-5",
+      "title": "每个设计师都应该知道的用户体验法则",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-11-23T07:36:01.411416+00:00",
+      "source_date": "2026-11-23T06:59:57+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6498395.html",
+      "title": "OiiOii Motion实测：11分钟生成财报动画，13分钟做出科普视频",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-23T07:36:01.411453+00:00",
+      "source_date": "2026-11-23T06:49:56+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6498479.html",
+      "title": "转FDE之前做个可验收的小项目，是最低成本的试错方式",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-23T07:36:01.411471+00:00",
+      "source_date": "2026-11-23T06:51:37+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/lessons-from-3d-scanning-st-johns-co-cathedral-700911d61cfe?source=rss----138adf9c44c---4",
+      "title": "Lessons from 3D scanning St John’s Co-Cathedral",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-11-23T07:36:39.556746+00:00",
+      "source_date": "2026-11-22T23:18:37+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6498399.html",
+      "title": "2027 下个 AI 爆发点：Agent 平台",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-23T07:36:39.556794+00:00",
+      "source_date": "2026-11-23T06:58:28+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/22/a-camp-kitchen-without-the-clutter-packed-into-a-12-inch-cube/?utm_source=rss&utm_medium=rss&utm_campaign=a-camp-kitchen-without-the-clutter-packed-into-a-12-inch-cube",
+      "title": "A Camp Kitchen Without the Clutter, Packed Into a 12-Inch Cube",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-23T07:38:15.177694+00:00",
+      "source_date": "2026-11-22T16:20:12+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/22/5-best-cabin-accessories-that-add-comfort-without-taking-over-the-room/?utm_source=rss&utm_medium=rss&utm_campaign=5-best-cabin-accessories-that-add-comfort-without-taking-over-the-room",
+      "title": "5 Best Cabin Accessories That Add Comfort Without Taking Over the Room",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-23T07:40:29.373468+00:00",
+      "source_date": "2026-11-23T00:30:34+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@applebin/i-set-out-to-build-a-blog-with-ai-three-months-later-it-was-running-a-caf%C3%A9-0545769ce4bd?source=rss------product_design-5",
+      "title": "I set out to build a blog with AI. Three months later it was running a café.",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-11-23T07:42:05.026469+00:00",
+      "source_date": "2026-11-23T06:38:33+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/marketing/6497530.html",
+      "title": "AI营销实战2：AI时代的消费者：一个正在被重塑的物种",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-23T07:42:05.026504+00:00",
+      "source_date": "2026-11-23T06:21:27+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/21/nc-band-2-tracks-your-cycle-overnight-without-a-screen/?utm_source=rss&utm_medium=rss&utm_campaign=nc-band-2-tracks-your-cycle-overnight-without-a-screen",
+      "title": "NC Band 2 Tracks Your Cycle Overnight Without a Screen",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-23T07:43:40.407708+00:00",
+      "source_date": "2026-11-21T21:45:19+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6498551.html",
+      "title": "FDE看现场：用户说的和做的，为什么总是不一样",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-23T07:43:40.407778+00:00",
+      "source_date": "2026-11-23T07:06:50+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@nagarro/designing-products-for-people-and-agents-e978e14cf135?source=rss------product_design-5",
+      "title": "Designing products for people and agents",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-11-23T07:44:18.722656+00:00",
+      "source_date": "2026-11-23T06:59:44+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6498475.html",
+      "title": "WorkBuddy玩命更新，一个月连上十大新功能",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-23T07:44:18.722692+00:00",
+      "source_date": "2026-11-23T06:55:10+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6498387.html",
+      "title": "不用抽卡也能做绘本动画和科普视频！超实用Skill分享。",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-23T07:44:18.722713+00:00",
+      "source_date": "2026-11-23T06:46:36+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@palashhjain22/from-preventing-failure-to-owning-it-26316a7f606f?source=rss------user_experience-5",
+      "title": "From preventing failure to owning it",
+      "source": "Medium · User Experience",
+      "language": "en",
+      "published_at": "2026-11-23T07:45:16.243853+00:00",
+      "source_date": "2026-11-23T04:50:37+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.fastcompany.com/91574333/designing-for-the-edges-improves-the-center?utm_source=postup&utm_medium=email&utm_campaign=design&position=10&partner=newsletter&campaign_date=11232026",
+      "title": "Designing for the edges improves the center",
+      "source": "Fast Company Design",
+      "language": "en",
+      "published_at": "2026-11-23T07:45:54.572427+00:00",
+      "source_date": "2026-07-17T12:00:00+00:00",
+      "full_text": false
+    },
+    {
       "url": "https://www.woshipm.com/ai/6497881.html",
       "title": "5大场景实测Kling Image 4.0，一句话直出电商长图+原生8K",
       "source": "人人都是产品经理",
@@ -17819,186 +17999,6 @@
       "language": "zh",
       "published_at": "2026-08-03T03:50:52.608643+00:00",
       "source_date": "2026-08-03T02:07:08+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6438322.html",
-      "title": "AI办公没有超级入口",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-08-03T03:50:52.608673+00:00",
-      "source_date": "2026-08-03T02:19:41+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6438276.html",
-      "title": "AI持续学习火了：下一代智能体拼的不是“会回答”，而是“会积累”",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-08-03T03:50:52.608703+00:00",
-      "source_date": "2026-08-03T02:17:54+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://medium.com/@ayushramawat29/your-first-ai-built-pull-request-a-safe-workflow-for-designers-2f296a942c39?source=rss------product_design-5",
-      "title": "您的第一个人工智能构建的拉取请求：设计师的安全工作流程",
-      "source": "Medium · Product Design",
-      "language": "en",
-      "published_at": "2026-08-03T03:50:55.270386+00:00",
-      "source_date": "2026-08-02T18:59:22+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://medium.com/@Dhara/why-do-we-carry-an-almost-empty-water-bottle-all-day-a8d20c4a056b?source=rss------product_design-5",
-      "title": "为什么我们整天带着几乎空的水瓶？",
-      "source": "Medium · Product Design",
-      "language": "en",
-      "published_at": "2026-08-03T03:50:58.071265+00:00",
-      "source_date": "2026-08-02T21:30:20+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1182010/xun-huan-jing-ji-chuang-xin-zhong-xin-ciec-liu-dong-hua-yuan-gassz-arquitectos",
-      "title": "循环经济创新中心（CIEC）“流动”花园 / gaSSz arquitectos",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-08-03T03:50:58.071327+00:00",
-      "source_date": "2026-08-03T10:00:00+00:00",
-      "full_text": false
-    },
-    {
-      "url": "https://www.designboom.com/design/paivi-raivios-basic-forms-barbican-london-movable-urban-playground/",
-      "title": "päivi raivio 的基本形式将瓮城变成了一个可移动的城市游乐场",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-08-03T03:50:58.455197+00:00",
-      "source_date": "2026-08-02T15:27:10+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1181822/jing-mian-jia-ju-zhi-jia-set-architects",
-      "title": "镜面家具之家 / Set Architects",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-08-03T03:50:58.455238+00:00",
-      "source_date": "2026-08-03T06:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1181834/the-gigur-visitor-center-in-iceland-sp-r-int-studio-plus-nissen-richards-studio",
-      "title": "冰岛吉古尔游客中心 / SP(R)INT STUDIO + Nissen Richards Studio",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-08-03T03:51:00.095662+00:00",
-      "source_date": "2026-08-02T10:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/art/jewel-covered-apple-frozen-clocks-62-proposals-high-line-sculpture/",
-      "title": "从镶满珠宝的苹果到冰冻时钟：高线公园下一个雕塑的 62 个创意",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-08-02T03:49:04.372615+00:00",
-      "source_date": "2026-07-31T16:36:07+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/art/radar-exhibitions-august/",
-      "title": "设计邦雷达：今年八月在世界各地举办的展览",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-08-02T03:49:16.046583+00:00",
-      "source_date": "2026-08-01T07:45:39+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/share/6438526.html",
-      "title": "Decagon亲述：从2人到1000人，AI客服创业公司是怎么起步的",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-08-02T03:49:16.046622+00:00",
-      "source_date": "2026-08-01T04:08:53+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://uxdesign.cc/rethinking-friction-in-an-ai-world-8f361d62ab5e?source=rss----138adf9c44c---4",
-      "title": "重新思考人工智能世界中的摩擦",
-      "source": "UX Collective",
-      "language": "en",
-      "published_at": "2026-08-02T03:49:22.714874+00:00",
-      "source_date": "2026-07-30T22:33:38+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1181985/coastal-mhk-architecture-works-from-2009-2014",
-      "title": "2009-2014年沿海MHK建筑工程",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-08-02T03:49:25.635595+00:00",
-      "source_date": "2026-07-31T09:10:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/ippolito-pestellini-laparelli-erica-petrillo-2050-parking-lot-essay/",
-      "title": "2050+ 的 ippolito pestellini laparelli 和 erica petrillo 谈“忘记自己的停车场”",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-08-02T03:49:41.649069+00:00",
-      "source_date": "2026-08-01T14:15:35+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://uxdesign.cc/jakobs-law-how-to-apply-it-as-ai-collapses-surfaces-into-one-chat-box-d8ebc9a727db?source=rss----138adf9c44c---4",
-      "title": "雅各布定律：当人工智能将表面折叠成一个聊天框时如何应用它",
-      "source": "UX Collective",
-      "language": "en",
-      "published_at": "2026-08-02T03:49:53.754341+00:00",
-      "source_date": "2026-07-30T22:36:31+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/technology/lightfoot-solar-cargo-scooter-sunlight-everyday-errands/",
-      "title": "Lightfoot 太阳能货运踏板车可储存阳光以供日常事务使用",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-08-02T03:49:55.715496+00:00",
-      "source_date": "2026-07-31T09:57:47+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1018806/luxe-lakes-cpi-island-vari-architects",
-      "title": "奢华湖 CPI 岛 / Vari Architects",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-08-02T03:49:56.666434+00:00",
-      "source_date": "2026-08-01T02:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6438529.html",
-      "title": "AI互联网日报：DeepSeek-V4-Flash打响成本战、美团上线等灯停表、小米汽车交付超3万辆",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-08-02T03:49:56.666477+00:00",
-      "source_date": "2026-08-01T05:14:22+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1181882/cafe-n-plus-horibe-associates",
-      "title": "N+ 咖啡馆 / Horibe Associates",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-08-02T03:49:58.654023+00:00",
-      "source_date": "2026-08-01T17:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/art/steel-hanji-porous-vessel-memory-cold-war-bunker-seoul-checksy-choi-eotieum-the-ply-of-longing/",
-      "title": "首尔冷战地堡内的钢铁和韩纸编织成多孔的记忆容器",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-08-02T03:50:01.416785+00:00",
-      "source_date": "2026-07-31T23:55:22+00:00",
       "full_text": true
     }
   ]
