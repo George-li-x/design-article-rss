@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://uxdesign.cc/futures-thinking-as-an-everyday-design-practice-465146ee6db8?source=rss----138adf9c44c---4",
+      "title": "将未来思维作为日常设计实践",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-11-25T08:22:31.382463+00:00",
+      "source_date": "2026-11-24T22:16:19+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/24/mar-go-wants-to-replace-your-hiking-pack-kayak-and-swim-bag-with-one-object/?utm_source=rss&utm_medium=rss&utm_campaign=mar-go-wants-to-replace-your-hiking-pack-kayak-and-swim-bag-with-one-object",
+      "title": "Mar-Go 希望用一件物品取代您的远足包、皮划艇和游泳包",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-25T08:23:49.456747+00:00",
+      "source_date": "2026-11-24T22:30:57+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/24/this-3d-printed-4-8l-gaming-pc-fits-inside-a-laptop-bag-without-sacrificing-desktop-hardware/?utm_source=rss&utm_medium=rss&utm_campaign=this-3d-printed-4-8l-gaming-pc-fits-inside-a-laptop-bag-without-sacrificing-desktop-hardware",
+      "title": "这款 3D 打印 4.8L 游戏电脑可放入笔记本电脑包中，而不会牺牲桌面硬件",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-25T08:25:24.734975+00:00",
+      "source_date": "2026-11-24T19:20:38+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6499931.html",
+      "title": "小微和小豆：personal Agent并不性感，但是吃的好！",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-25T08:25:24.735016+00:00",
+      "source_date": "2026-11-25T06:42:29+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6500095.html",
+      "title": "国内Personal Agent战火，被突袭上线的小豆点燃",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-25T08:25:24.735042+00:00",
+      "source_date": "2026-11-25T07:11:41+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/24/5-best-edc-designs-of-november-2026/?utm_source=rss&utm_medium=rss&utm_campaign=5-best-edc-designs-of-november-2026",
+      "title": "2026 年 11 月 5 款最佳 EDC 设计",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-25T08:27:39.282602+00:00",
+      "source_date": "2026-11-24T12:40:44+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@purinut.p9/when-ai-helps-you-prototype-explore-ideas-not-just-take-shortcuts-e28e9acda09f?source=rss------product_design-5",
+      "title": "当人工智能帮助你制作原型时：探索想法，而不仅仅是走捷径",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-11-25T08:30:50.982095+00:00",
+      "source_date": "2026-11-25T06:01:01+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6500119.html",
+      "title": "AI热到发烫，阿里紧急降温",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-25T08:30:50.982135+00:00",
+      "source_date": "2026-11-25T05:55:19+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/24/hisense-u6sf-pro-brings-miniled-picture-and-built-in-bass-to-movie-night/?utm_source=rss&utm_medium=rss&utm_campaign=hisense-u6sf-pro-brings-miniled-picture-and-built-in-bass-to-movie-night",
+      "title": "海信 U6SF Pro 为电影之夜带来 MiniLED 画面和内置低音",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-25T08:32:45.870888+00:00",
+      "source_date": "2026-11-25T02:45:01+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6500167.html",
+      "title": "MiniMax 的密码研究，推翻多项加密算法",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-25T08:32:45.870929+00:00",
+      "source_date": "2026-11-25T07:32:23+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/24/mater-turns-coffee-roasting-waste-into-a-replacement-top-for-standing-desks/?utm_source=rss&utm_medium=rss&utm_campaign=mater-turns-coffee-roasting-waste-into-a-replacement-top-for-standing-desks",
+      "title": "Mater 将咖啡烘焙废物变成站立式办公桌的替换桌面",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-25T08:34:22.502785+00:00",
+      "source_date": "2026-11-24T18:20:59+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6500173.html",
+      "title": "字节的“豆包宇宙”再扩容：推出门店AI经营一体机“豆糕”",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-25T08:34:22.502830+00:00",
+      "source_date": "2026-11-25T07:35:59+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/24/kfc-spains-replacement-disc-fried-chicken-for-dedicated-gta-6-fans-who-miss-physical-media/?utm_source=rss&utm_medium=rss&utm_campaign=kfc-spains-replacement-disc-fried-chicken-for-dedicated-gta-6-fans-who-miss-physical-media",
+      "title": "西班牙肯德基为怀念实体媒体的 GTA 6 忠实粉丝推出替换盘炸鸡",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-25T08:35:38.829904+00:00",
+      "source_date": "2026-11-24T16:20:09+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@graphicdigits/11-packaging-design-mistakes-that-make-good-products-harder-to-sell-0bb130dc6b07?source=rss------product_design-5",
+      "title": "导致好产品更难销售的 11 个包装设计错误",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-11-25T08:38:51.342833+00:00",
+      "source_date": "2026-11-25T07:04:58+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@thebrilliantwriter/i-found-an-ai-tool-that-turns-ordinary-product-photos-into-professional-marketing-content-3c12154ba570?source=rss------product_design-5",
+      "title": "我发现了一个人工智能工具，可以将普通产品照片变成专业的营销内容",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-11-25T08:40:26.796324+00:00",
+      "source_date": "2026-11-25T06:06:17+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@graphicdigits/print-ready-packaging-artwork-12-things-to-check-before-production-8321b3b5ba7c?source=rss------product_design-5",
+      "title": "可打印的包装艺术品：生产前需要检查的 12 件事",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-11-25T08:43:38.359976+00:00",
+      "source_date": "2026-11-25T06:03:10+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@thebrilliantwriter/i-found-an-ai-tool-that-turns-ordinary-product-photos-into-professional-marketing-content-3c12154ba570?source=rss------design-5",
+      "title": "I Found an AI Tool That Turns Ordinary Product Photos Into Professional Marketing Content",
+      "source": "Medium · Design",
+      "language": "en",
+      "published_at": "2026-11-25T08:45:14.588856+00:00",
+      "source_date": "2026-11-25T06:06:17+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/chuangye/6499230.html",
+      "title": "一个00后动漫迷，在卧室里用一张显卡创业，做到了2100万美元年化收入",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-25T08:45:14.588907+00:00",
+      "source_date": "2026-11-25T07:37:16+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6499928.html",
+      "title": "27年，云连锁该怎么做",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-25T08:45:14.588934+00:00",
+      "source_date": "2026-11-25T06:41:50+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://sspai.com/post/118791",
+      "title": "怀旧手记｜Palm Pre：内藏「划时代」系统的手机",
+      "source": "少数派",
+      "language": "zh",
+      "published_at": "2026-11-25T08:45:14.588965+00:00",
+      "source_date": "2026-11-25T03:07:41+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://medium.com/@itcroc/motion-design-is-more-than-making-interfaces-move-ce8a349aa701?source=rss------product_design-5",
       "title": "Motion Design Is More Than Making Interfaces Move",
       "source": "Medium · Product Design",
@@ -17819,186 +17999,6 @@
       "language": "en",
       "published_at": "2026-08-05T03:28:32.379818+00:00",
       "source_date": "2026-08-04T10:15:12+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1181850/cultural-center-la-tuilerie-in-limoux-ferrier-marchetti-studio",
-      "title": "利穆 La Tuilerie 文化中心 / Ferrier Marchetti Studio",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-08-05T03:28:34.246484+00:00",
-      "source_date": "2026-08-04T10:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1182175/casa-tertulia-marcela-carranza-arquitectura",
-      "title": "特图利亚住宅 / Marcela Carranza Arquitectura",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-08-05T03:28:34.902299+00:00",
-      "source_date": "2026-08-04T15:00:00+00:00",
-      "full_text": false
-    },
-    {
-      "url": "https://www.archdaily.com/1181928/granada-echo-park-granada-form",
-      "title": "格拉纳达回声公园别墅 / Granada Form",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-08-05T03:28:35.792694+00:00",
-      "source_date": "2026-08-04T12:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/share/6440384.html",
-      "title": "阿里太狠！刚上线「千问办公」，又开始内测「万有无界」，实测后结果很惊人",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-08-05T03:28:35.792745+00:00",
-      "source_date": "2026-08-04T12:49:44+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/share/6440337.html",
-      "title": "一套能用的合同管理系统，应该具备哪些基本功能？",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-08-05T03:28:35.792773+00:00",
-      "source_date": "2026-08-05T02:37:25+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1182190/tamarindo-apartment-estudio-minke",
-      "title": "塔马林多公寓 / Studio Minke",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-08-05T03:28:38.391337+00:00",
-      "source_date": "2026-08-04T13:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1182191/ta-ma-lin-duo-gong-yu-estudio-minke",
-      "title": "塔马林多公寓 / Estúdio Minke",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-08-05T03:28:38.391382+00:00",
-      "source_date": "2026-08-04T13:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1182101/granada-echo-park-zhu-zhai-granada-form",
-      "title": "格拉纳达回声公园住宅 / 格拉纳达表格",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-08-05T03:28:39.013599+00:00",
-      "source_date": "2026-08-04T12:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6439802.html",
-      "title": "前端与AI工程师：把语义约束写进AI的生成上下文",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-08-04T03:33:15.645920+00:00",
-      "source_date": "2026-08-04T03:03:51+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6439390.html",
-      "title": "从飞书 Skill 到项目管理平台实践：重新理解 Agent、GUI 与 Skill 的分工",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-08-04T03:33:15.645955+00:00",
-      "source_date": "2026-08-04T01:59:26+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/concrete-wood-greenery-perkins-will-residential-tower-sao-paulo-casa-arbo/",
-      "title": "Perkins&will 的住宅塔楼位于圣保罗，周围环绕着混凝土、木材和绿色植物",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-08-04T03:33:17.137687+00:00",
-      "source_date": "2026-08-03T20:35:01+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/technology/augment-360-folding-electric-moped-compact-ev/",
-      "title": "Augment 360：这款折叠电动助力车可以跟随骑手进入电梯",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-08-04T03:33:18.592709+00:00",
-      "source_date": "2026-08-03T15:55:45+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/technology/digital-camouflage-computational-noise-wearable-shield-ai-surveillance-simon-weckert/",
-      "title": "数码迷彩将计算噪音变成可穿戴的盾牌以抵御人工智能监视",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-08-04T03:33:19.487890+00:00",
-      "source_date": "2026-08-03T04:45:53+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://medium.com/@shilpamehta.in/accessibility-was-never-part-of-my-plan-ea112f770f32?source=rss------user_experience-5",
-      "title": "可访问性从来不是我计划的一部分",
-      "source": "Medium · User Experience",
-      "language": "en",
-      "published_at": "2026-08-04T03:33:21.966655+00:00",
-      "source_date": "2026-08-04T03:17:19+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1182098/the-fundacio-mies-van-der-rohe-opens-the-call-for-entries-for-the-5th-lilly-reich-grant-for-equality-in-architecture",
-      "title": "密斯凡德罗基金会开始征集第五届礼来帝国建筑平等奖的参赛作品",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-08-04T03:33:23.294525+00:00",
-      "source_date": "2026-08-03T09:10:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ucd/6439321.html",
-      "title": "自然交流设计-多模态交互·上篇",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-08-04T03:33:23.294570+00:00",
-      "source_date": "2026-08-04T01:44:03+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.nngroup.com/news/item/people-culture-generalist-remote/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "职位空缺：人与文化通才（远程，美国）",
-      "source": "Nielsen Norman Group",
-      "language": "en",
-      "published_at": "2026-08-04T03:33:25.738338+00:00",
-      "source_date": "2026-08-01T19:25:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/franck-bohbot-vienna-state-opera-curtain-rises/",
-      "title": "弗兰克·博博特 (Franck Bohbot) 在维也纳国家歌剧院拉开帷幕之前捕捉到了这场演出",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-08-04T03:33:26.780647+00:00",
-      "source_date": "2026-08-03T09:25:02+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/design/slice-discarded-tennis-balls-wearable-shoes-soroosh-riazi-isfahani/",
-      "title": "切开并重建，废弃的网球变成了可穿的鞋子",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-08-04T03:33:27.661270+00:00",
-      "source_date": "2026-08-04T02:20:46+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/design/recycled-aerospace-steel-rammed-earth-homeware-collection-life-mars-roc-h-biel-martian-relics/",
-      "title": "回收的航空航天钢和夯土形状的家居用品系列，适合火星生活",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-08-04T03:33:28.474595+00:00",
-      "source_date": "2026-08-03T14:25:59+00:00",
       "full_text": true
     }
   ]
