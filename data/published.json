@@ -2,6 +2,186 @@
   "retention_days": 180,
   "articles": [
     {
+      "url": "https://www.nngroup.com/articles/usability-testing-101/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+      "title": "Usability Testing 101",
+      "source": "Nielsen Norman Group",
+      "language": "en",
+      "published_at": "2026-11-28T07:40:54.623669+00:00",
+      "source_date": "2026-11-27T17:00:00+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/zhichang/6501777.html",
+      "title": "OpenAI 和 Anthropic 在招什么样的营销人才？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-28T07:40:54.623779+00:00",
+      "source_date": "2026-11-28T03:11:31+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://uxdesign.cc/how-do-i-use-ai-as-a-solo-designer-956a3954614e?source=rss----138adf9c44c---4",
+      "title": "How I use AI as a solo designer",
+      "source": "UX Collective",
+      "language": "en",
+      "published_at": "2026-11-28T07:41:32.686202+00:00",
+      "source_date": "2026-11-27T11:22:26+00:00",
+      "full_text": false
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/27/fotorgears-209-retro-camera-brings-back-the-waist-level-viewfinder-with-a-13mp-sony-sensor/?utm_source=rss&utm_medium=rss&utm_campaign=fotorgears-209-retro-camera-brings-back-the-waist-level-viewfinder-with-a-13mp-sony-sensor",
+      "title": "FotorGear’s $209 Retro Camera brings back the waist-level viewfinder with a 13MP Sony sensor",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-28T07:43:27.521284+00:00",
+      "source_date": "2026-11-28T00:30:55+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/27/cork-puzzle-lamps-refuse-to-hide-their-joinery/?utm_source=rss&utm_medium=rss&utm_campaign=cork-puzzle-lamps-refuse-to-hide-their-joinery",
+      "title": "Cork Puzzle Lamps Refuse to Hide Their Joinery",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-28T07:45:03.380227+00:00",
+      "source_date": "2026-11-27T22:30:10+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/27/sonys-abandoned-ps3-boomerang-controller-finally-reincarnates-as-a-working-gamepad-20-years-later/?utm_source=rss&utm_medium=rss&utm_campaign=sonys-abandoned-ps3-boomerang-controller-finally-reincarnates-as-a-working-gamepad-20-years-later",
+      "title": "Sony’s Abandoned PS3 Boomerang controller finally reincarnates as a working gamepad 20 years later",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-28T07:46:39.274275+00:00",
+      "source_date": "2026-11-27T19:20:20+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/27/this-249-magsafe-keyboard-with-wide-trackpad-turns-apples-iphone-duo-into-a-functional-laptop/?utm_source=rss&utm_medium=rss&utm_campaign=this-249-magsafe-keyboard-with-wide-trackpad-turns-apples-iphone-duo-into-a-functional-laptop",
+      "title": "This $249 MagSafe keyboard with wide trackpad turns Apple’s iPhone Duo into a functional laptop",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-28T07:47:55.762314+00:00",
+      "source_date": "2026-11-27T16:20:57+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/27/10-best-tech-accessories-gadgets-that-add-personality-to-any-space-in-november-2026/?utm_source=rss&utm_medium=rss&utm_campaign=10-best-tech-accessories-gadgets-that-add-personality-to-any-space-in-november-2026",
+      "title": "10 Best Tech Accessories & Gadgets That Add Personality To Any Space In November 2026",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-28T07:51:45.706668+00:00",
+      "source_date": "2026-11-27T23:30:36+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6501946.html",
+      "title": "用 AI 做视频，我把 Claude Opus 的能力塞进了这个 SKILL！",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-28T07:51:45.706759+00:00",
+      "source_date": "2026-11-28T03:52:43+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6501928.html",
+      "title": "Claude Artifacts放大招：支持一键安装为Mac和Windows桌面应用",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-28T07:51:45.706786+00:00",
+      "source_date": "2026-11-28T03:51:27+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6501916.html",
+      "title": "Claude Opus 5.6做出了史上最牛的PPT，直接杀死比赛？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-28T07:51:45.706811+00:00",
+      "source_date": "2026-11-28T03:16:34+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/27/segways-parent-company-designed-a-tron-light-cycle-with-a-roof-and-a-recliner/?utm_source=rss&utm_medium=rss&utm_campaign=segways-parent-company-designed-a-tron-light-cycle-with-a-roof-and-a-recliner",
+      "title": "Segway’s parent company designed a TRON Light Cycle with a roof and a recliner",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-28T07:53:21.306861+00:00",
+      "source_date": "2026-11-27T20:20:20+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@karenyalin/ui-ux-%E7%94%A2%E5%93%81%E8%A8%AD%E8%A8%88%E5%B8%AB%E6%8F%90%E4%BE%9B%E7%A8%8B%E5%BC%8F%E7%A2%BC-prototype-%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB%E9%82%84%E9%9C%80%E8%A6%81%E9%87%8D%E5%AF%AB-%E9%80%99%E7%9C%9F%E7%9A%84%E6%98%AF%E5%95%8F%E9%A1%8C%E5%97%8E-959a356ead80?source=rss------product_design-5",
+      "title": "UI/UX 產品設計師提供程式碼 Prototype，前端工程師還需要重寫？這真的是問題嗎？",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-11-28T07:53:21.308031+00:00",
+      "source_date": "2026-11-28T07:07:53+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6502072.html",
+      "title": "上线34个AI场景的“怀化陆港”：最值钱的不是AI，是底层的“统一词元”",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-28T07:53:21.308061+00:00",
+      "source_date": "2026-11-28T07:13:03+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/share/6501940.html",
+      "title": "AI短剧，正把游戏踹下吸金王座",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-28T07:53:21.308083+00:00",
+      "source_date": "2026-11-28T03:53:06+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://medium.com/@dryuueu/tpe-or-silicone-understanding-male-masturbator-materials-ccc832fd9e66?source=rss------product_design-5",
+      "title": "TPE or Silicone? Understanding Male Masturbator Materials",
+      "source": "Medium · Product Design",
+      "language": "en",
+      "published_at": "2026-11-28T07:54:37.908131+00:00",
+      "source_date": "2026-11-28T05:36:29+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/27/densitys-x3-powerhub-nano-charges-two-usb-c-laptops-from-one-battery/?utm_source=rss&utm_medium=rss&utm_campaign=densitys-x3-powerhub-nano-charges-two-usb-c-laptops-from-one-battery",
+      "title": "Density’s X3 PowerHub Nano Charges Two USB-C Laptops From One Battery",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-28T07:56:13.628142+00:00",
+      "source_date": "2026-11-27T18:20:09+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/27/a-bathroom-cabinet-that-glows-without-a-light-bulb/?utm_source=rss&utm_medium=rss&utm_campaign=a-bathroom-cabinet-that-glows-without-a-light-bulb",
+      "title": "A Bathroom Cabinet That Glows Without a Light Bulb",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-28T07:57:49.405600+00:00",
+      "source_date": "2026-11-27T15:20:39+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.yankodesign.com/2026/11/27/5-best-outdoor-gear-of-november-2026/?utm_source=rss&utm_medium=rss&utm_campaign=5-best-outdoor-gear-of-november-2026",
+      "title": "5 Best Outdoor Gear of November 2026",
+      "source": "Yanko Design",
+      "language": "en",
+      "published_at": "2026-11-28T08:00:04.039975+00:00",
+      "source_date": "2026-11-27T12:40:54+00:00",
+      "full_text": true
+    },
+    {
+      "url": "https://www.woshipm.com/ai/6502036.html",
+      "title": "DeepSeek能帮知乎翻身吗？",
+      "source": "人人都是产品经理",
+      "language": "zh",
+      "published_at": "2026-11-28T08:00:04.040018+00:00",
+      "source_date": "2026-11-28T04:28:49+00:00",
+      "full_text": true
+    },
+    {
       "url": "https://www.woshipm.com/chuangye/6501115.html",
       "title": "融资 1750 万美金，这家 35 人的 AI 媒体靠不到 1 万付费用户拿到 1.1 亿美金估值",
       "source": "人人都是产品经理",
@@ -17819,186 +17999,6 @@
       "language": "en",
       "published_at": "2026-08-09T02:26:41.224206+00:00",
       "source_date": "2026-08-08T14:15:20+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/design/play-function-luca-boscardin-toys-cities-spaces-imagination-interview/",
-      "title": "“游戏本身就是一种功能”：卢卡·博斯卡丁谈设计玩具、城市和想象力空间",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-08-09T02:26:50.574348+00:00",
-      "source_date": "2026-08-08T07:45:35+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1182128/ubc-biodiversity-centre-addition-public-architecture-plus-design",
-      "title": "UBC 生物多样性中心扩建 / 公共建筑 + 设计",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-08-09T02:26:53.070963+00:00",
-      "source_date": "2026-08-08T11:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6442536.html",
-      "title": "AI 产品的下一道分水岭：从展示能力到稳定交付结果",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-08-09T02:26:53.071006+00:00",
-      "source_date": "2026-08-08T07:33:25+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1182346/coral-barn-alvorada-house-nildo-jose-arquitetos",
-      "title": "珊瑚谷仓阿尔沃拉达住宅 / Nildo José Arquitetos",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-08-09T02:26:58.361998+00:00",
-      "source_date": "2026-08-07T13:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://medium.com/@junaidmaniyar/the-ux-of-truth-why-data-visualization-is-your-most-powerful-strategic-asset-22a3d0898314?source=rss------user_experience-5",
-      "title": "真相的用户体验：为什么数据可视化是您最强大的战略资产",
-      "source": "Medium · User Experience",
-      "language": "en",
-      "published_at": "2026-08-09T02:27:00.620027+00:00",
-      "source_date": "2026-08-08T10:41:43+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1182356/beijing-named-world-capital-of-architecture-2029-by-unesco-uia",
-      "title": "北京被联合国教科文组织-UIA评为2029年世界建筑之都",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-08-09T02:27:05.420643+00:00",
-      "source_date": "2026-08-07T05:30:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1182196/shin-nakano-residence-ryuichi-sasaki-plus-sasaki-architecture",
-      "title": "新中野住宅 / 佐佐木龙一 + Sasaki Architecture",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-08-09T02:27:07.351409+00:00",
-      "source_date": "2026-08-08T17:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1182438/ubc-sheng-wu-duo-yang-xing-zhong-xin-kuo-jian-xiang-mu-public-architecture-plus-design",
-      "title": "UBC 生物多样性中心扩建项目 / Public Architecture + Design",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-08-09T02:27:07.351446+00:00",
-      "source_date": "2026-08-08T11:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6442626.html",
-      "title": "AI 能秒级出报表，为什么业务还是来不及？",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-08-09T02:27:07.351471+00:00",
-      "source_date": "2026-08-08T07:37:30+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/pd/6442449.html",
-      "title": "别把产品放在同一个篮子里！读懂IPD产品规划",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-08-09T02:27:07.351490+00:00",
-      "source_date": "2026-08-08T07:26:22+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.com/1182099/four-roof-house-tw-ryan-architecture",
-      "title": "四屋顶住宅 / TW Ryan Architecture",
-      "source": "ArchDaily",
-      "language": "en",
-      "published_at": "2026-08-09T02:27:09.024137+00:00",
-      "source_date": "2026-08-07T12:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.archdaily.cn/zh/1182377/kramy-zhou-mo-zhu-zhai-anna-koukolova-architekti",
-      "title": "Krámy 周末住宅 / Anna Koukolová architekti",
-      "source": "ArchDaily 中文",
-      "language": "zh",
-      "published_at": "2026-08-09T02:27:09.024178+00:00",
-      "source_date": "2026-08-07T15:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.nngroup.com/articles/dogfooding/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
-      "title": "Dogfooding、QA 与用户研究",
-      "source": "Nielsen Norman Group",
-      "language": "en",
-      "published_at": "2026-08-08T02:18:42.089520+00:00",
-      "source_date": "2026-08-07T17:00:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/readers/urban-living-library-fragmented-city-spaces-biodiverse-ecological-corridors-fengyi-wu/",
-      "title": "城市生活图书馆将碎片化的城市空间转变为生物多样性的生态走廊",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-08-08T02:18:43.893729+00:00",
-      "source_date": "2026-08-07T23:55:26+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/technology/a-pq-31-37-suspended-open-baffle-loudspeaker-system-concrete-canvas-hagar-guri/",
-      "title": "A-PQ 31.37：由混凝土帆布制成的悬挂式开放式挡板扬声器系统",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-08-08T02:18:45.058180+00:00",
-      "source_date": "2026-08-07T09:25:06+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/dark-timber-aa-house-traditional-barn-form-polish-pine-forest-rasztawicki-bielinski/",
-      "title": "深色木材 A&A 住宅重新诠释了波兰松树林中的传统谷仓形式",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-08-08T02:18:45.706584+00:00",
-      "source_date": "2026-08-08T02:10:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/readers/clideo-video-editor-fashion-films-visual-stories/",
-      "title": "运动中的时尚：clideo 视频编辑器将时尚电影转化为视觉故事",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-08-08T02:18:46.597789+00:00",
-      "source_date": "2026-08-07T13:00:19+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.designboom.com/architecture/planted-terraces-vertically-organized-house-anonym-studio-bangkok/",
-      "title": "曼谷匿名工作室设计的种植露台勾勒出垂直组织的房屋",
-      "source": "designboom",
-      "language": "en",
-      "published_at": "2026-08-08T02:18:47.256589+00:00",
-      "source_date": "2026-08-07T18:10:04+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/share/6442239.html",
-      "title": "日本新世代”友情婚”社交产品 MITRA 正在兴起",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-08-08T02:18:47.256635+00:00",
-      "source_date": "2026-08-07T02:05:00+00:00",
-      "full_text": true
-    },
-    {
-      "url": "https://www.woshipm.com/ai/6442109.html",
-      "title": "输入法牌桌，要被豆包和千问掀了？",
-      "source": "人人都是产品经理",
-      "language": "zh",
-      "published_at": "2026-08-08T02:18:47.256660+00:00",
-      "source_date": "2026-08-07T01:27:10+00:00",
       "full_text": true
     }
   ]
